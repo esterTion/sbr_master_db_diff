@@ -1,0 +1,50 @@
+[
+  {
+    "id":1, "name":"ダークドラグーン", "music_id":102, "stamina_cost":5, "max_hp":2000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3101, "win_artist_exp":120, "win_myumon_exp":120, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":2, "name":"ダークドラグーン", "music_id":602, "stamina_cost":5, "max_hp":3000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3102, "win_artist_exp":180, "win_myumon_exp":180, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":3, "name":"ダークドラグーン", "music_id":209, "stamina_cost":5, "max_hp":4000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3103, "win_artist_exp":240, "win_myumon_exp":240, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":4, "name":"ダークドラグーン", "music_id":703, "stamina_cost":5, "max_hp":5000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3104, "win_artist_exp":300, "win_myumon_exp":300, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":5, "name":"ダークドラグーン", "music_id":405, "stamina_cost":5, "max_hp":6000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3105, "win_artist_exp":360, "win_myumon_exp":360, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":6, "name":"ダークドラグーン", "music_id":502, "stamina_cost":5, "max_hp":8000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3106, "win_artist_exp":480, "win_myumon_exp":480, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":7, "name":"ダークドラグーン", "music_id":102, "stamina_cost":5, "max_hp":9000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3107, "win_artist_exp":540, "win_myumon_exp":540, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":8, "name":"ダークドラグーン", "music_id":602, "stamina_cost":5, "max_hp":10000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3108, "win_artist_exp":600, "win_myumon_exp":600, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":9, "name":"ダークドラグーン", "music_id":209, "stamina_cost":5, "max_hp":12000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3109, "win_artist_exp":720, "win_myumon_exp":720, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":10, "name":"ダークドラグーン", "music_id":703, "stamina_cost":5, "max_hp":15000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3110, "win_artist_exp":900, "win_myumon_exp":900, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":11, "name":"ダークドラグーン", "music_id":302, "stamina_cost":5, "max_hp":20000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3111, "win_artist_exp":1200, "win_myumon_exp":1200, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":12, "name":"ダークドラグーン", "music_id":803, "stamina_cost":5, "max_hp":25000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "win_reward_no":3112, "win_artist_exp":1500, "win_myumon_exp":1500, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":1010204, "name":"ダークドラグーン", "music_id":201, "stamina_cost":5, "max_hp":500, "can_support":false, "can_publish":false, "limit_hours":69, "limit_attack_count":10, "win_reward_no":3001, "win_artist_exp":30, "win_myumon_exp":30, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":1020304, "name":"ダークドラグーン", "music_id":701, "stamina_cost":5, "max_hp":5000, "can_support":false, "can_publish":false, "limit_hours":69, "limit_attack_count":10, "win_reward_no":3002, "win_artist_exp":300, "win_myumon_exp":300, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":1020403, "name":"ダークドラグーン", "music_id":101, "stamina_cost":5, "max_hp":5000, "can_support":false, "can_publish":false, "limit_hours":69, "limit_attack_count":10, "win_reward_no":3003, "win_artist_exp":300, "win_myumon_exp":300, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":2010103, "name":"ダークドラグーン", "music_id":201, "stamina_cost":5, "max_hp":2000, "can_support":false, "can_publish":false, "limit_hours":69, "limit_attack_count":10, "win_reward_no":3004, "win_artist_exp":120, "win_myumon_exp":120, "win_event_point":0, "asset_id":1
+  }
+]

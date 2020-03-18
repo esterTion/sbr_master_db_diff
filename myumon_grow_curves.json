@@ -1,0 +1,1862 @@
+[
+  {
+    "id":1, "group_no":1, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":2, "group_no":1, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":15, "melody":15, "harmony":15
+  },
+  {
+    "id":3, "group_no":1, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":30, "melody":30, "harmony":30
+  },
+  {
+    "id":4, "group_no":1, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":45, "melody":45, "harmony":45
+  },
+  {
+    "id":5, "group_no":1, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":60, "melody":60, "harmony":60
+  },
+  {
+    "id":6, "group_no":1, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":75, "melody":75, "harmony":75
+  },
+  {
+    "id":7, "group_no":1, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":90, "melody":90, "harmony":90
+  },
+  {
+    "id":8, "group_no":1, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":105, "melody":105, "harmony":105
+  },
+  {
+    "id":9, "group_no":1, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":120, "melody":120, "harmony":120
+  },
+  {
+    "id":10, "group_no":1, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":135, "melody":135, "harmony":135
+  },
+  {
+    "id":11, "group_no":1, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":150, "melody":150, "harmony":150
+  },
+  {
+    "id":12, "group_no":1, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":165, "melody":165, "harmony":165
+  },
+  {
+    "id":13, "group_no":1, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":180, "melody":180, "harmony":180
+  },
+  {
+    "id":14, "group_no":1, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":195, "melody":195, "harmony":195
+  },
+  {
+    "id":15, "group_no":1, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":210, "melody":210, "harmony":210
+  },
+  {
+    "id":16, "group_no":1, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":225, "melody":225, "harmony":225
+  },
+  {
+    "id":17, "group_no":1, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":240, "melody":240, "harmony":240
+  },
+  {
+    "id":18, "group_no":1, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":255, "melody":255, "harmony":255
+  },
+  {
+    "id":19, "group_no":1, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":270, "melody":270, "harmony":270
+  },
+  {
+    "id":20, "group_no":1, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":285, "melody":285, "harmony":285
+  },
+  {
+    "id":21, "group_no":1, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":300, "melody":300, "harmony":300
+  },
+  {
+    "id":22, "group_no":1, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":315, "melody":315, "harmony":315
+  },
+  {
+    "id":23, "group_no":1, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":330, "melody":330, "harmony":330
+  },
+  {
+    "id":24, "group_no":1, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":345, "melody":345, "harmony":345
+  },
+  {
+    "id":25, "group_no":1, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":360, "melody":360, "harmony":360
+  },
+  {
+    "id":26, "group_no":1, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":375, "melody":375, "harmony":375
+  },
+  {
+    "id":27, "group_no":1, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":390, "melody":390, "harmony":390
+  },
+  {
+    "id":28, "group_no":1, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":405, "melody":405, "harmony":405
+  },
+  {
+    "id":29, "group_no":1, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":420, "melody":420, "harmony":420
+  },
+  {
+    "id":30, "group_no":1, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":435, "melody":435, "harmony":435
+  },
+  {
+    "id":31, "group_no":1, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":450, "melody":450, "harmony":450
+  },
+  {
+    "id":32, "group_no":1, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":465, "melody":465, "harmony":465
+  },
+  {
+    "id":33, "group_no":1, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":480, "melody":480, "harmony":480
+  },
+  {
+    "id":34, "group_no":1, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":495, "melody":495, "harmony":495
+  },
+  {
+    "id":35, "group_no":1, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":510, "melody":510, "harmony":510
+  },
+  {
+    "id":36, "group_no":1, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":525, "melody":525, "harmony":525
+  },
+  {
+    "id":37, "group_no":1, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":540, "melody":540, "harmony":540
+  },
+  {
+    "id":38, "group_no":1, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":555, "melody":555, "harmony":555
+  },
+  {
+    "id":39, "group_no":1, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":570, "melody":570, "harmony":570
+  },
+  {
+    "id":40, "group_no":1, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":585, "melody":585, "harmony":585
+  },
+  {
+    "id":41, "group_no":1, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":600, "melody":600, "harmony":600
+  },
+  {
+    "id":42, "group_no":1, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":615, "melody":615, "harmony":615
+  },
+  {
+    "id":43, "group_no":1, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":630, "melody":630, "harmony":630
+  },
+  {
+    "id":44, "group_no":1, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":645, "melody":645, "harmony":645
+  },
+  {
+    "id":45, "group_no":1, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":660, "melody":660, "harmony":660
+  },
+  {
+    "id":46, "group_no":1, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":675, "melody":675, "harmony":675
+  },
+  {
+    "id":47, "group_no":1, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":690, "melody":690, "harmony":690
+  },
+  {
+    "id":48, "group_no":1, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":705, "melody":705, "harmony":705
+  },
+  {
+    "id":49, "group_no":1, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":720, "melody":720, "harmony":720
+  },
+  {
+    "id":50, "group_no":1, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":735, "melody":735, "harmony":735
+  },
+  {
+    "id":51, "group_no":1, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":750, "melody":750, "harmony":750
+  },
+  {
+    "id":52, "group_no":1, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":765, "melody":765, "harmony":765
+  },
+  {
+    "id":53, "group_no":1, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":780, "melody":780, "harmony":780
+  },
+  {
+    "id":54, "group_no":1, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":795, "melody":795, "harmony":795
+  },
+  {
+    "id":55, "group_no":1, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":810, "melody":810, "harmony":810
+  },
+  {
+    "id":56, "group_no":1, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":825, "melody":825, "harmony":825
+  },
+  {
+    "id":57, "group_no":1, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":840, "melody":840, "harmony":840
+  },
+  {
+    "id":58, "group_no":1, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":855, "melody":855, "harmony":855
+  },
+  {
+    "id":59, "group_no":1, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":870, "melody":870, "harmony":870
+  },
+  {
+    "id":60, "group_no":1, "level":60, "exp_start":560000, "exp_end":588464, "life":180, "rhythm":885, "melody":885, "harmony":885
+  },
+  {
+    "id":61, "group_no":1, "level":61, "exp_start":588465, "exp_end":617878, "life":183, "rhythm":900, "melody":900, "harmony":900
+  },
+  {
+    "id":62, "group_no":1, "level":62, "exp_start":617879, "exp_end":648256, "life":186, "rhythm":915, "melody":915, "harmony":915
+  },
+  {
+    "id":63, "group_no":1, "level":63, "exp_start":648257, "exp_end":679614, "life":189, "rhythm":930, "melody":930, "harmony":930
+  },
+  {
+    "id":64, "group_no":1, "level":64, "exp_start":679615, "exp_end":711967, "life":192, "rhythm":945, "melody":945, "harmony":945
+  },
+  {
+    "id":65, "group_no":1, "level":65, "exp_start":711968, "exp_end":745332, "life":195, "rhythm":960, "melody":960, "harmony":960
+  },
+  {
+    "id":66, "group_no":1, "level":66, "exp_start":745333, "exp_end":779722, "life":198, "rhythm":975, "melody":975, "harmony":975
+  },
+  {
+    "id":67, "group_no":1, "level":67, "exp_start":779723, "exp_end":815155, "life":201, "rhythm":990, "melody":990, "harmony":990
+  },
+  {
+    "id":68, "group_no":1, "level":68, "exp_start":815156, "exp_end":851645, "life":204, "rhythm":1005, "melody":1005, "harmony":1005
+  },
+  {
+    "id":69, "group_no":1, "level":69, "exp_start":851646, "exp_end":889208, "life":207, "rhythm":1020, "melody":1020, "harmony":1020
+  },
+  {
+    "id":70, "group_no":1, "level":70, "exp_start":889209, "exp_end":927860, "life":210, "rhythm":1035, "melody":1035, "harmony":1035
+  },
+  {
+    "id":71, "group_no":1, "level":71, "exp_start":927861, "exp_end":967616, "life":213, "rhythm":1050, "melody":1050, "harmony":1050
+  },
+  {
+    "id":72, "group_no":1, "level":72, "exp_start":967617, "exp_end":1008492, "life":216, "rhythm":1065, "melody":1065, "harmony":1065
+  },
+  {
+    "id":73, "group_no":1, "level":73, "exp_start":1008493, "exp_end":1050503, "life":219, "rhythm":1080, "melody":1080, "harmony":1080
+  },
+  {
+    "id":74, "group_no":1, "level":74, "exp_start":1050504, "exp_end":1093665, "life":222, "rhythm":1095, "melody":1095, "harmony":1095
+  },
+  {
+    "id":75, "group_no":1, "level":75, "exp_start":1093666, "exp_end":1137993, "life":225, "rhythm":1110, "melody":1110, "harmony":1110
+  },
+  {
+    "id":76, "group_no":1, "level":76, "exp_start":1137994, "exp_end":1183504, "life":228, "rhythm":1125, "melody":1125, "harmony":1125
+  },
+  {
+    "id":77, "group_no":1, "level":77, "exp_start":1183505, "exp_end":1230212, "life":231, "rhythm":1140, "melody":1140, "harmony":1140
+  },
+  {
+    "id":78, "group_no":1, "level":78, "exp_start":1230213, "exp_end":1278133, "life":234, "rhythm":1155, "melody":1155, "harmony":1155
+  },
+  {
+    "id":79, "group_no":1, "level":79, "exp_start":1278134, "exp_end":1327282, "life":237, "rhythm":1170, "melody":1170, "harmony":1170
+  },
+  {
+    "id":80, "group_no":1, "level":80, "exp_start":1327283, "exp_end":1377676, "life":240, "rhythm":1185, "melody":1185, "harmony":1185
+  },
+  {
+    "id":11001, "group_no":11, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":11002, "group_no":11, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":20, "melody":11, "harmony":14
+  },
+  {
+    "id":11003, "group_no":11, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":41, "melody":23, "harmony":26
+  },
+  {
+    "id":11004, "group_no":11, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":61, "melody":34, "harmony":40
+  },
+  {
+    "id":11005, "group_no":11, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":81, "melody":45, "harmony":54
+  },
+  {
+    "id":11006, "group_no":11, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":101, "melody":56, "harmony":68
+  },
+  {
+    "id":11007, "group_no":11, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":122, "melody":68, "harmony":80
+  },
+  {
+    "id":11008, "group_no":11, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":142, "melody":79, "harmony":94
+  },
+  {
+    "id":11009, "group_no":11, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":162, "melody":90, "harmony":108
+  },
+  {
+    "id":11010, "group_no":11, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":182, "melody":101, "harmony":122
+  },
+  {
+    "id":11011, "group_no":11, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":203, "melody":113, "harmony":134
+  },
+  {
+    "id":11012, "group_no":11, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":223, "melody":124, "harmony":148
+  },
+  {
+    "id":11013, "group_no":11, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":243, "melody":135, "harmony":162
+  },
+  {
+    "id":11014, "group_no":11, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":263, "melody":146, "harmony":176
+  },
+  {
+    "id":11015, "group_no":11, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":284, "melody":158, "harmony":188
+  },
+  {
+    "id":11016, "group_no":11, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":304, "melody":169, "harmony":202
+  },
+  {
+    "id":11017, "group_no":11, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":324, "melody":180, "harmony":216
+  },
+  {
+    "id":11018, "group_no":11, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":344, "melody":191, "harmony":230
+  },
+  {
+    "id":11019, "group_no":11, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":365, "melody":203, "harmony":242
+  },
+  {
+    "id":11020, "group_no":11, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":385, "melody":214, "harmony":256
+  },
+  {
+    "id":11021, "group_no":11, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":405, "melody":225, "harmony":270
+  },
+  {
+    "id":11022, "group_no":11, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":425, "melody":236, "harmony":284
+  },
+  {
+    "id":11023, "group_no":11, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":446, "melody":248, "harmony":296
+  },
+  {
+    "id":11024, "group_no":11, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":466, "melody":259, "harmony":310
+  },
+  {
+    "id":11025, "group_no":11, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":486, "melody":270, "harmony":324
+  },
+  {
+    "id":11026, "group_no":11, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":506, "melody":281, "harmony":338
+  },
+  {
+    "id":11027, "group_no":11, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":527, "melody":293, "harmony":350
+  },
+  {
+    "id":11028, "group_no":11, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":547, "melody":304, "harmony":364
+  },
+  {
+    "id":11029, "group_no":11, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":567, "melody":315, "harmony":378
+  },
+  {
+    "id":11030, "group_no":11, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":587, "melody":326, "harmony":392
+  },
+  {
+    "id":11031, "group_no":11, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":608, "melody":338, "harmony":404
+  },
+  {
+    "id":11032, "group_no":11, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":628, "melody":349, "harmony":418
+  },
+  {
+    "id":11033, "group_no":11, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":648, "melody":360, "harmony":432
+  },
+  {
+    "id":11034, "group_no":11, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":668, "melody":371, "harmony":446
+  },
+  {
+    "id":11035, "group_no":11, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":689, "melody":383, "harmony":458
+  },
+  {
+    "id":11036, "group_no":11, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":709, "melody":394, "harmony":472
+  },
+  {
+    "id":11037, "group_no":11, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":729, "melody":405, "harmony":486
+  },
+  {
+    "id":11038, "group_no":11, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":749, "melody":416, "harmony":500
+  },
+  {
+    "id":11039, "group_no":11, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":770, "melody":428, "harmony":512
+  },
+  {
+    "id":11040, "group_no":11, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":790, "melody":439, "harmony":526
+  },
+  {
+    "id":11041, "group_no":11, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":810, "melody":450, "harmony":540
+  },
+  {
+    "id":11042, "group_no":11, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":830, "melody":461, "harmony":554
+  },
+  {
+    "id":11043, "group_no":11, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":851, "melody":473, "harmony":566
+  },
+  {
+    "id":11044, "group_no":11, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":871, "melody":484, "harmony":580
+  },
+  {
+    "id":11045, "group_no":11, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":891, "melody":495, "harmony":594
+  },
+  {
+    "id":11046, "group_no":11, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":911, "melody":506, "harmony":608
+  },
+  {
+    "id":11047, "group_no":11, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":932, "melody":518, "harmony":620
+  },
+  {
+    "id":11048, "group_no":11, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":952, "melody":529, "harmony":634
+  },
+  {
+    "id":11049, "group_no":11, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":972, "melody":540, "harmony":648
+  },
+  {
+    "id":11050, "group_no":11, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":992, "melody":551, "harmony":662
+  },
+  {
+    "id":11051, "group_no":11, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":1013, "melody":563, "harmony":674
+  },
+  {
+    "id":11052, "group_no":11, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":1033, "melody":574, "harmony":688
+  },
+  {
+    "id":11053, "group_no":11, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":1053, "melody":585, "harmony":702
+  },
+  {
+    "id":11054, "group_no":11, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":1073, "melody":596, "harmony":716
+  },
+  {
+    "id":11055, "group_no":11, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":1094, "melody":608, "harmony":728
+  },
+  {
+    "id":11056, "group_no":11, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":1114, "melody":619, "harmony":742
+  },
+  {
+    "id":11057, "group_no":11, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":1134, "melody":630, "harmony":756
+  },
+  {
+    "id":11058, "group_no":11, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":1154, "melody":641, "harmony":770
+  },
+  {
+    "id":11059, "group_no":11, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":1175, "melody":653, "harmony":782
+  },
+  {
+    "id":11060, "group_no":11, "level":60, "exp_start":560000, "exp_end":560001, "life":180, "rhythm":1195, "melody":664, "harmony":796
+  },
+  {
+    "id":12001, "group_no":12, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":12002, "group_no":12, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":11, "melody":20, "harmony":14
+  },
+  {
+    "id":12003, "group_no":12, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":23, "melody":41, "harmony":26
+  },
+  {
+    "id":12004, "group_no":12, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":34, "melody":61, "harmony":40
+  },
+  {
+    "id":12005, "group_no":12, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":45, "melody":81, "harmony":54
+  },
+  {
+    "id":12006, "group_no":12, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":56, "melody":101, "harmony":68
+  },
+  {
+    "id":12007, "group_no":12, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":68, "melody":122, "harmony":80
+  },
+  {
+    "id":12008, "group_no":12, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":79, "melody":142, "harmony":94
+  },
+  {
+    "id":12009, "group_no":12, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":90, "melody":162, "harmony":108
+  },
+  {
+    "id":12010, "group_no":12, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":101, "melody":182, "harmony":122
+  },
+  {
+    "id":12011, "group_no":12, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":113, "melody":203, "harmony":134
+  },
+  {
+    "id":12012, "group_no":12, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":124, "melody":223, "harmony":148
+  },
+  {
+    "id":12013, "group_no":12, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":135, "melody":243, "harmony":162
+  },
+  {
+    "id":12014, "group_no":12, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":146, "melody":263, "harmony":176
+  },
+  {
+    "id":12015, "group_no":12, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":158, "melody":284, "harmony":188
+  },
+  {
+    "id":12016, "group_no":12, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":169, "melody":304, "harmony":202
+  },
+  {
+    "id":12017, "group_no":12, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":180, "melody":324, "harmony":216
+  },
+  {
+    "id":12018, "group_no":12, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":191, "melody":344, "harmony":230
+  },
+  {
+    "id":12019, "group_no":12, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":203, "melody":365, "harmony":242
+  },
+  {
+    "id":12020, "group_no":12, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":214, "melody":385, "harmony":256
+  },
+  {
+    "id":12021, "group_no":12, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":225, "melody":405, "harmony":270
+  },
+  {
+    "id":12022, "group_no":12, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":236, "melody":425, "harmony":284
+  },
+  {
+    "id":12023, "group_no":12, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":248, "melody":446, "harmony":296
+  },
+  {
+    "id":12024, "group_no":12, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":259, "melody":466, "harmony":310
+  },
+  {
+    "id":12025, "group_no":12, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":270, "melody":486, "harmony":324
+  },
+  {
+    "id":12026, "group_no":12, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":281, "melody":506, "harmony":338
+  },
+  {
+    "id":12027, "group_no":12, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":293, "melody":527, "harmony":350
+  },
+  {
+    "id":12028, "group_no":12, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":304, "melody":547, "harmony":364
+  },
+  {
+    "id":12029, "group_no":12, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":315, "melody":567, "harmony":378
+  },
+  {
+    "id":12030, "group_no":12, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":326, "melody":587, "harmony":392
+  },
+  {
+    "id":12031, "group_no":12, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":338, "melody":608, "harmony":404
+  },
+  {
+    "id":12032, "group_no":12, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":349, "melody":628, "harmony":418
+  },
+  {
+    "id":12033, "group_no":12, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":360, "melody":648, "harmony":432
+  },
+  {
+    "id":12034, "group_no":12, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":371, "melody":668, "harmony":446
+  },
+  {
+    "id":12035, "group_no":12, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":383, "melody":689, "harmony":458
+  },
+  {
+    "id":12036, "group_no":12, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":394, "melody":709, "harmony":472
+  },
+  {
+    "id":12037, "group_no":12, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":405, "melody":729, "harmony":486
+  },
+  {
+    "id":12038, "group_no":12, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":416, "melody":749, "harmony":500
+  },
+  {
+    "id":12039, "group_no":12, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":428, "melody":770, "harmony":512
+  },
+  {
+    "id":12040, "group_no":12, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":439, "melody":790, "harmony":526
+  },
+  {
+    "id":12041, "group_no":12, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":450, "melody":810, "harmony":540
+  },
+  {
+    "id":12042, "group_no":12, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":461, "melody":830, "harmony":554
+  },
+  {
+    "id":12043, "group_no":12, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":473, "melody":851, "harmony":566
+  },
+  {
+    "id":12044, "group_no":12, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":484, "melody":871, "harmony":580
+  },
+  {
+    "id":12045, "group_no":12, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":495, "melody":891, "harmony":594
+  },
+  {
+    "id":12046, "group_no":12, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":506, "melody":911, "harmony":608
+  },
+  {
+    "id":12047, "group_no":12, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":518, "melody":932, "harmony":620
+  },
+  {
+    "id":12048, "group_no":12, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":529, "melody":952, "harmony":634
+  },
+  {
+    "id":12049, "group_no":12, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":540, "melody":972, "harmony":648
+  },
+  {
+    "id":12050, "group_no":12, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":551, "melody":992, "harmony":662
+  },
+  {
+    "id":12051, "group_no":12, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":563, "melody":1013, "harmony":674
+  },
+  {
+    "id":12052, "group_no":12, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":574, "melody":1033, "harmony":688
+  },
+  {
+    "id":12053, "group_no":12, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":585, "melody":1053, "harmony":702
+  },
+  {
+    "id":12054, "group_no":12, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":596, "melody":1073, "harmony":716
+  },
+  {
+    "id":12055, "group_no":12, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":608, "melody":1094, "harmony":728
+  },
+  {
+    "id":12056, "group_no":12, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":619, "melody":1114, "harmony":742
+  },
+  {
+    "id":12057, "group_no":12, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":630, "melody":1134, "harmony":756
+  },
+  {
+    "id":12058, "group_no":12, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":641, "melody":1154, "harmony":770
+  },
+  {
+    "id":12059, "group_no":12, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":653, "melody":1175, "harmony":782
+  },
+  {
+    "id":12060, "group_no":12, "level":60, "exp_start":560000, "exp_end":560001, "life":180, "rhythm":664, "melody":1195, "harmony":796
+  },
+  {
+    "id":13001, "group_no":13, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":13002, "group_no":13, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":14, "melody":11, "harmony":20
+  },
+  {
+    "id":13003, "group_no":13, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":27, "melody":23, "harmony":40
+  },
+  {
+    "id":13004, "group_no":13, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":41, "melody":34, "harmony":60
+  },
+  {
+    "id":13005, "group_no":13, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":54, "melody":45, "harmony":81
+  },
+  {
+    "id":13006, "group_no":13, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":68, "melody":56, "harmony":101
+  },
+  {
+    "id":13007, "group_no":13, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":81, "melody":68, "harmony":121
+  },
+  {
+    "id":13008, "group_no":13, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":95, "melody":79, "harmony":141
+  },
+  {
+    "id":13009, "group_no":13, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":108, "melody":90, "harmony":162
+  },
+  {
+    "id":13010, "group_no":13, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":122, "melody":101, "harmony":182
+  },
+  {
+    "id":13011, "group_no":13, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":135, "melody":113, "harmony":202
+  },
+  {
+    "id":13012, "group_no":13, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":149, "melody":124, "harmony":222
+  },
+  {
+    "id":13013, "group_no":13, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":162, "melody":135, "harmony":243
+  },
+  {
+    "id":13014, "group_no":13, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":176, "melody":146, "harmony":263
+  },
+  {
+    "id":13015, "group_no":13, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":189, "melody":158, "harmony":283
+  },
+  {
+    "id":13016, "group_no":13, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":203, "melody":169, "harmony":303
+  },
+  {
+    "id":13017, "group_no":13, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":216, "melody":180, "harmony":324
+  },
+  {
+    "id":13018, "group_no":13, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":230, "melody":191, "harmony":344
+  },
+  {
+    "id":13019, "group_no":13, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":243, "melody":203, "harmony":364
+  },
+  {
+    "id":13020, "group_no":13, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":257, "melody":214, "harmony":384
+  },
+  {
+    "id":13021, "group_no":13, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":270, "melody":225, "harmony":405
+  },
+  {
+    "id":13022, "group_no":13, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":284, "melody":236, "harmony":425
+  },
+  {
+    "id":13023, "group_no":13, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":297, "melody":248, "harmony":445
+  },
+  {
+    "id":13024, "group_no":13, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":311, "melody":259, "harmony":465
+  },
+  {
+    "id":13025, "group_no":13, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":324, "melody":270, "harmony":486
+  },
+  {
+    "id":13026, "group_no":13, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":338, "melody":281, "harmony":506
+  },
+  {
+    "id":13027, "group_no":13, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":351, "melody":293, "harmony":526
+  },
+  {
+    "id":13028, "group_no":13, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":365, "melody":304, "harmony":546
+  },
+  {
+    "id":13029, "group_no":13, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":378, "melody":315, "harmony":567
+  },
+  {
+    "id":13030, "group_no":13, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":392, "melody":326, "harmony":587
+  },
+  {
+    "id":13031, "group_no":13, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":405, "melody":338, "harmony":607
+  },
+  {
+    "id":13032, "group_no":13, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":419, "melody":349, "harmony":627
+  },
+  {
+    "id":13033, "group_no":13, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":432, "melody":360, "harmony":648
+  },
+  {
+    "id":13034, "group_no":13, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":446, "melody":371, "harmony":668
+  },
+  {
+    "id":13035, "group_no":13, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":459, "melody":383, "harmony":688
+  },
+  {
+    "id":13036, "group_no":13, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":473, "melody":394, "harmony":708
+  },
+  {
+    "id":13037, "group_no":13, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":486, "melody":405, "harmony":729
+  },
+  {
+    "id":13038, "group_no":13, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":500, "melody":416, "harmony":749
+  },
+  {
+    "id":13039, "group_no":13, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":513, "melody":428, "harmony":769
+  },
+  {
+    "id":13040, "group_no":13, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":527, "melody":439, "harmony":789
+  },
+  {
+    "id":13041, "group_no":13, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":540, "melody":450, "harmony":810
+  },
+  {
+    "id":13042, "group_no":13, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":554, "melody":461, "harmony":830
+  },
+  {
+    "id":13043, "group_no":13, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":567, "melody":473, "harmony":850
+  },
+  {
+    "id":13044, "group_no":13, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":581, "melody":484, "harmony":870
+  },
+  {
+    "id":13045, "group_no":13, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":594, "melody":495, "harmony":891
+  },
+  {
+    "id":13046, "group_no":13, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":608, "melody":506, "harmony":911
+  },
+  {
+    "id":13047, "group_no":13, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":621, "melody":518, "harmony":931
+  },
+  {
+    "id":13048, "group_no":13, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":635, "melody":529, "harmony":951
+  },
+  {
+    "id":13049, "group_no":13, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":648, "melody":540, "harmony":972
+  },
+  {
+    "id":13050, "group_no":13, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":662, "melody":551, "harmony":992
+  },
+  {
+    "id":13051, "group_no":13, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":675, "melody":563, "harmony":1012
+  },
+  {
+    "id":13052, "group_no":13, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":689, "melody":574, "harmony":1032
+  },
+  {
+    "id":13053, "group_no":13, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":702, "melody":585, "harmony":1053
+  },
+  {
+    "id":13054, "group_no":13, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":716, "melody":596, "harmony":1073
+  },
+  {
+    "id":13055, "group_no":13, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":729, "melody":608, "harmony":1093
+  },
+  {
+    "id":13056, "group_no":13, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":743, "melody":619, "harmony":1113
+  },
+  {
+    "id":13057, "group_no":13, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":756, "melody":630, "harmony":1134
+  },
+  {
+    "id":13058, "group_no":13, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":770, "melody":641, "harmony":1154
+  },
+  {
+    "id":13059, "group_no":13, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":783, "melody":653, "harmony":1174
+  },
+  {
+    "id":13060, "group_no":13, "level":60, "exp_start":560000, "exp_end":560001, "life":180, "rhythm":797, "melody":664, "harmony":1194
+  },
+  {
+    "id":21001, "group_no":21, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":21002, "group_no":21, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":12, "melody":7, "harmony":8
+  },
+  {
+    "id":21003, "group_no":21, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":20, "melody":11, "harmony":14
+  },
+  {
+    "id":21004, "group_no":21, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":28, "melody":16, "harmony":19
+  },
+  {
+    "id":21005, "group_no":21, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":38, "melody":21, "harmony":25
+  },
+  {
+    "id":21006, "group_no":21, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":47, "melody":26, "harmony":32
+  },
+  {
+    "id":21007, "group_no":21, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":57, "melody":32, "harmony":37
+  },
+  {
+    "id":21008, "group_no":21, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":68, "melody":38, "harmony":44
+  },
+  {
+    "id":21009, "group_no":21, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":78, "melody":44, "harmony":52
+  },
+  {
+    "id":21010, "group_no":21, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":90, "melody":50, "harmony":61
+  },
+  {
+    "id":21011, "group_no":21, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":103, "melody":57, "harmony":68
+  },
+  {
+    "id":21012, "group_no":21, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":116, "melody":65, "harmony":77
+  },
+  {
+    "id":21013, "group_no":21, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":130, "melody":72, "harmony":86
+  },
+  {
+    "id":21014, "group_no":21, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":144, "melody":80, "harmony":97
+  },
+  {
+    "id":21015, "group_no":21, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":161, "melody":89, "harmony":107
+  },
+  {
+    "id":21016, "group_no":21, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":177, "melody":98, "harmony":118
+  },
+  {
+    "id":21017, "group_no":21, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":194, "melody":108, "harmony":130
+  },
+  {
+    "id":21018, "group_no":21, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":212, "melody":118, "harmony":141
+  },
+  {
+    "id":21019, "group_no":21, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":232, "melody":129, "harmony":155
+  },
+  {
+    "id":21020, "group_no":21, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":251, "melody":140, "harmony":167
+  },
+  {
+    "id":21021, "group_no":21, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":273, "melody":152, "harmony":181
+  },
+  {
+    "id":21022, "group_no":21, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":294, "melody":164, "harmony":196
+  },
+  {
+    "id":21023, "group_no":21, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":317, "melody":176, "harmony":212
+  },
+  {
+    "id":21024, "group_no":21, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":340, "melody":189, "harmony":227
+  },
+  {
+    "id":21025, "group_no":21, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":365, "melody":203, "harmony":242
+  },
+  {
+    "id":21026, "group_no":21, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":389, "melody":216, "harmony":259
+  },
+  {
+    "id":21027, "group_no":21, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":413, "melody":230, "harmony":275
+  },
+  {
+    "id":21028, "group_no":21, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":439, "melody":244, "harmony":292
+  },
+  {
+    "id":21029, "group_no":21, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":466, "melody":259, "harmony":310
+  },
+  {
+    "id":21030, "group_no":21, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":491, "melody":273, "harmony":328
+  },
+  {
+    "id":21031, "group_no":21, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":518, "melody":288, "harmony":346
+  },
+  {
+    "id":21032, "group_no":21, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":545, "melody":303, "harmony":364
+  },
+  {
+    "id":21033, "group_no":21, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":574, "melody":319, "harmony":382
+  },
+  {
+    "id":21034, "group_no":21, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":601, "melody":334, "harmony":400
+  },
+  {
+    "id":21035, "group_no":21, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":629, "melody":350, "harmony":419
+  },
+  {
+    "id":21036, "group_no":21, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":656, "melody":365, "harmony":437
+  },
+  {
+    "id":21037, "group_no":21, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":684, "melody":380, "harmony":457
+  },
+  {
+    "id":21038, "group_no":21, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":711, "melody":395, "harmony":475
+  },
+  {
+    "id":21039, "group_no":21, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":740, "melody":411, "harmony":493
+  },
+  {
+    "id":21040, "group_no":21, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":767, "melody":426, "harmony":511
+  },
+  {
+    "id":21041, "group_no":21, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":794, "melody":441, "harmony":529
+  },
+  {
+    "id":21042, "group_no":21, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":821, "melody":456, "harmony":547
+  },
+  {
+    "id":21043, "group_no":21, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":848, "melody":471, "harmony":565
+  },
+  {
+    "id":21044, "group_no":21, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":873, "melody":485, "harmony":583
+  },
+  {
+    "id":21045, "group_no":21, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":900, "melody":500, "harmony":601
+  },
+  {
+    "id":21046, "group_no":21, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":926, "melody":515, "harmony":617
+  },
+  {
+    "id":21047, "group_no":21, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":952, "melody":529, "harmony":634
+  },
+  {
+    "id":21048, "group_no":21, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":976, "melody":542, "harmony":651
+  },
+  {
+    "id":21049, "group_no":21, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":1002, "melody":557, "harmony":667
+  },
+  {
+    "id":21050, "group_no":21, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":1025, "melody":569, "harmony":683
+  },
+  {
+    "id":21051, "group_no":21, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":1049, "melody":583, "harmony":699
+  },
+  {
+    "id":21052, "group_no":21, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":1072, "melody":596, "harmony":714
+  },
+  {
+    "id":21053, "group_no":21, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":1095, "melody":608, "harmony":730
+  },
+  {
+    "id":21054, "group_no":21, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":1118, "melody":621, "harmony":745
+  },
+  {
+    "id":21055, "group_no":21, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":1139, "melody":633, "harmony":760
+  },
+  {
+    "id":21056, "group_no":21, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":1161, "melody":645, "harmony":774
+  },
+  {
+    "id":21057, "group_no":21, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":1183, "melody":657, "harmony":788
+  },
+  {
+    "id":21058, "group_no":21, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":1203, "melody":668, "harmony":802
+  },
+  {
+    "id":21059, "group_no":21, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":1223, "melody":680, "harmony":815
+  },
+  {
+    "id":21060, "group_no":21, "level":60, "exp_start":560000, "exp_end":560001, "life":180, "rhythm":1242, "melody":690, "harmony":828
+  },
+  {
+    "id":22001, "group_no":22, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":22002, "group_no":22, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":7, "melody":12, "harmony":8
+  },
+  {
+    "id":22003, "group_no":22, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":11, "melody":20, "harmony":14
+  },
+  {
+    "id":22004, "group_no":22, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":16, "melody":28, "harmony":19
+  },
+  {
+    "id":22005, "group_no":22, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":21, "melody":38, "harmony":25
+  },
+  {
+    "id":22006, "group_no":22, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":26, "melody":47, "harmony":32
+  },
+  {
+    "id":22007, "group_no":22, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":32, "melody":57, "harmony":37
+  },
+  {
+    "id":22008, "group_no":22, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":38, "melody":68, "harmony":44
+  },
+  {
+    "id":22009, "group_no":22, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":44, "melody":78, "harmony":52
+  },
+  {
+    "id":22010, "group_no":22, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":50, "melody":90, "harmony":61
+  },
+  {
+    "id":22011, "group_no":22, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":57, "melody":103, "harmony":68
+  },
+  {
+    "id":22012, "group_no":22, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":65, "melody":116, "harmony":77
+  },
+  {
+    "id":22013, "group_no":22, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":72, "melody":130, "harmony":86
+  },
+  {
+    "id":22014, "group_no":22, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":80, "melody":144, "harmony":97
+  },
+  {
+    "id":22015, "group_no":22, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":89, "melody":161, "harmony":107
+  },
+  {
+    "id":22016, "group_no":22, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":98, "melody":177, "harmony":118
+  },
+  {
+    "id":22017, "group_no":22, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":108, "melody":194, "harmony":130
+  },
+  {
+    "id":22018, "group_no":22, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":118, "melody":212, "harmony":141
+  },
+  {
+    "id":22019, "group_no":22, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":129, "melody":232, "harmony":155
+  },
+  {
+    "id":22020, "group_no":22, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":140, "melody":251, "harmony":167
+  },
+  {
+    "id":22021, "group_no":22, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":152, "melody":273, "harmony":181
+  },
+  {
+    "id":22022, "group_no":22, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":164, "melody":294, "harmony":196
+  },
+  {
+    "id":22023, "group_no":22, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":176, "melody":317, "harmony":212
+  },
+  {
+    "id":22024, "group_no":22, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":189, "melody":340, "harmony":227
+  },
+  {
+    "id":22025, "group_no":22, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":203, "melody":365, "harmony":242
+  },
+  {
+    "id":22026, "group_no":22, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":216, "melody":389, "harmony":259
+  },
+  {
+    "id":22027, "group_no":22, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":230, "melody":413, "harmony":275
+  },
+  {
+    "id":22028, "group_no":22, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":244, "melody":439, "harmony":292
+  },
+  {
+    "id":22029, "group_no":22, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":259, "melody":466, "harmony":310
+  },
+  {
+    "id":22030, "group_no":22, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":273, "melody":491, "harmony":328
+  },
+  {
+    "id":22031, "group_no":22, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":288, "melody":518, "harmony":346
+  },
+  {
+    "id":22032, "group_no":22, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":303, "melody":545, "harmony":364
+  },
+  {
+    "id":22033, "group_no":22, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":319, "melody":574, "harmony":382
+  },
+  {
+    "id":22034, "group_no":22, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":334, "melody":601, "harmony":400
+  },
+  {
+    "id":22035, "group_no":22, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":350, "melody":629, "harmony":419
+  },
+  {
+    "id":22036, "group_no":22, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":365, "melody":656, "harmony":437
+  },
+  {
+    "id":22037, "group_no":22, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":380, "melody":684, "harmony":457
+  },
+  {
+    "id":22038, "group_no":22, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":395, "melody":711, "harmony":475
+  },
+  {
+    "id":22039, "group_no":22, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":411, "melody":740, "harmony":493
+  },
+  {
+    "id":22040, "group_no":22, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":426, "melody":767, "harmony":511
+  },
+  {
+    "id":22041, "group_no":22, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":441, "melody":794, "harmony":529
+  },
+  {
+    "id":22042, "group_no":22, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":456, "melody":821, "harmony":547
+  },
+  {
+    "id":22043, "group_no":22, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":471, "melody":848, "harmony":565
+  },
+  {
+    "id":22044, "group_no":22, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":485, "melody":873, "harmony":583
+  },
+  {
+    "id":22045, "group_no":22, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":500, "melody":900, "harmony":601
+  },
+  {
+    "id":22046, "group_no":22, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":515, "melody":926, "harmony":617
+  },
+  {
+    "id":22047, "group_no":22, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":529, "melody":952, "harmony":634
+  },
+  {
+    "id":22048, "group_no":22, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":542, "melody":976, "harmony":651
+  },
+  {
+    "id":22049, "group_no":22, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":557, "melody":1002, "harmony":667
+  },
+  {
+    "id":22050, "group_no":22, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":569, "melody":1025, "harmony":683
+  },
+  {
+    "id":22051, "group_no":22, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":583, "melody":1049, "harmony":699
+  },
+  {
+    "id":22052, "group_no":22, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":596, "melody":1072, "harmony":714
+  },
+  {
+    "id":22053, "group_no":22, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":608, "melody":1095, "harmony":730
+  },
+  {
+    "id":22054, "group_no":22, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":621, "melody":1118, "harmony":745
+  },
+  {
+    "id":22055, "group_no":22, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":633, "melody":1139, "harmony":760
+  },
+  {
+    "id":22056, "group_no":22, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":645, "melody":1161, "harmony":774
+  },
+  {
+    "id":22057, "group_no":22, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":657, "melody":1183, "harmony":788
+  },
+  {
+    "id":22058, "group_no":22, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":668, "melody":1203, "harmony":802
+  },
+  {
+    "id":22059, "group_no":22, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":680, "melody":1223, "harmony":815
+  },
+  {
+    "id":22060, "group_no":22, "level":60, "exp_start":560000, "exp_end":560001, "life":180, "rhythm":690, "melody":1242, "harmony":828
+  },
+  {
+    "id":23001, "group_no":23, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":23002, "group_no":23, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":8, "melody":7, "harmony":12
+  },
+  {
+    "id":23003, "group_no":23, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":14, "melody":11, "harmony":20
+  },
+  {
+    "id":23004, "group_no":23, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":19, "melody":16, "harmony":28
+  },
+  {
+    "id":23005, "group_no":23, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":25, "melody":21, "harmony":38
+  },
+  {
+    "id":23006, "group_no":23, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":32, "melody":26, "harmony":47
+  },
+  {
+    "id":23007, "group_no":23, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":38, "melody":32, "harmony":56
+  },
+  {
+    "id":23008, "group_no":23, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":45, "melody":38, "harmony":67
+  },
+  {
+    "id":23009, "group_no":23, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":52, "melody":44, "harmony":78
+  },
+  {
+    "id":23010, "group_no":23, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":60, "melody":50, "harmony":91
+  },
+  {
+    "id":23011, "group_no":23, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":68, "melody":57, "harmony":103
+  },
+  {
+    "id":23012, "group_no":23, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":77, "melody":65, "harmony":116
+  },
+  {
+    "id":23013, "group_no":23, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":86, "melody":72, "harmony":130
+  },
+  {
+    "id":23014, "group_no":23, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":96, "melody":80, "harmony":145
+  },
+  {
+    "id":23015, "group_no":23, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":107, "melody":89, "harmony":161
+  },
+  {
+    "id":23016, "group_no":23, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":118, "melody":98, "harmony":177
+  },
+  {
+    "id":23017, "group_no":23, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":130, "melody":108, "harmony":194
+  },
+  {
+    "id":23018, "group_no":23, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":141, "melody":118, "harmony":212
+  },
+  {
+    "id":23019, "group_no":23, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":155, "melody":129, "harmony":232
+  },
+  {
+    "id":23020, "group_no":23, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":167, "melody":140, "harmony":251
+  },
+  {
+    "id":23021, "group_no":23, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":182, "melody":152, "harmony":272
+  },
+  {
+    "id":23022, "group_no":23, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":196, "melody":164, "harmony":294
+  },
+  {
+    "id":23023, "group_no":23, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":212, "melody":176, "harmony":317
+  },
+  {
+    "id":23024, "group_no":23, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":227, "melody":189, "harmony":340
+  },
+  {
+    "id":23025, "group_no":23, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":243, "melody":203, "harmony":364
+  },
+  {
+    "id":23026, "group_no":23, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":259, "melody":216, "harmony":389
+  },
+  {
+    "id":23027, "group_no":23, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":275, "melody":230, "harmony":413
+  },
+  {
+    "id":23028, "group_no":23, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":293, "melody":244, "harmony":438
+  },
+  {
+    "id":23029, "group_no":23, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":311, "melody":259, "harmony":465
+  },
+  {
+    "id":23030, "group_no":23, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":328, "melody":273, "harmony":491
+  },
+  {
+    "id":23031, "group_no":23, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":346, "melody":288, "harmony":518
+  },
+  {
+    "id":23032, "group_no":23, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":364, "melody":303, "harmony":545
+  },
+  {
+    "id":23033, "group_no":23, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":383, "melody":319, "harmony":573
+  },
+  {
+    "id":23034, "group_no":23, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":401, "melody":334, "harmony":600
+  },
+  {
+    "id":23035, "group_no":23, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":419, "melody":350, "harmony":629
+  },
+  {
+    "id":23036, "group_no":23, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":437, "melody":365, "harmony":656
+  },
+  {
+    "id":23037, "group_no":23, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":456, "melody":380, "harmony":685
+  },
+  {
+    "id":23038, "group_no":23, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":474, "melody":395, "harmony":712
+  },
+  {
+    "id":23039, "group_no":23, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":493, "melody":411, "harmony":740
+  },
+  {
+    "id":23040, "group_no":23, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":511, "melody":426, "harmony":767
+  },
+  {
+    "id":23041, "group_no":23, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":529, "melody":441, "harmony":794
+  },
+  {
+    "id":23042, "group_no":23, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":547, "melody":456, "harmony":821
+  },
+  {
+    "id":23043, "group_no":23, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":565, "melody":471, "harmony":848
+  },
+  {
+    "id":23044, "group_no":23, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":582, "melody":485, "harmony":874
+  },
+  {
+    "id":23045, "group_no":23, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":600, "melody":500, "harmony":901
+  },
+  {
+    "id":23046, "group_no":23, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":617, "melody":515, "harmony":926
+  },
+  {
+    "id":23047, "group_no":23, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":635, "melody":529, "harmony":951
+  },
+  {
+    "id":23048, "group_no":23, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":651, "melody":542, "harmony":976
+  },
+  {
+    "id":23049, "group_no":23, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":668, "melody":557, "harmony":1001
+  },
+  {
+    "id":23050, "group_no":23, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":683, "melody":569, "harmony":1025
+  },
+  {
+    "id":23051, "group_no":23, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":699, "melody":583, "harmony":1049
+  },
+  {
+    "id":23052, "group_no":23, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":715, "melody":596, "harmony":1071
+  },
+  {
+    "id":23053, "group_no":23, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":730, "melody":608, "harmony":1095
+  },
+  {
+    "id":23054, "group_no":23, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":745, "melody":621, "harmony":1118
+  },
+  {
+    "id":23055, "group_no":23, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":760, "melody":633, "harmony":1139
+  },
+  {
+    "id":23056, "group_no":23, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":774, "melody":645, "harmony":1161
+  },
+  {
+    "id":23057, "group_no":23, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":788, "melody":657, "harmony":1183
+  },
+  {
+    "id":23058, "group_no":23, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":802, "melody":668, "harmony":1203
+  },
+  {
+    "id":23059, "group_no":23, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":815, "melody":680, "harmony":1223
+  },
+  {
+    "id":23060, "group_no":23, "level":60, "exp_start":560000, "exp_end":560001, "life":180, "rhythm":828, "melody":690, "harmony":1242
+  },
+  {
+    "id":31001, "group_no":31, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":31002, "group_no":31, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":23, "melody":13, "harmony":15
+  },
+  {
+    "id":31003, "group_no":31, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":46, "melody":26, "harmony":30
+  },
+  {
+    "id":31004, "group_no":31, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":69, "melody":38, "harmony":46
+  },
+  {
+    "id":31005, "group_no":31, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":92, "melody":51, "harmony":61
+  },
+  {
+    "id":31006, "group_no":31, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":115, "melody":64, "harmony":76
+  },
+  {
+    "id":31007, "group_no":31, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":138, "melody":77, "harmony":91
+  },
+  {
+    "id":31008, "group_no":31, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":161, "melody":89, "harmony":107
+  },
+  {
+    "id":31009, "group_no":31, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":184, "melody":102, "harmony":122
+  },
+  {
+    "id":31010, "group_no":31, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":207, "melody":115, "harmony":137
+  },
+  {
+    "id":31011, "group_no":31, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":230, "melody":128, "harmony":152
+  },
+  {
+    "id":31012, "group_no":31, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":252, "melody":140, "harmony":169
+  },
+  {
+    "id":31013, "group_no":31, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":275, "melody":153, "harmony":184
+  },
+  {
+    "id":31014, "group_no":31, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":298, "melody":166, "harmony":199
+  },
+  {
+    "id":31015, "group_no":31, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":321, "melody":179, "harmony":214
+  },
+  {
+    "id":31016, "group_no":31, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":344, "melody":191, "harmony":230
+  },
+  {
+    "id":31017, "group_no":31, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":367, "melody":204, "harmony":245
+  },
+  {
+    "id":31018, "group_no":31, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":390, "melody":217, "harmony":260
+  },
+  {
+    "id":31019, "group_no":31, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":413, "melody":230, "harmony":275
+  },
+  {
+    "id":31020, "group_no":31, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":436, "melody":242, "harmony":291
+  },
+  {
+    "id":31021, "group_no":31, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":459, "melody":255, "harmony":306
+  },
+  {
+    "id":31022, "group_no":31, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":479, "melody":266, "harmony":320
+  },
+  {
+    "id":31023, "group_no":31, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":500, "melody":278, "harmony":332
+  },
+  {
+    "id":31024, "group_no":31, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":520, "melody":289, "harmony":346
+  },
+  {
+    "id":31025, "group_no":31, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":540, "melody":300, "harmony":360
+  },
+  {
+    "id":31026, "group_no":31, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":560, "melody":311, "harmony":374
+  },
+  {
+    "id":31027, "group_no":31, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":581, "melody":323, "harmony":386
+  },
+  {
+    "id":31028, "group_no":31, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":601, "melody":334, "harmony":400
+  },
+  {
+    "id":31029, "group_no":31, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":621, "melody":345, "harmony":414
+  },
+  {
+    "id":31030, "group_no":31, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":641, "melody":356, "harmony":428
+  },
+  {
+    "id":31031, "group_no":31, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":662, "melody":368, "harmony":440
+  },
+  {
+    "id":31032, "group_no":31, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":682, "melody":379, "harmony":454
+  },
+  {
+    "id":31033, "group_no":31, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":702, "melody":390, "harmony":468
+  },
+  {
+    "id":31034, "group_no":31, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":722, "melody":401, "harmony":482
+  },
+  {
+    "id":31035, "group_no":31, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":743, "melody":413, "harmony":494
+  },
+  {
+    "id":31036, "group_no":31, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":759, "melody":422, "harmony":505
+  },
+  {
+    "id":31037, "group_no":31, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":775, "melody":431, "harmony":516
+  },
+  {
+    "id":31038, "group_no":31, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":791, "melody":440, "harmony":527
+  },
+  {
+    "id":31039, "group_no":31, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":807, "melody":449, "harmony":538
+  },
+  {
+    "id":31040, "group_no":31, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":824, "melody":458, "harmony":548
+  },
+  {
+    "id":31041, "group_no":31, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":840, "melody":467, "harmony":559
+  },
+  {
+    "id":31042, "group_no":31, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":856, "melody":476, "harmony":570
+  },
+  {
+    "id":31043, "group_no":31, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":872, "melody":485, "harmony":581
+  },
+  {
+    "id":31044, "group_no":31, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":888, "melody":494, "harmony":592
+  },
+  {
+    "id":31045, "group_no":31, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":905, "melody":503, "harmony":602
+  },
+  {
+    "id":31046, "group_no":31, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":921, "melody":512, "harmony":613
+  },
+  {
+    "id":31047, "group_no":31, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":937, "melody":521, "harmony":624
+  },
+  {
+    "id":31048, "group_no":31, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":953, "melody":530, "harmony":635
+  },
+  {
+    "id":31049, "group_no":31, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":969, "melody":539, "harmony":646
+  },
+  {
+    "id":31050, "group_no":31, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":986, "melody":548, "harmony":656
+  },
+  {
+    "id":31051, "group_no":31, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":1002, "melody":557, "harmony":667
+  },
+  {
+    "id":31052, "group_no":31, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":1018, "melody":566, "harmony":678
+  },
+  {
+    "id":31053, "group_no":31, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":1034, "melody":575, "harmony":689
+  },
+  {
+    "id":31054, "group_no":31, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":1050, "melody":584, "harmony":700
+  },
+  {
+    "id":31055, "group_no":31, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":1067, "melody":593, "harmony":710
+  },
+  {
+    "id":31056, "group_no":31, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":1083, "melody":602, "harmony":721
+  },
+  {
+    "id":31057, "group_no":31, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":1099, "melody":611, "harmony":732
+  },
+  {
+    "id":31058, "group_no":31, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":1115, "melody":620, "harmony":743
+  },
+  {
+    "id":31059, "group_no":31, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":1131, "melody":629, "harmony":754
+  },
+  {
+    "id":31060, "group_no":31, "level":60, "exp_start":560000, "exp_end":560001, "life":180, "rhythm":1148, "melody":638, "harmony":764
+  },
+  {
+    "id":32001, "group_no":32, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":32002, "group_no":32, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":13, "melody":23, "harmony":15
+  },
+  {
+    "id":32003, "group_no":32, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":26, "melody":46, "harmony":30
+  },
+  {
+    "id":32004, "group_no":32, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":38, "melody":69, "harmony":46
+  },
+  {
+    "id":32005, "group_no":32, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":51, "melody":92, "harmony":61
+  },
+  {
+    "id":32006, "group_no":32, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":64, "melody":115, "harmony":76
+  },
+  {
+    "id":32007, "group_no":32, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":77, "melody":138, "harmony":91
+  },
+  {
+    "id":32008, "group_no":32, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":89, "melody":161, "harmony":107
+  },
+  {
+    "id":32009, "group_no":32, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":102, "melody":184, "harmony":122
+  },
+  {
+    "id":32010, "group_no":32, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":115, "melody":207, "harmony":137
+  },
+  {
+    "id":32011, "group_no":32, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":128, "melody":230, "harmony":152
+  },
+  {
+    "id":32012, "group_no":32, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":140, "melody":252, "harmony":169
+  },
+  {
+    "id":32013, "group_no":32, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":153, "melody":275, "harmony":184
+  },
+  {
+    "id":32014, "group_no":32, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":166, "melody":298, "harmony":199
+  },
+  {
+    "id":32015, "group_no":32, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":179, "melody":321, "harmony":214
+  },
+  {
+    "id":32016, "group_no":32, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":191, "melody":344, "harmony":230
+  },
+  {
+    "id":32017, "group_no":32, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":204, "melody":367, "harmony":245
+  },
+  {
+    "id":32018, "group_no":32, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":217, "melody":390, "harmony":260
+  },
+  {
+    "id":32019, "group_no":32, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":230, "melody":413, "harmony":275
+  },
+  {
+    "id":32020, "group_no":32, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":242, "melody":436, "harmony":291
+  },
+  {
+    "id":32021, "group_no":32, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":255, "melody":459, "harmony":306
+  },
+  {
+    "id":32022, "group_no":32, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":266, "melody":479, "harmony":320
+  },
+  {
+    "id":32023, "group_no":32, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":278, "melody":500, "harmony":332
+  },
+  {
+    "id":32024, "group_no":32, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":289, "melody":520, "harmony":346
+  },
+  {
+    "id":32025, "group_no":32, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":300, "melody":540, "harmony":360
+  },
+  {
+    "id":32026, "group_no":32, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":311, "melody":560, "harmony":374
+  },
+  {
+    "id":32027, "group_no":32, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":323, "melody":581, "harmony":386
+  },
+  {
+    "id":32028, "group_no":32, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":334, "melody":601, "harmony":400
+  },
+  {
+    "id":32029, "group_no":32, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":345, "melody":621, "harmony":414
+  },
+  {
+    "id":32030, "group_no":32, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":356, "melody":641, "harmony":428
+  },
+  {
+    "id":32031, "group_no":32, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":368, "melody":662, "harmony":440
+  },
+  {
+    "id":32032, "group_no":32, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":379, "melody":682, "harmony":454
+  },
+  {
+    "id":32033, "group_no":32, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":390, "melody":702, "harmony":468
+  },
+  {
+    "id":32034, "group_no":32, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":401, "melody":722, "harmony":482
+  },
+  {
+    "id":32035, "group_no":32, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":413, "melody":743, "harmony":494
+  },
+  {
+    "id":32036, "group_no":32, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":422, "melody":759, "harmony":505
+  },
+  {
+    "id":32037, "group_no":32, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":431, "melody":775, "harmony":516
+  },
+  {
+    "id":32038, "group_no":32, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":440, "melody":791, "harmony":527
+  },
+  {
+    "id":32039, "group_no":32, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":449, "melody":807, "harmony":538
+  },
+  {
+    "id":32040, "group_no":32, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":458, "melody":824, "harmony":548
+  },
+  {
+    "id":32041, "group_no":32, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":467, "melody":840, "harmony":559
+  },
+  {
+    "id":32042, "group_no":32, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":476, "melody":856, "harmony":570
+  },
+  {
+    "id":32043, "group_no":32, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":485, "melody":872, "harmony":581
+  },
+  {
+    "id":32044, "group_no":32, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":494, "melody":888, "harmony":592
+  },
+  {
+    "id":32045, "group_no":32, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":503, "melody":905, "harmony":602
+  },
+  {
+    "id":32046, "group_no":32, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":512, "melody":921, "harmony":613
+  },
+  {
+    "id":32047, "group_no":32, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":521, "melody":937, "harmony":624
+  },
+  {
+    "id":32048, "group_no":32, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":530, "melody":953, "harmony":635
+  },
+  {
+    "id":32049, "group_no":32, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":539, "melody":969, "harmony":646
+  },
+  {
+    "id":32050, "group_no":32, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":548, "melody":986, "harmony":656
+  },
+  {
+    "id":32051, "group_no":32, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":557, "melody":1002, "harmony":667
+  },
+  {
+    "id":32052, "group_no":32, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":566, "melody":1018, "harmony":678
+  },
+  {
+    "id":32053, "group_no":32, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":575, "melody":1034, "harmony":689
+  },
+  {
+    "id":32054, "group_no":32, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":584, "melody":1050, "harmony":700
+  },
+  {
+    "id":32055, "group_no":32, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":593, "melody":1067, "harmony":710
+  },
+  {
+    "id":32056, "group_no":32, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":602, "melody":1083, "harmony":721
+  },
+  {
+    "id":32057, "group_no":32, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":611, "melody":1099, "harmony":732
+  },
+  {
+    "id":32058, "group_no":32, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":620, "melody":1115, "harmony":743
+  },
+  {
+    "id":32059, "group_no":32, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":629, "melody":1131, "harmony":754
+  },
+  {
+    "id":32060, "group_no":32, "level":60, "exp_start":560000, "exp_end":560001, "life":180, "rhythm":638, "melody":1148, "harmony":764
+  },
+  {
+    "id":33001, "group_no":33, "level":1, "exp_start":0, "exp_end":24, "life":0, "rhythm":0, "melody":0, "harmony":0
+  },
+  {
+    "id":33002, "group_no":33, "level":2, "exp_start":25, "exp_end":75, "life":4, "rhythm":15, "melody":13, "harmony":23
+  },
+  {
+    "id":33003, "group_no":33, "level":3, "exp_start":76, "exp_end":173, "life":7, "rhythm":31, "melody":26, "harmony":45
+  },
+  {
+    "id":33004, "group_no":33, "level":4, "exp_start":174, "exp_end":333, "life":10, "rhythm":46, "melody":38, "harmony":69
+  },
+  {
+    "id":33005, "group_no":33, "level":5, "exp_start":334, "exp_end":571, "life":13, "rhythm":61, "melody":51, "harmony":92
+  },
+  {
+    "id":33006, "group_no":33, "level":6, "exp_start":572, "exp_end":902, "life":17, "rhythm":77, "melody":64, "harmony":114
+  },
+  {
+    "id":33007, "group_no":33, "level":7, "exp_start":903, "exp_end":1342, "life":20, "rhythm":92, "melody":77, "harmony":137
+  },
+  {
+    "id":33008, "group_no":33, "level":8, "exp_start":1343, "exp_end":1907, "life":23, "rhythm":107, "melody":89, "harmony":161
+  },
+  {
+    "id":33009, "group_no":33, "level":9, "exp_start":1908, "exp_end":2611, "life":26, "rhythm":122, "melody":102, "harmony":184
+  },
+  {
+    "id":33010, "group_no":33, "level":10, "exp_start":2612, "exp_end":3471, "life":30, "rhythm":138, "melody":115, "harmony":206
+  },
+  {
+    "id":33011, "group_no":33, "level":11, "exp_start":3472, "exp_end":4502, "life":33, "rhythm":153, "melody":128, "harmony":229
+  },
+  {
+    "id":33012, "group_no":33, "level":12, "exp_start":4503, "exp_end":5720, "life":36, "rhythm":168, "melody":140, "harmony":253
+  },
+  {
+    "id":33013, "group_no":33, "level":13, "exp_start":5721, "exp_end":7140, "life":39, "rhythm":184, "melody":153, "harmony":275
+  },
+  {
+    "id":33014, "group_no":33, "level":14, "exp_start":7141, "exp_end":8777, "life":42, "rhythm":199, "melody":166, "harmony":298
+  },
+  {
+    "id":33015, "group_no":33, "level":15, "exp_start":8778, "exp_end":10648, "life":45, "rhythm":214, "melody":179, "harmony":321
+  },
+  {
+    "id":33016, "group_no":33, "level":16, "exp_start":10649, "exp_end":12768, "life":48, "rhythm":230, "melody":191, "harmony":344
+  },
+  {
+    "id":33017, "group_no":33, "level":17, "exp_start":12769, "exp_end":15152, "life":51, "rhythm":245, "melody":204, "harmony":367
+  },
+  {
+    "id":33018, "group_no":33, "level":18, "exp_start":15153, "exp_end":17816, "life":54, "rhythm":260, "melody":217, "harmony":390
+  },
+  {
+    "id":33019, "group_no":33, "level":19, "exp_start":17817, "exp_end":20775, "life":57, "rhythm":275, "melody":230, "harmony":413
+  },
+  {
+    "id":33020, "group_no":33, "level":20, "exp_start":20776, "exp_end":24046, "life":60, "rhythm":291, "melody":242, "harmony":436
+  },
+  {
+    "id":33021, "group_no":33, "level":21, "exp_start":24047, "exp_end":27643, "life":63, "rhythm":306, "melody":255, "harmony":459
+  },
+  {
+    "id":33022, "group_no":33, "level":22, "exp_start":27644, "exp_end":31582, "life":66, "rhythm":320, "melody":266, "harmony":479
+  },
+  {
+    "id":33023, "group_no":33, "level":23, "exp_start":31583, "exp_end":35879, "life":69, "rhythm":333, "melody":278, "harmony":499
+  },
+  {
+    "id":33024, "group_no":33, "level":24, "exp_start":35880, "exp_end":40550, "life":72, "rhythm":347, "melody":289, "harmony":519
+  },
+  {
+    "id":33025, "group_no":33, "level":25, "exp_start":40551, "exp_end":45609, "life":75, "rhythm":360, "melody":300, "harmony":540
+  },
+  {
+    "id":33026, "group_no":33, "level":26, "exp_start":45610, "exp_end":51072, "life":78, "rhythm":374, "melody":311, "harmony":560
+  },
+  {
+    "id":33027, "group_no":33, "level":27, "exp_start":51073, "exp_end":56955, "life":81, "rhythm":387, "melody":323, "harmony":580
+  },
+  {
+    "id":33028, "group_no":33, "level":28, "exp_start":56956, "exp_end":63274, "life":84, "rhythm":401, "melody":334, "harmony":600
+  },
+  {
+    "id":33029, "group_no":33, "level":29, "exp_start":63275, "exp_end":70044, "life":87, "rhythm":414, "melody":345, "harmony":621
+  },
+  {
+    "id":33030, "group_no":33, "level":30, "exp_start":70045, "exp_end":77280, "life":90, "rhythm":428, "melody":356, "harmony":641
+  },
+  {
+    "id":33031, "group_no":33, "level":31, "exp_start":77281, "exp_end":84999, "life":93, "rhythm":441, "melody":368, "harmony":661
+  },
+  {
+    "id":33032, "group_no":33, "level":32, "exp_start":85000, "exp_end":93215, "life":96, "rhythm":455, "melody":379, "harmony":681
+  },
+  {
+    "id":33033, "group_no":33, "level":33, "exp_start":93216, "exp_end":101944, "life":99, "rhythm":468, "melody":390, "harmony":702
+  },
+  {
+    "id":33034, "group_no":33, "level":34, "exp_start":101945, "exp_end":111203, "life":102, "rhythm":482, "melody":401, "harmony":722
+  },
+  {
+    "id":33035, "group_no":33, "level":35, "exp_start":111204, "exp_end":121005, "life":105, "rhythm":495, "melody":413, "harmony":742
+  },
+  {
+    "id":33036, "group_no":33, "level":36, "exp_start":121006, "exp_end":131368, "life":108, "rhythm":506, "melody":422, "harmony":758
+  },
+  {
+    "id":33037, "group_no":33, "level":37, "exp_start":131369, "exp_end":142305, "life":111, "rhythm":517, "melody":431, "harmony":774
+  },
+  {
+    "id":33038, "group_no":33, "level":38, "exp_start":142306, "exp_end":153834, "life":114, "rhythm":527, "melody":440, "harmony":791
+  },
+  {
+    "id":33039, "group_no":33, "level":39, "exp_start":153835, "exp_end":165969, "life":117, "rhythm":538, "melody":449, "harmony":807
+  },
+  {
+    "id":33040, "group_no":33, "level":40, "exp_start":165970, "exp_end":178727, "life":120, "rhythm":549, "melody":458, "harmony":823
+  },
+  {
+    "id":33041, "group_no":33, "level":41, "exp_start":178728, "exp_end":192122, "life":123, "rhythm":560, "melody":467, "harmony":839
+  },
+  {
+    "id":33042, "group_no":33, "level":42, "exp_start":192123, "exp_end":206170, "life":126, "rhythm":571, "melody":476, "harmony":855
+  },
+  {
+    "id":33043, "group_no":33, "level":43, "exp_start":206171, "exp_end":220887, "life":129, "rhythm":581, "melody":485, "harmony":872
+  },
+  {
+    "id":33044, "group_no":33, "level":44, "exp_start":220888, "exp_end":236288, "life":132, "rhythm":592, "melody":494, "harmony":888
+  },
+  {
+    "id":33045, "group_no":33, "level":45, "exp_start":236289, "exp_end":252390, "life":135, "rhythm":603, "melody":503, "harmony":904
+  },
+  {
+    "id":33046, "group_no":33, "level":46, "exp_start":252391, "exp_end":269206, "life":138, "rhythm":614, "melody":512, "harmony":920
+  },
+  {
+    "id":33047, "group_no":33, "level":47, "exp_start":269207, "exp_end":286754, "life":141, "rhythm":625, "melody":521, "harmony":936
+  },
+  {
+    "id":33048, "group_no":33, "level":48, "exp_start":286755, "exp_end":305048, "life":144, "rhythm":635, "melody":530, "harmony":953
+  },
+  {
+    "id":33049, "group_no":33, "level":49, "exp_start":305049, "exp_end":324104, "life":147, "rhythm":646, "melody":539, "harmony":969
+  },
+  {
+    "id":33050, "group_no":33, "level":50, "exp_start":324105, "exp_end":343937, "life":150, "rhythm":657, "melody":548, "harmony":985
+  },
+  {
+    "id":33051, "group_no":33, "level":51, "exp_start":343938, "exp_end":364564, "life":153, "rhythm":668, "melody":557, "harmony":1001
+  },
+  {
+    "id":33052, "group_no":33, "level":52, "exp_start":364565, "exp_end":386000, "life":156, "rhythm":679, "melody":566, "harmony":1017
+  },
+  {
+    "id":33053, "group_no":33, "level":53, "exp_start":386001, "exp_end":408260, "life":159, "rhythm":689, "melody":575, "harmony":1034
+  },
+  {
+    "id":33054, "group_no":33, "level":54, "exp_start":408261, "exp_end":431359, "life":162, "rhythm":700, "melody":584, "harmony":1050
+  },
+  {
+    "id":33055, "group_no":33, "level":55, "exp_start":431360, "exp_end":455314, "life":165, "rhythm":711, "melody":593, "harmony":1066
+  },
+  {
+    "id":33056, "group_no":33, "level":56, "exp_start":455315, "exp_end":480140, "life":168, "rhythm":722, "melody":602, "harmony":1082
+  },
+  {
+    "id":33057, "group_no":33, "level":57, "exp_start":480141, "exp_end":505853, "life":171, "rhythm":733, "melody":611, "harmony":1098
+  },
+  {
+    "id":33058, "group_no":33, "level":58, "exp_start":505854, "exp_end":532467, "life":174, "rhythm":743, "melody":620, "harmony":1115
+  },
+  {
+    "id":33059, "group_no":33, "level":59, "exp_start":532468, "exp_end":559999, "life":177, "rhythm":754, "melody":629, "harmony":1131
+  },
+  {
+    "id":33060, "group_no":33, "level":60, "exp_start":560000, "exp_end":560001, "life":180, "rhythm":765, "melody":638, "harmony":1147
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id":1000, "layer_type":"Background", "name":"ホームタウン", "description":"遠くにセンタータワーが見える、\nキミのホームタウン。", "default_asset_ids":"null"
+  },
+  {
+    "id":2000, "layer_type":"Road", "name":"砂利道の大通り", "description":"自然たっぷりの郊外の道。\n雨が降るとどろんこに！", "default_asset_ids":"null"
+  },
+  {
+    "id":2001, "layer_type":"Road", "name":"レンガ道の大通り", "description":"レンガで舗装された道。\n歩きやすくて水はけがいい。", "default_asset_ids":"null"
+  },
+  {
+    "id":2002, "layer_type":"Road", "name":"ペイントレンガの大通り", "description":"洒落たペイントのレンガ道。\nきれいな色どりで街が明るく見える", "default_asset_ids":"null"
+  },
+  {
+    "id":2003, "layer_type":"Road", "name":"タイル道の大通り", "description":"丈夫なタイルをしきつめた道。\n目に楽しいだけではなく、すべりにくくて歩きやすい。", "default_asset_ids":"null"
+  },
+  {
+    "id":2004, "layer_type":"Road", "name":"パターンモザイクの大通り", "description":"色んなタイルをならべた道。\n赤いタイルだけ踏んでどこまで歩けるか試してみよう。", "default_asset_ids":"null"
+  },
+  {
+    "id":2005, "layer_type":"Road", "name":"キーボード風の大通り", "description":"ピアノのようなデザインの道。\n歩いても音は出ないが、なんだか楽しい。", "default_asset_ids":"null"
+  },
+  {
+    "id":3000, "layer_type":"OnTheRoad", "name":"道路の上", "description":"", "default_asset_ids":"null"
+  },
+  {
+    "id":5000, "layer_type":"FrontBuilding", "name":"建物前：空地", "description":"", "default_asset_ids":"null"
+  },
+  {
+    "id":5001, "layer_type":"FrontBuilding", "name":"建物前：ライブハウス", "description":"", "default_asset_ids":"null"
+  },
+  {
+    "id":5002, "layer_type":"FrontBuilding", "name":"建物前：グッズショップ", "description":"", "default_asset_ids":"null"
+  },
+  {
+    "id":5003, "layer_type":"FrontBuilding", "name":"建物前：映画館", "description":"", "default_asset_ids":"null"
+  },
+  {
+    "id":5004, "layer_type":"FrontBuilding", "name":"建物前：カフェ", "description":"", "default_asset_ids":"null"
+  },
+  {
+    "id":5005, "layer_type":"FrontBuilding", "name":"建物前：楽器屋", "description":"", "default_asset_ids":"null"
+  },
+  {
+    "id":5006, "layer_type":"FrontBuilding", "name":"建物前：中華料理屋", "description":"", "default_asset_ids":"null"
+  },
+  {
+    "id":5007, "layer_type":"FrontBuilding", "name":"建物前：服屋", "description":"", "default_asset_ids":"null"
+  },
+  {
+    "id":7000, "layer_type":"Fence", "name":"木製フェンス", "description":"音符が可愛い、木でできたフェンス。\nささくれが刺さることが無いよう、よく手入れされている。", "default_asset_ids":"null"
+  },
+  {
+    "id":7001, "layer_type":"Fence", "name":"鉄製フェンス", "description":"音符があしらわれた、鉄製のフェンス。\n丈夫で、寄りかかっても平気。", "default_asset_ids":"null"
+  },
+  {
+    "id":7002, "layer_type":"Fence", "name":"ファンシーなフェンス", "description":"ファンシーなフェンス。\n置くだけで街が華やかになる、おしゃれなデザイン。", "default_asset_ids":"null"
+  },
+  {
+    "id":7003, "layer_type":"Fence", "name":"まんまるなフェンス", "description":"サークルデザインのフェンス。\n街に調和をもたらしてくれる、かもしれない。", "default_asset_ids":"null"
+  },
+  {
+    "id":7004, "layer_type":"Fence", "name":"メッシュ製フェンス", "description":"明るい色合いがかわいいデザインのフェンス。\nよく小鳥が止まっている。", "default_asset_ids":"null"
+  },
+  {
+    "id":7005, "layer_type":"Fence", "name":"格子模様のフェンス", "description":"モダンなデザインのフェンス。\n落ち着いた色合いが大人な街を演出する。", "default_asset_ids":"null"
+  },
+  {
+    "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"
+  }
+]

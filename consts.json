@@ -1,0 +1,1178 @@
+[
+  {
+    "id":10000, "category":"ResponseReaction", "name":"Pass", "value":"0"
+  },
+  {
+    "id":10001, "category":"ResponseReaction", "name":"Logout", "value":"1"
+  },
+  {
+    "id":10002, "category":"ResponseReaction", "name":"Retry", "value":"2"
+  },
+  {
+    "id":10101, "category":"Platform", "name":"Ios", "value":"1"
+  },
+  {
+    "id":10102, "category":"Platform", "name":"Android", "value":"2"
+  },
+  {
+    "id":10300, "category":"GameScene", "name":"Null", "value":"0"
+  },
+  {
+    "id":10301, "category":"GameScene", "name":"Live", "value":"1"
+  },
+  {
+    "id":10302, "category":"GameScene", "name":"Story", "value":"2"
+  },
+  {
+    "id":10303, "category":"GameScene", "name":"Town", "value":"3"
+  },
+  {
+    "id":10304, "category":"GameScene", "name":"Deck", "value":"4"
+  },
+  {
+    "id":10305, "category":"GameScene", "name":"Gacha", "value":"5"
+  },
+  {
+    "id":10306, "category":"GameScene", "name":"Home", "value":"6"
+  },
+  {
+    "id":10307, "category":"GameScene", "name":"Event", "value":"7"
+  },
+  {
+    "id":10308, "category":"GameScene", "name":"Notice", "value":"8"
+  },
+  {
+    "id":10309, "category":"GameScene", "name":"Payment", "value":"9"
+  },
+  {
+    "id":10310, "category":"GameScene", "name":"Store", "value":"10"
+  },
+  {
+    "id":10400, "category":"GamePage", "name":"DefaultPerPage", "value":"20"
+  },
+  {
+    "id":10500, "category":"Time", "name":"Infinity", "value":"2099/01/01 0:00:00"
+  },
+  {
+    "id":10501, "category":"Time", "name":"ResetHour", "value":"12"
+  },
+  {
+    "id":10601, "category":"UpdateResult", "name":"Successful", "value":"0"
+  },
+  {
+    "id":10602, "category":"UpdateResult", "name":"NameNgWord", "value":"1"
+  },
+  {
+    "id":10603, "category":"UpdateResult", "name":"CommentNgWord", "value":"2"
+  },
+  {
+    "id":20001, "category":"UserSetup", "name":"AvatarHead", "value":"10001"
+  },
+  {
+    "id":20002, "category":"UserSetup", "name":"AvatarUpper", "value":"20001"
+  },
+  {
+    "id":20003, "category":"UserSetup", "name":"AvatarLower", "value":"30001"
+  },
+  {
+    "id":20004, "category":"UserSetup", "name":"Avatar", "value":"[]"
+  },
+  {
+    "id":20005, "category":"UserSetup", "name":"CurrentHonor", "value":"1"
+  },
+  {
+    "id":20006, "category":"UserSetup", "name":"Honor", "value":"[]"
+  },
+  {
+    "id":20007, "category":"UserSetup", "name":"LiveHouseStage", "value":"1001"
+  },
+  {
+    "id":20008, "category":"UserSetup", "name":"LiveHouseMain", "value":"2001"
+  },
+  {
+    "id":20009, "category":"UserSetup", "name":"LiveHouseCenter", "value":"3001"
+  },
+  {
+    "id":20010, "category":"UserSetup", "name":"LiveHouseSide", "value":"4001"
+  },
+  {
+    "id":20011, "category":"UserSetup", "name":"LiveHouse", "value":"[]"
+  },
+  {
+    "id":20012, "category":"UserSetup", "name":"DeckMember", "value":"[231000, 221000, 241000, 211000]"
+  },
+  {
+    "id":20013, "category":"UserSetup", "name":"Myumon", "value":"[711000, 731000, 721000, 741000]"
+  },
+  {
+    "id":20014, "category":"UserSetup", "name":"Partner", "value":"211000"
+  },
+  {
+    "id":20015, "category":"UserSetup", "name":"TownProduct", "value":"{\"id\":[2001], \"quantity\":1}"
+  },
+  {
+    "id":20016, "category":"UserSetup", "name":"PresentItem", "value":"[{\"id\":60003,\"quantity\":1800,\"title\":\"事前登録20万人突破の達成報酬です\"},{\"id\":10001,\"quantity\":500,\"title\":\"事前登録20万人突破の達成報酬です\"}]"
+  },
+  {
+    "id":40000, "category":"User", "name":"DefaultNickname", "value":"ロッカー"
+  },
+  {
+    "id":40001, "category":"User", "name":"DefaultProfileComment", "value":"よろしくおねがいします。"
+  },
+  {
+    "id":40002, "category":"User", "name":"DefaultCurrentHonor", "value":"1"
+  },
+  {
+    "id":40003, "category":"User", "name":"DefaultFavoriteMusic", "value":"201"
+  },
+  {
+    "id":40004, "category":"User", "name":"DefaultFavoriteArtist", "value":"1"
+  },
+  {
+    "id":40005, "category":"User", "name":"DefaultFavoriteMyumon", "value":"211000"
+  },
+  {
+    "id":40100, "category":"UserNickname", "name":"SizeMin", "value":"1"
+  },
+  {
+    "id":40101, "category":"UserNickname", "name":"SizeMax", "value":"12"
+  },
+  {
+    "id":40200, "category":"UserStamina", "name":"Max", "value":"100"
+  },
+  {
+    "id":40201, "category":"UserStamina", "name":"AutoCureIntervalSecond", "value":"180"
+  },
+  {
+    "id":40202, "category":"UserStamina", "name":"AutoCureValue", "value":"1"
+  },
+  {
+    "id":40203, "category":"UserStamina", "name":"CureCost", "value":"50"
+  },
+  {
+    "id":40300, "category":"UserProfileComment", "name":"SizeMin", "value":"0"
+  },
+  {
+    "id":40301, "category":"UserProfileComment", "name":"SizeMax", "value":"40"
+  },
+  {
+    "id":50000, "category":"Music", "name":"DefaultUnlockGrade", "value":"3"
+  },
+  {
+    "id":50001, "category":"Music", "name":"DisplayWorstRank", "value":"3"
+  },
+  {
+    "id":50100, "category":"MusicCategory", "name":"None", "value":"0"
+  },
+  {
+    "id":50101, "category":"MusicCategory", "name":"DokiDoki", "value":"1"
+  },
+  {
+    "id":50102, "category":"MusicCategory", "name":"WakuWaku", "value":"2"
+  },
+  {
+    "id":50103, "category":"MusicCategory", "name":"KiraKira", "value":"3"
+  },
+  {
+    "id":50200, "category":"MusicGrade", "name":"Easy", "value":"1"
+  },
+  {
+    "id":50201, "category":"MusicGrade", "name":"Normal", "value":"2"
+  },
+  {
+    "id":50202, "category":"MusicGrade", "name":"Hard", "value":"3"
+  },
+  {
+    "id":50203, "category":"MusicGrade", "name":"Expert", "value":"4"
+  },
+  {
+    "id":50300, "category":"MusicClearStatus", "name":"Fail", "value":"0"
+  },
+  {
+    "id":50301, "category":"MusicClearStatus", "name":"Normal", "value":"1"
+  },
+  {
+    "id":50302, "category":"MusicClearStatus", "name":"FullCombo", "value":"2"
+  },
+  {
+    "id":50303, "category":"MusicClearStatus", "name":"FullPerfect", "value":"3"
+  },
+  {
+    "id":50400, "category":"MusicRequirement", "name":"NoneId", "value":"0"
+  },
+  {
+    "id":50500, "category":"ScoreMagnification", "name":"Default", "value":"100"
+  },
+  {
+    "id":50501, "category":"TouchDecision", "name":"Easy", "value":"0"
+  },
+  {
+    "id":50502, "category":"TouchDecision", "name":"Usually", "value":"10"
+  },
+  {
+    "id":50503, "category":"TouchDecision", "name":"Strict", "value":"15"
+  },
+  {
+    "id":50504, "category":"ComboDecision", "name":"Good", "value":"0"
+  },
+  {
+    "id":50505, "category":"ComboDecision", "name":"Great", "value":"5"
+  },
+  {
+    "id":50506, "category":"ComboDecision", "name":"Perfect", "value":"10"
+  },
+  {
+    "id":50507, "category":"DamageMagnification", "name":"Single", "value":"0"
+  },
+  {
+    "id":50508, "category":"DamageMagnification", "name":"Double", "value":"2"
+  },
+  {
+    "id":50509, "category":"DamageMagnification", "name":"Triple", "value":"5"
+  },
+  {
+    "id":50510, "category":"NotesDistance", "name":"None", "value":"0"
+  },
+  {
+    "id":50511, "category":"NotesDistance", "name":"Little", "value":"10"
+  },
+  {
+    "id":50512, "category":"NotesDistance", "name":"Rather", "value":"20"
+  },
+  {
+    "id":50600, "category":"MusicMissionCategory", "name":"ScoreRank", "value":"1"
+  },
+  {
+    "id":50601, "category":"MusicMissionCategory", "name":"ComboCount", "value":"2"
+  },
+  {
+    "id":50602, "category":"MusicMissionCategory", "name":"PerfectRate", "value":"3"
+  },
+  {
+    "id":50603, "category":"MusicMissionCategory", "name":"ClearCount", "value":"4"
+  },
+  {
+    "id":50701, "category":"MusicMissionStatus", "name":"Open", "value":"1"
+  },
+  {
+    "id":50702, "category":"MusicMissionStatus", "name":"End", "value":"2"
+  },
+  {
+    "id":60000, "category":"Rarity", "name":"R", "value":"1"
+  },
+  {
+    "id":60001, "category":"Rarity", "name":"RR", "value":"2"
+  },
+  {
+    "id":60002, "category":"Rarity", "name":"SR", "value":"3"
+  },
+  {
+    "id":60003, "category":"Rarity", "name":"SSR", "value":"4"
+  },
+  {
+    "id":60004, "category":"Rarity", "name":"UR", "value":"5"
+  },
+  {
+    "id":60100, "category":"Myumon", "name":"LevelMax", "value":"100"
+  },
+  {
+    "id":60101, "category":"Myumon", "name":"HaveMax", "value":"500"
+  },
+  {
+    "id":60103, "category":"Myumon", "name":"PartnerLikeabilityDaily", "value":"10"
+  },
+  {
+    "id":60200, "category":"Genkai", "name":"SelectMax", "value":"5"
+  },
+  {
+    "id":60201, "category":"Genkai", "name":"ExpCoefficient", "value":"0.5"
+  },
+  {
+    "id":60202, "category":"Genkai", "name":"BonusCoefficient", "value":"2.5"
+  },
+  {
+    "id":60300, "category":"Kyouka", "name":"SelectMax", "value":"10"
+  },
+  {
+    "id":60400, "category":"CategoryMatchBonus", "name":"MatchBonus", "value":"1.2"
+  },
+  {
+    "id":60500, "category":"GenkaiExp", "name":"N", "value":"5"
+  },
+  {
+    "id":60501, "category":"GenkaiExp", "name":"R", "value":"10"
+  },
+  {
+    "id":60502, "category":"GenkaiExp", "name":"SR", "value":"50"
+  },
+  {
+    "id":60503, "category":"GenkaiExp", "name":"SSR", "value":"200"
+  },
+  {
+    "id":60504, "category":"GenkaiExp", "name":"UR", "value":"500"
+  },
+  {
+    "id":60601, "category":"MyumonSale", "name":"SelectMax", "value":"10"
+  },
+  {
+    "id":60700, "category":"MyumonStatus", "name":"All", "value":"0"
+  },
+  {
+    "id":60701, "category":"MyumonStatus", "name":"Life", "value":"1"
+  },
+  {
+    "id":60702, "category":"MyumonStatus", "name":"Rhythm", "value":"2"
+  },
+  {
+    "id":60703, "category":"MyumonStatus", "name":"Melody", "value":"3"
+  },
+  {
+    "id":60704, "category":"MyumonStatus", "name":"Harmony", "value":"4"
+  },
+  {
+    "id":60801, "category":"LikeabilityStage", "name":"Acquaintance", "value":"1"
+  },
+  {
+    "id":60802, "category":"LikeabilityStage", "name":"Friend", "value":"2"
+  },
+  {
+    "id":60803, "category":"LikeabilityStage", "name":"BestFriend", "value":"3"
+  },
+  {
+    "id":70000, "category":"Deck", "name":"SlotMax", "value":"5"
+  },
+  {
+    "id":70001, "category":"Deck", "name":"DefaultName", "value":"バンド%s"
+  },
+  {
+    "id":70002, "category":"Deck", "name":"NameSizeMin", "value":"0"
+  },
+  {
+    "id":70003, "category":"Deck", "name":"NameSizeMax", "value":"20"
+  },
+  {
+    "id":70100, "category":"DeckNo", "name":"NoChange", "value":"0"
+  },
+  {
+    "id":70101, "category":"DeckNo", "name":"Min", "value":"1"
+  },
+  {
+    "id":70102, "category":"DeckNo", "name":"Max", "value":"20"
+  },
+  {
+    "id":80000, "category":"FreeLiveStatus", "name":"Start", "value":"1"
+  },
+  {
+    "id":80001, "category":"FreeLiveStatus", "name":"End", "value":"2"
+  },
+  {
+    "id":100000, "category":"BattleLive", "name":"MaxUpdateScoreCount", "value":"3"
+  },
+  {
+    "id":100001, "category":"BattleLive", "name":"MaxLogSize", "value":"50"
+  },
+  {
+    "id":100002, "category":"BattleLive", "name":"ExpiredDay", "value":"10"
+  },
+  {
+    "id":100003, "category":"BattleLive", "name":"RandomMatchCandidateSize", "value":"100"
+  },
+  {
+    "id":100004, "category":"BattleLive", "name":"MaxRating", "value":"10000000"
+  },
+  {
+    "id":100005, "category":"BattleLive", "name":"MaxDefenceRatingCount", "value":"5"
+  },
+  {
+    "id":100006, "category":"BattleLive", "name":"DefenceWinRating", "value":"20"
+  },
+  {
+    "id":100007, "category":"BattleLive", "name":"RandomMatchShowSize", "value":"3"
+  },
+  {
+    "id":100008, "category":"BattleLive", "name":"MaxChallengeCount", "value":"5"
+  },
+  {
+    "id":100009, "category":"BattleLive", "name":"UpdateRivalInterval", "value":"5"
+  },
+  {
+    "id":100100, "category":"BattleLiveStatus", "name":"Start", "value":"1"
+  },
+  {
+    "id":100101, "category":"BattleLiveStatus", "name":"End", "value":"2"
+  },
+  {
+    "id":100102, "category":"BattleLiveStatus", "name":"Retire", "value":"3"
+  },
+  {
+    "id":100103, "category":"BattleLiveStatus", "name":"Abort", "value":"4"
+  },
+  {
+    "id":100200, "category":"BattleLiveCategory", "name":"Random", "value":"1"
+  },
+  {
+    "id":100201, "category":"BattleLiveCategory", "name":"Friend", "value":"2"
+  },
+  {
+    "id":100401, "category":"BattleLiveRankBonus", "name":"D", "value":"200"
+  },
+  {
+    "id":100402, "category":"BattleLiveRankBonus", "name":"C", "value":"250"
+  },
+  {
+    "id":100403, "category":"BattleLiveRankBonus", "name":"B", "value":"300"
+  },
+  {
+    "id":100404, "category":"BattleLiveRankBonus", "name":"A", "value":"400"
+  },
+  {
+    "id":100405, "category":"BattleLiveRankBonus", "name":"S", "value":"500"
+  },
+  {
+    "id":100501, "category":"BattleLiveRankBorder", "name":"D", "value":"0"
+  },
+  {
+    "id":100502, "category":"BattleLiveRankBorder", "name":"C", "value":"101"
+  },
+  {
+    "id":100503, "category":"BattleLiveRankBorder", "name":"B", "value":"501"
+  },
+  {
+    "id":100504, "category":"BattleLiveRankBorder", "name":"A", "value":"1501"
+  },
+  {
+    "id":100505, "category":"BattleLiveRankBorder", "name":"S", "value":"2501"
+  },
+  {
+    "id":120001, "category":"Dark", "name":"GuaranteeDamage", "value":"1"
+  },
+  {
+    "id":120002, "category":"Dark", "name":"BaseDamageRate", "value":"100"
+  },
+  {
+    "id":120003, "category":"Dark", "name":"BossFaintHp", "value":"1"
+  },
+  {
+    "id":120004, "category":"Dark", "name":"MaxLogSize", "value":"20"
+  },
+  {
+    "id":120005, "category":"Dark", "name":"StaminaCostGuest", "value":"1"
+  },
+  {
+    "id":120101, "category":"DarkBossStatus", "name":"Challenge", "value":"1"
+  },
+  {
+    "id":120102, "category":"DarkBossStatus", "name":"Win", "value":"2"
+  },
+  {
+    "id":120103, "category":"DarkBossStatus", "name":"Lose", "value":"3"
+  },
+  {
+    "id":120104, "category":"DarkBossStatus", "name":"Escape", "value":"4"
+  },
+  {
+    "id":120105, "category":"DarkBossStatus", "name":"Retire", "value":"5"
+  },
+  {
+    "id":120201, "category":"DarkPlayStatus", "name":"Start", "value":"1"
+  },
+  {
+    "id":120202, "category":"DarkPlayStatus", "name":"End", "value":"2"
+  },
+  {
+    "id":120301, "category":"DarkDamageBonus", "name":"Fail", "value":"1"
+  },
+  {
+    "id":120302, "category":"DarkDamageBonus", "name":"Normal", "value":"1.5"
+  },
+  {
+    "id":120303, "category":"DarkDamageBonus", "name":"FullCombo", "value":"1.7"
+  },
+  {
+    "id":120304, "category":"DarkDamageBonus", "name":"FullPerfect", "value":"2"
+  },
+  {
+    "id":120401, "category":"DarkGuestReward", "name":"D", "value":""
+  },
+  {
+    "id":120402, "category":"DarkGuestReward", "name":"C", "value":"[\"Item\", 50001, 100]"
+  },
+  {
+    "id":120403, "category":"DarkGuestReward", "name":"B", "value":"[\"Item\", 50001, 200]"
+  },
+  {
+    "id":120404, "category":"DarkGuestReward", "name":"A", "value":"[\"Item\", 50001, 300]"
+  },
+  {
+    "id":120405, "category":"DarkGuestReward", "name":"S", "value":"[\"Item\", 50001, 400]"
+  },
+  {
+    "id":120406, "category":"DarkGuestReward", "name":"SS", "value":"[\"Item\", 50001, 500]"
+  },
+  {
+    "id":120501, "category":"DarkMimicryLooks", "name":"Dummy", "value":"1"
+  },
+  {
+    "id":120502, "category":"DarkMimicryLooks", "name":"User", "value":"2"
+  },
+  {
+    "id":120503, "category":"DarkMimicryLooks", "name":"Monster", "value":"3"
+  },
+  {
+    "id":140001, "category":"LiveType", "name":"Free", "value":"1"
+  },
+  {
+    "id":140002, "category":"LiveType", "name":"Session", "value":"2"
+  },
+  {
+    "id":140003, "category":"LiveType", "name":"Battle", "value":"3"
+  },
+  {
+    "id":140004, "category":"LiveType", "name":"Dark", "value":"4"
+  },
+  {
+    "id":140201, "category":"LiveReasonCode", "name":"None", "value":"0"
+  },
+  {
+    "id":140202, "category":"LiveReasonCode", "name":"NotFoundBoss", "value":"1"
+  },
+  {
+    "id":140203, "category":"LiveReasonCode", "name":"AleadyWin", "value":"2"
+  },
+  {
+    "id":140204, "category":"LiveReasonCode", "name":"AleadyLose", "value":"3"
+  },
+  {
+    "id":140205, "category":"LiveReasonCode", "name":"AleadyEscape", "value":"4"
+  },
+  {
+    "id":140206, "category":"LiveReasonCode", "name":"AleadyRetire", "value":"5"
+  },
+  {
+    "id":140301, "category":"PlayRating", "name":"Coefficient", "value":"10000"
+  },
+  {
+    "id":140302, "category":"PlayRating", "name":"TallySize", "value":"10"
+  },
+  {
+    "id":140303, "category":"PlayRating", "name":"MaxRating", "value":"99999"
+  },
+  {
+    "id":140401, "category":"ScoreRank", "name":"D", "value":"1"
+  },
+  {
+    "id":140402, "category":"ScoreRank", "name":"C", "value":"2"
+  },
+  {
+    "id":140403, "category":"ScoreRank", "name":"B", "value":"3"
+  },
+  {
+    "id":140404, "category":"ScoreRank", "name":"A", "value":"4"
+  },
+  {
+    "id":140405, "category":"ScoreRank", "name":"S", "value":"5"
+  },
+  {
+    "id":140406, "category":"ScoreRank", "name":"SS", "value":"6"
+  },
+  {
+    "id":150001, "category":"ItemCategory", "name":"KyoukaExp", "value":"1"
+  },
+  {
+    "id":150002, "category":"ItemCategory", "name":"ShinkaExp", "value":"2"
+  },
+  {
+    "id":150003, "category":"ItemCategory", "name":"SkillLevel", "value":"3"
+  },
+  {
+    "id":150004, "category":"ItemCategory", "name":"GachaTicket", "value":"4"
+  },
+  {
+    "id":150005, "category":"ItemCategory", "name":"Soundle", "value":"5"
+  },
+  {
+    "id":150006, "category":"ItemCategory", "name":"Melodisian", "value":"6"
+  },
+  {
+    "id":150007, "category":"ItemCategory", "name":"DaishoCoin", "value":"7"
+  },
+  {
+    "id":150008, "category":"ItemCategory", "name":"BattlePoint", "value":"8"
+  },
+  {
+    "id":150009, "category":"ItemCategory", "name":"AutoTicket", "value":"9"
+  },
+  {
+    "id":150010, "category":"ItemCategory", "name":"GenkaiExp", "value":"10"
+  },
+  {
+    "id":150101, "category":"ItemId", "name":"Soundle", "value":"50001"
+  },
+  {
+    "id":150102, "category":"ItemId", "name":"Melodisian", "value":"60001"
+  },
+  {
+    "id":150103, "category":"ItemId", "name":"PaidMelodisian", "value":"60002"
+  },
+  {
+    "id":150104, "category":"ItemId", "name":"FreeMelodisian", "value":"60003"
+  },
+  {
+    "id":150105, "category":"ItemId", "name":"DaishoCoin", "value":"70001"
+  },
+  {
+    "id":150106, "category":"ItemId", "name":"BattlePoint", "value":"80001"
+  },
+  {
+    "id":150107, "category":"ItemId", "name":"AutoTicket", "value":"90001"
+  },
+  {
+    "id":160000, "category":"PresentBox", "name":"PerPage", "value":"20"
+  },
+  {
+    "id":160001, "category":"PresentBox", "name":"OpenedPerPage", "value":"100"
+  },
+  {
+    "id":160002, "category":"PresentBox", "name":"ReceiveMultipleMax", "value":"20"
+  },
+  {
+    "id":160003, "category":"PresentBox", "name":"DefaultLimitDay", "value":"30"
+  },
+  {
+    "id":160004, "category":"PresentBox", "name":"OpenedLimitDay", "value":"7"
+  },
+  {
+    "id":160101, "category":"PresentBoxStatus", "name":"Unopened", "value":"1"
+  },
+  {
+    "id":160102, "category":"PresentBoxStatus", "name":"Opened", "value":"2"
+  },
+  {
+    "id":160200, "category":"PresentBoxFilterLimit", "name":"All", "value":"0"
+  },
+  {
+    "id":160201, "category":"PresentBoxFilterLimit", "name":"Limit", "value":"1"
+  },
+  {
+    "id":160202, "category":"PresentBoxFilterLimit", "name":"Infinity", "value":"2"
+  },
+  {
+    "id":160300, "category":"PresentBoxFilterType", "name":"All", "value":"0"
+  },
+  {
+    "id":160301, "category":"PresentBoxFilterType", "name":"Item", "value":"1"
+  },
+  {
+    "id":160402, "category":"PresentBoxFilterType", "name":"Myumon", "value":"2"
+  },
+  {
+    "id":160503, "category":"PresentBoxFilterType", "name":"Melodisian", "value":"3"
+  },
+  {
+    "id":160504, "category":"PresentBoxFilterType", "name":"Other", "value":"99"
+  },
+  {
+    "id":170000, "category":"Friend", "name":"FollowMaxSize", "value":"100"
+  },
+  {
+    "id":170100, "category":"FriendStatus", "name":"Stranger", "value":"1"
+  },
+  {
+    "id":170101, "category":"FriendStatus", "name":"Follow", "value":"2"
+  },
+  {
+    "id":170102, "category":"FriendStatus", "name":"Follower", "value":"3"
+  },
+  {
+    "id":170103, "category":"FriendStatus", "name":"Friend", "value":"4"
+  },
+  {
+    "id":180100, "category":"StoryConditionCategory", "name":"ReadMainStory", "value":"ReadMainStory"
+  },
+  {
+    "id":180101, "category":"StoryConditionCategory", "name":"ReadArtistStory", "value":"ReadArtistStory"
+  },
+  {
+    "id":180102, "category":"StoryConditionCategory", "name":"ReadMyumonStory", "value":"ReadMyumonStory"
+  },
+  {
+    "id":180103, "category":"StoryConditionCategory", "name":"ReadAnimeStory", "value":"ReadAnimeStory"
+  },
+  {
+    "id":180104, "category":"StoryConditionCategory", "name":"ArtistLevel", "value":"ArtistLevel"
+  },
+  {
+    "id":180105, "category":"StoryConditionCategory", "name":"UserLevel", "value":"UserLevel"
+  },
+  {
+    "id":180106, "category":"StoryConditionCategory", "name":"HaveMusic", "value":"HaveMusic"
+  },
+  {
+    "id":180107, "category":"StoryConditionCategory", "name":"HaveMyumon", "value":"HaveMyumon"
+  },
+  {
+    "id":180108, "category":"StoryConditionCategory", "name":"MyumonGenkaiCount", "value":"MyumonGenkaiCount"
+  },
+  {
+    "id":180109, "category":"StoryConditionCategory", "name":"MyumonLikeability", "value":"MyumonLikeability"
+  },
+  {
+    "id":180200, "category":"StoryCategory", "name":"Main", "value":"1"
+  },
+  {
+    "id":180201, "category":"StoryCategory", "name":"Anime", "value":"2"
+  },
+  {
+    "id":180202, "category":"StoryCategory", "name":"Myumon", "value":"3"
+  },
+  {
+    "id":180203, "category":"StoryCategory", "name":"Artist", "value":"4"
+  },
+  {
+    "id":180204, "category":"StoryCategory", "name":"Short", "value":"5"
+  },
+  {
+    "id":180205, "category":"StoryCategory", "name":"Event", "value":"9"
+  },
+  {
+    "id":180301, "category":"ShortStory", "name":"DailyMaxArtistExp", "value":"500"
+  },
+  {
+    "id":180302, "category":"ShortStory", "name":"RewardArtistExp", "value":"10"
+  },
+  {
+    "id":190000, "category":"Town", "name":"OpenSpaceId", "value":"1"
+  },
+  {
+    "id":190001, "category":"Town", "name":"MaxProductSize", "value":"9999"
+  },
+  {
+    "id":190002, "category":"Town", "name":"MaxStaffSize", "value":"9999"
+  },
+  {
+    "id":190003, "category":"Town", "name":"CustomShopId", "value":"20000"
+  },
+  {
+    "id":190100, "category":"TownBuildingCategory", "name":"LiveHouse", "value":"1"
+  },
+  {
+    "id":190101, "category":"TownBuildingCategory", "name":"CustomShop", "value":"2"
+  },
+  {
+    "id":190102, "category":"TownBuildingCategory", "name":"Theater", "value":"3"
+  },
+  {
+    "id":190103, "category":"TownBuildingCategory", "name":"MiniShop", "value":"4"
+  },
+  {
+    "id":190104, "category":"TownBuildingCategory", "name":"OpenSpace", "value":"5"
+  },
+  {
+    "id":190200, "category":"TownBuildingSubCategory", "name":"None", "value":"0"
+  },
+  {
+    "id":190201, "category":"TownBuildingSubCategory", "name":"Cafe", "value":"1"
+  },
+  {
+    "id":190202, "category":"TownBuildingSubCategory", "name":"Music", "value":"2"
+  },
+  {
+    "id":190203, "category":"TownBuildingSubCategory", "name":"Restaurant", "value":"3"
+  },
+  {
+    "id":190204, "category":"TownBuildingSubCategory", "name":"Cloth", "value":"4"
+  },
+  {
+    "id":190300, "category":"TownFixSlot", "name":"LiveHouse", "value":"2"
+  },
+  {
+    "id":190301, "category":"TownFixSlot", "name":"CustomShop", "value":"1"
+  },
+  {
+    "id":190302, "category":"TownFixSlot", "name":"Theater", "value":"3"
+  },
+  {
+    "id":190400, "category":"TownBuildAction", "name":"Build", "value":"1"
+  },
+  {
+    "id":190401, "category":"TownBuildAction", "name":"Remove", "value":"2"
+  },
+  {
+    "id":190402, "category":"TownBuildAction", "name":"Rebuild", "value":"3"
+  },
+  {
+    "id":190500, "category":"TownStaffCategory", "name":"Dummy1", "value":"1"
+  },
+  {
+    "id":190501, "category":"TownStaffCategory", "name":"Dummy2", "value":"2"
+  },
+  {
+    "id":190600, "category":"MiniShop", "name":"SaleInterval", "value":"5"
+  },
+  {
+    "id":190601, "category":"MiniShop", "name":"SaleSoundle", "value":"1000"
+  },
+  {
+    "id":190602, "category":"MiniShop", "name":"SaleExp", "value":"100"
+  },
+  {
+    "id":190603, "category":"MiniShop", "name":"MaxSoundle", "value":"5005"
+  },
+  {
+    "id":190700, "category":"CustomShop", "name":"SaleInterval", "value":"5"
+  },
+  {
+    "id":190701, "category":"CustomShop", "name":"MaxSoundle", "value":"5005"
+  },
+  {
+    "id":190800, "category":"TownFixCategory", "name":"LiveHouse", "value":"1"
+  },
+  {
+    "id":190801, "category":"TownFixCategory", "name":"CustomShop", "value":"2"
+  },
+  {
+    "id":190802, "category":"TownFixCategory", "name":"Theater", "value":"3"
+  },
+  {
+    "id":190900, "category":"TownDefaultBuilding", "name":"LiveHouse", "value":"10000"
+  },
+  {
+    "id":190901, "category":"TownDefaultBuilding", "name":"CustomShop", "value":"20000"
+  },
+  {
+    "id":190902, "category":"TownDefaultBuilding", "name":"Theater", "value":"30000"
+  },
+  {
+    "id":190903, "category":"TownDefaultBuilding", "name":"OpenSpace", "value":"1"
+  },
+  {
+    "id":191000, "category":"TownProductAction", "name":"Sell", "value":"1"
+  },
+  {
+    "id":191001, "category":"TownProductAction", "name":"Disposal", "value":"2"
+  },
+  {
+    "id":191002, "category":"TownProductAction", "name":"Add", "value":"3"
+  },
+  {
+    "id":191101, "category":"TownLayerType", "name":"Background", "value":"Background"
+  },
+  {
+    "id":191102, "category":"TownLayerType", "name":"Road", "value":"Road"
+  },
+  {
+    "id":191103, "category":"TownLayerType", "name":"OnTheRoad", "value":"OnTheRoad"
+  },
+  {
+    "id":191104, "category":"TownLayerType", "name":"Building", "value":"Building"
+  },
+  {
+    "id":191105, "category":"TownLayerType", "name":"FrontBuilding", "value":"FrontBuilding"
+  },
+  {
+    "id":191106, "category":"TownLayerType", "name":"Myumon", "value":"Myumon"
+  },
+  {
+    "id":191107, "category":"TownLayerType", "name":"Fence", "value":"Fence"
+  },
+  {
+    "id":191108, "category":"TownLayerType", "name":"FrontFence", "value":"FrontFence"
+  },
+  {
+    "id":191201, "category":"TownscapeDefaultId", "name":"Background", "value":"1000"
+  },
+  {
+    "id":191202, "category":"TownscapeDefaultId", "name":"Road", "value":"2000"
+  },
+  {
+    "id":191203, "category":"TownscapeDefaultId", "name":"Fence", "value":"7000"
+  },
+  {
+    "id":200000, "category":"Gacha", "name":"DisplayDigit", "value":"5"
+  },
+  {
+    "id":200100, "category":"GachaCycle", "name":"All", "value":"1"
+  },
+  {
+    "id":200101, "category":"GachaCycle", "name":"Daily", "value":"2"
+  },
+  {
+    "id":200200, "category":"GachaLogic", "name":"None", "value":"0"
+  },
+  {
+    "id":200201, "category":"GachaLogic", "name":"Rarity", "value":"1"
+  },
+  {
+    "id":200300, "category":"GachaWeightType", "name":"Basic", "value":"1"
+  },
+  {
+    "id":200301, "category":"GachaWeightType", "name":"RarityKakutei", "value":"2"
+  },
+  {
+    "id":210000, "category":"LoginBonus", "name":"LimitDay", "value":"7"
+  },
+  {
+    "id":210100, "category":"LoginBonusCampaign", "name":"Normal", "value":"0"
+  },
+  {
+    "id":210101, "category":"LoginBonusCampaign", "name":"Campaign", "value":"1"
+  },
+  {
+    "id":210200, "category":"LoginBonusConditionType", "name":"None", "value":"0"
+  },
+  {
+    "id":210201, "category":"LoginBonusConditionType", "name":"StartDash", "value":"1"
+  },
+  {
+    "id":210202, "category":"LoginBonusConditionType", "name":"Comeback", "value":"2"
+  },
+  {
+    "id":220000, "category":"SkillKind", "name":"Normal", "value":"0"
+  },
+  {
+    "id":220001, "category":"SkillKind", "name":"Buff", "value":"1"
+  },
+  {
+    "id":220002, "category":"SkillKind", "name":"Support", "value":"2"
+  },
+  {
+    "id":220006, "category":"SkillKind", "name":"Special", "value":"6"
+  },
+  {
+    "id":220100, "category":"SkillType", "name":"NormalLifeRecovery", "value":"1"
+  },
+  {
+    "id":220101, "category":"SkillType", "name":"NormalScoreUp", "value":"2"
+  },
+  {
+    "id":220102, "category":"SkillType", "name":"NormalComboHelp", "value":"3"
+  },
+  {
+    "id":220103, "category":"SkillType", "name":"NormalPerfectHelp", "value":"4"
+  },
+  {
+    "id":220104, "category":"SkillType", "name":"NormalDamageCut", "value":"5"
+  },
+  {
+    "id":220105, "category":"SkillType", "name":"NormalOther", "value":"90"
+  },
+  {
+    "id":220106, "category":"SkillType", "name":"BuffStatusUp", "value":"101"
+  },
+  {
+    "id":220107, "category":"SkillType", "name":"BuffPerfectHelp", "value":"102"
+  },
+  {
+    "id":220108, "category":"SkillType", "name":"BuffDamageCut", "value":"103"
+  },
+  {
+    "id":220109, "category":"SkillType", "name":"BuffOther", "value":"190"
+  },
+  {
+    "id":220110, "category":"SkillType", "name":"SupportStatusUp", "value":"201"
+  },
+  {
+    "id":220111, "category":"SkillType", "name":"SupportAddCategory", "value":"202"
+  },
+  {
+    "id":220200, "category":"SkillConditionType", "name":"None", "value":"0"
+  },
+  {
+    "id":220201, "category":"SkillConditionType", "name":"Artist", "value":"100"
+  },
+  {
+    "id":220202, "category":"SkillConditionType", "name":"MyumonBasic", "value":"200"
+  },
+  {
+    "id":220203, "category":"SkillConditionType", "name":"DeckMyumonNum", "value":"300"
+  },
+  {
+    "id":230100, "category":"LiveHouseCategory", "name":"Stage", "value":"1"
+  },
+  {
+    "id":230101, "category":"LiveHouseCategory", "name":"MainSpeaker", "value":"2"
+  },
+  {
+    "id":230102, "category":"LiveHouseCategory", "name":"CenterSpeaker", "value":"3"
+  },
+  {
+    "id":230103, "category":"LiveHouseCategory", "name":"SideSpeaker", "value":"4"
+  },
+  {
+    "id":240101, "category":"MissionCategory", "name":"Normal", "value":"1"
+  },
+  {
+    "id":240102, "category":"MissionCategory", "name":"Daily", "value":"2"
+  },
+  {
+    "id":240103, "category":"MissionCategory", "name":"Weekly", "value":"3"
+  },
+  {
+    "id":240104, "category":"MissionCategory", "name":"Special", "value":"4"
+  },
+  {
+    "id":240201, "category":"MissionStatus", "name":"Open", "value":"0"
+  },
+  {
+    "id":240202, "category":"MissionStatus", "name":"Clear", "value":"1"
+  },
+  {
+    "id":240203, "category":"MissionStatus", "name":"End", "value":"2"
+  },
+  {
+    "id":240501, "category":"MissionCategoryName", "name":"Normal", "value":"ノーマル"
+  },
+  {
+    "id":240502, "category":"MissionCategoryName", "name":"Daily", "value":"デイリー"
+  },
+  {
+    "id":240503, "category":"MissionCategoryName", "name":"Weekly", "value":"ウィークリー"
+  },
+  {
+    "id":240504, "category":"MissionCategoryName", "name":"Special", "value":"特殊"
+  },
+  {
+    "id":250100, "category":"AvatarCategory", "name":"Head", "value":"1"
+  },
+  {
+    "id":250101, "category":"AvatarCategory", "name":"Upper", "value":"2"
+  },
+  {
+    "id":250102, "category":"AvatarCategory", "name":"Lower", "value":"3"
+  },
+  {
+    "id":260101, "category":"StoreCategory", "name":"Daily", "value":"1"
+  },
+  {
+    "id":260102, "category":"StoreCategory", "name":"ItemPack", "value":"2"
+  },
+  {
+    "id":260103, "category":"StoreCategory", "name":"Avatar", "value":"3"
+  },
+  {
+    "id":260104, "category":"StoreCategory", "name":"Music", "value":"4"
+  },
+  {
+    "id":260105, "category":"StoreCategory", "name":"LiveHouse", "value":"5"
+  },
+  {
+    "id":260106, "category":"StoreCategory", "name":"Townscape", "value":"6"
+  },
+  {
+    "id":260107, "category":"StoreCategory", "name":"DaishoCoin", "value":"7"
+  },
+  {
+    "id":260108, "category":"StoreCategory", "name":"BattlePoint", "value":"8"
+  },
+  {
+    "id":260201, "category":"StoreBuyLimitType", "name":"All", "value":"1"
+  },
+  {
+    "id":260202, "category":"StoreBuyLimitType", "name":"Daily", "value":"2"
+  },
+  {
+    "id":260203, "category":"StoreBuyLimitType", "name":"Weekly", "value":"3"
+  },
+  {
+    "id":260204, "category":"StoreBuyLimitType", "name":"Monthly", "value":"4"
+  },
+  {
+    "id":260301, "category":"StoreLineupUpdate", "name":"Max", "value":"5"
+  },
+  {
+    "id":260302, "category":"StoreLineupUpdate", "name":"CostItemId", "value":"60001"
+  },
+  {
+    "id":260303, "category":"StoreLineupUpdate", "name":"CostItemQuantity", "value":"50"
+  },
+  {
+    "id":260401, "category":"StoreConditionType", "name":"MainStory", "value":"1"
+  },
+  {
+    "id":260402, "category":"StoreConditionType", "name":"AnimeStory", "value":"2"
+  },
+  {
+    "id":260403, "category":"StoreConditionType", "name":"UserLevel", "value":"3"
+  },
+  {
+    "id":260404, "category":"StoreConditionType", "name":"ArtistLevel", "value":"4"
+  },
+  {
+    "id":270101, "category":"PaymentCurrency", "name":"Jpy", "value":"jpy"
+  },
+  {
+    "id":270102, "category":"PaymentCurrency", "name":"Usd", "value":"usd"
+  },
+  {
+    "id":270201, "category":"PaymentBuyLimitType", "name":"All", "value":"1"
+  },
+  {
+    "id":270202, "category":"PaymentBuyLimitType", "name":"Daily", "value":"2"
+  },
+  {
+    "id":270203, "category":"PaymentBuyLimitType", "name":"Weekly", "value":"3"
+  },
+  {
+    "id":270204, "category":"PaymentBuyLimitType", "name":"Monthly", "value":"4"
+  },
+  {
+    "id":270300, "category":"PaymentCheckResult", "name":"Ok", "value":"0"
+  },
+  {
+    "id":270301, "category":"PaymentCheckResult", "name":"Maintenance", "value":"1"
+  },
+  {
+    "id":270302, "category":"PaymentCheckResult", "name":"ContentClosed", "value":"2"
+  },
+  {
+    "id":270303, "category":"PaymentCheckResult", "name":"ItemHaveOver", "value":"3"
+  },
+  {
+    "id":270304, "category":"PaymentCheckResult", "name":"OverThisMonth", "value":"4"
+  },
+  {
+    "id":270305, "category":"PaymentCheckResult", "name":"BuyLimit", "value":"5"
+  },
+  {
+    "id":270306, "category":"PaymentCheckResult", "name":"NoFinished", "value":"6"
+  },
+  {
+    "id":270307, "category":"PaymentCheckResult", "name":"BridgeError", "value":"7"
+  },
+  {
+    "id":270400, "category":"PaymentBuyResult", "name":"Successful", "value":"0"
+  },
+  {
+    "id":270401, "category":"PaymentBuyResult", "name":"AlreadySuccessful", "value":"1"
+  },
+  {
+    "id":270402, "category":"PaymentBuyResult", "name":"TimedOut", "value":"2"
+  },
+  {
+    "id":270403, "category":"PaymentBuyResult", "name":"Failed", "value":"3"
+  },
+  {
+    "id":280001, "category":"TweetType", "name":"Profile", "value":"1"
+  },
+  {
+    "id":280002, "category":"TweetType", "name":"LiveResult", "value":"2"
+  },
+  {
+    "id":290101, "category":"AppealWordPlace", "name":"Gacha", "value":"1"
+  },
+  {
+    "id":300101, "category":"EventStoryCategory", "name":"Opening", "value":"1"
+  },
+  {
+    "id":300102, "category":"EventStoryCategory", "name":"Normal", "value":"2"
+  },
+  {
+    "id":300103, "category":"EventStoryCategory", "name":"Ending", "value":"3"
+  },
+  {
+    "id":300201, "category":"EventRankingCategory", "name":"Top", "value":"1"
+  },
+  {
+    "id":300202, "category":"EventRankingCategory", "name":"Self", "value":"2"
+  }
+]

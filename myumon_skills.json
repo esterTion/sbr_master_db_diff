@@ -1,0 +1,191 @@
+[
+  {
+    "id":1004, "name":"リカバー+++", "myumon_skill_effect_id":100, "effect_arg_no":10004, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":2003, "name":"リカバー++", "myumon_skill_effect_id":101, "effect_arg_no":10103, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":3002, "name":"リカバー+", "myumon_skill_effect_id":102, "effect_arg_no":10202, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":4001, "name":"リカバー", "myumon_skill_effect_id":103, "effect_arg_no":10301, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
+  },
+  {
+    "id":4002, "name":"リカバー", "myumon_skill_effect_id":103, "effect_arg_no":10301, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":10004, "name":"スコアUP+++", "myumon_skill_effect_id":200, "effect_arg_no":20004, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":10014, "name":"コンボUP+++", "myumon_skill_effect_id":200, "effect_arg_no":20014, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":10024, "name":"ダブルUP+++", "myumon_skill_effect_id":200, "effect_arg_no":20024, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":11003, "name":"スコアUP++", "myumon_skill_effect_id":201, "effect_arg_no":20103, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":11013, "name":"コンボUP++", "myumon_skill_effect_id":201, "effect_arg_no":20113, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":11023, "name":"ダブルUP++", "myumon_skill_effect_id":201, "effect_arg_no":20123, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":12002, "name":"スコアUP+", "myumon_skill_effect_id":202, "effect_arg_no":20202, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
+  },
+  {
+    "id":12003, "name":"スコアUP+", "myumon_skill_effect_id":202, "effect_arg_no":20202, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":12012, "name":"コンボUP+", "myumon_skill_effect_id":202, "effect_arg_no":20212, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
+  },
+  {
+    "id":12013, "name":"コンボUP+", "myumon_skill_effect_id":202, "effect_arg_no":20212, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":12022, "name":"ダブルUP+", "myumon_skill_effect_id":202, "effect_arg_no":20222, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
+  },
+  {
+    "id":13001, "name":"スコアUP", "myumon_skill_effect_id":203, "effect_arg_no":20301, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
+  },
+  {
+    "id":13011, "name":"コンボUP", "myumon_skill_effect_id":203, "effect_arg_no":20311, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
+  },
+  {
+    "id":13021, "name":"ダブルUP", "myumon_skill_effect_id":203, "effect_arg_no":20321, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
+  },
+  {
+    "id":20001, "name":"リズムスコアUP", "myumon_skill_effect_id":210, "effect_arg_no":21001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":20002, "name":"リズムスコアUP+", "myumon_skill_effect_id":210, "effect_arg_no":21002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":21001, "name":"メロディスコアUP", "myumon_skill_effect_id":211, "effect_arg_no":21101, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":21002, "name":"メロディスコアUP+", "myumon_skill_effect_id":211, "effect_arg_no":21102, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":22001, "name":"ハーモニースコアUP", "myumon_skill_effect_id":212, "effect_arg_no":21201, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":22002, "name":"ハーモニースコアUP+", "myumon_skill_effect_id":212, "effect_arg_no":21202, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":30001, "name":"タップスコアUP", "myumon_skill_effect_id":220, "effect_arg_no":22001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":30002, "name":"タップスコアUP+", "myumon_skill_effect_id":220, "effect_arg_no":22002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":31001, "name":"スワイプスコアUP", "myumon_skill_effect_id":221, "effect_arg_no":22101, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":31002, "name":"スワイプスコアUP+", "myumon_skill_effect_id":221, "effect_arg_no":22102, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":40001, "name":"コンボサポート", "myumon_skill_effect_id":301, "effect_arg_no":30001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":41002, "name":"コンボサポート+", "myumon_skill_effect_id":301, "effect_arg_no":30102, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":51003, "name":"Pサポート++", "myumon_skill_effect_id":401, "effect_arg_no":40103, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":52002, "name":"Pサポート+", "myumon_skill_effect_id":402, "effect_arg_no":40202, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":53001, "name":"Pサポート", "myumon_skill_effect_id":403, "effect_arg_no":40301, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":82001, "name":"オートP", "myumon_skill_effect_id":10203, "effect_arg_no":1020301, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":82002, "name":"オートP+", "myumon_skill_effect_id":10202, "effect_arg_no":1020202, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":100001, "name":"くいしばり", "myumon_skill_effect_id":10900, "effect_arg_no":1090001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":100002, "name":"くいしばり+", "myumon_skill_effect_id":10900, "effect_arg_no":1090002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110001, "name":"ライフサポート", "myumon_skill_effect_id":20001, "effect_arg_no":2000101, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
+  },
+  {
+    "id":110002, "name":"ライフサポート+", "myumon_skill_effect_id":20001, "effect_arg_no":2000102, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
+  },
+  {
+    "id":110003, "name":"ライフサポート++", "myumon_skill_effect_id":20001, "effect_arg_no":2000103, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110004, "name":"ライフサポート+++", "myumon_skill_effect_id":20001, "effect_arg_no":2000104, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110005, "name":"ライフサポート++++", "myumon_skill_effect_id":20001, "effect_arg_no":2000105, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110011, "name":"リズムサポート", "myumon_skill_effect_id":20001, "effect_arg_no":2000111, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
+  },
+  {
+    "id":110012, "name":"リズムサポート+", "myumon_skill_effect_id":20001, "effect_arg_no":2000112, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
+  },
+  {
+    "id":110013, "name":"リズムサポート++", "myumon_skill_effect_id":20001, "effect_arg_no":2000113, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110014, "name":"リズムサポート+++", "myumon_skill_effect_id":20001, "effect_arg_no":2000114, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110015, "name":"リズムサポート++++", "myumon_skill_effect_id":20001, "effect_arg_no":2000115, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110021, "name":"メロディサポート", "myumon_skill_effect_id":20001, "effect_arg_no":2000121, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
+  },
+  {
+    "id":110022, "name":"メロディサポート+", "myumon_skill_effect_id":20001, "effect_arg_no":2000122, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
+  },
+  {
+    "id":110023, "name":"メロディサポート++", "myumon_skill_effect_id":20001, "effect_arg_no":2000123, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110024, "name":"メロディサポート+++", "myumon_skill_effect_id":20001, "effect_arg_no":2000124, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110025, "name":"メロディサポート++++", "myumon_skill_effect_id":20001, "effect_arg_no":2000125, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110031, "name":"ハーモニーサポート", "myumon_skill_effect_id":20001, "effect_arg_no":2000131, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
+  },
+  {
+    "id":110032, "name":"ハーモニーサポート+", "myumon_skill_effect_id":20001, "effect_arg_no":2000132, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
+  },
+  {
+    "id":110033, "name":"ハーモニーサポート++", "myumon_skill_effect_id":20001, "effect_arg_no":2000133, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110034, "name":"ハーモニーサポート+++", "myumon_skill_effect_id":20001, "effect_arg_no":2000134, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110035, "name":"ハーモニーサポート++++", "myumon_skill_effect_id":20001, "effect_arg_no":2000135, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110041, "name":"オールサポート", "myumon_skill_effect_id":20001, "effect_arg_no":2000141, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
+  },
+  {
+    "id":110042, "name":"オールサポート+", "myumon_skill_effect_id":20001, "effect_arg_no":2000142, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
+  },
+  {
+    "id":110043, "name":"オールサポート++", "myumon_skill_effect_id":20001, "effect_arg_no":2000143, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110044, "name":"オールサポート+++", "myumon_skill_effect_id":20001, "effect_arg_no":2000145, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":110045, "name":"オールサポート++++", "myumon_skill_effect_id":20001, "effect_arg_no":2000146, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  }
+]

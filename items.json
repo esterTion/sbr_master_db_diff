@@ -1,0 +1,80 @@
+[
+  {
+    "id":10001, "category":1, "name":"トレーニングチケットS", "quantity_max":999, "ex_params":"{\"exp\":300}", "description":"ブロマイドにEXPを少し与えるチケットです"
+  },
+  {
+    "id":10002, "category":1, "name":"トレーニングチケットM", "quantity_max":999, "ex_params":"{\"exp\":1000}", "description":"ブロマイドにEXPを与えるチケットです"
+  },
+  {
+    "id":10003, "category":1, "name":"トレーニングチケットL", "quantity_max":999, "ex_params":"{\"exp\":5000}", "description":"ブロマイドにEXPをかなり与えるチケットです"
+  },
+  {
+    "id":20001, "category":2, "name":"ドキドキ魂S", "quantity_max":999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させる素材です"
+  },
+  {
+    "id":20002, "category":2, "name":"ドキドキ魂M", "quantity_max":999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させるレアな素材です"
+  },
+  {
+    "id":20003, "category":2, "name":"ドキドキ魂L", "quantity_max":999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させるすごくレアな素材です"
+  },
+  {
+    "id":20011, "category":2, "name":"ワクワク魂S", "quantity_max":999, "ex_params":"{}", "description":"ワクワクタイプを覚醒させる素材です"
+  },
+  {
+    "id":20012, "category":2, "name":"ワクワク魂M", "quantity_max":999, "ex_params":"{}", "description":"ワクワクタイプを覚醒させるレアな素材です"
+  },
+  {
+    "id":20013, "category":2, "name":"ワクワク魂L", "quantity_max":999, "ex_params":"{}", "description":"ワクワクタイプを覚醒させるすごくレアな素材です"
+  },
+  {
+    "id":20021, "category":2, "name":"キラキラ魂S", "quantity_max":999, "ex_params":"{}", "description":"キラキラタイプを覚醒させる素材です"
+  },
+  {
+    "id":20022, "category":2, "name":"キラキラ魂M", "quantity_max":999, "ex_params":"{}", "description":"キラキラタイプを覚醒させるレアな素材です"
+  },
+  {
+    "id":20023, "category":2, "name":"キラキラ魂L", "quantity_max":999, "ex_params":"{}", "description":"キラキラタイプを覚醒させるすごくレアな素材です"
+  },
+  {
+    "id":30001, "category":3, "name":"スキルの極意", "quantity_max":999, "ex_params":"{\"level\":1}", "description":"ブロマイドのスキルをアップさせる秘伝書です"
+  },
+  {
+    "id":40001, "category":4, "name":"69ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"ガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
+  },
+  {
+    "id":60001, "category":6, "name":"メロディシアン", "quantity_max":2000000, "ex_params":"{}", "description":"音楽エネルギーの結晶体です"
+  },
+  {
+    "id":60002, "category":6, "name":"メロディシアン", "quantity_max":999999, "ex_params":"{}", "description":"音楽エネルギーの結晶体です"
+  },
+  {
+    "id":60003, "category":6, "name":"メロディシアン", "quantity_max":999999, "ex_params":"{}", "description":"音楽エネルギーの結晶体です"
+  },
+  {
+    "id":70001, "category":7, "name":"ヤッピーメダル", "quantity_max":999999, "ex_params":"{}", "description":"ヤッピーストアで使える小さなメダルです"
+  },
+  {
+    "id":80001, "category":8, "name":"対バン.pt", "quantity_max":999999, "ex_params":"{}", "description":"対バンで活躍するともらえるポイントです"
+  },
+  {
+    "id":90001, "category":9, "name":"オートチケット", "quantity_max":999, "ex_params":"{}", "description":"オートプレイをするのに必要なチケットです"
+  },
+  {
+    "id":100001, "category":10, "name":"R限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":10}", "description":"突破EXPを少し与えるアイテムです"
+  },
+  {
+    "id":100002, "category":10, "name":"RR限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":30}", "description":"突破EXPを少し与えるアイテムです"
+  },
+  {
+    "id":100003, "category":10, "name":"SR限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":90}", "description":"突破EXPを与えるアイテムです"
+  },
+  {
+    "id":100004, "category":10, "name":"SSR限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":180}", "description":"突破EXPを与えるアイテムです"
+  },
+  {
+    "id":100005, "category":10, "name":"UR限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":360}", "description":"突破EXPをかなり与えるアイテムです"
+  }
+]

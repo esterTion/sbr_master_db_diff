@@ -1,0 +1,68 @@
+[
+  {
+    "id":1, "name":"空地", "category":5, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"ただの空地です。\nはやく何か建てましょう！", "townscape_id":5000
+  },
+  {
+    "id":10000, "name":"ボロいライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"ライブをするための場所です。\nオンボ…とっても年季を感じます。", "townscape_id":5001
+  },
+  {
+    "id":10001, "name":"普通のライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"ライブをするための場所です。\n「ハコ」と呼ぶと通ぽくてカッコいいかも！", "townscape_id":5001
+  },
+  {
+    "id":10002, "name":"ステキライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"ライブをするための場所です。\n大きなギターが特徴的で、\n地元の青年団からも好評らしいです。", "townscape_id":5001
+  },
+  {
+    "id":20000, "name":"ボロいグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":100000, "description":"グッズアイテムを売っているお店です。\n見た目と売上は…関係ないはず…。", "townscape_id":5002
+  },
+  {
+    "id":20001, "name":"普通のグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":100000, "description":"グッズアイテムを売っているお店です。\nバンドグッズをたくさん売って、\nサウンドルを稼ぎましょう！", "townscape_id":5002
+  },
+  {
+    "id":20002, "name":"ステキグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":100000, "description":"グッズアイテムを売っているお店です。\nとってもオシャレでステキな見た目！\n有名バンドグッズの品ぞろえも豊富。", "townscape_id":5002
+  },
+  {
+    "id":30000, "name":"ボロい映画館", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"キャラクター情報を見られる建物です。\n入るのに、ちょっぴり勇気がいります…。", "townscape_id":5003
+  },
+  {
+    "id":30001, "name":"普通の映画館", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"キャラクター情報を見られる建物です。\nクラシカルゥ〜な見た目の映画館。", "townscape_id":5003
+  },
+  {
+    "id":30002, "name":"ステキ映画館", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"キャラクター情報を見られる建物です。\nリッチかつゴージャスな見た目で\n町の定番おデートスポットになるかも？", "townscape_id":5003
+  },
+  {
+    "id":40100, "name":"古風なカフェ", "category":4, "sub_category":1, "interval_second":600, "sale_soundle":300, "sale_exp":3, "max_soundle":2000, "description":"古き良き味わいのある喫茶店です。\n町のみんなの憩いの場です。", "townscape_id":5004
+  },
+  {
+    "id":40101, "name":"普通のカフェ", "category":4, "sub_category":1, "interval_second":600, "sale_soundle":300, "sale_exp":3, "max_soundle":2000, "description":"オシャレな町のカフェです。\nケーキとコーヒーでお客様をお出迎え。", "townscape_id":5004
+  },
+  {
+    "id":40102, "name":"ステキなカフェ", "category":4, "sub_category":1, "interval_second":600, "sale_soundle":300, "sale_exp":3, "max_soundle":2000, "description":"リッチなカフェです。\n有名バンドメンがアイデアをイッメージする為にお忍びで通うとかなんとか。", "townscape_id":5004
+  },
+  {
+    "id":40200, "name":"ボロい楽器店", "category":4, "sub_category":2, "interval_second":3600, "sale_soundle":1400, "sale_exp":14, "max_soundle":8000, "description":"ちょっと、オンボロな楽器店です。\n見た目と違って、売ってる楽器はたぶん普通。", "townscape_id":5005
+  },
+  {
+    "id":40201, "name":"普通の楽器店", "category":4, "sub_category":2, "interval_second":3600, "sale_soundle":1400, "sale_exp":14, "max_soundle":8000, "description":"町の楽器店です。\nギター、ベース、ドラムにキーボード。\n一通りの商品が揃ってます。", "townscape_id":5005
+  },
+  {
+    "id":40202, "name":"ステキ楽器店", "category":4, "sub_category":2, "interval_second":3600, "sale_soundle":1400, "sale_exp":14, "max_soundle":8000, "description":"ゴージャスな楽器店です。\n年代モノのレアな楽器などなど、お高い商品も揃ってます。", "townscape_id":5005
+  },
+  {
+    "id":40300, "name":"古風な中華屋", "category":4, "sub_category":3, "interval_second":900, "sale_soundle":400, "sale_exp":4, "max_soundle":3500, "description":"昔ながらの中華屋さんです。\nホコリを被った食品サンプルと、店主の隠し味がロックです。", "townscape_id":5006
+  },
+  {
+    "id":40301, "name":"普通の中華屋", "category":4, "sub_category":3, "interval_second":900, "sale_soundle":400, "sale_exp":4, "max_soundle":3500, "description":"小綺麗な中華屋さんです。\nラーメン、餃子にカラアゲ、チャーハン、隠し味！", "townscape_id":5006
+  },
+  {
+    "id":40302, "name":"豪華な中華屋", "category":4, "sub_category":3, "interval_second":900, "sale_soundle":400, "sale_exp":4, "max_soundle":3500, "description":"リッチな中華料理屋さんです。4969年の歴史を感じる、本場の味を楽しめます。隠し味も更にパワーアップ！", "townscape_id":5006
+  },
+  {
+    "id":40400, "name":"古風な服屋", "category":4, "sub_category":4, "interval_second":1800, "sale_soundle":750, "sale_exp":7, "max_soundle":5000, "description":"昔からある服屋さんです。\n地元民御用達のオシャレ発信センターです。", "townscape_id":5007
+  },
+  {
+    "id":40401, "name":"普通の服屋", "category":4, "sub_category":4, "interval_second":1800, "sale_soundle":750, "sale_exp":7, "max_soundle":5000, "description":"カジュアルな服屋さんです。\nトレンドのナナメ上を攻める、いろんな洋服が置いてあります。", "townscape_id":5007
+  },
+  {
+    "id":40402, "name":"ステキな服屋", "category":4, "sub_category":4, "interval_second":1800, "sale_soundle":750, "sale_exp":7, "max_soundle":5000, "description":"ゴージャスでリッチな服屋さんです。\n有名ブランドのお高めでイヤホイな服が置いてあります。", "townscape_id":5007
+  }
+]

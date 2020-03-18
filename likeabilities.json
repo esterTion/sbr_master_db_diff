@@ -1,0 +1,20 @@
+[
+  {
+    "id":1, "likeability_min":0, "likeability_max":100, "rate":0, "stage":1, "stage_name":"あなたと知り合い"
+  },
+  {
+    "id":2, "likeability_min":101, "likeability_max":250, "rate":1, "stage":1, "stage_name":"あなたと知り合い"
+  },
+  {
+    "id":3, "likeability_min":251, "likeability_max":500, "rate":2, "stage":2, "stage_name":"あなたと友達"
+  },
+  {
+    "id":4, "likeability_min":501, "likeability_max":750, "rate":3, "stage":2, "stage_name":"あなたと友達"
+  },
+  {
+    "id":5, "likeability_min":751, "likeability_max":1000, "rate":4, "stage":2, "stage_name":"あなたと友達"
+  },
+  {
+    "id":6, "likeability_min":1001, "likeability_max":1250, "rate":5, "stage":3, "stage_name":"あなたと親友"
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "id":10001, "category":"Maintenance", "name":"DefaultMessage", "value":"現在メンテナンス中です。"
+  },
+  {
+    "id":10002, "category":"PaymentCheck", "name":"ContentClosed", "value":"こちらの商品は現在提供されておりません。"
+  },
+  {
+    "id":10003, "category":"PaymentCheck", "name":"ItemHaveOver", "value":"これ以上所持できないため購入できません。"
+  },
+  {
+    "id":10004, "category":"PaymentCheck", "name":"OverThisMonth", "value":"今月の課金額の上限を超えてしまうため購入できません。"
+  },
+  {
+    "id":10005, "category":"PaymentCheck", "name":"BridgeError", "value":"課金手続きに失敗しました。購入手続きを中止ます。"
+  },
+  {
+    "id":10006, "category":"PaymentCheck", "name":"BuyLimit", "value":"こちらの商品は現在購入できません。"
+  },
+  {
+    "id":10007, "category":"PaymentCheck", "name":"NoFinished", "value":"こちらの商品は現在購入できません。"
+  },
+  {
+    "id":10008, "category":"PaymentBuy", "name":"TimedOut", "value":"課金手続きに失敗しました。購入手続きを中止ます。"
+  },
+  {
+    "id":10009, "category":"PaymentBuy", "name":"Failed", "value":"課金手続きに失敗しました。購入手続きを中止ます。"
+  },
+  {
+    "id":10100, "category":"PresentBoxTitle", "name":"MyumonStoryReward", "value":"キャラクターストーリーの報酬です"
+  },
+  {
+    "id":10101, "category":"PresentBoxTitle", "name":"ArtistStoryReward", "value":"バンドエピソードの報酬です"
+  },
+  {
+    "id":10102, "category":"PresentBoxTitle", "name":"TownCollectSales", "value":"マイタウンの売上報酬です"
+  },
+  {
+    "id":10103, "category":"PresentBoxTitle", "name":"Gacha", "value":"「%s」で獲得しました。"
+  },
+  {
+    "id":10104, "category":"PresentBoxTitle", "name":"LoginBonus", "value":"%s%d日目のプレゼントです"
+  },
+  {
+    "id":10105, "category":"PresentBoxTitle", "name":"MainStoryReward", "value":"メインストーリーの報酬です"
+  },
+  {
+    "id":10106, "category":"PresentBoxTitle", "name":"AnimeStoryReward", "value":"アニメストーリーの報酬です"
+  },
+  {
+    "id":10107, "category":"PresentBoxTitle", "name":"ShortStoryReward", "value":"ショートストーリーの報酬です"
+  },
+  {
+    "id":10108, "category":"PresentBoxTitle", "name":"MissionReward", "value":"%sミッションの「%s」の報酬です"
+  },
+  {
+    "id":10109, "category":"PresentBoxTitle", "name":"DarkHostReward", "value":"ダークモンスター戦の討伐報酬です"
+  },
+  {
+    "id":10110, "category":"PresentBoxTitle", "name":"DarkGuestReward", "value":"ダークモンスター戦の応援報酬です"
+  },
+  {
+    "id":10111, "category":"PresentBoxTitle", "name":"Store", "value":"ショップ購入分です"
+  },
+  {
+    "id":10112, "category":"PresentBoxTitle", "name":"FreeLive", "value":"フリーライブの報酬です"
+  },
+  {
+    "id":10113, "category":"PresentBoxTitle", "name":"BattleLive", "value":"対バンの報酬です"
+  },
+  {
+    "id":10114, "category":"PresentBoxTitle", "name":"EventPointReward", "value":"イベント「%s」の%sイベントポイント達成報酬です"
+  },
+  {
+    "id":10115, "category":"PresentBoxTitle", "name":"PaymentBonus", "value":"%sを購入した際に所持できなかったおまけの無償メロディシアンです"
+  },
+  {
+    "id":10116, "category":"PresentBoxTitle", "name":"PaymentExtend", "value":"「%s」の商品です"
+  },
+  {
+    "id":10117, "category":"PresentBoxTitle", "name":"EventRankingReward", "value":"イベント「%s」のPtランキング%s位の報酬です"
+  },
+  {
+    "id":30100, "category":"StoryCondition", "name":"ReadMainStory", "value":"メインストーリーの{0}を読む"
+  },
+  {
+    "id":30101, "category":"StoryCondition", "name":"ReadArtistStory", "value":"{0}のエピソード「{1}」を読む"
+  },
+  {
+    "id":30102, "category":"StoryCondition", "name":"ReadMyumonStory", "value":"{0}のエピソード「{1}」を読む"
+  },
+  {
+    "id":30103, "category":"StoryCondition", "name":"ReadAnimeStory", "value":"69メモリーの{0}を読む"
+  },
+  {
+    "id":30104, "category":"StoryCondition", "name":"ArtistLevel", "value":"{0}のバンドランク{1}以上"
+  },
+  {
+    "id":30105, "category":"StoryCondition", "name":"UserLevel", "value":"プレイヤーランク{0}以上"
+  },
+  {
+    "id":30106, "category":"StoryCondition", "name":"HaveMusic", "value":"{0}を獲得"
+  },
+  {
+    "id":30107, "category":"StoryCondition", "name":"HaveMyumon", "value":"{0}を獲得"
+  },
+  {
+    "id":30108, "category":"StoryCondition", "name":"MyumonGenkaiCount", "value":"{0}を{1}回限界突破"
+  },
+  {
+    "id":30109, "category":"StoryCondition", "name":"MyumonLikeability", "value":"{0}の好感度{1}以上"
+  },
+  {
+    "id":30200, "category":"StoryTitle", "name":"BandEpisode", "value":"エピソード第"
+  },
+  {
+    "id":40000, "category":"MyumonParameter", "name":"LevelLarge", "value":"<size=89%>Lv.</size>{0}"
+  },
+  {
+    "id":40001, "category":"MyumonParameter", "name":"LevelSmall", "value":"<size=77.8%>Lv.</size>{0}"
+  },
+  {
+    "id":40010, "category":"MyumonParameter", "name":"MemberIndex", "value":"<size=77.8%>メンバー</size>{0}"
+  },
+  {
+    "id":40011, "category":"MyumonParameter", "name":"SupportIndex", "value":"<size=77.8%>サポート</size>{0}"
+  },
+  {
+    "id":40020, "category":"MyumonParameter", "name":"ParameterRaisedColor", "value":"#ff56b9"
+  },
+  {
+    "id":40021, "category":"MyumonParameter", "name":"ParameterLoweredColor", "value":"#5172ff"
+  },
+  {
+    "id":40022, "category":"MyumonParameter", "name":"ParameterDefaultColor", "value":"#505050"
+  },
+  {
+    "id":50001, "category":"SystemButton", "name":"Yes", "value":"はい"
+  },
+  {
+    "id":50002, "category":"SystemButton", "name":"No", "value":"いいえ"
+  },
+  {
+    "id":50003, "category":"SystemButton", "name":"Ok", "value":"OK"
+  },
+  {
+    "id":50004, "category":"SystemButton", "name":"Cancel", "value":"キャンセル"
+  },
+  {
+    "id":50005, "category":"SystemButton", "name":"Close", "value":"とじる"
+  },
+  {
+    "id":50006, "category":"SystemButton", "name":"Search", "value":"検索"
+  },
+  {
+    "id":50007, "category":"SystemButton", "name":"Confirmation", "value":"確認"
+  },
+  {
+    "id":50008, "category":"SystemButton", "name":"Setting", "value":"設定する"
+  },
+  {
+    "id":50009, "category":"SystemButton", "name":"Reflect", "value":"反映する"
+  },
+  {
+    "id":50101, "category":"SystemText", "name":"Sort", "value":"ソート"
+  },
+  {
+    "id":50102, "category":"SystemText", "name":"Filter", "value":"フィルタ"
+  },
+  {
+    "id":50103, "category":"SystemText", "name":"FilterOn", "value":"フィルタ：ON"
+  },
+  {
+    "id":50104, "category":"SystemText", "name":"FilterOff", "value":"フィルタ：OFF"
+  },
+  {
+    "id":50105, "category":"SystemText", "name":"SortFilter", "value":"ソート/フィルタ"
+  },
+  {
+    "id":50201, "category":"System", "name":"Slash", "value":"{0}/{1}"
+  },
+  {
+    "id":50202, "category":"System", "name":"Colon", "value":"{0}：{1}"
+  },
+  {
+    "id":50203, "category":"System", "name":"Tilde", "value":"{0} ～ {1}"
+  },
+  {
+    "id":50204, "category":"System", "name":"Quantity", "value":"×{0}"
+  },
+  {
+    "id":50205, "category":"System", "name":"Rate", "value":"{0}%"
+  },
+  {
+    "id":50206, "category":"System", "name":"Count", "value":"{0}回"
+  },
+  {
+    "id":50207, "category":"System", "name":"Minutes", "value":"{0}分"
+  },
+  {
+    "id":50208, "category":"System", "name":"Color", "value":"<color={0}>{1}</color>"
+  },
+  {
+    "id":50301, "category":"SystemText", "name":"Menu", "value":"メニュー"
+  },
+  {
+    "id":60001, "category":"DownloadProgressBar", "name":"Title", "value":"ダウンロード中"
+  },
+  {
+    "id":60101, "category":"DataDownloadDialog", "name":"Title", "value":"データダウンロード"
+  },
+  {
+    "id":60102, "category":"DataDownloadDialog", "name":"Body", "value":"追加データをダウンロードします\n約 {0} B"
+  },
+  {
+    "id":60201, "category":"DataDownloadFalseDialog", "name":"Body", "value":"データ取得に失敗しました"
+  },
+  {
+    "id":60202, "category":"DataDownloadFalseDialog", "name":"OkButton", "value":"進む"
+  },
+  {
+    "id":60301, "category":"SerifDownloadDialog", "name":"Title", "value":"セリフダウンロード中"
+  },
+  {
+    "id":60302, "category":"SerifDownloadDialog", "name":"Body", "value":"{0} ({1}キャラ目 / {2}キャラ中)"
+  },
+  {
+    "id":70001, "category":"ErrorDialog", "name":"Title", "value":"エラー"
+  },
+  {
+    "id":70002, "category":"ErrorDialog", "name":"Body", "value":"致命的なエラーが発生しました\nタイトルに戻ります"
+  },
+  {
+    "id":70101, "category":"ErrorCodeDialog", "name":"Title", "value":"エラーコード"
+  },
+  {
+    "id":70102, "category":"ErrorPostDialog", "name":"Body", "value":"通信エラー\nリトライしますか？"
+  },
+  {
+    "id":70103, "category":"ErrorPostDialog", "name":"ReturnTitleButton", "value":"タイトルに戻ります"
+  },
+  {
+    "id":80001, "category":"GachaDetail", "name":"RateDetailTitle", "value":"{0} {1}個 {2}"
+  },
+  {
+    "id":80002, "category":"GachaDetail", "name":"LotteryCount", "value":"◆抽選 {0}"
+  },
+  {
+    "id":80003, "category":"GachaDetail", "name":"PickupRarityNameFormat", "value":"{0}（ピックアップ）"
+  },
+  {
+    "id":80101, "category":"Gacha", "name":"GetItemCountText", "value":"アイテムを{0}枚獲得しました"
+  },
+  {
+    "id":80102, "category":"Gacha", "name":"GetCardCountText", "value":"ブロマイドを{0}枚獲得しました"
+  },
+  {
+    "id":90001, "category":"FriendSearchDialog", "name":"Title", "value":"フレンド検索"
+  },
+  {
+    "id":90002, "category":"FriendSearchDialog", "name":"Button", "value":"検索"
+  },
+  {
+    "id":90101, "category":"FriendSearchResultDialog", "name":"Title", "value":"検索エラー"
+  },
+  {
+    "id":90102, "category":"FriendSearchResultDialog", "name":"Body", "value":"指定したプレイヤーはフレンド内に存在しませんでした。"
+  },
+  {
+    "id":90201, "category":"FriendStatus", "name":"Stranger", "value":"---"
+  },
+  {
+    "id":90202, "category":"FriendStatus", "name":"Follower", "value":"あなたをフォロー中"
+  },
+  {
+    "id":90204, "category":"FriendStatus", "name":"Friend", "value":"フレンド"
+  },
+  {
+    "id":90301, "category":"Friend", "name":"FollowButton", "value":"フォローする"
+  },
+  {
+    "id":90302, "category":"Friend", "name":"UnfollowButton", "value":"フォロー解除"
+  },
+  {
+    "id":100001, "category":"BuildingDialog", "name":"MainTitle", "value":"変更する見た目をタッチ"
+  },
+  {
+    "id":100002, "category":"BuildingDialog", "name":"MiniShopTitle", "value":"建て替える建物をタッチ"
+  },
+  {
+    "id":100003, "category":"BuildingDialog", "name":"OpenSpaceTitle", "value":"建築する建物をタッチ"
+  },
+  {
+    "id":100004, "category":"BuildingDialog", "name":"MainBuildButton", "value":"見た目変更"
+  },
+  {
+    "id":100005, "category":"BuildingDialog", "name":"MiniShopBuildButton", "value":"建て替え"
+  },
+  {
+    "id":100006, "category":"BuildingDialog", "name":"MiniShopDestractionButton", "value":"空地にする"
+  },
+  {
+    "id":100007, "category":"BuildingDialog", "name":"OpenSpaceBuildButton", "value":"建てる"
+  },
+  {
+    "id":100101, "category":"BuildingConfirmationDialog", "name":"MainBody", "value":"見た目変更する?"
+  },
+  {
+    "id":100102, "category":"BuildingConfirmationDialog", "name":"MiniShopBody", "value":"建て替える？"
+  },
+  {
+    "id":100103, "category":"BuildingConfirmationDialog", "name":"OpenSpaceBody", "value":"建築する?"
+  },
+  {
+    "id":100104, "category":"BuildingConfirmationDialog", "name":"MiniShopRemovalBody", "value":"破壊しますがよろしいですか"
+  },
+  {
+    "id":100105, "category":"BuildingConfirmationDialog", "name":"MiniShopRemovalNgBody", "value":"収益があるため破壊できません"
+  },
+  {
+    "id":100201, "category":"BuildingResultDialog", "name":"CreateBody", "value":"設定した内容に反映しました"
+  },
+  {
+    "id":100202, "category":"BuildingResultDialog", "name":"RemovalBody", "value":"破壊しました"
+  },
+  {
+    "id":110001, "category":"MusicSortType", "name":"MusicName", "value":"曲名"
+  },
+  {
+    "id":110002, "category":"MusicSortType", "name":"MusicId", "value":"曲登録"
+  },
+  {
+    "id":110003, "category":"MusicSortType", "name":"MusicLevel", "value":"むずかしさ"
+  },
+  {
+    "id":110004, "category":"MusicSortType", "name":"MusicPlayDate", "value":"プレイ日時"
+  },
+  {
+    "id":110005, "category":"MusicSortType", "name":"HighScore", "value":"ハイスコア"
+  },
+  {
+    "id":110006, "category":"MusicSortType", "name":"MusicRanking", "value":"楽曲ランキング"
+  },
+  {
+    "id":110007, "category":"MusicSortType", "name":"ArtistsRanking", "value":"アーティストランキング"
+  },
+  {
+    "id":110008, "category":"MusicSortType", "name":"EvaluationRanking", "value":"評価ランキング"
+  },
+  {
+    "id":110101, "category":"MusicSelect", "name":"PlayRating", "value":"ウデマエレートはフリーライブで達成した\n上位10曲のハイスコアを元に計算される\nあなたの「ライブプレイの上手さ」を\n数値で表したものです。\nウデマエレートはミッション達成条件でも\nあるので、ライブの腕前を磨き、バンドを\n強化し、ハイスコアを獲得して、より高い\nウデマエレートを目指しましょう！"
+  },
+  {
+    "id":110201, "category":"Iyahoi", "name":"ShortOfIyahoi", "value":"イヤホイを回復しにいきますか？\n\n「いいえ」を選択すると不足した状態で\nプレイしますが、報酬量が減少します。"
+  },
+  {
+    "id":110301, "category":"LiveMission", "name":"MissionButton", "value":"ミッション:<color=#389be0>{0}</color>/{1}"
+  },
+  {
+    "id":110401, "category":"MusicReward", "name":"RewardText", "value":"新たに遊べるようになる楽曲です"
+  },
+  {
+    "id":120001, "category":"Store", "name":"RemainingNum", "value":"残り{0}回"
+  },
+  {
+    "id":120002, "category":"Store", "name":"RemainingNumDaily", "value":"本日残り{0}回"
+  },
+  {
+    "id":120003, "category":"Store", "name":"LimitDate", "value":"{0}まで"
+  },
+  {
+    "id":120004, "category":"Store", "name":"BuyButton", "value":"購入する"
+  },
+  {
+    "id":120005, "category":"Store", "name":"ConditionButton", "value":"購入条件"
+  },
+  {
+    "id":120006, "category":"Store", "name":"TransitionButton", "value":"ご購入は{0}へ!"
+  },
+  {
+    "id":120101, "category":"StoreName", "name":"Daily", "value":"ノーマルショップ"
+  },
+  {
+    "id":120102, "category":"StoreName", "name":"ItemPack", "value":"お得パックショップ"
+  },
+  {
+    "id":120103, "category":"StoreName", "name":"Avatar", "value":"アバター衣装ショップ"
+  },
+  {
+    "id":120104, "category":"StoreName", "name":"Music", "value":"楽曲ショップ"
+  },
+  {
+    "id":120105, "category":"StoreName", "name":"LiveHouse", "value":"ステージオブジェクトショップ"
+  },
+  {
+    "id":120106, "category":"StoreName", "name":"Townscape", "value":"タウンオブジェショップ"
+  },
+  {
+    "id":120107, "category":"StoreName", "name":"DaishoCoin", "value":"ヤッピーショップ"
+  },
+  {
+    "id":120108, "category":"StoreName", "name":"BattlePoint", "value":"対バンショップ"
+  },
+  {
+    "id":120201, "category":"StoreLineupUpdateDialog", "name":"Title", "value":"販売ラインナップ更新"
+  },
+  {
+    "id":120202, "category":"StoreLineupUpdateDialog", "name":"Inner", "value":"メロディシアン{0}個で商品ラインナップを更新しますか？"
+  },
+  {
+    "id":120301, "category":"StoreConfirmationDialog", "name":"MelodisianTitle", "value":"メロディシアンが不足しています"
+  },
+  {
+    "id":120302, "category":"StoreConfirmationDialog", "name":"MelodisianInner", "value":"新たにメロディシアンを購入しますか？"
+  },
+  {
+    "id":120303, "category":"StoreConfirmationDialog", "name":"CurrencyMissingTitle", "value":"通貨が不足しています"
+  },
+  {
+    "id":120304, "category":"StoreConfirmationDialog", "name":"CurrencyMissingInner", "value":"通貨が不足しているため、購入できません。"
+  },
+  {
+    "id":120305, "category":"StoreConfirmationDialog", "name":"LimitOverTitle", "value":"購入できません"
+  },
+  {
+    "id":120306, "category":"StoreConfirmationDialog", "name":"LimitOverInner", "value":"購入すると商品の所持上限を超えてしまいます。所持数を減らしてください。"
+  },
+  {
+    "id":120401, "category":"StoreConditionDialog", "name":"Title", "value":"購入条件"
+  },
+  {
+    "id":120501, "category":"CostItemSortage", "name":"Title", "value":"{0}不足・・・"
+  },
+  {
+    "id":120502, "category":"CostItemSortage", "name":"BodyMelodisian", "value":"<color=orange>{0}</color> が不足しています。\n追加で購入しますか？"
+  },
+  {
+    "id":120503, "category":"CostItemSortage", "name":"BodyOther", "value":"<color=orange>{0}</color> が不足しています。"
+  },
+  {
+    "id":120504, "category":"StoreBuyLimitType", "name":"Daily", "value":"本日"
+  },
+  {
+    "id":120505, "category":"StoreBuyLimitType", "name":"Weekly", "value":"今週"
+  },
+  {
+    "id":120506, "category":"StoreBuyLimitType", "name":"Monthly", "value":"今月"
+  },
+  {
+    "id":130001, "category":"MissionDialog", "name":"Title", "value":"ミッション"
+  },
+  {
+    "id":130101, "category":"MissionNewDialog", "name":"Title", "value":"新たなミッションが追加されました！"
+  },
+  {
+    "id":130201, "category":"MissionFailedReceiveDialog", "name":"Title", "value":"受け取れませんでした"
+  },
+  {
+    "id":130202, "category":"MissionFailedReceiveDialog", "name":"Body", "value":"期限を過ぎた報酬は受け取れません"
+  },
+  {
+    "id":130301, "category":"Mission", "name":"ReceiveButton", "value":"受け取る"
+  },
+  {
+    "id":130302, "category":"Mission", "name":"AllReceiveButton", "value":"まとめて受け取る"
+  },
+  {
+    "id":140001, "category":"AgeRegistration", "name":"Title", "value":"年齢確認"
+  },
+  {
+    "id":140002, "category":"AgeRegistration", "name":"Instruction", "value":"年齢によって1ヶ月の課金限度額が定められます。\nあなたの生年月を正しく入力してください。"
+  },
+  {
+    "id":140003, "category":"AgeRegistration", "name":"WarningRegisterAge", "value":"<color=#de4243>※一度登録した生年月は、後から変更できません。</color>"
+  },
+  {
+    "id":140004, "category":"AgeRegistration", "name":"Warning", "value":"<color=#de4243>※登録されている誕生月の翌月に1歳加算されます。</color>"
+  },
+  {
+    "id":140005, "category":"AgeRegistration", "name":"PurchaseLimitTitle01", "value":"{0}歳未満"
+  },
+  {
+    "id":140006, "category":"AgeRegistration", "name":"PurchaseLimitTitle02", "value":"{0}歳以上{1}歳未満"
+  },
+  {
+    "id":140007, "category":"AgeRegistration", "name":"PurchaseLimitTitle03", "value":"{0}歳以上"
+  },
+  {
+    "id":140008, "category":"AgeRegistration", "name":"PurchaseLimitBody01", "value":"1ヶ月{0:#,0}円まで"
+  },
+  {
+    "id":140009, "category":"AgeRegistration", "name":"PurchaseLimitBody02", "value":"1ヶ月{0:#,0}円まで"
+  },
+  {
+    "id":140010, "category":"AgeRegistration", "name":"PurchaseLimitBody03", "value":"制限なし"
+  },
+  {
+    "id":140020, "category":"UserMelodisian", "name":"Title", "value":"メロディシアン確認"
+  },
+  {
+    "id":140030, "category":"PurchaseSuccess", "name":"Title", "value":"商品を購入しました"
+  },
+  {
+    "id":140100, "category":"InitializeFailure", "name":"Title", "value":"エラーが発生しました"
+  },
+  {
+    "id":140101, "category":"InitializeFailure", "name":"Body", "value":"予期せぬエラーが発生したため\r\nメロディシアン購入画面を表示\r\nできませんでした。\r\n\r\n恐れ入りますがアプリを再起動し\r\n再びメロディシアン購入画面に\r\n入り直してください。"
+  },
+  {
+    "id":140102, "category":"NoProductAvailable", "name":"Title", "value":"商品がありません"
+  },
+  {
+    "id":140103, "category":"NoProductAvailable", "name":"Body", "value":"現在、販売中の商品はありません。"
+  },
+  {
+    "id":140200, "category":"PurchaseFailure", "name":"Title", "value":"予期せぬエラーが発生しました"
+  },
+  {
+    "id":140201, "category":"PurchaseFailure", "name":"Body", "value":"予期せぬエラーが発生したため\n購入処理に失敗しました。\n\n恐れ入りますがアプリを再起動し\n再びメロディシアン購入画面に\n入り直してください。"
+  },
+  {
+    "id":140202, "category":"UserCancelled", "name":"Title", "value":"商品の購入をキャンセルしました"
+  },
+  {
+    "id":140203, "category":"UserCancelled", "name":"Body", "value":"購入内容がゲームに反映されない場合は\n再度メロディシアン購入画面を\n開いてください。"
+  },
+  {
+    "id":140300, "category":"MelodisianPossessionLimit", "name":"Title", "value":"購入できません"
+  },
+  {
+    "id":140301, "category":"MelodisianPossessionLimit", "name":"Body", "value":"購入を実行するとメロディシアンの\n所持上限を超える為\n商品を購入することが\n出来ません"
+  },
+  {
+    "id":140400, "category":"IncompletePurchase", "name":"Title", "value":"予期せぬエラーが発生しました"
+  },
+  {
+    "id":140401, "category":"IncompletePurchase", "name":"Body", "value":"予期せぬエラーが発生したため\n購入処理に失敗しました。\n\n恐れ入りますがアプリを再起動し\n再びメロディシアン購入画面に\n入り直してください。"
+  },
+  {
+    "id":150001, "category":"Bonus", "name":"Empty", "value":"ボーナスなし"
+  },
+  {
+    "id":150002, "category":"Bonus", "name":"Exist", "value":"全ステータス＋{0}％"
+  },
+  {
+    "id":160001, "category":"Evolution", "name":"ConfirmDialogTitle", "value":"覚醒を実行しますか？"
+  },
+  {
+    "id":160002, "category":"Evolution", "name":"EvolvedDialogTitle", "value":"覚醒に成功しました！"
+  },
+  {
+    "id":170001, "category":"LimitOver", "name":"CompletionDialogTitle", "value":"限界突破が成功しました！"
+  },
+  {
+    "id":180001, "category":"EventPointDialog", "name":"TotalEventPointEarned", "value":"{0}.pt"
+  },
+  {
+    "id":180002, "category":"EventPointDialog", "name":"AddEventPoint", "value":"＋{0}.pt"
+  },
+  {
+    "id":180003, "category":"EventPointDialog", "name":"RewardRatio", "value":"獲得報酬{0}倍"
+  },
+  {
+    "id":180004, "category":"EventPointDialog", "name":"NextStoryNotice", "value":"あと<color=#FF56B9>{0}</color>.ptで「{1}」開放"
+  },
+  {
+    "id":190001, "category":"RemainingDate", "name":"Day", "value":"あと{0}日"
+  },
+  {
+    "id":190002, "category":"RemainingDate", "name":"Hour", "value":"あと{0}時間"
+  },
+  {
+    "id":190003, "category":"RemainingDate", "name":"Minutes", "value":"あと{0}分"
+  },
+  {
+    "id":190004, "category":"RemainingDate", "name":"LessThanMinutes", "value":"あと1分未満"
+  },
+  {
+    "id":190005, "category":"RemainingDate", "name":"End", "value":"終了"
+  },
+  {
+    "id":200001, "category":"MyumonSortType", "name":"TotalParameter", "value":"総合力"
+  },
+  {
+    "id":200002, "category":"MyumonSortType", "name":"Life", "value":"ライフ"
+  },
+  {
+    "id":200003, "category":"MyumonSortType", "name":"Rhythm", "value":"リズム"
+  },
+  {
+    "id":200004, "category":"MyumonSortType", "name":"Melody", "value":"メロディ"
+  },
+  {
+    "id":200005, "category":"MyumonSortType", "name":"Harmony", "value":"ハーモニー"
+  },
+  {
+    "id":200006, "category":"MyumonSortType", "name":"GotDate", "value":"入手順"
+  },
+  {
+    "id":200007, "category":"MyumonSortType", "name":"Rarity", "value":"レアリティ"
+  },
+  {
+    "id":200008, "category":"MyumonSortType", "name":"Level", "value":"レベル"
+  },
+  {
+    "id":200009, "category":"MyumonSortType", "name":"LimitOver", "value":"限界突破"
+  },
+  {
+    "id":200010, "category":"MyumonSortType", "name":"Like", "value":"好感度"
+  },
+  {
+    "id":200011, "category":"MyumonSortType", "name":"ArtistName", "value":"バンド名"
+  },
+  {
+    "id":200012, "category":"MyumonSortType", "name":"CharacterName", "value":"キャラクター名"
+  },
+  {
+    "id":200013, "category":"MyumonSortType", "name":"CardName", "value":"ブロマイド名"
+  },
+  {
+    "id":200014, "category":"MyumonSortType", "name":"ArtistID", "value":"バンド登録"
+  },
+  {
+    "id":200015, "category":"MyumonSortType", "name":"CharacterID", "value":"キャラクターID"
+  },
+  {
+    "id":200016, "category":"MyumonSortType", "name":"CardID", "value":"ブロマイドID"
+  },
+  {
+    "id":300001, "category":"DarkMonsterResult", "name":"DamageBonus", "value":"＋{0}%"
+  },
+  {
+    "id":310001, "category":"Profile", "name":"PostText", "value":"ショウバイロッカーです！よろしくお願いします！ \r\nsqex.to/IW5qE\r\n#ロッカーさんと繋がりたい"
+  },
+  {
+    "id":310002, "category":"Profile", "name":"PostUrl", "value":"empty"
+  },
+  {
+    "id":320001, "category":"GachaConfirm", "name":"Body", "value":"<color=orange>{0}</color> を <color=orange>{1}</color> 個消費して {2} を {3} 回実行します。よろしいですか？"
+  },
+  {
+    "id":330001, "category":"GachaBubble", "name":"LimitExecution", "value":"実行済み"
+  },
+  {
+    "id":340001, "category":"SkillCategory", "name":"Active", "value":"アクティブスキル"
+  },
+  {
+    "id":340002, "category":"SkillCategory", "name":"Passive", "value":"パッシブスキル"
+  },
+  {
+    "id":340003, "category":"SkillCategory", "name":"Support", "value":"サポートスキル"
+  },
+  {
+    "id":400000, "category":"StoreUrl", "name":"iOS", "value":"https://itunes.apple.com/app/id1485202694?action=write-review"
+  },
+  {
+    "id":400001, "category":"StoreUrl", "name":"Android", "value":"market://details?id=com.square_enix.android_googleplay.SB69Fes"
+  }
+]

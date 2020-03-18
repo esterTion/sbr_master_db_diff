@@ -1,0 +1,14 @@
+[
+  {
+    "id":1, "stamina_rate":0, "lot_count_min":2, "lot_count_max":2, "event_rate":1
+  },
+  {
+    "id":2, "stamina_rate":1, "lot_count_min":4, "lot_count_max":5, "event_rate":2.25
+  },
+  {
+    "id":3, "stamina_rate":2, "lot_count_min":7, "lot_count_max":11, "event_rate":4.5
+  },
+  {
+    "id":4, "stamina_rate":4, "lot_count_min":11, "lot_count_max":19, "event_rate":7.5
+  }
+]
