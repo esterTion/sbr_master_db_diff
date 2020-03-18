@@ -111,7 +111,7 @@
     "id":20015, "category":"UserSetup", "name":"TownProduct", "value":"{\"id\":[2001], \"quantity\":1}"
   },
   {
-    "id":20016, "category":"UserSetup", "name":"PresentItem", "value":"[{\"id\":60003,\"quantity\":1800,\"title\":\"事前登録20万人突破の達成報酬です\"},{\"id\":10001,\"quantity\":500,\"title\":\"事前登録20万人突破の達成報酬です\"}]"
+    "id":20016, "category":"UserSetup", "name":"PresentItem", "value":"[{\"id\":60003,\"quantity\":1800,\"title\":\"事前登録20万人突破の達成報酬です\"},{\"id\":10001,\"quantity\":500,\"title\":\"事前登録20万人突破の達成報酬です\"},{\"id\":100004,\"quantity\":2,\"title\":\"ユーザー数50万人突破を記念したプレゼントです\"}]"
   },
   {
     "id":40000, "category":"User", "name":"DefaultNickname", "value":"ロッカー"
@@ -495,19 +495,19 @@
     "id":120401, "category":"DarkGuestReward", "name":"D", "value":""
   },
   {
-    "id":120402, "category":"DarkGuestReward", "name":"C", "value":"[\"Item\", 50001, 100]"
+    "id":120402, "category":"DarkGuestReward", "name":"C", "value":"[\"Item\", 50001, 1500]"
   },
   {
-    "id":120403, "category":"DarkGuestReward", "name":"B", "value":"[\"Item\", 50001, 200]"
+    "id":120403, "category":"DarkGuestReward", "name":"B", "value":"[\"Item\", 50001, 1650]"
   },
   {
-    "id":120404, "category":"DarkGuestReward", "name":"A", "value":"[\"Item\", 50001, 300]"
+    "id":120404, "category":"DarkGuestReward", "name":"A", "value":"[\"Item\", 50001, 1800]"
   },
   {
-    "id":120405, "category":"DarkGuestReward", "name":"S", "value":"[\"Item\", 50001, 400]"
+    "id":120405, "category":"DarkGuestReward", "name":"S", "value":"[\"Item\", 50001, 2100]"
   },
   {
-    "id":120406, "category":"DarkGuestReward", "name":"SS", "value":"[\"Item\", 50001, 500]"
+    "id":120406, "category":"DarkGuestReward", "name":"SS", "value":"[\"Item\", 50001, 2400]"
   },
   {
     "id":120501, "category":"DarkMimicryLooks", "name":"Dummy", "value":"1"
