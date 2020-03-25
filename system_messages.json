@@ -513,6 +513,12 @@
     "id":140103, "category":"NoProductAvailable", "name":"Body", "value":"現在、販売中の商品はありません。"
   },
   {
+    "id":140104, "category":"PurchaseUnavailable", "name":"Title", "value":"メロディシアン購入画面を表示できません"
+  },
+  {
+    "id":140105, "category":"PurchaseUnavailable", "name":"Body", "value":"メロディシアン購入画面を表示\nできませんでした。\n\n端末の設定やアプリケーション\nストアのログイン状況などに\n問題がないかご確認ください。"
+  },
+  {
     "id":140200, "category":"PurchaseFailure", "name":"Title", "value":"予期せぬエラーが発生しました"
   },
   {
@@ -655,5 +661,8 @@
   },
   {
     "id":400001, "category":"StoreUrl", "name":"Android", "value":"market://details?id=com.square_enix.android_googleplay.SB69Fes"
+  },
+  {
+    "id":500001, "category":"ItemNameFormat", "name":"PaidMelodisian", "value":"有償{0}"
   }
 ]
