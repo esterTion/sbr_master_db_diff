@@ -642,7 +642,7 @@
     "id":310002, "category":"Profile", "name":"PostUrl", "value":"empty"
   },
   {
-    "id":320001, "category":"GachaConfirm", "name":"Body", "value":"<color=orange>{0}</color> を <color=orange>{1}</color> 個消費して {2} を {3} 回実行します。よろしいですか？"
+    "id":320001, "category":"GachaConfirm", "name":"Body", "value":"<color=orange>{0}</color> を <color=orange>{1}</color> {2}消費して {3} を {4} 回実行します。よろしいですか？"
   },
   {
     "id":330001, "category":"GachaBubble", "name":"LimitExecution", "value":"実行済み"
@@ -664,5 +664,11 @@
   },
   {
     "id":500001, "category":"ItemNameFormat", "name":"PaidMelodisian", "value":"有償{0}"
+  },
+  {
+    "id":600001, "category":"CounterSuffix", "name":"Item", "value":"個"
+  },
+  {
+    "id":600002, "category":"CounterSuffix", "name":"EventPoint", "value":".pt"
   }
 ]

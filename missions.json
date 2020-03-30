@@ -126,7 +126,7 @@
     "id":3000006, "category":3, "title":"自分以外のロッカーのタウンに訪問しよう", "detail":"マイタウンやフレンドから、自分以外のロッカーのタウンを訪問しよう", "add_condition_mission_id":0, "sort_order":6, "clear_condition_type":"town_show", "clear_condition_args":"0", "goal":1, "reward_no":13006, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":3000007, "category":3, "title":"69ガチャを実行しよう", "detail":"ガチャ から69ガチャを選択してブロマイドを獲得しよう", "add_condition_mission_id":0, "sort_order":7, "clear_condition_type":"gacha_exec", "clear_condition_args":"1001", "goal":1, "reward_no":13007, "destination_kind":5, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000007, "category":3, "title":"69ガチャを実行しよう", "detail":"ガチャ から69ガチャを選択してブロマイドを獲得しよう", "add_condition_mission_id":0, "sort_order":7, "clear_condition_type":"gacha_exec", "clear_condition_args":"[1001,1002]", "goal":1, "reward_no":13007, "destination_kind":5, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
     "id":3000008, "category":3, "title":"マイタウンで収益を10万サウンドル獲得しよう", "detail":"グッズショップでグッズを販売し、累計10万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":8, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":100000, "reward_no":13008, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
@@ -139,5 +139,20 @@
   },
   {
     "id":3000011, "category":3, "title":"ウイークリーミッションをすべてクリアしよう", "detail":"ウイークリーミッションの内容をすべてクリアしよう", "add_condition_mission_id":0, "sort_order":11, "clear_condition_type":"weekly_mission_all_clear", "clear_condition_args":"0", "goal":10, "reward_no":13011, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":4000001, "category":4, "title":"フリーライブで ユアウィスパー を5回プレイしよう", "detail":"フリーライブで楽曲 ユアウィスパー を累計5回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count", "clear_condition_args":"903", "goal":5, "reward_no":14001, "destination_kind":1, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2020/04/14 11:59:59 +09:00"
+  },
+  {
+    "id":4000002, "category":4, "title":"フリーライブで ジャスタウェイク を10回プレイしよう", "detail":"フリーライブで楽曲 ジャスタウェイク を累計10回プレイしよう", "add_condition_mission_id":0, "sort_order":2, "clear_condition_type":"music_play_count", "clear_condition_args":"902", "goal":10, "reward_no":14002, "destination_kind":1, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2020/04/14 11:59:59 +09:00"
+  },
+  {
+    "id":4000003, "category":4, "title":"ARCAREAFACT のバンドランクを2にしよう", "detail":"フリーライブをしたり、グッズを販売したりしてバンドEXPを獲得し、ARCAREAFACT のバンドランクを2にしよう", "add_condition_mission_id":0, "sort_order":3, "clear_condition_type":"artist_level", "clear_condition_args":"9", "goal":2, "reward_no":14003, "destination_kind":1, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2020/04/14 11:59:59 +09:00"
+  },
+  {
+    "id":4000004, "category":4, "title":"ARCAREAFACT登場記念 Pick Upガチャ を実行しよう", "detail":"ガチャ から ARCAREAFACT登場記念 Pick Upガチャ を選択してブロマイドを獲得しよう", "add_condition_mission_id":0, "sort_order":4, "clear_condition_type":"gacha_exec", "clear_condition_args":"[2004]", "goal":1, "reward_no":14004, "destination_kind":5, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2020/04/14 11:59:59 +09:00"
+  },
+  {
+    "id":4000005, "category":4, "title":"ARCAREAFACT登場記念ミッション をすべてクリアしよう", "detail":"ARCAREAFACT登場記念ミッション の内容をすべてクリアしよう", "add_condition_mission_id":0, "sort_order":5, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"0", "goal":4, "reward_no":14005, "destination_kind":0, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2020/04/14 11:59:59 +09:00"
   }
 ]
