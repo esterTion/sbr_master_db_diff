@@ -249,10 +249,16 @@
     "id":80003, "category":"GachaDetail", "name":"PickupRarityNameFormat", "value":"{0}（ピックアップ）"
   },
   {
-    "id":80101, "category":"Gacha", "name":"GetItemCountText", "value":"アイテムを{0}枚獲得しました"
+    "id":80101, "category":"Gacha", "name":"GetItemCountText", "value":"アイテムを{0}個獲得しました"
   },
   {
     "id":80102, "category":"Gacha", "name":"GetCardCountText", "value":"ブロマイドを{0}枚獲得しました"
+  },
+  {
+    "id":80103, "category":"Gacha", "name":"SentMyumonToPresentBox", "value":"所持上限を超えたブロマイドがプレゼントボックスに送られました"
+  },
+  {
+    "id":80104, "category":"Gacha", "name":"SentItemToPresentBox", "value":"所持上限を超えたアイテムがプレゼントボックスに送られました"
   },
   {
     "id":90001, "category":"FriendSearchDialog", "name":"Title", "value":"フレンド検索"
