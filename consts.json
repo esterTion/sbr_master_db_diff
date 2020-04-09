@@ -606,6 +606,9 @@
     "id":150010, "category":"ItemCategory", "name":"GenkaiExp", "value":"10"
   },
   {
+    "id":150011, "category":"ItemCategory", "name":"EventPoint", "value":"11"
+  },
+  {
     "id":150101, "category":"ItemId", "name":"Soundle", "value":"50001"
   },
   {
@@ -909,6 +912,12 @@
     "id":200301, "category":"GachaWeightType", "name":"RarityKakutei", "value":"2"
   },
   {
+    "id":200401, "category":"GachaCategory", "name":"Myumon", "value":"1"
+  },
+  {
+    "id":200402, "category":"GachaCategory", "name":"Item", "value":"2"
+  },
+  {
     "id":210000, "category":"LoginBonus", "name":"LimitDay", "value":"7"
   },
   {
@@ -1174,5 +1183,11 @@
   },
   {
     "id":300202, "category":"EventRankingCategory", "name":"Self", "value":"2"
+  },
+  {
+    "id":300301, "category":"EventPlayCategory", "name":"FreeLive", "value":"1"
+  },
+  {
+    "id":300302, "category":"EventPlayCategory", "name":"Dark", "value":"2"
   }
 ]
