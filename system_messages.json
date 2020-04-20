@@ -39,6 +39,9 @@
     "id":10103, "category":"PresentBoxTitle", "name":"Gacha", "value":"「%s」で獲得しました。"
   },
   {
+    "id":10104, "category":"PresentBoxTitle", "name":"GachaBonus", "value":"「%s」のおまけです。"
+  },
+  {
     "id":10105, "category":"PresentBoxTitle", "name":"LoginBonus", "value":"%s%d日目のプレゼントです"
   },
   {
@@ -573,7 +576,7 @@
     "id":180002, "category":"EventPointDialog", "name":"AddEventPoint", "value":"＋{0}.pt"
   },
   {
-    "id":180003, "category":"EventPointDialog", "name":"RewardRatio", "value":"獲得報酬{0}倍"
+    "id":180003, "category":"EventPointDialog", "name":"RewardRatio", "value":"×{0}倍"
   },
   {
     "id":180004, "category":"EventPointDialog", "name":"NextStoryNotice", "value":"あと<color=#FF56B9>{0}</color>.ptで「{1}」開放"

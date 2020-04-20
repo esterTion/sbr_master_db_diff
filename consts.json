@@ -519,6 +519,15 @@
     "id":120503, "category":"DarkMimicryLooks", "name":"Monster", "value":"3"
   },
   {
+    "id":120601, "category":"DarkRandomSupport", "name":"RequestUserCount", "value":"100"
+  },
+  {
+    "id":120602, "category":"DarkRandomSupport", "name":"RequestLimit", "value":"5"
+  },
+  {
+    "id":120603, "category":"DarkRandomSupport", "name":"RequestSeconds", "value":"300"
+  },
+  {
     "id":140001, "category":"LiveType", "name":"Free", "value":"1"
   },
   {
@@ -547,6 +556,12 @@
   },
   {
     "id":140206, "category":"LiveReasonCode", "name":"AleadyRetire", "value":"5"
+  },
+  {
+    "id":140207, "category":"LiveReasonCode", "name":"RandomSupportRequestCountLimit", "value":"6"
+  },
+  {
+    "id":140208, "category":"LiveReasonCode", "name":"RandomSupportRequestNeedInterval", "value":"7"
   },
   {
     "id":140301, "category":"PlayRating", "name":"Coefficient", "value":"10000"

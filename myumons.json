@@ -12,6 +12,12 @@
     "id":112001, "myumon_basic_id":11, "name":"[よーし、やるぞ♪＋]", "music_category":1, "rarity":3, "asset_id":1100, "mini_asset_id":1100, "life":165, "rhythm":1163, "melody":1249, "harmony":1631, "main_1_skill_id":3002, "main_2_skill_id":0, "support_skill_id":110003, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
   },
   {
+    "id":113000, "myumon_basic_id":11, "name":"[ほわわ！またやっちゃった！]", "music_category":1, "rarity":3, "asset_id":1100, "mini_asset_id":1100, "life":253, "rhythm":1180, "melody":1180, "harmony":1770, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":113001, "shinka_recipe_no":13, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
+  },
+  {
+    "id":113001, "myumon_basic_id":11, "name":"[ソロライブ！？やれるかなぁ…]", "music_category":1, "rarity":4, "asset_id":1100, "mini_asset_id":1100, "life":338, "rhythm":1576, "melody":1576, "harmony":2364, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
+  },
+  {
     "id":114000, "myumon_basic_id":11, "name":"[ほわぁ！あっちも行ってみようよ♪]", "music_category":1, "rarity":4, "asset_id":1101, "mini_asset_id":1101, "life":250, "rhythm":1506, "melody":1553, "harmony":2007, "main_1_skill_id":22001, "main_2_skill_id":82001, "support_skill_id":110004, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":114001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
   },
   {
@@ -88,6 +94,12 @@
   },
   {
     "id":212001, "myumon_basic_id":21, "name":"[みーんなの事が大好きにゃん♪＋]", "music_category":1, "rarity":3, "asset_id":2100, "mini_asset_id":2100, "life":189, "rhythm":1196, "melody":1472, "harmony":1206, "main_1_skill_id":3002, "main_2_skill_id":0, "support_skill_id":110003, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
+  },
+  {
+    "id":213000, "myumon_basic_id":21, "name":"[今日のライブも、頑張るにゃん♪]", "music_category":1, "rarity":3, "asset_id":2100, "mini_asset_id":2100, "life":211, "rhythm":1294, "melody":1257, "harmony":1871, "main_1_skill_id":30001, "main_2_skill_id":0, "support_skill_id":110043, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":213001, "shinka_recipe_no":13, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
+  },
+  {
+    "id":213001, "myumon_basic_id":21, "name":"[みんな、最高にぷるぷるにゃん！]", "music_category":1, "rarity":4, "asset_id":2100, "mini_asset_id":2100, "life":279, "rhythm":1704, "melody":1673, "harmony":2548, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110044, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
   },
   {
     "id":214000, "myumon_basic_id":21, "name":"[みんなでパジャマPartyにゃ♪]", "music_category":1, "rarity":4, "asset_id":2101, "mini_asset_id":2101, "life":349, "rhythm":2113, "melody":2817, "harmony":1987, "main_1_skill_id":31001, "main_2_skill_id":0, "support_skill_id":110004, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":214001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
@@ -582,6 +594,12 @@
     "id":823001, "myumon_basic_id":82, "name":"[トライクロニカ☆スターライブ]", "music_category":2, "rarity":4, "asset_id":8200, "mini_asset_id":8200, "life":356, "rhythm":2494, "melody":1870, "harmony":1939, "main_1_skill_id":41002, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「カイ」のブロマイドです"
   },
   {
+    "id":824000, "myumon_basic_id":82, "name":"[オレのプレシャス☆ブロマイド！]", "music_category":1, "rarity":4, "asset_id":8201, "mini_asset_id":8201, "life":382, "rhythm":2152, "melody":2101, "harmony":3802, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":824001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「カイ」のブロマイドです"
+  },
+  {
+    "id":824001, "myumon_basic_id":82, "name":"[レッツビギン！夢銀河☆ステージ！]", "music_category":1, "rarity":5, "asset_id":8201, "mini_asset_id":8201, "life":480, "rhythm":2658, "melody":2604, "harmony":4545, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「カイ」のブロマイドです"
+  },
+  {
     "id":831000, "myumon_basic_id":83, "name":"[Trichronika]", "music_category":1, "rarity":1, "asset_id":8300, "mini_asset_id":8300, "life":99, "rhythm":892, "melody":586, "harmony":627, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":831001, "shinka_recipe_no":11, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「リク」のブロマイドです"
   },
   {
@@ -598,6 +616,12 @@
   },
   {
     "id":833001, "myumon_basic_id":83, "name":"[トライクロニカ☆スターライブ]", "music_category":1, "rarity":4, "asset_id":8300, "mini_asset_id":8300, "life":223, "rhythm":2165, "melody":1604, "harmony":1484, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「リク」のブロマイドです"
+  },
+  {
+    "id":834000, "myumon_basic_id":83, "name":"[いつかシュウ☆ゾーくんのように]", "music_category":1, "rarity":4, "asset_id":8301, "mini_asset_id":8301, "life":387, "rhythm":2120, "melody":2101, "harmony":3803, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":834001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「リク」のブロマイドです"
+  },
+  {
+    "id":834001, "myumon_basic_id":83, "name":"[レッツビギン！夢銀河☆ステージ！]", "music_category":1, "rarity":5, "asset_id":8301, "mini_asset_id":8301, "life":465, "rhythm":2582, "melody":2687, "harmony":4645, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「リク」のブロマイドです"
   },
   {
     "id":911000, "myumon_basic_id":91, "name":"[ARCAREAFACT]", "music_category":3, "rarity":1, "asset_id":9100, "mini_asset_id":9100, "life":99, "rhythm":628, "melody":833, "harmony":643, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":911001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「チタン」のブロマイドです"

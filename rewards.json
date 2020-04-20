@@ -1,5 +1,23 @@
 [
   {
+    "id":90001, "reward_no":900, "content_type":"Item", "content_id":10003, "min_quantity":20, "max_quantity":20, "rate":100
+  },
+  {
+    "id":90101, "reward_no":901, "content_type":"Item", "content_id":20003, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90102, "reward_no":901, "content_type":"Item", "content_id":20013, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90103, "reward_no":901, "content_type":"Item", "content_id":20023, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90201, "reward_no":902, "content_type":"Item", "content_id":30001, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90301, "reward_no":903, "content_type":"Item", "content_id":10003, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
     "id":100101, "reward_no":1001, "content_type":"Item", "content_id":60003, "min_quantity":30, "max_quantity":30, "rate":100
   },
   {
@@ -258,6 +276,27 @@
     "id":201014, "reward_no":2010, "content_type":"Item", "content_id":60003, "min_quantity":600, "max_quantity":600, "rate":100
   },
   {
+    "id":201015, "reward_no":2010, "content_type":"Item", "content_id":40001, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":201016, "reward_no":2010, "content_type":"Item", "content_id":50001, "min_quantity":390000, "max_quantity":390000, "rate":100
+  },
+  {
+    "id":201017, "reward_no":2010, "content_type":"Item", "content_id":10003, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":201018, "reward_no":2010, "content_type":"Item", "content_id":100002, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":201019, "reward_no":2010, "content_type":"Item", "content_id":10003, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":201020, "reward_no":2010, "content_type":"Item", "content_id":100003, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":201021, "reward_no":2010, "content_type":"Item", "content_id":50001, "min_quantity":690000, "max_quantity":690000, "rate":100
+  },
+  {
     "id":221101, "reward_no":2211, "content_type":"Item", "content_id":50001, "min_quantity":1000, "max_quantity":1000, "rate":100
   },
   {
@@ -364,6 +403,42 @@
   },
   {
     "id":311201, "reward_no":3112, "content_type":"Item", "content_id":50001, "min_quantity":15000, "max_quantity":15000, "rate":100
+  },
+  {
+    "id":311301, "reward_no":3113, "content_type":"Item", "content_id":50001, "min_quantity":500, "max_quantity":500, "rate":100
+  },
+  {
+    "id":311401, "reward_no":3114, "content_type":"Item", "content_id":50001, "min_quantity":550, "max_quantity":550, "rate":100
+  },
+  {
+    "id":311501, "reward_no":3115, "content_type":"Item", "content_id":50001, "min_quantity":600, "max_quantity":600, "rate":100
+  },
+  {
+    "id":311601, "reward_no":3116, "content_type":"Item", "content_id":50001, "min_quantity":700, "max_quantity":700, "rate":100
+  },
+  {
+    "id":311701, "reward_no":3117, "content_type":"Item", "content_id":50001, "min_quantity":800, "max_quantity":800, "rate":100
+  },
+  {
+    "id":340101, "reward_no":3401, "content_type":"TownProduct", "content_id":8005, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":340201, "reward_no":3402, "content_type":"TownProduct", "content_id":8005, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":340301, "reward_no":3403, "content_type":"TownProduct", "content_id":8005, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":340401, "reward_no":3404, "content_type":"TownProduct", "content_id":8005, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":340501, "reward_no":3405, "content_type":"TownProduct", "content_id":8005, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":340601, "reward_no":3406, "content_type":"TownProduct", "content_id":8005, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":340701, "reward_no":3407, "content_type":"TownProduct", "content_id":8004, "min_quantity":3, "max_quantity":3, "rate":100
   },
   {
     "id":1100101, "reward_no":11001, "content_type":"Item", "content_id":60003, "min_quantity":300, "max_quantity":300, "rate":100
@@ -2488,5 +2563,752 @@
   },
   {
     "id":90321015, "reward_no":903210, "content_type":"Item", "content_id":20023, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90410101, "reward_no":904101, "content_type":"Item", "content_id":40001, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90410201, "reward_no":904102, "content_type":"Item", "content_id":10001, "min_quantity":50, "max_quantity":50, "rate":100
+  },
+  {
+    "id":90410301, "reward_no":904103, "content_type":"Item", "content_id":10002, "min_quantity":25, "max_quantity":25, "rate":100
+  },
+  {
+    "id":90410401, "reward_no":904104, "content_type":"Item", "content_id":10003, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90410501, "reward_no":904105, "content_type":"Item", "content_id":20011, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90410601, "reward_no":904106, "content_type":"Item", "content_id":20001, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90410701, "reward_no":904107, "content_type":"Item", "content_id":20021, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90410801, "reward_no":904108, "content_type":"Item", "content_id":20012, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90410901, "reward_no":904109, "content_type":"Item", "content_id":20002, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90411001, "reward_no":904110, "content_type":"Item", "content_id":20022, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90411101, "reward_no":904111, "content_type":"Item", "content_id":20013, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90411201, "reward_no":904112, "content_type":"Item", "content_id":20003, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90411301, "reward_no":904113, "content_type":"Item", "content_id":20023, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90411401, "reward_no":904114, "content_type":"Item", "content_id":50001, "min_quantity":250000, "max_quantity":250000, "rate":100
+  },
+  {
+    "id":90411501, "reward_no":904115, "content_type":"Item", "content_id":60003, "min_quantity":400, "max_quantity":400, "rate":100
+  },
+  {
+    "id":90411601, "reward_no":904116, "content_type":"TownProduct", "content_id":8005, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90411701, "reward_no":904117, "content_type":"Item", "content_id":40001, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90411801, "reward_no":904118, "content_type":"Item", "content_id":10001, "min_quantity":50, "max_quantity":50, "rate":100
+  },
+  {
+    "id":90411901, "reward_no":904119, "content_type":"Item", "content_id":10002, "min_quantity":25, "max_quantity":25, "rate":100
+  },
+  {
+    "id":90412001, "reward_no":904120, "content_type":"Item", "content_id":10003, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90412101, "reward_no":904121, "content_type":"Item", "content_id":20011, "min_quantity":16, "max_quantity":16, "rate":100
+  },
+  {
+    "id":90412201, "reward_no":904122, "content_type":"Item", "content_id":20001, "min_quantity":16, "max_quantity":16, "rate":100
+  },
+  {
+    "id":90412301, "reward_no":904123, "content_type":"Item", "content_id":20021, "min_quantity":16, "max_quantity":16, "rate":100
+  },
+  {
+    "id":90412401, "reward_no":904124, "content_type":"Item", "content_id":20012, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90412501, "reward_no":904125, "content_type":"Item", "content_id":20002, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90412601, "reward_no":904126, "content_type":"Item", "content_id":20022, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90412701, "reward_no":904127, "content_type":"Item", "content_id":20013, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90412801, "reward_no":904128, "content_type":"Item", "content_id":20003, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90412901, "reward_no":904129, "content_type":"Item", "content_id":20023, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90413001, "reward_no":904130, "content_type":"Item", "content_id":50001, "min_quantity":250000, "max_quantity":250000, "rate":100
+  },
+  {
+    "id":90413101, "reward_no":904131, "content_type":"Item", "content_id":60003, "min_quantity":500, "max_quantity":500, "rate":100
+  },
+  {
+    "id":90413201, "reward_no":904132, "content_type":"TownProduct", "content_id":8005, "min_quantity":20, "max_quantity":20, "rate":100
+  },
+  {
+    "id":90413301, "reward_no":904133, "content_type":"Item", "content_id":40001, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90413401, "reward_no":904134, "content_type":"Item", "content_id":10001, "min_quantity":50, "max_quantity":50, "rate":100
+  },
+  {
+    "id":90413501, "reward_no":904135, "content_type":"Item", "content_id":10002, "min_quantity":25, "max_quantity":25, "rate":100
+  },
+  {
+    "id":90413601, "reward_no":904136, "content_type":"Item", "content_id":10003, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90413701, "reward_no":904137, "content_type":"Item", "content_id":100001, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90413801, "reward_no":904138, "content_type":"Item", "content_id":100002, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90413901, "reward_no":904139, "content_type":"Item", "content_id":100003, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90414001, "reward_no":904140, "content_type":"TownProduct", "content_id":8005, "min_quantity":20, "max_quantity":20, "rate":100
+  },
+  {
+    "id":90414101, "reward_no":904141, "content_type":"Item", "content_id":20002, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90414201, "reward_no":904142, "content_type":"Item", "content_id":20022, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90414301, "reward_no":904143, "content_type":"Item", "content_id":20013, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90414401, "reward_no":904144, "content_type":"Item", "content_id":20003, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90414501, "reward_no":904145, "content_type":"Item", "content_id":20023, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90414601, "reward_no":904146, "content_type":"Item", "content_id":50001, "min_quantity":250000, "max_quantity":250000, "rate":100
+  },
+  {
+    "id":90414701, "reward_no":904147, "content_type":"Item", "content_id":60003, "min_quantity":400, "max_quantity":400, "rate":100
+  },
+  {
+    "id":90414801, "reward_no":904148, "content_type":"TownProduct", "content_id":8005, "min_quantity":30, "max_quantity":30, "rate":100
+  },
+  {
+    "id":90414901, "reward_no":904149, "content_type":"Item", "content_id":40001, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90415001, "reward_no":904150, "content_type":"Item", "content_id":10001, "min_quantity":50, "max_quantity":50, "rate":100
+  },
+  {
+    "id":90415101, "reward_no":904151, "content_type":"Item", "content_id":10002, "min_quantity":25, "max_quantity":25, "rate":100
+  },
+  {
+    "id":90415201, "reward_no":904152, "content_type":"Item", "content_id":10003, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90415301, "reward_no":904153, "content_type":"Item", "content_id":100001, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90415401, "reward_no":904154, "content_type":"Item", "content_id":100002, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90415501, "reward_no":904155, "content_type":"Item", "content_id":100003, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90415601, "reward_no":904156, "content_type":"Item", "content_id":100004, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90415701, "reward_no":904157, "content_type":"Item", "content_id":20002, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90415801, "reward_no":904158, "content_type":"Item", "content_id":20022, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90415901, "reward_no":904159, "content_type":"Item", "content_id":20013, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90416001, "reward_no":904160, "content_type":"Item", "content_id":20003, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90416101, "reward_no":904161, "content_type":"Item", "content_id":20023, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90416201, "reward_no":904162, "content_type":"Item", "content_id":50001, "min_quantity":250000, "max_quantity":250000, "rate":100
+  },
+  {
+    "id":90416301, "reward_no":904163, "content_type":"Item", "content_id":60003, "min_quantity":500, "max_quantity":500, "rate":100
+  },
+  {
+    "id":90416401, "reward_no":904164, "content_type":"TownProduct", "content_id":8005, "min_quantity":70, "max_quantity":70, "rate":100
+  },
+  {
+    "id":90416501, "reward_no":904165, "content_type":"Item", "content_id":30001, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90416601, "reward_no":904166, "content_type":"Item", "content_id":100001, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90416701, "reward_no":904167, "content_type":"Item", "content_id":100002, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90416801, "reward_no":904168, "content_type":"Item", "content_id":100003, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90416901, "reward_no":904169, "content_type":"Item", "content_id":100004, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420101, "reward_no":904201, "content_type":"AvatarItem", "content_id":11021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420102, "reward_no":904201, "content_type":"AvatarItem", "content_id":11022, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420103, "reward_no":904201, "content_type":"AvatarItem", "content_id":21021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420104, "reward_no":904201, "content_type":"AvatarItem", "content_id":31021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420105, "reward_no":904201, "content_type":"Item", "content_id":30001, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420106, "reward_no":904201, "content_type":"Item", "content_id":100004, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420107, "reward_no":904201, "content_type":"Item", "content_id":100003, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90420108, "reward_no":904201, "content_type":"Item", "content_id":100002, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420109, "reward_no":904201, "content_type":"Item", "content_id":100001, "min_quantity":20, "max_quantity":20, "rate":100
+  },
+  {
+    "id":90420110, "reward_no":904201, "content_type":"Item", "content_id":40001, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90420111, "reward_no":904201, "content_type":"Item", "content_id":10001, "min_quantity":100, "max_quantity":100, "rate":100
+  },
+  {
+    "id":90420112, "reward_no":904201, "content_type":"Item", "content_id":10002, "min_quantity":50, "max_quantity":50, "rate":100
+  },
+  {
+    "id":90420113, "reward_no":904201, "content_type":"Item", "content_id":10003, "min_quantity":15, "max_quantity":15, "rate":100
+  },
+  {
+    "id":90420114, "reward_no":904201, "content_type":"Item", "content_id":20011, "min_quantity":30, "max_quantity":30, "rate":100
+  },
+  {
+    "id":90420115, "reward_no":904201, "content_type":"Item", "content_id":20001, "min_quantity":30, "max_quantity":30, "rate":100
+  },
+  {
+    "id":90420116, "reward_no":904201, "content_type":"Item", "content_id":20021, "min_quantity":30, "max_quantity":30, "rate":100
+  },
+  {
+    "id":90420117, "reward_no":904201, "content_type":"Item", "content_id":20012, "min_quantity":15, "max_quantity":15, "rate":100
+  },
+  {
+    "id":90420118, "reward_no":904201, "content_type":"Item", "content_id":20002, "min_quantity":15, "max_quantity":15, "rate":100
+  },
+  {
+    "id":90420119, "reward_no":904201, "content_type":"Item", "content_id":20022, "min_quantity":15, "max_quantity":15, "rate":100
+  },
+  {
+    "id":90420120, "reward_no":904201, "content_type":"Item", "content_id":20013, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420121, "reward_no":904201, "content_type":"Item", "content_id":20003, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420122, "reward_no":904201, "content_type":"Item", "content_id":20023, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420201, "reward_no":904202, "content_type":"AvatarItem", "content_id":11021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420202, "reward_no":904202, "content_type":"AvatarItem", "content_id":11022, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420203, "reward_no":904202, "content_type":"AvatarItem", "content_id":21021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420204, "reward_no":904202, "content_type":"AvatarItem", "content_id":31021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420205, "reward_no":904202, "content_type":"Item", "content_id":30001, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420206, "reward_no":904202, "content_type":"Item", "content_id":100004, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420207, "reward_no":904202, "content_type":"Item", "content_id":100003, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90420208, "reward_no":904202, "content_type":"Item", "content_id":100002, "min_quantity":7, "max_quantity":7, "rate":100
+  },
+  {
+    "id":90420209, "reward_no":904202, "content_type":"Item", "content_id":100001, "min_quantity":17, "max_quantity":17, "rate":100
+  },
+  {
+    "id":90420210, "reward_no":904202, "content_type":"Item", "content_id":40001, "min_quantity":9, "max_quantity":9, "rate":100
+  },
+  {
+    "id":90420211, "reward_no":904202, "content_type":"Item", "content_id":10001, "min_quantity":90, "max_quantity":90, "rate":100
+  },
+  {
+    "id":90420212, "reward_no":904202, "content_type":"Item", "content_id":10002, "min_quantity":45, "max_quantity":45, "rate":100
+  },
+  {
+    "id":90420213, "reward_no":904202, "content_type":"Item", "content_id":10003, "min_quantity":15, "max_quantity":15, "rate":100
+  },
+  {
+    "id":90420214, "reward_no":904202, "content_type":"Item", "content_id":20011, "min_quantity":27, "max_quantity":27, "rate":100
+  },
+  {
+    "id":90420215, "reward_no":904202, "content_type":"Item", "content_id":20001, "min_quantity":27, "max_quantity":27, "rate":100
+  },
+  {
+    "id":90420216, "reward_no":904202, "content_type":"Item", "content_id":20021, "min_quantity":27, "max_quantity":27, "rate":100
+  },
+  {
+    "id":90420217, "reward_no":904202, "content_type":"Item", "content_id":20012, "min_quantity":14, "max_quantity":14, "rate":100
+  },
+  {
+    "id":90420218, "reward_no":904202, "content_type":"Item", "content_id":20002, "min_quantity":14, "max_quantity":14, "rate":100
+  },
+  {
+    "id":90420219, "reward_no":904202, "content_type":"Item", "content_id":20022, "min_quantity":14, "max_quantity":14, "rate":100
+  },
+  {
+    "id":90420220, "reward_no":904202, "content_type":"Item", "content_id":20013, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420221, "reward_no":904202, "content_type":"Item", "content_id":20003, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420222, "reward_no":904202, "content_type":"Item", "content_id":20023, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420301, "reward_no":904203, "content_type":"AvatarItem", "content_id":11021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420302, "reward_no":904203, "content_type":"AvatarItem", "content_id":11022, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420303, "reward_no":904203, "content_type":"AvatarItem", "content_id":21021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420304, "reward_no":904203, "content_type":"AvatarItem", "content_id":31021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420305, "reward_no":904203, "content_type":"Item", "content_id":30001, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420306, "reward_no":904203, "content_type":"Item", "content_id":100004, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420307, "reward_no":904203, "content_type":"Item", "content_id":100003, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90420308, "reward_no":904203, "content_type":"Item", "content_id":100002, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420309, "reward_no":904203, "content_type":"Item", "content_id":100001, "min_quantity":15, "max_quantity":15, "rate":100
+  },
+  {
+    "id":90420310, "reward_no":904203, "content_type":"Item", "content_id":40001, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420311, "reward_no":904203, "content_type":"Item", "content_id":10001, "min_quantity":80, "max_quantity":80, "rate":100
+  },
+  {
+    "id":90420312, "reward_no":904203, "content_type":"Item", "content_id":10002, "min_quantity":40, "max_quantity":40, "rate":100
+  },
+  {
+    "id":90420313, "reward_no":904203, "content_type":"Item", "content_id":10003, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420314, "reward_no":904203, "content_type":"Item", "content_id":20011, "min_quantity":24, "max_quantity":24, "rate":100
+  },
+  {
+    "id":90420315, "reward_no":904203, "content_type":"Item", "content_id":20001, "min_quantity":24, "max_quantity":24, "rate":100
+  },
+  {
+    "id":90420316, "reward_no":904203, "content_type":"Item", "content_id":20021, "min_quantity":24, "max_quantity":24, "rate":100
+  },
+  {
+    "id":90420317, "reward_no":904203, "content_type":"Item", "content_id":20012, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420318, "reward_no":904203, "content_type":"Item", "content_id":20002, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420319, "reward_no":904203, "content_type":"Item", "content_id":20022, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420320, "reward_no":904203, "content_type":"Item", "content_id":20013, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420321, "reward_no":904203, "content_type":"Item", "content_id":20003, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420322, "reward_no":904203, "content_type":"Item", "content_id":20023, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420401, "reward_no":904204, "content_type":"AvatarItem", "content_id":11021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420402, "reward_no":904204, "content_type":"AvatarItem", "content_id":11022, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420403, "reward_no":904204, "content_type":"AvatarItem", "content_id":21021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420404, "reward_no":904204, "content_type":"AvatarItem", "content_id":31021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420405, "reward_no":904204, "content_type":"Item", "content_id":30001, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420406, "reward_no":904204, "content_type":"Item", "content_id":100004, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420407, "reward_no":904204, "content_type":"Item", "content_id":100003, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420408, "reward_no":904204, "content_type":"Item", "content_id":100002, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90420409, "reward_no":904204, "content_type":"Item", "content_id":100001, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420410, "reward_no":904204, "content_type":"Item", "content_id":40001, "min_quantity":7, "max_quantity":7, "rate":100
+  },
+  {
+    "id":90420411, "reward_no":904204, "content_type":"Item", "content_id":10001, "min_quantity":70, "max_quantity":70, "rate":100
+  },
+  {
+    "id":90420412, "reward_no":904204, "content_type":"Item", "content_id":10002, "min_quantity":40, "max_quantity":40, "rate":100
+  },
+  {
+    "id":90420413, "reward_no":904204, "content_type":"Item", "content_id":10003, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420414, "reward_no":904204, "content_type":"Item", "content_id":20011, "min_quantity":22, "max_quantity":22, "rate":100
+  },
+  {
+    "id":90420415, "reward_no":904204, "content_type":"Item", "content_id":20001, "min_quantity":22, "max_quantity":22, "rate":100
+  },
+  {
+    "id":90420416, "reward_no":904204, "content_type":"Item", "content_id":20021, "min_quantity":22, "max_quantity":22, "rate":100
+  },
+  {
+    "id":90420417, "reward_no":904204, "content_type":"Item", "content_id":20012, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90420418, "reward_no":904204, "content_type":"Item", "content_id":20002, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90420419, "reward_no":904204, "content_type":"Item", "content_id":20022, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90420420, "reward_no":904204, "content_type":"Item", "content_id":20013, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420421, "reward_no":904204, "content_type":"Item", "content_id":20003, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420422, "reward_no":904204, "content_type":"Item", "content_id":20023, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420501, "reward_no":904205, "content_type":"AvatarItem", "content_id":11021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420502, "reward_no":904205, "content_type":"AvatarItem", "content_id":11022, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420503, "reward_no":904205, "content_type":"AvatarItem", "content_id":21021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420504, "reward_no":904205, "content_type":"AvatarItem", "content_id":31021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420505, "reward_no":904205, "content_type":"Item", "content_id":100003, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420506, "reward_no":904205, "content_type":"Item", "content_id":100002, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90420507, "reward_no":904205, "content_type":"Item", "content_id":100001, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420508, "reward_no":904205, "content_type":"Item", "content_id":40001, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420509, "reward_no":904205, "content_type":"Item", "content_id":10001, "min_quantity":50, "max_quantity":50, "rate":100
+  },
+  {
+    "id":90420510, "reward_no":904205, "content_type":"Item", "content_id":10002, "min_quantity":25, "max_quantity":25, "rate":100
+  },
+  {
+    "id":90420511, "reward_no":904205, "content_type":"Item", "content_id":10003, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420512, "reward_no":904205, "content_type":"Item", "content_id":20011, "min_quantity":15, "max_quantity":15, "rate":100
+  },
+  {
+    "id":90420513, "reward_no":904205, "content_type":"Item", "content_id":20001, "min_quantity":15, "max_quantity":15, "rate":100
+  },
+  {
+    "id":90420514, "reward_no":904205, "content_type":"Item", "content_id":20021, "min_quantity":15, "max_quantity":15, "rate":100
+  },
+  {
+    "id":90420515, "reward_no":904205, "content_type":"Item", "content_id":20012, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420516, "reward_no":904205, "content_type":"Item", "content_id":20002, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420517, "reward_no":904205, "content_type":"Item", "content_id":20022, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420518, "reward_no":904205, "content_type":"Item", "content_id":20013, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420519, "reward_no":904205, "content_type":"Item", "content_id":20003, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420520, "reward_no":904205, "content_type":"Item", "content_id":20023, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420601, "reward_no":904206, "content_type":"AvatarItem", "content_id":21021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420602, "reward_no":904206, "content_type":"AvatarItem", "content_id":31021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420603, "reward_no":904206, "content_type":"Item", "content_id":100003, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420604, "reward_no":904206, "content_type":"Item", "content_id":100002, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420605, "reward_no":904206, "content_type":"Item", "content_id":100001, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90420606, "reward_no":904206, "content_type":"Item", "content_id":40001, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90420607, "reward_no":904206, "content_type":"Item", "content_id":10001, "min_quantity":40, "max_quantity":40, "rate":100
+  },
+  {
+    "id":90420608, "reward_no":904206, "content_type":"Item", "content_id":10002, "min_quantity":20, "max_quantity":20, "rate":100
+  },
+  {
+    "id":90420609, "reward_no":904206, "content_type":"Item", "content_id":10003, "min_quantity":4, "max_quantity":4, "rate":100
+  },
+  {
+    "id":90420610, "reward_no":904206, "content_type":"Item", "content_id":20011, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420611, "reward_no":904206, "content_type":"Item", "content_id":20001, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420612, "reward_no":904206, "content_type":"Item", "content_id":20021, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420613, "reward_no":904206, "content_type":"Item", "content_id":20012, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420614, "reward_no":904206, "content_type":"Item", "content_id":20002, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420615, "reward_no":904206, "content_type":"Item", "content_id":20022, "min_quantity":6, "max_quantity":6, "rate":100
+  },
+  {
+    "id":90420616, "reward_no":904206, "content_type":"Item", "content_id":20013, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420617, "reward_no":904206, "content_type":"Item", "content_id":20003, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420618, "reward_no":904206, "content_type":"Item", "content_id":20023, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420701, "reward_no":904207, "content_type":"AvatarItem", "content_id":21021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420702, "reward_no":904207, "content_type":"AvatarItem", "content_id":31021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420703, "reward_no":904207, "content_type":"Item", "content_id":100003, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420704, "reward_no":904207, "content_type":"Item", "content_id":100002, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420705, "reward_no":904207, "content_type":"Item", "content_id":100001, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90420706, "reward_no":904207, "content_type":"Item", "content_id":40001, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420707, "reward_no":904207, "content_type":"Item", "content_id":10001, "min_quantity":30, "max_quantity":30, "rate":100
+  },
+  {
+    "id":90420708, "reward_no":904207, "content_type":"Item", "content_id":10002, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420709, "reward_no":904207, "content_type":"Item", "content_id":10003, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420710, "reward_no":904207, "content_type":"Item", "content_id":20011, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420711, "reward_no":904207, "content_type":"Item", "content_id":20001, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420712, "reward_no":904207, "content_type":"Item", "content_id":20021, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420713, "reward_no":904207, "content_type":"Item", "content_id":20012, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420714, "reward_no":904207, "content_type":"Item", "content_id":20002, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420715, "reward_no":904207, "content_type":"Item", "content_id":20022, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420716, "reward_no":904207, "content_type":"Item", "content_id":20013, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420717, "reward_no":904207, "content_type":"Item", "content_id":20003, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420718, "reward_no":904207, "content_type":"Item", "content_id":20023, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420801, "reward_no":904208, "content_type":"AvatarItem", "content_id":21021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420802, "reward_no":904208, "content_type":"Item", "content_id":100003, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420803, "reward_no":904208, "content_type":"Item", "content_id":100002, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420804, "reward_no":904208, "content_type":"Item", "content_id":100001, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90420805, "reward_no":904208, "content_type":"Item", "content_id":40001, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420806, "reward_no":904208, "content_type":"Item", "content_id":10001, "min_quantity":30, "max_quantity":30, "rate":100
+  },
+  {
+    "id":90420807, "reward_no":904208, "content_type":"Item", "content_id":10002, "min_quantity":12, "max_quantity":12, "rate":100
+  },
+  {
+    "id":90420808, "reward_no":904208, "content_type":"Item", "content_id":10003, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420809, "reward_no":904208, "content_type":"Item", "content_id":20011, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420810, "reward_no":904208, "content_type":"Item", "content_id":20001, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420811, "reward_no":904208, "content_type":"Item", "content_id":20021, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420812, "reward_no":904208, "content_type":"Item", "content_id":20012, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420813, "reward_no":904208, "content_type":"Item", "content_id":20002, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420814, "reward_no":904208, "content_type":"Item", "content_id":20022, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420815, "reward_no":904208, "content_type":"Item", "content_id":20013, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420816, "reward_no":904208, "content_type":"Item", "content_id":20003, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420817, "reward_no":904208, "content_type":"Item", "content_id":20023, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420901, "reward_no":904209, "content_type":"AvatarItem", "content_id":31021, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90420902, "reward_no":904209, "content_type":"Item", "content_id":100002, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90420903, "reward_no":904209, "content_type":"Item", "content_id":100001, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90420904, "reward_no":904209, "content_type":"Item", "content_id":40001, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420905, "reward_no":904209, "content_type":"Item", "content_id":10001, "min_quantity":20, "max_quantity":20, "rate":100
+  },
+  {
+    "id":90420906, "reward_no":904209, "content_type":"Item", "content_id":10002, "min_quantity":8, "max_quantity":8, "rate":100
+  },
+  {
+    "id":90420907, "reward_no":904209, "content_type":"Item", "content_id":20011, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420908, "reward_no":904209, "content_type":"Item", "content_id":20001, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420909, "reward_no":904209, "content_type":"Item", "content_id":20021, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90420910, "reward_no":904209, "content_type":"Item", "content_id":20012, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420911, "reward_no":904209, "content_type":"Item", "content_id":20002, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90420912, "reward_no":904209, "content_type":"Item", "content_id":20022, "min_quantity":2, "max_quantity":2, "rate":100
+  },
+  {
+    "id":90421001, "reward_no":904210, "content_type":"Item", "content_id":100001, "min_quantity":10, "max_quantity":10, "rate":100
+  },
+  {
+    "id":90421002, "reward_no":904210, "content_type":"Item", "content_id":40001, "min_quantity":1, "max_quantity":1, "rate":100
+  },
+  {
+    "id":90421003, "reward_no":904210, "content_type":"Item", "content_id":10001, "min_quantity":16, "max_quantity":16, "rate":100
+  },
+  {
+    "id":90421004, "reward_no":904210, "content_type":"Item", "content_id":10002, "min_quantity":5, "max_quantity":5, "rate":100
+  },
+  {
+    "id":90421005, "reward_no":904210, "content_type":"Item", "content_id":20011, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90421006, "reward_no":904210, "content_type":"Item", "content_id":20001, "min_quantity":3, "max_quantity":3, "rate":100
+  },
+  {
+    "id":90421007, "reward_no":904210, "content_type":"Item", "content_id":20021, "min_quantity":3, "max_quantity":3, "rate":100
   }
 ]
