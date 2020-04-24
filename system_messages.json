@@ -576,7 +576,7 @@
     "id":180002, "category":"EventPointDialog", "name":"AddEventPoint", "value":"＋{0}.pt"
   },
   {
-    "id":180003, "category":"EventPointDialog", "name":"RewardRatio", "value":"×{0}倍"
+    "id":180003, "category":"EventPointDialog", "name":"Bonus", "value":"×{0:F2}"
   },
   {
     "id":180004, "category":"EventPointDialog", "name":"NextStoryNotice", "value":"あと<color=#FF56B9>{0}</color>.ptで「{1}」開放"
@@ -654,7 +654,7 @@
     "id":310002, "category":"Profile", "name":"PostUrl", "value":"empty"
   },
   {
-    "id":320001, "category":"GachaConfirm", "name":"Body", "value":"<color=orange>{0}</color> を <color=orange>{1}</color> {2}消費して {3} を {4} 回実行します。よろしいですか？"
+    "id":320001, "category":"GachaConfirm", "name":"Body", "value":"<color=orange>{0}</color> を <color=orange>{1}</color> {2}消費して\nガチャ を {3} 回実行します。<size=8>\n\n<size=26>よろしいですか？"
   },
   {
     "id":330001, "category":"GachaBubble", "name":"LimitExecution", "value":"実行済み"
