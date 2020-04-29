@@ -252,6 +252,15 @@
     "id":80003, "category":"GachaDetail", "name":"PickupRarityNameFormat", "value":"{0}（ピックアップ）"
   },
   {
+    "id":80004, "category":"GachaDetail", "name":"LimitedGachaNameSingle", "value":"{0} {1}回目"
+  },
+  {
+    "id":80005, "category":"GachaDetail", "name":"LimitedGachaNameMulti", "value":"{0} {1}～{2}回目"
+  },
+  {
+    "id":80006, "category":"GachaDetail", "name":"LimitedGachaNameInfinity", "value":"{0} {1}回目～"
+  },
+  {
     "id":80101, "category":"Gacha", "name":"GetItemCountText", "value":"アイテムを{0}個獲得しました"
   },
   {
@@ -265,6 +274,9 @@
   },
   {
     "id":80105, "category":"GachaResult", "name":"BonusDialogTitle", "value":"アイテムボーナスを獲得しました！"
+  },
+  {
+    "id":80106, "category":"GachaBubble", "name":"LimitedItemGacha", "value":"あと{0}回"
   },
   {
     "id":90001, "category":"FriendSearchDialog", "name":"Title", "value":"フレンド検索"
