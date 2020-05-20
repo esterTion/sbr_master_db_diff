@@ -42,6 +42,12 @@
     "id":122001, "myumon_basic_id":12, "name":"[やるからには、本気でいくよ＋]", "music_category":2, "rarity":3, "asset_id":1200, "mini_asset_id":1200, "life":191, "rhythm":1095, "melody":1577, "harmony":1188, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
   },
   {
+    "id":123000, "myumon_basic_id":12, "name":"[ま、そんなもんだよね……]", "music_category":2, "rarity":3, "asset_id":1200, "mini_asset_id":1200, "life":209, "rhythm":2113, "melody":1408, "harmony":1218, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":123001, "shinka_recipe_no":23, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
+  },
+  {
+    "id":123001, "myumon_basic_id":12, "name":"[あたしだって……いつかきっと！]", "music_category":2, "rarity":4, "asset_id":1200, "mini_asset_id":1200, "life":337, "rhythm":2642, "melody":1853, "harmony":1626, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
+  },
+  {
     "id":124000, "myumon_basic_id":12, "name":"[ほんと、調子くるう……恥ずいし]", "music_category":2, "rarity":4, "asset_id":1201, "mini_asset_id":1201, "life":251, "rhythm":1467, "melody":1978, "harmony":1612, "main_1_skill_id":21001, "main_2_skill_id":82001, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":124001, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
   },
   {
@@ -130,6 +136,12 @@
   },
   {
     "id":224001, "myumon_basic_id":22, "name":"[ぷるぷる！プラズマジカLIVE！]", "music_category":3, "rarity":5, "asset_id":2201, "mini_asset_id":2201, "life":383, "rhythm":2915, "melody":3798, "harmony":2556, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「チュチュ」のブロマイドです"
+  },
+  {
+    "id":224010, "myumon_basic_id":22, "name":"[あの時、あなたがいてくれたから]", "music_category":2, "rarity":4, "asset_id":2202, "mini_asset_id":2202, "life":419, "rhythm":3142, "melody":2117, "harmony":2087, "main_1_skill_id":20001, "main_2_skill_id":82001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":224011, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「チュチュ」のブロマイドです"
+  },
+  {
+    "id":224011, "myumon_basic_id":22, "name":"[ずっと伝えたかった、私の永遠物語]", "music_category":2, "rarity":5, "asset_id":2202, "mini_asset_id":2202, "life":486, "rhythm":3825, "melody":2674, "harmony":2670, "main_1_skill_id":20002, "main_2_skill_id":82002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「チュチュ」のブロマイドです"
   },
   {
     "id":231000, "myumon_basic_id":23, "name":"[Plasmagica]", "music_category":1, "rarity":1, "asset_id":2300, "mini_asset_id":2300, "life":107, "rhythm":838, "melody":587, "harmony":627, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":231001, "shinka_recipe_no":11, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「レトリー」のブロマイドです"
@@ -258,6 +270,12 @@
     "id":412001, "myumon_basic_id":41, "name":"[闇の歪みから生まれおちた徒花の蕾＋]", "music_category":1, "rarity":3, "asset_id":4100, "mini_asset_id":4100, "life":172, "rhythm":1262, "melody":1076, "harmony":1655, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
   },
   {
+    "id":413000, "myumon_basic_id":41, "name":"[むふぅ～ちっちゃくて可愛いのだ～]", "music_category":3, "rarity":3, "asset_id":4100, "mini_asset_id":4100, "life":229, "rhythm":1300, "melody":1937, "harmony":1358, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":413001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
+  },
+  {
+    "id":413001, "myumon_basic_id":41, "name":"[闇の歪みから生まれおちた徒花の蕾]", "music_category":3, "rarity":4, "asset_id":4100, "mini_asset_id":4100, "life":276, "rhythm":1805, "melody":2739, "harmony":1706, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
+  },
+  {
     "id":414000, "myumon_basic_id":41, "name":"[くっそめんどくさいのだ～]", "music_category":1, "rarity":4, "asset_id":4101, "mini_asset_id":4101, "life":281, "rhythm":2289, "melody":2211, "harmony":2892, "main_1_skill_id":53001, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":414001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
   },
   {
@@ -286,6 +304,12 @@
   },
   {
     "id":423001, "myumon_basic_id":42, "name":"[闇の狭間の果てより来たる伴奏者]", "music_category":3, "rarity":4, "asset_id":4200, "mini_asset_id":4200, "life":222, "rhythm":1617, "melody":2148, "harmony":1493, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「ペイペイン」のブロマイドです"
+  },
+  {
+    "id":424000, "myumon_basic_id":42, "name":"[闇麒麟メイドの密かな喜び]", "music_category":3, "rarity":4, "asset_id":4201, "mini_asset_id":4201, "life":379, "rhythm":1929, "melody":4044, "harmony":2251, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":424001, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「ペイペイン」のブロマイドです"
+  },
+  {
+    "id":424001, "myumon_basic_id":42, "name":"[全てはアイレーン様のために！]", "music_category":3, "rarity":5, "asset_id":4201, "mini_asset_id":4201, "life":536, "rhythm":2708, "melody":4915, "harmony":2462, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「ペイペイン」のブロマイドです"
   },
   {
     "id":431000, "myumon_basic_id":43, "name":"[BUD VIRGIN LOGIC]", "music_category":2, "rarity":1, "asset_id":4300, "mini_asset_id":4300, "life":105, "rhythm":793, "melody":584, "harmony":685, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":431001, "shinka_recipe_no":21, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「ハンドレッコ」のブロマイドです"
@@ -432,6 +456,12 @@
     "id":632001, "myumon_basic_id":63, "name":"[六年灰組・デスフェニックス＋]", "music_category":1, "rarity":3, "asset_id":6300, "mini_asset_id":6300, "life":194, "rhythm":1300, "melody":1251, "harmony":1284, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110043, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
   },
   {
+    "id":633000, "myumon_basic_id":63, "name":"[健康サプリ歴なら負けないぜ]", "music_category":2, "rarity":3, "asset_id":6300, "mini_asset_id":6300, "life":224, "rhythm":1991, "melody":1304, "harmony":1334, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":633001, "shinka_recipe_no":23, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
+  },
+  {
+    "id":633001, "myumon_basic_id":63, "name":"[六度目のDO根性ライブ！]", "music_category":2, "rarity":4, "asset_id":6300, "mini_asset_id":6300, "life":262, "rhythm":2954, "melody":1756, "harmony":1935, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
+  },
+  {
     "id":634000, "myumon_basic_id":63, "name":"[間に合わねえのか……今日も……]", "music_category":1, "rarity":4, "asset_id":6301, "mini_asset_id":6301, "life":219, "rhythm":1690, "melody":1821, "harmony":1769, "main_1_skill_id":4002, "main_2_skill_id":100001, "support_skill_id":110044, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":634001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
   },
   {
@@ -478,6 +508,12 @@
   },
   {
     "id":714011, "myumon_basic_id":71, "name":"[テメエの羽は何色だ黙示録だぜッ！]", "music_category":1, "rarity":5, "asset_id":7102, "mini_asset_id":7102, "life":403, "rhythm":2698, "melody":2619, "harmony":3814, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110005, "special_skill_id":0, "grow_curve_group_no":33, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「クロウ」のブロマイドです"
+  },
+  {
+    "id":714020, "myumon_basic_id":71, "name":"[深紅色の酪農黙示録は突然にッ！！]", "music_category":3, "rarity":4, "asset_id":7103, "mini_asset_id":7103, "life":363, "rhythm":2387, "melody":3655, "harmony":2299, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":714021, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「クロウ」のブロマイドです"
+  },
+  {
+    "id":714021, "myumon_basic_id":71, "name":"[やい！テメエの牛乳は何色だッ！！]", "music_category":3, "rarity":5, "asset_id":7103, "mini_asset_id":7103, "life":492, "rhythm":2839, "melody":4555, "harmony":3003, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「クロウ」のブロマイドです"
   },
   {
     "id":721000, "myumon_basic_id":72, "name":"[SHINGANCRIMSONZ]", "music_category":3, "rarity":1, "asset_id":7200, "mini_asset_id":7200, "life":103, "rhythm":624, "melody":639, "harmony":817, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":721001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「アイオーン」のブロマイドです"
@@ -552,6 +588,12 @@
     "id":744001, "myumon_basic_id":74, "name":"[深紅色の新反創世零炎LIVE！]", "music_category":2, "rarity":5, "asset_id":7401, "mini_asset_id":7401, "life":495, "rhythm":3419, "melody":2557, "harmony":2512, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ロム」のブロマイドです"
   },
   {
+    "id":744010, "myumon_basic_id":74, "name":"[リアルに奢ってやるぜ！！]", "music_category":2, "rarity":4, "asset_id":7402, "mini_asset_id":7402, "life":343, "rhythm":4146, "melody":2139, "harmony":2196, "main_1_skill_id":30001, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":744011, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ロム」のブロマイドです"
+  },
+  {
+    "id":744011, "myumon_basic_id":74, "name":"[リアルに熱くなってきやがったぜ！]", "music_category":2, "rarity":5, "asset_id":7402, "mini_asset_id":7402, "life":551, "rhythm":5115, "melody":2382, "harmony":2486, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ロム」のブロマイドです"
+  },
+  {
     "id":811000, "myumon_basic_id":81, "name":"[Trichronika]", "music_category":3, "rarity":1, "asset_id":8100, "mini_asset_id":8100, "life":100, "rhythm":610, "melody":618, "harmony":874, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":811001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「シュウ☆ゾー」のブロマイドです"
   },
   {
@@ -562,6 +604,12 @@
   },
   {
     "id":812001, "myumon_basic_id":81, "name":"[夢銀河☆トップアイドルっ☆＋]", "music_category":3, "rarity":3, "asset_id":8100, "mini_asset_id":8100, "life":211, "rhythm":1094, "melody":1128, "harmony":1495, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「シュウ☆ゾー」のブロマイドです"
+  },
+  {
+    "id":813000, "myumon_basic_id":81, "name":"[雨を見ると……なんでもないさっ☆]", "music_category":3, "rarity":3, "asset_id":8100, "mini_asset_id":8100, "life":222, "rhythm":1264, "melody":2031, "harmony":1353, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":813001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「シュウ☆ゾー」のブロマイドです"
+  },
+  {
+    "id":813001, "myumon_basic_id":81, "name":"[トライクロニカ☆スターライブ]", "music_category":3, "rarity":4, "asset_id":8100, "mini_asset_id":8100, "life":265, "rhythm":1779, "melody":2640, "harmony":1904, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「シュウ☆ゾー」のブロマイドです"
   },
   {
     "id":814000, "myumon_basic_id":81, "name":"[夢銀河☆ロケッツ７スター号さっ]", "music_category":3, "rarity":4, "asset_id":8101, "mini_asset_id":8101, "life":298, "rhythm":1399, "melody":1397, "harmony":1929, "main_1_skill_id":12013, "main_2_skill_id":82001, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":33, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":814001, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「シュウ☆ゾー」のブロマイドです"

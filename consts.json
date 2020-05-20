@@ -399,6 +399,9 @@
     "id":100009, "category":"BattleLive", "name":"UpdateRivalInterval", "value":"5"
   },
   {
+    "id":100010, "category":"BattleLive", "name":"HeigherRate", "value":"20"
+  },
+  {
     "id":100100, "category":"BattleLiveStatus", "name":"Start", "value":"1"
   },
   {
@@ -459,7 +462,7 @@
     "id":120004, "category":"Dark", "name":"MaxLogSize", "value":"20"
   },
   {
-    "id":120005, "category":"Dark", "name":"StaminaCostGuest", "value":"1"
+    "id":120005, "category":"Dark", "name":"StaminaCostGuest", "value":"3"
   },
   {
     "id":120101, "category":"DarkBossStatus", "name":"Challenge", "value":"1"
@@ -1210,5 +1213,8 @@
   },
   {
     "id":300401, "category":"EventMyumonCategory", "name":"FreeRate", "value":"1"
+  },
+  {
+    "id":300402, "category":"EventMyumonCategory", "name":"DarkDamageBonus", "value":"2"
   }
 ]

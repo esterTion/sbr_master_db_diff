@@ -1,12 +1,12 @@
 [
   {
-    "id":10001, "category":1, "name":"トレーニングチケットS", "quantity_max":999, "ex_params":"{\"exp\":300}", "description":"ブロマイドにEXPを少し与えるチケットです"
+    "id":10001, "category":1, "name":"トレーニングチケットS", "quantity_max":9999, "ex_params":"{\"exp\":300}", "description":"ブロマイドにEXPを少し与えるチケットです"
   },
   {
-    "id":10002, "category":1, "name":"トレーニングチケットM", "quantity_max":999, "ex_params":"{\"exp\":1000}", "description":"ブロマイドにEXPを与えるチケットです"
+    "id":10002, "category":1, "name":"トレーニングチケットM", "quantity_max":9999, "ex_params":"{\"exp\":1000}", "description":"ブロマイドにEXPを与えるチケットです"
   },
   {
-    "id":10003, "category":1, "name":"トレーニングチケットL", "quantity_max":999, "ex_params":"{\"exp\":5000}", "description":"ブロマイドにEXPをかなり与えるチケットです"
+    "id":10003, "category":1, "name":"トレーニングチケットL", "quantity_max":9999, "ex_params":"{\"exp\":5000}", "description":"ブロマイドにEXPをかなり与えるチケットです"
   },
   {
     "id":20001, "category":2, "name":"ドキドキ魂S", "quantity_max":999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させる素材です"

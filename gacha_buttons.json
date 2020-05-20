@@ -111,6 +111,48 @@
     "id":20110101, "gacha_id":2011, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":3, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "rarity_kakutei":true, "bonus_no":0, "button_description":"11回ガチャ", "tips_description":"3回限定"
   },
   {
+    "id":20120101, "gacha_id":2012, "button_no":1, "sort_order":100, "cycle_type":2, "cycle_start":1, "cycle_end":1, "cost_type":"Item", "cost_id":60002, "cost_quantity":39, "output_count":1, "rarity_kakutei":false, "bonus_no":911, "button_description":"39ガチャ", "tips_description":"1日1回\nトレチケL付き"
+  },
+  {
+    "id":20120201, "gacha_id":2012, "button_no":2, "sort_order":90, "cycle_type":1, "cycle_start":1, "cycle_end":0, "cost_type":"Item", "cost_id":60001, "cost_quantity":1800, "output_count":11, "rarity_kakutei":true, "bonus_no":0, "button_description":"11回ガチャ", "tips_description":"SR1枚以上確定"
+  },
+  {
+    "id":20120301, "gacha_id":2012, "button_no":3, "sort_order":80, "cycle_type":1, "cycle_start":1, "cycle_end":0, "cost_type":"Item", "cost_id":60001, "cost_quantity":180, "output_count":1, "rarity_kakutei":false, "bonus_no":0, "button_description":"1回ガチャ", "tips_description":""
+  },
+  {
+    "id":20130101, "gacha_id":2013, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":1, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "rarity_kakutei":true, "bonus_no":908, "button_description":"11回ガチャ", "tips_description":"【1回目】\nSR1枚以上確定"
+  },
+  {
+    "id":20130102, "gacha_id":2013, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":2, "cycle_end":2, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "rarity_kakutei":true, "bonus_no":909, "button_description":"11回ガチャ", "tips_description":"【2回目】\nSR1枚以上確定"
+  },
+  {
+    "id":20130103, "gacha_id":2013, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":3, "cycle_end":3, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "rarity_kakutei":true, "bonus_no":910, "button_description":"11回ガチャ", "tips_description":"【3回目】\nSR1枚以上確定"
+  },
+  {
+    "id":20150101, "gacha_id":2015, "button_no":1, "sort_order":100, "cycle_type":2, "cycle_start":1, "cycle_end":1, "cost_type":"Item", "cost_id":60002, "cost_quantity":39, "output_count":1, "rarity_kakutei":false, "bonus_no":911, "button_description":"39ガチャ", "tips_description":"1日1回\nトレチケL付き"
+  },
+  {
+    "id":20150201, "gacha_id":2015, "button_no":2, "sort_order":90, "cycle_type":1, "cycle_start":1, "cycle_end":0, "cost_type":"Item", "cost_id":60001, "cost_quantity":1800, "output_count":11, "rarity_kakutei":true, "bonus_no":0, "button_description":"11回ガチャ", "tips_description":"SR1枚以上確定"
+  },
+  {
+    "id":20150301, "gacha_id":2015, "button_no":3, "sort_order":80, "cycle_type":1, "cycle_start":1, "cycle_end":0, "cost_type":"Item", "cost_id":60001, "cost_quantity":180, "output_count":1, "rarity_kakutei":false, "bonus_no":0, "button_description":"1回ガチャ", "tips_description":""
+  },
+  {
+    "id":20160101, "gacha_id":2016, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":1, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "rarity_kakutei":true, "bonus_no":908, "button_description":"11回ガチャ", "tips_description":"【1回目】\nSR1枚以上確定"
+  },
+  {
+    "id":20160102, "gacha_id":2016, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":2, "cycle_end":2, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "rarity_kakutei":true, "bonus_no":909, "button_description":"11回ガチャ", "tips_description":"【2回目】\nSR1枚以上確定"
+  },
+  {
+    "id":20160103, "gacha_id":2016, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":3, "cycle_end":3, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "rarity_kakutei":true, "bonus_no":910, "button_description":"11回ガチャ", "tips_description":"【3回目】\nSR1枚以上確定"
+  },
+  {
+    "id":20170101, "gacha_id":2017, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":3, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "rarity_kakutei":true, "bonus_no":0, "button_description":"11回ガチャ", "tips_description":"3回限定"
+  },
+  {
     "id":300010101, "gacha_id":30001, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":300, "cost_type":"Item", "cost_id":110001, "cost_quantity":900, "output_count":5, "rarity_kakutei":false, "bonus_no":0, "button_description":"5連ガチャ", "tips_description":"合計300回まで"
+  },
+  {
+    "id":300020101, "gacha_id":30002, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":300, "cost_type":"Item", "cost_id":110002, "cost_quantity":900, "output_count":5, "rarity_kakutei":false, "bonus_no":0, "button_description":"5連ガチャ", "tips_description":"合計300回まで"
   }
 ]
