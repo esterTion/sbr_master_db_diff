@@ -126,7 +126,7 @@
     "id":3000006, "category":3, "title":"自分以外のロッカーのタウンに訪問しよう", "detail":"マイタウンやフレンドから、自分以外のロッカーのタウンを訪問しよう", "add_condition_mission_id":0, "sort_order":6, "clear_condition_type":"town_show", "clear_condition_args":"0", "goal":1, "reward_no":13006, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":3000007, "category":3, "title":"69ガチャを実行しよう", "detail":"ガチャ から69ガチャを選択してブロマイドを獲得しよう", "add_condition_mission_id":0, "sort_order":7, "clear_condition_type":"gacha_exec", "clear_condition_args":"[1002,1003]", "goal":1, "reward_no":13007, "destination_kind":5, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000007, "category":3, "title":"69ガチャを実行しよう", "detail":"ガチャ から69ガチャを選択してブロマイドを獲得しよう", "add_condition_mission_id":0, "sort_order":7, "clear_condition_type":"gacha_exec", "clear_condition_args":"[1003,1004]", "goal":1, "reward_no":13007, "destination_kind":5, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
     "id":3000008, "category":3, "title":"マイタウンで収益を10万サウンドル獲得しよう", "detail":"グッズショップでグッズを販売し、累計10万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":8, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":100000, "reward_no":13008, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
@@ -169,5 +169,20 @@
   },
   {
     "id":4000010, "category":4, "title":"クリティクリスタ参戦記念ミッション をすべてクリアしよう", "detail":"クリティクリスタ参戦記念ミッション の内容をすべてクリアしよう", "add_condition_mission_id":0, "sort_order":5, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"0", "goal":4, "reward_no":14010, "destination_kind":0, "started_at":"2020/04/30 12:00:00 +09:00", "ended_at":"2020/05/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000011, "category":4, "title":"フリーライブで 夜風に揺れて を5回プレイしよう", "detail":"フリーライブで楽曲 夜風に揺れて を累計5回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count", "clear_condition_args":"1105", "goal":5, "reward_no":14006, "destination_kind":1, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2020/06/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000012, "category":4, "title":"フリーライブで Awakening World を5回プレイしよう", "detail":"フリーライブで楽曲 Awakening World を累計5回プレイしよう", "add_condition_mission_id":0, "sort_order":2, "clear_condition_type":"music_play_count", "clear_condition_args":"1102", "goal":5, "reward_no":14007, "destination_kind":1, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2020/06/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000013, "category":4, "title":"Yokazenohorizon のバンドランクを2にしよう", "detail":"フリーライブをしたり、グッズを販売したりしてバンドEXPを獲得し、Yokazenohorizon のバンドランクを2にしよう", "add_condition_mission_id":0, "sort_order":3, "clear_condition_type":"artist_level", "clear_condition_args":"11", "goal":2, "reward_no":14008, "destination_kind":1, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2020/06/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000014, "category":4, "title":"マイタウンで収益を10万サウンドル獲得しよう", "detail":"グッズショップでグッズを販売し、累計10万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":4, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":100000, "reward_no":14009, "destination_kind":3, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2020/06/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000015, "category":4, "title":"Yokazenohorizon参戦記念ミッション を全てクリアしよう", "detail":"Yokazenohorizon参戦記念ミッションの内容を全てクリアしよう", "add_condition_mission_id":0, "sort_order":5, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"0", "goal":4, "reward_no":14010, "destination_kind":0, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2020/06/10 11:59:59 +09:00"
   }
 ]
