@@ -378,6 +378,12 @@
     "id":80001, "category":"FreeLiveStatus", "name":"End", "value":"2"
   },
   {
+    "id":80101, "category":"FreeLive", "name":"MyumonExpRate", "value":"200"
+  },
+  {
+    "id":80102, "category":"FreeLive", "name":"ArtistExpRate", "value":"0"
+  },
+  {
     "id":100000, "category":"BattleLive", "name":"MaxUpdateScoreCount", "value":"3"
   },
   {
@@ -637,6 +643,9 @@
   },
   {
     "id":150011, "category":"ItemCategory", "name":"EventPoint", "value":"11"
+  },
+  {
+    "id":150012, "category":"ItemCategory", "name":"GachaPoint", "value":"12"
   },
   {
     "id":150101, "category":"ItemId", "name":"Soundle", "value":"50001"
@@ -1225,5 +1234,17 @@
   },
   {
     "id":300402, "category":"EventMyumonCategory", "name":"DarkDamageBonus", "value":"2"
+  },
+  {
+    "id":310101, "category":"TradeStoreBuyLimitType", "name":"All", "value":"1"
+  },
+  {
+    "id":310102, "category":"TradeStoreBuyLimitType", "name":"Daily", "value":"2"
+  },
+  {
+    "id":310103, "category":"TradeStoreBuyLimitType", "name":"Weekly", "value":"3"
+  },
+  {
+    "id":310104, "category":"TradeStoreBuyLimitType", "name":"Monthly", "value":"4"
   }
 ]

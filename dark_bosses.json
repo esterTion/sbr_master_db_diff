@@ -103,5 +103,8 @@
   },
   {
     "id":2010103, "name":"ダークドラグーン", "stamina_cost":5, "max_hp":2000, "can_support":false, "can_publish":false, "limit_hours":69, "limit_attack_count":10, "win_reward_no":3004, "win_artist_exp":120, "win_myumon_exp":120, "win_event_point":0, "asset_id":1
+  },
+  {
+    "id":9999999, "name":"ダークリーパー・フォルテシモ", "stamina_cost":5, "max_hp":6900000, "can_support":true, "can_publish":true, "limit_hours":69, "limit_attack_count":0, "win_reward_no":3101, "win_artist_exp":120, "win_myumon_exp":120, "win_event_point":0, "asset_id":4
   }
 ]

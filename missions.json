@@ -184,5 +184,20 @@
   },
   {
     "id":4000015, "category":4, "title":"Yokazenohorizon参戦記念ミッション を全てクリアしよう", "detail":"Yokazenohorizon参戦記念ミッションの内容を全てクリアしよう", "add_condition_mission_id":0, "sort_order":5, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"0", "goal":4, "reward_no":14010, "destination_kind":0, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2020/06/09 11:59:59 +09:00"
+  },
+  {
+    "id":4000016, "category":4, "title":"フリーライブを6回プレイしよう", "detail":"フリーライブで好きな楽曲を6回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":6, "reward_no":14011, "destination_kind":1, "started_at":"2020/06/09 13:00:00 +09:00", "ended_at":"2020/06/15 11:59:59 +09:00"
+  },
+  {
+    "id":4000017, "category":4, "title":"フリーライブを9回プレイしよう", "detail":"フリーライブで好きな楽曲を9回プレイしよう", "add_condition_mission_id":0, "sort_order":2, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":9, "reward_no":14012, "destination_kind":1, "started_at":"2020/06/09 13:00:00 +09:00", "ended_at":"2020/06/15 11:59:59 +09:00"
+  },
+  {
+    "id":4000018, "category":4, "title":"マイタウンで収益を6万サウンドル獲得しよう", "detail":"グッズショップでグッズを販売し、累計6万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":3, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":60000, "reward_no":14013, "destination_kind":3, "started_at":"2020/06/09 13:00:00 +09:00", "ended_at":"2020/06/15 11:59:59 +09:00"
+  },
+  {
+    "id":4000019, "category":4, "title":"マイタウンで収益を9万サウンドル獲得しよう", "detail":"グッズショップでグッズを販売し、累計9万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":4, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":90000, "reward_no":14014, "destination_kind":3, "started_at":"2020/06/09 13:00:00 +09:00", "ended_at":"2020/06/15 11:59:59 +09:00"
+  },
+  {
+    "id":4000020, "category":4, "title":"Rock!!の日 特別ミッションを全てクリアしよう", "detail":"Rock!!の日 特別ミッションの内容を全てクリアしよう", "add_condition_mission_id":0, "sort_order":5, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"0", "goal":4, "reward_no":14015, "destination_kind":0, "started_at":"2020/06/09 13:00:00 +09:00", "ended_at":"2020/06/15 11:59:59 +09:00"
   }
 ]
