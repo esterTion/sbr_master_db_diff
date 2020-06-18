@@ -36,10 +36,13 @@
     "id":20023, "category":2, "name":"キラキラ魂L", "quantity_max":999, "ex_params":"{}", "description":"キラキラタイプを覚醒させるすごくレアな素材です"
   },
   {
-    "id":30001, "category":3, "name":"スキルの極意", "quantity_max":999, "ex_params":"{\"level\":1}", "description":"ブロマイドのスキルをアップさせる秘伝書です"
+    "id":30001, "category":3, "name":"スキルの極意", "quantity_max":999, "ex_params":"{\"level\":1}", "description":"ブロマイドが持つスキルをレベルアップさせる秘伝書です"
   },
   {
-    "id":40001, "category":4, "name":"69ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"ガチャをひくのに必要なチケットです"
+    "id":40001, "category":4, "name":"69ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40002, "category":4, "name":"【ましウェイ】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -93,6 +96,6 @@
     "id":120002, "category":12, "name":"【ましウェイ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
-    "id":120003, "category":12, "name":"【7月初旬】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+    "id":120003, "category":12, "name":"【水コレ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   }
 ]

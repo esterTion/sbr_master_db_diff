@@ -477,7 +477,7 @@
     "id":120004, "category":"Dark", "name":"MaxLogSize", "value":"20"
   },
   {
-    "id":120005, "category":"Dark", "name":"StaminaCostGuest", "value":"3"
+    "id":120005, "category":"Dark", "name":"StaminaCostGuest", "value":"2"
   },
   {
     "id":120101, "category":"DarkBossStatus", "name":"Challenge", "value":"1"
@@ -529,15 +529,6 @@
   },
   {
     "id":120406, "category":"DarkGuestReward", "name":"SS", "value":"[\"Item\", 50001, 800]"
-  },
-  {
-    "id":120501, "category":"DarkMimicryLooks", "name":"Dummy", "value":"1"
-  },
-  {
-    "id":120502, "category":"DarkMimicryLooks", "name":"User", "value":"2"
-  },
-  {
-    "id":120503, "category":"DarkMimicryLooks", "name":"Monster", "value":"3"
   },
   {
     "id":120601, "category":"DarkRandomSupport", "name":"RequestUserCount", "value":"100"
