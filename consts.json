@@ -261,6 +261,18 @@
     "id":50702, "category":"MusicMissionStatus", "name":"End", "value":"2"
   },
   {
+    "id":50801, "category":"MusicRequirementCategory", "name":"Store", "value":"1"
+  },
+  {
+    "id":50802, "category":"MusicRequirementCategory", "name":"MainStory", "value":"2"
+  },
+  {
+    "id":50803, "category":"MusicRequirementCategory", "name":"ArtistStory", "value":"3"
+  },
+  {
+    "id":50804, "category":"MusicRequirementCategory", "name":"MyumonStory", "value":"4"
+  },
+  {
     "id":60000, "category":"Rarity", "name":"R", "value":"1"
   },
   {
@@ -382,6 +394,12 @@
   },
   {
     "id":80102, "category":"FreeLive", "name":"ArtistExpRate", "value":"0"
+  },
+  {
+    "id":80201, "category":"FreeLiveMimicryAsset", "name":"Slot", "value":"1"
+  },
+  {
+    "id":80202, "category":"FreeLiveMimicryAsset", "name":"Position", "value":"2"
   },
   {
     "id":100000, "category":"BattleLive", "name":"MaxUpdateScoreCount", "value":"3"
@@ -639,6 +657,9 @@
     "id":150012, "category":"ItemCategory", "name":"GachaPoint", "value":"12"
   },
   {
+    "id":150014, "category":"ItemCategory", "name":"CommonEventPoint", "value":"14"
+  },
+  {
     "id":150101, "category":"ItemId", "name":"Soundle", "value":"50001"
   },
   {
@@ -658,6 +679,9 @@
   },
   {
     "id":150107, "category":"ItemId", "name":"AutoTicket", "value":"90001"
+  },
+  {
+    "id":150108, "category":"ItemId", "name":"CommonEventPoint", "value":"140001"
   },
   {
     "id":160000, "category":"PresentBox", "name":"PerPage", "value":"20"
@@ -922,6 +946,9 @@
   },
   {
     "id":200000, "category":"Gacha", "name":"DisplayDigit", "value":"5"
+  },
+  {
+    "id":200001, "category":"Gacha", "name":"ExecLimit", "value":"10"
   },
   {
     "id":200100, "category":"GachaCycle", "name":"All", "value":"1"

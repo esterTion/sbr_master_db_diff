@@ -384,6 +384,12 @@
     "id":514001, "myumon_basic_id":51, "name":"[頂点に向けて、Realize！]", "music_category":2, "rarity":5, "asset_id":5101, "mini_asset_id":5101, "life":460, "rhythm":2977, "melody":2971, "harmony":3959, "main_1_skill_id":11003, "main_2_skill_id":82002, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「ララリン」のブロマイドです"
   },
   {
+    "id":514010, "myumon_basic_id":51, "name":"[ほう、ご馳走が欲しいのかい？]", "music_category":3, "rarity":4, "asset_id":5102, "mini_asset_id":5102, "life":372, "rhythm":2196, "melody":3602, "harmony":2175, "main_1_skill_id":21001, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":514011, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「ララリン」のブロマイドです"
+  },
+  {
+    "id":514011, "myumon_basic_id":51, "name":"[Reijing Splash!!]", "music_category":3, "rarity":5, "asset_id":5102, "mini_asset_id":5102, "life":522, "rhythm":2574, "melody":5359, "harmony":2552, "main_1_skill_id":21002, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「ララリン」のブロマイドです"
+  },
+  {
     "id":521000, "myumon_basic_id":52, "name":"[REIJINGSIGNAL]", "music_category":1, "rarity":1, "asset_id":5200, "mini_asset_id":5200, "life":102, "rhythm":669, "melody":813, "harmony":601, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":521001, "shinka_recipe_no":11, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「スモモネ」のブロマイドです"
   },
   {
@@ -400,6 +406,12 @@
   },
   {
     "id":523001, "myumon_basic_id":52, "name":"[PerfectなSignalを！]", "music_category":1, "rarity":4, "asset_id":5200, "mini_asset_id":5200, "life":261, "rhythm":1435, "melody":1918, "harmony":1637, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「スモモネ」のブロマイドです"
+  },
+  {
+    "id":523010, "myumon_basic_id":52, "name":"[ちょちょちょ超～良いきもちッス♡]", "music_category":3, "rarity":3, "asset_id":5200, "mini_asset_id":5202, "life":201, "rhythm":1220, "melody":2036, "harmony":1234, "main_1_skill_id":30001, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":523011, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「スモモネ」のブロマイドです"
+  },
+  {
+    "id":523011, "myumon_basic_id":52, "name":"[もっとも～っとアゲてくッスよ♡]", "music_category":3, "rarity":4, "asset_id":5200, "mini_asset_id":5202, "life":289, "rhythm":1678, "melody":2730, "harmony":1752, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「スモモネ」のブロマイドです"
   },
   {
     "id":524000, "myumon_basic_id":52, "name":"[あたしはあたしらしくッス♡]", "music_category":1, "rarity":4, "asset_id":5201, "mini_asset_id":5201, "life":289, "rhythm":1785, "melody":2331, "harmony":1743, "main_1_skill_id":31001, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":524001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「スモモネ」のブロマイドです"
@@ -430,6 +442,12 @@
   },
   {
     "id":534001, "myumon_basic_id":53, "name":"[頂点に向けて、Realize！]", "music_category":3, "rarity":5, "asset_id":5301, "mini_asset_id":5301, "life":467, "rhythm":4234, "melody":2528, "harmony":2541, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「ういうい」のブロマイドです"
+  },
+  {
+    "id":534010, "myumon_basic_id":53, "name":"[暑いゼヨ。けど、悪くは無いゼヨ]", "music_category":2, "rarity":4, "asset_id":5302, "mini_asset_id":5302, "life":375, "rhythm":2170, "melody":3551, "harmony":2236, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":534011, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「ういうい」のブロマイドです"
+  },
+  {
+    "id":534011, "myumon_basic_id":53, "name":"[Reijing Splash!!]", "music_category":2, "rarity":5, "asset_id":5302, "mini_asset_id":5302, "life":506, "rhythm":2773, "melody":5174, "harmony":2653, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「ういうい」のブロマイドです"
   },
   {
     "id":611000, "myumon_basic_id":61, "name":"[DOKONJOFINGER]", "music_category":3, "rarity":1, "asset_id":6100, "mini_asset_id":6100, "life":104, "rhythm":626, "melody":825, "harmony":619, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":611001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ヤス」のブロマイドです"
@@ -540,6 +558,12 @@
     "id":712001, "myumon_basic_id":71, "name":"[深紅色の堕天使黙示録＋]", "music_category":1, "rarity":3, "asset_id":7100, "mini_asset_id":7100, "life":239, "rhythm":1533, "melody":1471, "harmony":1825, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110003, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「クロウ」のブロマイドです"
   },
   {
+    "id":713000, "myumon_basic_id":71, "name":"[最ッ高にEDENな波黙示録だぜッ]", "music_category":3, "rarity":3, "asset_id":7100, "mini_asset_id":7100, "life":212, "rhythm":1303, "melody":1860, "harmony":1256, "main_1_skill_id":21001, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":713001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「クロウ」のブロマイドです"
+  },
+  {
+    "id":713001, "myumon_basic_id":71, "name":"[上げろッ！テメエ色の堕天花火を！]", "music_category":3, "rarity":4, "asset_id":7100, "mini_asset_id":7100, "life":299, "rhythm":1668, "melody":2743, "harmony":1677, "main_1_skill_id":21002, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「クロウ」のブロマイドです"
+  },
+  {
     "id":714000, "myumon_basic_id":71, "name":"[超絶堕天ギター技爆誕降（以下略]", "music_category":1, "rarity":4, "asset_id":7101, "mini_asset_id":7101, "life":294, "rhythm":1911, "melody":1875, "harmony":2490, "main_1_skill_id":52002, "main_2_skill_id":0, "support_skill_id":110004, "special_skill_id":0, "grow_curve_group_no":33, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":714001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「クロウ」のブロマイドです"
   },
   {
@@ -582,6 +606,12 @@
     "id":724001, "myumon_basic_id":72, "name":"[深紅色の新反創世零炎LIVE！]", "music_category":3, "rarity":5, "asset_id":7201, "mini_asset_id":7201, "life":417, "rhythm":2480, "melody":2373, "harmony":3231, "main_1_skill_id":10004, "main_2_skill_id":82001, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「アイオーン」のブロマイドです"
   },
   {
+    "id":724010, "myumon_basic_id":72, "name":"[闇の太陽神と影若布、常夏の戯れ。]", "music_category":1, "rarity":4, "asset_id":7202, "mini_asset_id":7202, "life":373, "rhythm":2130, "melody":3615, "harmony":2224, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":724011, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「アイオーン」のブロマイドです"
+  },
+  {
+    "id":724011, "myumon_basic_id":72, "name":"[爆熱！クリムゾン花火ライブ黙示録]", "music_category":1, "rarity":5, "asset_id":7202, "mini_asset_id":7202, "life":503, "rhythm":2574, "melody":5343, "harmony":2701, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「アイオーン」のブロマイドです"
+  },
+  {
     "id":731000, "myumon_basic_id":73, "name":"[SHINGANCRIMSONZ]", "music_category":3, "rarity":1, "asset_id":7300, "mini_asset_id":7300, "life":86, "rhythm":893, "melody":684, "harmony":623, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":731001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ヤイバ」のブロマイドです"
   },
   {
@@ -604,6 +634,12 @@
   },
   {
     "id":734001, "myumon_basic_id":73, "name":"[深紅色の新反創世零炎LIVE！]", "music_category":3, "rarity":5, "asset_id":7301, "mini_asset_id":7301, "life":466, "rhythm":3407, "melody":2647, "harmony":2634, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ヤイバ」のブロマイドです"
+  },
+  {
+    "id":734010, "myumon_basic_id":73, "name":"[レジェンド・オブ・バナナボート！]", "music_category":3, "rarity":4, "asset_id":7302, "mini_asset_id":7302, "life":371, "rhythm":2203, "melody":3519, "harmony":2259, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":734011, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ヤイバ」のブロマイドです"
+  },
+  {
+    "id":734011, "myumon_basic_id":73, "name":"[爆熱！クリムゾン花火ライブ黙示録]", "music_category":3, "rarity":5, "asset_id":7302, "mini_asset_id":7302, "life":511, "rhythm":2584, "melody":5324, "harmony":2657, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ヤイバ」のブロマイドです"
   },
   {
     "id":741000, "myumon_basic_id":74, "name":"[SHINGANCRIMSONZ]", "music_category":2, "rarity":1, "asset_id":7400, "mini_asset_id":7400, "life":114, "rhythm":828, "melody":587, "harmony":586, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":741001, "shinka_recipe_no":21, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ロム」のブロマイドです"
