@@ -153,6 +153,9 @@
     "id":40203, "category":"UserStamina", "name":"CureCost", "value":"50"
   },
   {
+    "id":40204, "category":"UserStamina", "name":"ItemCureLimit", "value":"500"
+  },
+  {
     "id":40300, "category":"UserProfileComment", "name":"SizeMin", "value":"0"
   },
   {
@@ -655,6 +658,9 @@
   },
   {
     "id":150012, "category":"ItemCategory", "name":"GachaPoint", "value":"12"
+  },
+  {
+    "id":150013, "category":"ItemCategory", "name":"StaminaCure", "value":"13"
   },
   {
     "id":150014, "category":"ItemCategory", "name":"CommonEventPoint", "value":"14"

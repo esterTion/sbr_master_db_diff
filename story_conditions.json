@@ -810,6 +810,30 @@
     "id":31140041, "target_type":"Story", "target_id":3114004, "category":"MyumonGenkaiCount", "args":"[1144000,4]"
   },
   {
+    "id":31210011, "target_type":"Story", "target_id":3121001, "category":"MyumonGenkaiCount", "args":"[1214000,1]"
+  },
+  {
+    "id":31210021, "target_type":"Story", "target_id":3121002, "category":"MyumonGenkaiCount", "args":"[1214000,2]"
+  },
+  {
+    "id":31210031, "target_type":"Story", "target_id":3121003, "category":"MyumonGenkaiCount", "args":"[1214000,3]"
+  },
+  {
+    "id":31210041, "target_type":"Story", "target_id":3121004, "category":"MyumonGenkaiCount", "args":"[1214000,4]"
+  },
+  {
+    "id":31240011, "target_type":"Story", "target_id":3124001, "category":"MyumonGenkaiCount", "args":"[1244000,1]"
+  },
+  {
+    "id":31240021, "target_type":"Story", "target_id":3124002, "category":"MyumonGenkaiCount", "args":"[1244000,2]"
+  },
+  {
+    "id":31240031, "target_type":"Story", "target_id":3124003, "category":"MyumonGenkaiCount", "args":"[1244000,3]"
+  },
+  {
+    "id":31240041, "target_type":"Story", "target_id":3124004, "category":"MyumonGenkaiCount", "args":"[1244000,4]"
+  },
+  {
     "id":40100011, "target_type":"Story", "target_id":4010001, "category":"ArtistLevel", "args":"[1,2]"
   },
   {
@@ -1879,5 +1903,32 @@
   },
   {
     "id":41100102, "target_type":"Story", "target_id":4110010, "category":"ReadArtistStory", "args":"4110009"
+  },
+  {
+    "id":41200011, "target_type":"Story", "target_id":4120001, "category":"ArtistLevel", "args":"[12,2]"
+  },
+  {
+    "id":41200021, "target_type":"Story", "target_id":4120002, "category":"ArtistLevel", "args":"[12,3]"
+  },
+  {
+    "id":41200022, "target_type":"Story", "target_id":4120002, "category":"ReadArtistStory", "args":"4120001"
+  },
+  {
+    "id":41200031, "target_type":"Story", "target_id":4120003, "category":"ArtistLevel", "args":"[12,4]"
+  },
+  {
+    "id":41200032, "target_type":"Story", "target_id":4120003, "category":"ReadArtistStory", "args":"4120002"
+  },
+  {
+    "id":41200041, "target_type":"Story", "target_id":4120004, "category":"ArtistLevel", "args":"[12,5]"
+  },
+  {
+    "id":41200042, "target_type":"Story", "target_id":4120004, "category":"ReadArtistStory", "args":"4120003"
+  },
+  {
+    "id":41200051, "target_type":"Story", "target_id":4120005, "category":"ArtistLevel", "args":"[12,6]"
+  },
+  {
+    "id":41200052, "target_type":"Story", "target_id":4120005, "category":"ReadArtistStory", "args":"4120004"
   }
 ]

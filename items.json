@@ -48,6 +48,9 @@
     "id":40003, "category":4, "name":"【水コレ】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40004, "category":4, "name":"【しにもの】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
   },
   {
@@ -100,6 +103,18 @@
   },
   {
     "id":120003, "category":12, "name":"【水コレ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120004, "category":12, "name":"【しにもの】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
+  },
+  {
+    "id":130002, "category":13, "name":"イヤホイあめちゃん50", "quantity_max":999, "ex_params":"{\"stamina\":50}", "description":"イヤホイを50回復するアイテムです"
+  },
+  {
+    "id":130003, "category":13, "name":"イヤホイあめちゃん100", "quantity_max":999, "ex_params":"{\"stamina\":100}", "description":"イヤホイを100回復するアイテムです"
   },
   {
     "id":140001, "category":14, "name":"めもりあるポイント", "quantity_max":999999, "ex_params":"{}", "description":"各種イベントで獲得するポイントです"
