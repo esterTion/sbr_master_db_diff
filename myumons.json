@@ -192,6 +192,12 @@
     "id":234001, "myumon_basic_id":23, "name":"[ぷるぷる！プラズマジカLIVE！]", "music_category":1, "rarity":5, "asset_id":2301, "mini_asset_id":2301, "life":432, "rhythm":3586, "melody":2781, "harmony":2560, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「レトリー」のブロマイドです"
   },
   {
+    "id":234010, "myumon_basic_id":23, "name":"[こ、これってリア充すぎない……？]", "music_category":3, "rarity":4, "asset_id":2302, "mini_asset_id":2302, "life":384, "rhythm":2125, "melody":2205, "harmony":3563, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":234011, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「レトリー」のブロマイドです"
+  },
+  {
+    "id":234011, "myumon_basic_id":23, "name":"[いくよ、エターナル♡ダイスキー！]", "music_category":3, "rarity":5, "asset_id":2302, "mini_asset_id":2302, "life":514, "rhythm":2541, "melody":2505, "harmony":5499, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「レトリー」のブロマイドです"
+  },
+  {
     "id":241000, "myumon_basic_id":24, "name":"[Plasmagica]", "music_category":2, "rarity":1, "asset_id":2400, "mini_asset_id":2400, "life":90, "rhythm":881, "melody":608, "harmony":683, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":241001, "shinka_recipe_no":21, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「モア」のブロマイドです"
   },
   {
@@ -202,6 +208,12 @@
   },
   {
     "id":242001, "myumon_basic_id":24, "name":"[ぴゅるぴゅるぴゅる～ん☆＋]", "music_category":2, "rarity":3, "asset_id":2400, "mini_asset_id":2400, "life":195, "rhythm":1546, "melody":1081, "harmony":1206, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「モア」のブロマイドです"
+  },
+  {
+    "id":243000, "myumon_basic_id":24, "name":"[帰りたいけど、帰りたくないぴゅる]", "music_category":3, "rarity":3, "asset_id":2400, "mini_asset_id":2400, "life":210, "rhythm":1288, "melody":1265, "harmony":1878, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":243001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「モア」のブロマイドです"
+  },
+  {
+    "id":243001, "myumon_basic_id":24, "name":"[今日もおもいっきりいくぴゅる☆]", "music_category":3, "rarity":4, "asset_id":2400, "mini_asset_id":2400, "life":304, "rhythm":1569, "melody":1559, "harmony":2925, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「モア」のブロマイドです"
   },
   {
     "id":244000, "myumon_basic_id":24, "name":"[もっと仲良くするぴゅる～☆]", "music_category":2, "rarity":4, "asset_id":2401, "mini_asset_id":2401, "life":304, "rhythm":2481, "melody":1862, "harmony":1857, "main_1_skill_id":2003, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":244001, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「モア」のブロマイドです"
@@ -930,6 +942,12 @@
     "id":1112001, "myumon_basic_id":111, "name":"[夜風に揺れる弁護士＋]", "music_category":1, "rarity":3, "asset_id":11100, "mini_asset_id":11100, "life":185, "rhythm":1145, "melody":1154, "harmony":1706, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110043, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Yokazenohorizon」に所属する「リカオ」のブロマイドです"
   },
   {
+    "id":1113000, "myumon_basic_id":111, "name":"[本当にやっていないんだな？…です]", "music_category":3, "rarity":3, "asset_id":11100, "mini_asset_id":11100, "life":214, "rhythm":1218, "melody":1262, "harmony":1922, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":1113001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「Yokazenohorizon」に所属する「リカオ」のブロマイドです"
+  },
+  {
+    "id":1113001, "myumon_basic_id":111, "name":"[四人のライブ、悪く無い……です]", "music_category":3, "rarity":4, "asset_id":11100, "mini_asset_id":11100, "life":296, "rhythm":1657, "melody":1625, "harmony":2829, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Yokazenohorizon」に所属する「リカオ」のブロマイドです"
+  },
+  {
     "id":1114000, "myumon_basic_id":111, "name":"[無実を証明するだけだ……です。]", "music_category":2, "rarity":4, "asset_id":11101, "mini_asset_id":11101, "life":397, "rhythm":2155, "melody":2259, "harmony":3841, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1114001, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「Yokazenohorizon」に所属する「リカオ」のブロマイドです"
   },
   {
@@ -976,6 +994,12 @@
   },
   {
     "id":1133001, "myumon_basic_id":113, "name":"[シナジーを生むライブ、マストだね]", "music_category":2, "rarity":4, "asset_id":11300, "mini_asset_id":11300, "life":303, "rhythm":1789, "melody":1809, "harmony":2908, "main_1_skill_id":22002, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":33, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Yokazenohorizon」に所属する「クースカ」のブロマイドです"
+  },
+  {
+    "id":1134000, "myumon_basic_id":113, "name":"[ボークのルーティンはこの場所から]", "music_category":3, "rarity":4, "asset_id":11301, "mini_asset_id":11301, "life":378, "rhythm":2176, "melody":2249, "harmony":3508, "main_1_skill_id":30001, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":33, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1134001, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「Yokazenohorizon」に所属する「クースカ」のブロマイドです"
+  },
+  {
+    "id":1134001, "myumon_basic_id":113, "name":"[夜風に揺れる四人のB]", "music_category":3, "rarity":5, "asset_id":11301, "mini_asset_id":11301, "life":490, "rhythm":2723, "melody":2754, "harmony":5236, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":33, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Yokazenohorizon」に所属する「クースカ」のブロマイドです"
   },
   {
     "id":1141000, "myumon_basic_id":114, "name":"[Yokazenohorizon]", "music_category":3, "rarity":1, "asset_id":11400, "mini_asset_id":11400, "life":98, "rhythm":878, "melody":621, "harmony":614, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1141001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「Yokazenohorizon」に所属する「ウララギ」のブロマイドです"

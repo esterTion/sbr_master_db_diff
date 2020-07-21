@@ -187,5 +187,8 @@
   },
   {
     "id":110045, "name":"オールサポート++++", "myumon_skill_effect_id":20001, "effect_arg_no":2000146, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":120001, "name":"獲得アイテム増加", "myumon_skill_effect_id":18000, "effect_arg_no":180001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":1, "level_limit_item":1
   }
 ]
