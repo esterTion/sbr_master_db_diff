@@ -21,10 +21,16 @@
     "id":10007, "category":"PaymentCheck", "name":"NoFinished", "value":"こちらの商品は現在購入できません。"
   },
   {
+    "id":10008, "category":"PaymentCheck", "name":"UnfairRefund", "value":"返金回数が多いため\r\n課金が制限されています。\r\nお心当たりのない場合は\r\nお手数ですがサポートセンターまで\r\nお問い合わせください。"
+  },
+  {
     "id":10009, "category":"PaymentBuy", "name":"TimedOut", "value":"課金手続きに失敗しました。購入手続きを中止ます。"
   },
   {
     "id":10010, "category":"PaymentBuy", "name":"Failed", "value":"課金手続きに失敗しました。購入手続きを中止ます。"
+  },
+  {
+    "id":10011, "category":"PaymentBuy", "name":"AlreadyRefund", "value":"払い戻し等、\r\nアプリ外からの対処を行うため\r\n購入情報の処理を行いました。"
   },
   {
     "id":10100, "category":"PresentBoxTitle", "name":"MyumonStoryReward", "value":"キャラクターストーリーの報酬です"
@@ -475,6 +481,24 @@
   },
   {
     "id":120506, "category":"StoreBuyLimitType", "name":"Monthly", "value":"今月"
+  },
+  {
+    "id":120601, "category":"ResetInformation", "name":"Base", "value":"※{0}上限は\n　{1}"
+  },
+  {
+    "id":120602, "category":"ResetInformation", "name":"Daily", "value":"毎日 12:00 リセット"
+  },
+  {
+    "id":120603, "category":"ResetInformation", "name":"Weekly", "value":"毎週 月曜 12:00 リセット"
+  },
+  {
+    "id":120604, "category":"ResetInformation", "name":"Monthly", "value":"毎月 1日 12:00 リセット"
+  },
+  {
+    "id":120701, "category":"StoreType", "name":"Buy", "value":"購入"
+  },
+  {
+    "id":120702, "category":"StoreType", "name":"Exchange", "value":"交換"
   },
   {
     "id":130001, "category":"MissionDialog", "name":"Title", "value":"ミッション"

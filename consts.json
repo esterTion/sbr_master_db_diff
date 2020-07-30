@@ -1212,6 +1212,9 @@
     "id":270307, "category":"PaymentCheckResult", "name":"BridgeError", "value":"7"
   },
   {
+    "id":270308, "category":"PaymentCheckResult", "name":"UnfairRefund", "value":"8"
+  },
+  {
     "id":270400, "category":"PaymentBuyResult", "name":"Successful", "value":"0"
   },
   {
@@ -1222,6 +1225,9 @@
   },
   {
     "id":270403, "category":"PaymentBuyResult", "name":"Failed", "value":"3"
+  },
+  {
+    "id":270404, "category":"PaymentBuyResult", "name":"AlreadyRefund", "value":"4"
   },
   {
     "id":280001, "category":"TweetType", "name":"Profile", "value":"1"
