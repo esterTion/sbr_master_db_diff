@@ -78,6 +78,12 @@
     "id":133001, "myumon_basic_id":13, "name":"[今日はアゲアゲのえもえもです]", "music_category":1, "rarity":4, "asset_id":1300, "mini_asset_id":1300, "life":294, "rhythm":1705, "melody":2727, "harmony":1690, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「デルミン」のブロマイドです"
   },
   {
+    "id":133010, "myumon_basic_id":13, "name":"[リゾート体験、わくわくのわくです]", "music_category":1, "rarity":3, "asset_id":1300, "mini_asset_id":1302, "life":212, "rhythm":2041, "melody":1192, "harmony":1182, "main_1_skill_id":20001, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":133011, "shinka_recipe_no":13, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「デルミン」のブロマイドです"
+  },
+  {
+    "id":133011, "myumon_basic_id":13, "name":"[めきめきのめきっと、成長中です]", "music_category":1, "rarity":4, "asset_id":1300, "mini_asset_id":1302, "life":296, "rhythm":3264, "melody":1417, "harmony":1452, "main_1_skill_id":20002, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「デルミン」のブロマイドです"
+  },
+  {
     "id":134000, "myumon_basic_id":13, "name":"[今日のノルマまでもう少しです。]", "music_category":3, "rarity":4, "asset_id":1301, "mini_asset_id":1301, "life":307, "rhythm":2572, "melody":1983, "harmony":1923, "main_1_skill_id":20001, "main_2_skill_id":82001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":134001, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「デルミン」のブロマイドです"
   },
   {
@@ -720,6 +726,12 @@
     "id":744011, "myumon_basic_id":74, "name":"[リアルに熱くなってきやがったぜ！]", "music_category":2, "rarity":5, "asset_id":7402, "mini_asset_id":7402, "life":551, "rhythm":5115, "melody":2382, "harmony":2486, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ロム」のブロマイドです"
   },
   {
+    "id":744020, "myumon_basic_id":74, "name":"[心配すんな、会社には申請済みだぜ]", "music_category":1, "rarity":4, "asset_id":7403, "mini_asset_id":7403, "life":374, "rhythm":3861, "melody":2080, "harmony":2022, "main_1_skill_id":30001, "main_2_skill_id":101001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":744021, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ロム」のブロマイドです"
+  },
+  {
+    "id":744021, "myumon_basic_id":74, "name":"[リアルワイルドバケツウォーター！]", "music_category":1, "rarity":5, "asset_id":7403, "mini_asset_id":7403, "life":462, "rhythm":5304, "melody":2496, "harmony":2503, "main_1_skill_id":30002, "main_2_skill_id":101002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「シンガンクリムゾンズ」に所属する「ロム」のブロマイドです"
+  },
+  {
     "id":811000, "myumon_basic_id":81, "name":"[Trichronika]", "music_category":3, "rarity":1, "asset_id":8100, "mini_asset_id":8100, "life":100, "rhythm":610, "melody":618, "harmony":874, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":811001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「シュウ☆ゾー」のブロマイドです"
   },
   {
@@ -900,6 +912,12 @@
     "id":1014001, "myumon_basic_id":101, "name":"[瞬きしちゃダメダメっ♡いっくよ～]", "music_category":1, "rarity":5, "asset_id":10101, "mini_asset_id":10101, "life":484, "rhythm":4853, "melody":2512, "harmony":2788, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ロージア」のブロマイドです"
   },
   {
+    "id":1014010, "myumon_basic_id":101, "name":"[お兄ちゃんぶつかっちゃうよ～っ♡]", "music_category":1, "rarity":4, "asset_id":10102, "mini_asset_id":10102, "life":377, "rhythm":3798, "melody":2082, "harmony":2058, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1014011, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ロージア」のブロマイドです"
+  },
+  {
+    "id":1014011, "myumon_basic_id":101, "name":"[は～い♡No.1アイドルですっ♡]", "music_category":1, "rarity":5, "asset_id":10102, "mini_asset_id":10102, "life":504, "rhythm":5831, "melody":2340, "harmony":2444, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ロージア」のブロマイドです"
+  },
+  {
     "id":1021000, "myumon_basic_id":102, "name":"[クリティクリスタ]", "music_category":3, "rarity":1, "asset_id":10200, "mini_asset_id":10200, "life":97, "rhythm":661, "melody":880, "harmony":582, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1021001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ツキノ」のブロマイドです"
   },
   {
@@ -910,6 +928,12 @@
   },
   {
     "id":1022001, "myumon_basic_id":102, "name":"[Yes!アイドル宣言♤なの♪＋]", "music_category":3, "rarity":3, "asset_id":10200, "mini_asset_id":10200, "life":201, "rhythm":1066, "melody":1622, "harmony":1204, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ツキノ」のブロマイドです"
+  },
+  {
+    "id":1023000, "myumon_basic_id":102, "name":"[アイスはココロのユートピアなの♪]", "music_category":1, "rarity":3, "asset_id":10200, "mini_asset_id":10200, "life":214, "rhythm":2052, "melody":1170, "harmony":1181, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":1023001, "shinka_recipe_no":13, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ツキノ」のブロマイドです"
+  },
+  {
+    "id":1023001, "myumon_basic_id":102, "name":"[みんなキラキラで眩しいの～♪]", "music_category":1, "rarity":4, "asset_id":10200, "mini_asset_id":10200, "life":283, "rhythm":3183, "melody":1510, "harmony":1515, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ツキノ」のブロマイドです"
   },
   {
     "id":1024000, "myumon_basic_id":102, "name":"[おいしい撮影は大好きなの♡]", "music_category":1, "rarity":4, "asset_id":10201, "mini_asset_id":10201, "life":224, "rhythm":1927, "melody":2502, "harmony":1882, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1024001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ツキノ」のブロマイドです"

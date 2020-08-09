@@ -1080,6 +1080,96 @@
     "id":10000210, "effect_arg_no":1090002, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,510]", "digest":"ライフ0時に1回だけライフを510回復", "description":"ライフが0になった時、1回だけライフを510回復する"
   },
   {
+    "id":10100001, "effect_arg_no":1800000, "level":1, "interval":0, "probability":30, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"30％でフリーライブ報酬1つの獲得量を+1", "description":"30％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100002, "effect_arg_no":1800000, "level":2, "interval":0, "probability":35, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"35％でフリーライブ報酬1つの獲得量を+1", "description":"35％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100003, "effect_arg_no":1800000, "level":3, "interval":0, "probability":40, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"40％でフリーライブ報酬1つの獲得量を+1", "description":"40％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100004, "effect_arg_no":1800000, "level":4, "interval":0, "probability":45, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"45％でフリーライブ報酬1つの獲得量を+1", "description":"45％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100005, "effect_arg_no":1800000, "level":5, "interval":0, "probability":50, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"50％でフリーライブ報酬1つの獲得量を+1", "description":"50％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100006, "effect_arg_no":1800000, "level":6, "interval":0, "probability":55, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"55％でフリーライブ報酬1つの獲得量を+1", "description":"55％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100007, "effect_arg_no":1800000, "level":7, "interval":0, "probability":60, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"60％でフリーライブ報酬1つの獲得量を+1", "description":"60％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100008, "effect_arg_no":1800000, "level":8, "interval":0, "probability":70, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"70％でフリーライブ報酬1つの獲得量を+1", "description":"70％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100009, "effect_arg_no":1800000, "level":9, "interval":0, "probability":80, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"80％でフリーライブ報酬1つの獲得量を+1", "description":"80％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100010, "effect_arg_no":1800000, "level":10, "interval":0, "probability":85, "duration":0, "damage":0, "effect_args":"[1,1,1]", "digest":"85％でフリーライブ報酬1つの獲得量を+1", "description":"85％の確率でフリーライブ報酬のうち、1つの獲得量を1個増量する"
+  },
+  {
+    "id":10100101, "effect_arg_no":1800001, "level":1, "interval":0, "probability":55, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"55％でフリーライブ報酬1つの獲得量を+1～2", "description":"55％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100102, "effect_arg_no":1800001, "level":2, "interval":0, "probability":60, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"60％でフリーライブ報酬1つの獲得量を+1～2", "description":"60％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100103, "effect_arg_no":1800001, "level":3, "interval":0, "probability":65, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"65％でフリーライブ報酬1つの獲得量を+1～2", "description":"65％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100104, "effect_arg_no":1800001, "level":4, "interval":0, "probability":70, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"70％でフリーライブ報酬1つの獲得量を+1～2", "description":"70％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100105, "effect_arg_no":1800001, "level":5, "interval":0, "probability":75, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"75％でフリーライブ報酬1つの獲得量を+1～2", "description":"75％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100106, "effect_arg_no":1800001, "level":6, "interval":0, "probability":80, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"80％でフリーライブ報酬1つの獲得量を+1～2", "description":"80％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100107, "effect_arg_no":1800001, "level":7, "interval":0, "probability":85, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"85％でフリーライブ報酬1つの獲得量を+1～2", "description":"85％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100108, "effect_arg_no":1800001, "level":8, "interval":0, "probability":90, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"90％でフリーライブ報酬1つの獲得量を+1～2", "description":"90％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100109, "effect_arg_no":1800001, "level":9, "interval":0, "probability":95, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"95％でフリーライブ報酬1つの獲得量を+1～2", "description":"95％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100110, "effect_arg_no":1800001, "level":10, "interval":0, "probability":100, "duration":0, "damage":0, "effect_args":"[1,1,2]", "digest":"100％でフリーライブ報酬1つの獲得量を+1～2", "description":"100％の確率でフリーライブ報酬のうち、1つの獲得量を1～2個増量する"
+  },
+  {
+    "id":10100201, "effect_arg_no":1800002, "level":1, "interval":0, "probability":80, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"80％でフリーライブ報酬2つの獲得量を+1", "description":"80％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
+    "id":10100202, "effect_arg_no":1800002, "level":2, "interval":0, "probability":82, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"82％でフリーライブ報酬2つの獲得量を+1", "description":"82％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
+    "id":10100203, "effect_arg_no":1800002, "level":3, "interval":0, "probability":84, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"84％でフリーライブ報酬2つの獲得量を+1", "description":"84％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
+    "id":10100204, "effect_arg_no":1800002, "level":4, "interval":0, "probability":86, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"86％でフリーライブ報酬2つの獲得量を+1", "description":"86％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
+    "id":10100205, "effect_arg_no":1800002, "level":5, "interval":0, "probability":88, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"88％でフリーライブ報酬2つの獲得量を+1", "description":"88％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
+    "id":10100206, "effect_arg_no":1800002, "level":6, "interval":0, "probability":90, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"90％でフリーライブ報酬2つの獲得量を+1", "description":"90％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
+    "id":10100207, "effect_arg_no":1800002, "level":7, "interval":0, "probability":92, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"92％でフリーライブ報酬2つの獲得量を+1", "description":"92％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
+    "id":10100208, "effect_arg_no":1800002, "level":8, "interval":0, "probability":94, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"94％でフリーライブ報酬2つの獲得量を+1", "description":"94％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
+    "id":10100209, "effect_arg_no":1800002, "level":9, "interval":0, "probability":97, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"97％でフリーライブ報酬2つの獲得量を+1", "description":"97％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
+    "id":10100210, "effect_arg_no":1800002, "level":10, "interval":0, "probability":100, "duration":0, "damage":0, "effect_args":"[2,1,1]", "digest":"100％でフリーライブ報酬2つの獲得量を+1", "description":"100％の確率でフリーライブ報酬のうち、2つの獲得量を1個増量する"
+  },
+  {
     "id":11000101, "effect_arg_no":2000101, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[5,0,0,0]", "digest":"自分のライフ値を5%付与", "description":"自分が持つライフ値の5%を装備したメンバーに付与する"
   },
   {

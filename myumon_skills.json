@@ -114,6 +114,15 @@
     "id":100002, "name":"くいしばり+", "myumon_skill_effect_id":10900, "effect_arg_no":1090002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   },
   {
+    "id":101000, "name":"グッズドロップUP", "myumon_skill_effect_id":18000, "effect_arg_no":1800000, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":101001, "name":"グッズドロップUP+", "myumon_skill_effect_id":18000, "effect_arg_no":1800001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":101002, "name":"グッズドロップUP++", "myumon_skill_effect_id":18000, "effect_arg_no":1800002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
     "id":110001, "name":"ライフサポート", "myumon_skill_effect_id":20001, "effect_arg_no":2000101, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
   },
   {

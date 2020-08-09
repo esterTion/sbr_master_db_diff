@@ -48,6 +48,9 @@
     "id":10310, "category":"GameScene", "name":"Store", "value":"10"
   },
   {
+    "id":10311, "category":"GameScene", "name":"BeginnerMission", "value":"11"
+  },
+  {
     "id":10400, "category":"GamePage", "name":"DefaultPerPage", "value":"20"
   },
   {
@@ -1276,5 +1279,26 @@
   },
   {
     "id":310104, "category":"TradeStoreBuyLimitType", "name":"Monthly", "value":"4"
+  },
+  {
+    "id":320101, "category":"BeginnerMissionStatus", "name":"Open", "value":"0"
+  },
+  {
+    "id":320102, "category":"BeginnerMissionStatus", "name":"Clear", "value":"1"
+  },
+  {
+    "id":320103, "category":"BeginnerMissionStatus", "name":"End", "value":"2"
+  },
+  {
+    "id":320201, "category":"BeginnerMissionOverview", "name":"Opened", "value":"0"
+  },
+  {
+    "id":320202, "category":"BeginnerMissionOverview", "name":"Cleared", "value":"1"
+  },
+  {
+    "id":320203, "category":"BeginnerMissionOverview", "name":"Finished", "value":"2"
+  },
+  {
+    "id":320204, "category":"BeginnerMissionOverview", "name":"Closed", "value":"3"
   }
 ]
