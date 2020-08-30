@@ -1239,6 +1239,9 @@
     "id":280002, "category":"TweetType", "name":"LiveResult", "value":"2"
   },
   {
+    "id":280003, "category":"TweetType", "name":"QuizResult", "value":"3"
+  },
+  {
     "id":290101, "category":"AppealWordPlace", "name":"Gacha", "value":"1"
   },
   {
@@ -1300,5 +1303,26 @@
   },
   {
     "id":320204, "category":"BeginnerMissionOverview", "name":"Closed", "value":"3"
+  },
+  {
+    "id":330201, "category":"QuizStatus", "name":"Start", "value":"1"
+  },
+  {
+    "id":330202, "category":"QuizStatus", "name":"Finish", "value":"2"
+  },
+  {
+    "id":330301, "category":"QuestionType", "name":"Music", "value":"1"
+  },
+  {
+    "id":330302, "category":"QuestionType", "name":"Artist", "value":"2"
+  },
+  {
+    "id":330303, "category":"QuestionType", "name":"Random", "value":"99"
+  },
+  {
+    "id":330401, "category":"QuizFinishCondition", "name":"Normal", "value":"1"
+  },
+  {
+    "id":330402, "category":"QuizFinishCondition", "name":"Challenge", "value":"2"
   }
 ]

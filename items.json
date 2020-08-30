@@ -36,31 +36,34 @@
     "id":20023, "category":2, "name":"キラキラ魂L", "quantity_max":9999, "ex_params":"{}", "description":"キラキラタイプを覚醒させるすごくレアな素材です"
   },
   {
-    "id":30001, "category":3, "name":"スキルの極意", "quantity_max":999, "ex_params":"{\"level\":1}", "description":"ブロマイドが持つスキルをレベルアップさせる秘伝書です"
+    "id":30001, "category":3, "name":"スキルの極意", "quantity_max":9999, "ex_params":"{\"level\":1}", "description":"ブロマイドが持つスキルをレベルアップさせる秘伝書です"
   },
   {
-    "id":40001, "category":4, "name":"69ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+    "id":40001, "category":4, "name":"69ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
-    "id":40002, "category":4, "name":"【ましウェイ】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+    "id":40002, "category":4, "name":"【ましウェイ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
-    "id":40003, "category":4, "name":"【水コレ】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+    "id":40003, "category":4, "name":"【水コレ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
-    "id":40004, "category":4, "name":"【しにもの】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+    "id":40004, "category":4, "name":"【しにもの】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
-    "id":40005, "category":4, "name":"【夜DOKI】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+    "id":40005, "category":4, "name":"【夜DOKI】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
-    "id":40006, "category":4, "name":"【ゆかコレ】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+    "id":40006, "category":4, "name":"【ゆかコレ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
-    "id":40007, "category":4, "name":"【水コレ2】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+    "id":40007, "category":4, "name":"【水コレ2】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
-    "id":40008, "category":4, "name":"【ウワペタ】ガチャチケット", "quantity_max":999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+    "id":40008, "category":4, "name":"【ウワペタ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40009, "category":4, "name":"【しゅびっと】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -84,19 +87,19 @@
     "id":90001, "category":9, "name":"オートチケット", "quantity_max":9999, "ex_params":"{}", "description":"オートプレイをするのに必要なチケットです"
   },
   {
-    "id":100001, "category":10, "name":"R限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":10}", "description":"突破EXPを少し与えるアイテムです"
+    "id":100001, "category":10, "name":"R限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":10}", "description":"突破EXPを少し与えるアイテムです"
   },
   {
-    "id":100002, "category":10, "name":"RR限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":30}", "description":"突破EXPを少し与えるアイテムです"
+    "id":100002, "category":10, "name":"RR限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":30}", "description":"突破EXPを少し与えるアイテムです"
   },
   {
-    "id":100003, "category":10, "name":"SR限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":90}", "description":"突破EXPを与えるアイテムです"
+    "id":100003, "category":10, "name":"SR限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":90}", "description":"突破EXPを与えるアイテムです"
   },
   {
-    "id":100004, "category":10, "name":"SSR限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":180}", "description":"突破EXPを与えるアイテムです"
+    "id":100004, "category":10, "name":"SSR限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":180}", "description":"突破EXPを与えるアイテムです"
   },
   {
-    "id":100005, "category":10, "name":"UR限界突破メイプル", "quantity_max":999, "ex_params":"{\"exp\":360}", "description":"突破EXPをかなり与えるアイテムです"
+    "id":100005, "category":10, "name":"UR限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":360}", "description":"突破EXPをかなり与えるアイテムです"
   },
   {
     "id":110001, "category":11, "name":"イベント.pt", "quantity_max":99999999, "ex_params":"{}", "description":""
@@ -132,13 +135,16 @@
     "id":120008, "category":12, "name":"【ウワペタ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
-    "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
+    "id":120009, "category":12, "name":"【しゅびっと】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
-    "id":130002, "category":13, "name":"イヤホイあめちゃん50", "quantity_max":999, "ex_params":"{\"stamina\":50}", "description":"イヤホイを50回復するアイテムです"
+    "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
-    "id":130003, "category":13, "name":"イヤホイあめちゃん100", "quantity_max":999, "ex_params":"{\"stamina\":100}", "description":"イヤホイを100回復するアイテムです"
+    "id":130002, "category":13, "name":"イヤホイあめちゃん50", "quantity_max":9999, "ex_params":"{\"stamina\":50}", "description":"イヤホイを50回復するアイテムです"
+  },
+  {
+    "id":130003, "category":13, "name":"イヤホイあめちゃん100", "quantity_max":9999, "ex_params":"{\"stamina\":100}", "description":"イヤホイを100回復するアイテムです"
   },
   {
     "id":140001, "category":14, "name":"めもりあるポイント", "quantity_max":999999, "ex_params":"{}", "description":"各種イベントで獲得するポイントです"
