@@ -1308,7 +1308,10 @@
     "id":330201, "category":"QuizStatus", "name":"Start", "value":"1"
   },
   {
-    "id":330202, "category":"QuizStatus", "name":"Finish", "value":"2"
+    "id":330202, "category":"QuizStatus", "name":"Answer", "value":"2"
+  },
+  {
+    "id":330203, "category":"QuizStatus", "name":"Finish", "value":"3"
   },
   {
     "id":330301, "category":"QuestionType", "name":"Music", "value":"1"
