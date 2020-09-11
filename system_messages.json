@@ -730,5 +730,17 @@
   },
   {
     "id":700001, "category":"BattleLive", "name":"RivalStrongerBonus", "value":"強敵ボーナス+{0}%"
+  },
+  {
+    "id":800001, "category":"IntroQuiz", "name":"NormalMode", "value":"ノーマルモード"
+  },
+  {
+    "id":800002, "category":"IntroQuiz", "name":"ChallengeMode", "value":"チャレンジモード"
+  },
+  {
+    "id":800003, "category":"IntroQuiz", "name":"PostText", "value":"{0}の{1}で{2}問正解！\n#ショバフェス #SB69"
+  },
+  {
+    "id":800004, "category":"IntroQuiz", "name":"PostUrl", "value":"empty"
   }
 ]

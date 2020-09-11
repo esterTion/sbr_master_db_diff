@@ -66,6 +66,9 @@
     "id":40009, "category":4, "name":"【しゅびっと】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40010, "category":4, "name":"【忍迅雷音】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
   },
   {
@@ -138,6 +141,9 @@
     "id":120009, "category":12, "name":"【しゅびっと】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120010, "category":12, "name":"【忍迅雷音】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -148,5 +154,8 @@
   },
   {
     "id":140001, "category":14, "name":"めもりあるポイント", "quantity_max":999999, "ex_params":"{}", "description":"各種イベントで獲得するポイントです"
+  },
+  {
+    "id":140002, "category":14, "name":"ハーフアニバーサリーポイント", "quantity_max":999999, "ex_params":"{}", "description":"ハーフアニバーサリー記念アイテムと交換できるポイントです"
   }
 ]

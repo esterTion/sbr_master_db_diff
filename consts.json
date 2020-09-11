@@ -51,6 +51,12 @@
     "id":10311, "category":"GameScene", "name":"BeginnerMission", "value":"11"
   },
   {
+    "id":10312, "category":"GameScene", "name":"SpecialMission", "value":"12"
+  },
+  {
+    "id":10313, "category":"GameScene", "name":"IntroQuiz", "value":"13"
+  },
+  {
     "id":10400, "category":"GamePage", "name":"DefaultPerPage", "value":"20"
   },
   {
@@ -1105,6 +1111,12 @@
   },
   {
     "id":240504, "category":"MissionCategoryName", "name":"Special", "value":"スペシャル"
+  },
+  {
+    "id":240601, "category":"MissionButtonType", "name":"Normal", "value":"0"
+  },
+  {
+    "id":240602, "category":"MissionButtonType", "name":"HalfAnniversary", "value":"1"
   },
   {
     "id":250100, "category":"AvatarCategory", "name":"Head", "value":"1"

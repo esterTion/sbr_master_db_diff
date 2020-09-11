@@ -6,6 +6,9 @@
     "id":1001, "layer_type":"Background", "name":"妖怪ストリート", "description":"MIDICITY６番街にある通称妖怪ストリート。妖怪族のバンド達が毎晩ストリートライブをしていることで有名。", "default_asset_ids":"null"
   },
   {
+    "id":1002, "layer_type":"Background", "name":"アニバーサリータウン", "description":"ハッピーアニバーサリー！記念日を祝して、MIDICITYの街中が大いに盛り上がりを見せている！ありがとう！", "default_asset_ids":"null"
+  },
+  {
     "id":2000, "layer_type":"Road", "name":"砂利道の大通り", "description":"自然たっぷりの郊外の道。\n雨が降るとどろんこに！", "default_asset_ids":"null"
   },
   {
@@ -22,6 +25,9 @@
   },
   {
     "id":2005, "layer_type":"Road", "name":"キーボード風の大通り", "description":"ピアノのようなデザインの道。\n歩いても音は出ないが、なんだか楽しい。", "default_asset_ids":"null"
+  },
+  {
+    "id":2006, "layer_type":"Road", "name":"パレードロード", "description":"記念日を祝して、豪華に舗装された大通り。大スターになった気分を味わえるのだとか。", "default_asset_ids":"null"
   },
   {
     "id":3000, "layer_type":"OnTheRoad", "name":"道路の上", "description":"", "default_asset_ids":"null"
@@ -67,6 +73,9 @@
   },
   {
     "id":7005, "layer_type":"Fence", "name":"格子模様のフェンス", "description":"モダンなデザインのフェンス。\n落ち着いた色合いが大人な街を演出する。", "default_asset_ids":"null"
+  },
+  {
+    "id":7006, "layer_type":"Fence", "name":"レインボーフェンス", "description":"虹が特徴のサークルフェンス。レインボカラーで街を色鮮やかに飾る。", "default_asset_ids":"null"
   },
   {
     "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"

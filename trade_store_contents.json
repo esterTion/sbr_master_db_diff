@@ -220,5 +220,86 @@
   },
   {
     "id":1007, "trade_store_id":10, "content_type":"Item", "content_id":90001, "content_quantity":1, "cost_item_id":120009, "cost_quantity":10, "buy_limit_type":1, "buy_limit":0, "sort_order":1, "comment":"", "started_at":"2020/08/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1101, "trade_store_id":11, "content_type":"Myumon", "content_id":1414000, "content_quantity":1, "cost_item_id":120010, "cost_quantity":2200, "buy_limit_type":1, "buy_limit":0, "sort_order":7, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1102, "trade_store_id":11, "content_type":"Myumon", "content_id":1434000, "content_quantity":1, "cost_item_id":120010, "cost_quantity":2200, "buy_limit_type":1, "buy_limit":0, "sort_order":6, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1103, "trade_store_id":11, "content_type":"Myumon", "content_id":1423000, "content_quantity":1, "cost_item_id":120010, "cost_quantity":2200, "buy_limit_type":1, "buy_limit":0, "sort_order":5, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1104, "trade_store_id":11, "content_type":"Myumon", "content_id":1443000, "content_quantity":1, "cost_item_id":120010, "cost_quantity":2200, "buy_limit_type":1, "buy_limit":0, "sort_order":4, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1105, "trade_store_id":11, "content_type":"Item", "content_id":100005, "content_quantity":1, "cost_item_id":120010, "cost_quantity":500, "buy_limit_type":1, "buy_limit":0, "sort_order":3, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1106, "trade_store_id":11, "content_type":"Item", "content_id":130001, "content_quantity":1, "cost_item_id":120010, "cost_quantity":30, "buy_limit_type":1, "buy_limit":0, "sort_order":2, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1107, "trade_store_id":11, "content_type":"Item", "content_id":90001, "content_quantity":1, "cost_item_id":120010, "cost_quantity":10, "buy_limit_type":1, "buy_limit":0, "sort_order":1, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1201, "trade_store_id":12, "content_type":"LiveHouseItem", "content_id":1006, "content_quantity":1, "cost_item_id":140002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":1, "sort_order":20, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1202, "trade_store_id":12, "content_type":"LiveHouseItem", "content_id":2006, "content_quantity":1, "cost_item_id":140002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":1, "sort_order":19, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1203, "trade_store_id":12, "content_type":"LiveHouseItem", "content_id":3006, "content_quantity":1, "cost_item_id":140002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":1, "sort_order":18, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1204, "trade_store_id":12, "content_type":"LiveHouseItem", "content_id":4006, "content_quantity":1, "cost_item_id":140002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":1, "sort_order":17, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1205, "trade_store_id":12, "content_type":"TownBuilding", "content_id":20003, "content_quantity":1, "cost_item_id":140002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":1, "sort_order":16, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1206, "trade_store_id":12, "content_type":"TownBuilding", "content_id":10003, "content_quantity":1, "cost_item_id":140002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":1, "sort_order":15, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1207, "trade_store_id":12, "content_type":"Townscape", "content_id":1002, "content_quantity":1, "cost_item_id":140002, "cost_quantity":150, "buy_limit_type":1, "buy_limit":1, "sort_order":14, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1208, "trade_store_id":12, "content_type":"Townscape", "content_id":2006, "content_quantity":1, "cost_item_id":140002, "cost_quantity":150, "buy_limit_type":1, "buy_limit":1, "sort_order":13, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1209, "trade_store_id":12, "content_type":"Townscape", "content_id":7006, "content_quantity":1, "cost_item_id":140002, "cost_quantity":150, "buy_limit_type":1, "buy_limit":1, "sort_order":12, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1210, "trade_store_id":12, "content_type":"AvatarItem", "content_id":11071, "content_quantity":1, "cost_item_id":140002, "cost_quantity":150, "buy_limit_type":1, "buy_limit":1, "sort_order":11, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1211, "trade_store_id":12, "content_type":"AvatarItem", "content_id":21071, "content_quantity":1, "cost_item_id":140002, "cost_quantity":150, "buy_limit_type":1, "buy_limit":1, "sort_order":10, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1212, "trade_store_id":12, "content_type":"AvatarItem", "content_id":31071, "content_quantity":1, "cost_item_id":140002, "cost_quantity":150, "buy_limit_type":1, "buy_limit":1, "sort_order":9, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1213, "trade_store_id":12, "content_type":"Item", "content_id":40001, "content_quantity":1, "cost_item_id":140002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":10, "sort_order":8, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1214, "trade_store_id":12, "content_type":"Item", "content_id":130001, "content_quantity":1, "cost_item_id":140002, "cost_quantity":15, "buy_limit_type":1, "buy_limit":20, "sort_order":7, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1215, "trade_store_id":12, "content_type":"Item", "content_id":90001, "content_quantity":1, "cost_item_id":140002, "cost_quantity":5, "buy_limit_type":1, "buy_limit":60, "sort_order":6, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1216, "trade_store_id":12, "content_type":"Item", "content_id":100002, "content_quantity":1, "cost_item_id":140002, "cost_quantity":50, "buy_limit_type":1, "buy_limit":5, "sort_order":5, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1217, "trade_store_id":12, "content_type":"Item", "content_id":100003, "content_quantity":1, "cost_item_id":140002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":3, "sort_order":4, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1218, "trade_store_id":12, "content_type":"Item", "content_id":100004, "content_quantity":1, "cost_item_id":140002, "cost_quantity":200, "buy_limit_type":1, "buy_limit":2, "sort_order":3, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1219, "trade_store_id":12, "content_type":"Item", "content_id":100005, "content_quantity":1, "cost_item_id":140002, "cost_quantity":400, "buy_limit_type":1, "buy_limit":1, "sort_order":2, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":1220, "trade_store_id":12, "content_type":"Item", "content_id":50001, "content_quantity":6900, "cost_item_id":140002, "cost_quantity":1, "buy_limit_type":1, "buy_limit":50, "sort_order":1, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   }
 ]

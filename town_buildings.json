@@ -12,6 +12,9 @@
     "id":10002, "name":"ステキライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"ライブをするための場所です。\n大きなギターが特徴的で、\n地元の青年団からも好評らしいです。", "townscape_id":5001
   },
   {
+    "id":10003, "name":"ハーフ記念ライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"ハーフアニバーサリー記念に建築されたライブハウス。様々なアーティストが記念を祝うためにライブにくるとか。", "townscape_id":5001
+  },
+  {
     "id":20000, "name":"ボロいグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":100000, "description":"グッズアイテムを売っているお店です。\n見た目と売上は…関係ないはず…。", "townscape_id":5002
   },
   {
@@ -19,6 +22,9 @@
   },
   {
     "id":20002, "name":"ステキグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":100000, "description":"グッズアイテムを売っているお店です。\nとってもオシャレでステキな見た目！\n有名バンドグッズの品ぞろえも豊富。", "townscape_id":5002
+  },
+  {
+    "id":20003, "name":"ハーフ記念グッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":200000, "description":"ハーフアニバーサリー記念に建築されたグッズショップ。記念を祝し、限定セール開催中！", "townscape_id":5002
   },
   {
     "id":30000, "name":"ボロい映画館", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"キャラクター情報を見られる建物です。\n入るのに、ちょっぴり勇気がいります…。", "townscape_id":5003

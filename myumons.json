@@ -162,6 +162,12 @@
     "id":214021, "myumon_basic_id":21, "name":"[プラズマジカな盆踊ライブにゃん♡]", "music_category":1, "rarity":5, "asset_id":2103, "mini_asset_id":2103, "life":509, "rhythm":2405, "melody":2494, "harmony":5666, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
   },
   {
+    "id":214030, "myumon_basic_id":21, "name":"[スモールギフトビッグスマイルにゃ]", "music_category":3, "rarity":4, "asset_id":2104, "mini_asset_id":2104, "life":381, "rhythm":4648, "melody":2089, "harmony":1966, "main_1_skill_id":11023, "main_2_skill_id":92001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":214031, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
+  },
+  {
+    "id":214031, "myumon_basic_id":21, "name":"[ハッピーアニバーサリーにゃん♡]", "music_category":3, "rarity":5, "asset_id":2104, "mini_asset_id":2104, "life":501, "rhythm":6268, "melody":2872, "harmony":2743, "main_1_skill_id":10024, "main_2_skill_id":92002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
+  },
+  {
     "id":221000, "myumon_basic_id":22, "name":"[Plasmagica]", "music_category":3, "rarity":1, "asset_id":2200, "mini_asset_id":2200, "life":100, "rhythm":652, "melody":809, "harmony":642, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":221001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「チュチュ」のブロマイドです"
   },
   {
@@ -1276,5 +1282,77 @@
   },
   {
     "id":1343001, "myumon_basic_id":134, "name":"[県立月里村高校軽音同好会♪]", "music_category":2, "rarity":4, "asset_id":13400, "mini_asset_id":13400, "life":293, "rhythm":1574, "melody":1595, "harmony":3106, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「ウワサノペタルズ」に所属する「はっくん」のブロマイドです"
+  },
+  {
+    "id":1411000, "myumon_basic_id":141, "name":"[忍迅雷音]", "music_category":2, "rarity":1, "asset_id":14100, "mini_asset_id":14100, "life":105, "rhythm":621, "melody":619, "harmony":827, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1411001, "shinka_recipe_no":21, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1411001, "myumon_basic_id":141, "name":"[忍迅雷音＋]", "music_category":2, "rarity":2, "asset_id":14100, "mini_asset_id":14100, "life":137, "rhythm":878, "melody":883, "harmony":1144, "main_1_skill_id":12022, "main_2_skill_id":0, "support_skill_id":110032, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1412000, "myumon_basic_id":141, "name":"[風の未来忍者]", "music_category":2, "rarity":2, "asset_id":14100, "mini_asset_id":14100, "life":135, "rhythm":876, "melody":873, "harmony":1173, "main_1_skill_id":12002, "main_2_skill_id":0, "support_skill_id":110032, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":1412001, "shinka_recipe_no":22, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1412001, "myumon_basic_id":141, "name":"[風の未来忍者＋]", "music_category":2, "rarity":3, "asset_id":14100, "mini_asset_id":14100, "life":185, "rhythm":1212, "melody":1183, "harmony":1612, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1414000, "myumon_basic_id":141, "name":"[腹ごしらえは忍の基本でござる]", "music_category":3, "rarity":4, "asset_id":14101, "mini_asset_id":14101, "life":343, "rhythm":4903, "melody":1916, "harmony":1759, "main_1_skill_id":11003, "main_2_skill_id":101001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1414001, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1414001, "myumon_basic_id":141, "name":"[忍法六九雷舞でござる！！]", "music_category":3, "rarity":5, "asset_id":14101, "mini_asset_id":14101, "life":403, "rhythm":5780, "melody":2475, "harmony":2297, "main_1_skill_id":10004, "main_2_skill_id":101002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1421000, "myumon_basic_id":142, "name":"[忍迅雷音]", "music_category":3, "rarity":1, "asset_id":14200, "mini_asset_id":14200, "life":101, "rhythm":630, "melody":844, "harmony":620, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1421001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「朧」のブロマイドです"
+  },
+  {
+    "id":1421001, "myumon_basic_id":142, "name":"[忍迅雷音＋]", "music_category":3, "rarity":2, "asset_id":14200, "mini_asset_id":14200, "life":140, "rhythm":877, "melody":1140, "harmony":865, "main_1_skill_id":12002, "main_2_skill_id":0, "support_skill_id":110022, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「朧」のブロマイドです"
+  },
+  {
+    "id":1422000, "myumon_basic_id":142, "name":"[火の未来忍者]", "music_category":3, "rarity":2, "asset_id":14200, "mini_asset_id":14200, "life":139, "rhythm":863, "melody":1148, "harmony":880, "main_1_skill_id":12012, "main_2_skill_id":0, "support_skill_id":110022, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":1422001, "shinka_recipe_no":32, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「朧」のブロマイドです"
+  },
+  {
+    "id":1422001, "myumon_basic_id":142, "name":"[火の未来忍者＋]", "music_category":3, "rarity":3, "asset_id":14200, "mini_asset_id":14200, "life":186, "rhythm":1203, "melody":1594, "harmony":1202, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「朧」のブロマイドです"
+  },
+  {
+    "id":1423000, "myumon_basic_id":142, "name":"[早く皆に知らせねば……！！]", "music_category":3, "rarity":3, "asset_id":14200, "mini_asset_id":14200, "life":241, "rhythm":2313, "melody":1309, "harmony":1338, "main_1_skill_id":20001, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":1423001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「朧」のブロマイドです"
+  },
+  {
+    "id":1423001, "myumon_basic_id":142, "name":"[忍法、往来雷舞！]", "music_category":3, "rarity":4, "asset_id":14200, "mini_asset_id":14200, "life":345, "rhythm":3498, "melody":1790, "harmony":1826, "main_1_skill_id":20002, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「朧」のブロマイドです"
+  },
+  {
+    "id":1431000, "myumon_basic_id":143, "name":"[忍迅雷音]", "music_category":1, "rarity":1, "asset_id":14300, "mini_asset_id":14300, "life":100, "rhythm":697, "melody":697, "harmony":707, "main_1_skill_id":4001, "main_2_skill_id":0, "support_skill_id":110041, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1431001, "shinka_recipe_no":11, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
+  },
+  {
+    "id":1431001, "myumon_basic_id":143, "name":"[忍迅雷音＋]", "music_category":1, "rarity":2, "asset_id":14300, "mini_asset_id":14300, "life":138, "rhythm":966, "melody":979, "harmony":951, "main_1_skill_id":3002, "main_2_skill_id":0, "support_skill_id":110042, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
+  },
+  {
+    "id":1432000, "myumon_basic_id":143, "name":"[影の未来くのいち]", "music_category":1, "rarity":2, "asset_id":14300, "mini_asset_id":14300, "life":141, "rhythm":961, "melody":952, "harmony":962, "main_1_skill_id":12002, "main_2_skill_id":0, "support_skill_id":110042, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":1432001, "shinka_recipe_no":12, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
+  },
+  {
+    "id":1432001, "myumon_basic_id":143, "name":"[影の未来くのいち＋]", "music_category":1, "rarity":3, "asset_id":14300, "mini_asset_id":14300, "life":190, "rhythm":1330, "melody":1326, "harmony":1317, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110043, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
+  },
+  {
+    "id":1434000, "myumon_basic_id":143, "name":"[ふぅ…慣れていくのね、この時代に]", "music_category":3, "rarity":4, "asset_id":14301, "mini_asset_id":14301, "life":400, "rhythm":4183, "melody":2135, "harmony":2195, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1434001, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
+  },
+  {
+    "id":1434001, "myumon_basic_id":143, "name":"[忍法六九雷舞、ご覧あれ♡]", "music_category":3, "rarity":5, "asset_id":14301, "mini_asset_id":14301, "life":460, "rhythm":5862, "melody":2720, "harmony":2619, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
+  },
+  {
+    "id":1441000, "myumon_basic_id":144, "name":"[忍迅雷音]", "music_category":2, "rarity":1, "asset_id":14400, "mini_asset_id":14400, "life":102, "rhythm":830, "melody":624, "harmony":634, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1441001, "shinka_recipe_no":21, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「神威」のブロマイドです"
+  },
+  {
+    "id":1441001, "myumon_basic_id":144, "name":"[忍迅雷音＋]", "music_category":2, "rarity":2, "asset_id":14400, "mini_asset_id":14400, "life":138, "rhythm":1162, "melody":876, "harmony":864, "main_1_skill_id":12012, "main_2_skill_id":0, "support_skill_id":110012, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「神威」のブロマイドです"
+  },
+  {
+    "id":1442000, "myumon_basic_id":144, "name":"[雷の未来忍マシーン]", "music_category":2, "rarity":2, "asset_id":14400, "mini_asset_id":14400, "life":137, "rhythm":1147, "melody":879, "harmony":877, "main_1_skill_id":3002, "main_2_skill_id":0, "support_skill_id":110012, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":1442001, "shinka_recipe_no":22, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「神威」のブロマイドです"
+  },
+  {
+    "id":1442001, "myumon_basic_id":144, "name":"[雷の未来忍マシーン＋]", "music_category":2, "rarity":3, "asset_id":14400, "mini_asset_id":14400, "life":188, "rhythm":1611, "melody":1174, "harmony":1197, "main_1_skill_id":2003, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「神威」のブロマイドです"
+  },
+  {
+    "id":1443000, "myumon_basic_id":144, "name":"[時代ハチガエド、雨ハ降ル]", "music_category":3, "rarity":3, "asset_id":14400, "mini_asset_id":14400, "life":237, "rhythm":2523, "melody":1263, "harmony":1204, "main_1_skill_id":11013, "main_2_skill_id":101000, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":1443001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「神威」のブロマイドです"
+  },
+  {
+    "id":1443001, "myumon_basic_id":144, "name":"[忍法、往来雷舞！]", "music_category":3, "rarity":4, "asset_id":14400, "mini_asset_id":14400, "life":343, "rhythm":3572, "melody":1690, "harmony":1716, "main_1_skill_id":10014, "main_2_skill_id":101001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「忍迅雷音」に所属する「神威」のブロマイドです"
   }
 ]

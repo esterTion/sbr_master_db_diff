@@ -348,6 +348,18 @@
     "id":30210121, "target_type":"Story", "target_id":3021012, "category":"MyumonGenkaiCount", "args":"[214020,4]"
   },
   {
+    "id":30210131, "target_type":"Story", "target_id":3021013, "category":"MyumonGenkaiCount", "args":"[214030,1]"
+  },
+  {
+    "id":30210141, "target_type":"Story", "target_id":3021014, "category":"MyumonGenkaiCount", "args":"[214030,2]"
+  },
+  {
+    "id":30210151, "target_type":"Story", "target_id":3021015, "category":"MyumonGenkaiCount", "args":"[214030,3]"
+  },
+  {
+    "id":30210161, "target_type":"Story", "target_id":3021016, "category":"MyumonGenkaiCount", "args":"[214030,4]"
+  },
+  {
     "id":30220011, "target_type":"Story", "target_id":3022001, "category":"MyumonGenkaiCount", "args":"[224000,1]"
   },
   {
@@ -1054,6 +1066,30 @@
   },
   {
     "id":31330041, "target_type":"Story", "target_id":3133004, "category":"MyumonGenkaiCount", "args":"[1334000,4]"
+  },
+  {
+    "id":31410011, "target_type":"Story", "target_id":3141001, "category":"MyumonGenkaiCount", "args":"[1414000,1]"
+  },
+  {
+    "id":31410021, "target_type":"Story", "target_id":3141002, "category":"MyumonGenkaiCount", "args":"[1414000,2]"
+  },
+  {
+    "id":31410031, "target_type":"Story", "target_id":3141003, "category":"MyumonGenkaiCount", "args":"[1414000,3]"
+  },
+  {
+    "id":31410041, "target_type":"Story", "target_id":3141004, "category":"MyumonGenkaiCount", "args":"[1414000,4]"
+  },
+  {
+    "id":31430011, "target_type":"Story", "target_id":3143001, "category":"MyumonGenkaiCount", "args":"[1434000,1]"
+  },
+  {
+    "id":31430021, "target_type":"Story", "target_id":3143002, "category":"MyumonGenkaiCount", "args":"[1434000,2]"
+  },
+  {
+    "id":31430031, "target_type":"Story", "target_id":3143003, "category":"MyumonGenkaiCount", "args":"[1434000,3]"
+  },
+  {
+    "id":31430041, "target_type":"Story", "target_id":3143004, "category":"MyumonGenkaiCount", "args":"[1434000,4]"
   },
   {
     "id":40100011, "target_type":"Story", "target_id":4010001, "category":"ArtistLevel", "args":"[1,2]"
@@ -2383,5 +2419,32 @@
   },
   {
     "id":41300072, "target_type":"Story", "target_id":4130007, "category":"ReadArtistStory", "args":"4130006"
+  },
+  {
+    "id":41400011, "target_type":"Story", "target_id":4140001, "category":"ArtistLevel", "args":"[14,2]"
+  },
+  {
+    "id":41400021, "target_type":"Story", "target_id":4140002, "category":"ArtistLevel", "args":"[14,3]"
+  },
+  {
+    "id":41400022, "target_type":"Story", "target_id":4140002, "category":"ReadArtistStory", "args":"4140001"
+  },
+  {
+    "id":41400031, "target_type":"Story", "target_id":4140003, "category":"ArtistLevel", "args":"[14,4]"
+  },
+  {
+    "id":41400032, "target_type":"Story", "target_id":4140003, "category":"ReadArtistStory", "args":"4140002"
+  },
+  {
+    "id":41400041, "target_type":"Story", "target_id":4140004, "category":"ArtistLevel", "args":"[14,5]"
+  },
+  {
+    "id":41400042, "target_type":"Story", "target_id":4140004, "category":"ReadArtistStory", "args":"4140003"
+  },
+  {
+    "id":41400051, "target_type":"Story", "target_id":4140005, "category":"ArtistLevel", "args":"[14,6]"
+  },
+  {
+    "id":41400052, "target_type":"Story", "target_id":4140005, "category":"ReadArtistStory", "args":"4140004"
   }
 ]
