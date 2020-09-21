@@ -69,6 +69,12 @@
     "id":40010, "category":4, "name":"【忍迅雷音】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40011, "category":4, "name":"【ダルでゅら】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
   },
   {
@@ -142,6 +148,9 @@
   },
   {
     "id":120010, "category":12, "name":"【忍迅雷音】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120011, "category":12, "name":"【ダルでゅら】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"

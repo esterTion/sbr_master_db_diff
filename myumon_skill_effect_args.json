@@ -210,6 +210,36 @@
     "id":1002410, "effect_arg_no":20024, "level":10, "interval":15400, "probability":41, "duration":4500, "damage":0, "effect_args":"[240,240]", "digest":"BAD以上ならコンボ補正24%スコア24%UP", "description":"約15秒毎、中確率で約5秒間BAD以上ならコンボ補正24%スコア24%UP"
   },
   {
+    "id":1003201, "effect_arg_no":20032, "level":1, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[460,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア46%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア46%UP"
+  },
+  {
+    "id":1003202, "effect_arg_no":20032, "level":2, "interval":11600, "probability":43, "duration":6000, "damage":400, "effect_args":"[470,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア47%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア47%UP"
+  },
+  {
+    "id":1003203, "effect_arg_no":20032, "level":3, "interval":11700, "probability":43, "duration":6000, "damage":400, "effect_args":"[480,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア48%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア48%UP"
+  },
+  {
+    "id":1003204, "effect_arg_no":20032, "level":4, "interval":11800, "probability":43, "duration":6000, "damage":400, "effect_args":"[490,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア49%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア49%UP"
+  },
+  {
+    "id":1003205, "effect_arg_no":20032, "level":5, "interval":11900, "probability":43, "duration":6000, "damage":400, "effect_args":"[500,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア50%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア50%UP"
+  },
+  {
+    "id":1003206, "effect_arg_no":20032, "level":6, "interval":12000, "probability":43, "duration":6000, "damage":400, "effect_args":"[510,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア51%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア51%UP"
+  },
+  {
+    "id":1003207, "effect_arg_no":20032, "level":7, "interval":12100, "probability":41, "duration":6000, "damage":400, "effect_args":"[520,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア52%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア52%UP"
+  },
+  {
+    "id":1003208, "effect_arg_no":20032, "level":8, "interval":12200, "probability":41, "duration":6000, "damage":400, "effect_args":"[530,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア53%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア53%UP"
+  },
+  {
+    "id":1003209, "effect_arg_no":20032, "level":9, "interval":12300, "probability":41, "duration":6000, "damage":400, "effect_args":"[540,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア54%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア54%UP"
+  },
+  {
+    "id":1003210, "effect_arg_no":20032, "level":10, "interval":12400, "probability":41, "duration":6000, "damage":400, "effect_args":"[550,0]", "digest":"発動時にライフを400消費し、BAD以上ならスコア55%UP", "description":"約12秒毎、中確率で約6秒間、発動時にライフを400消費し、BAD以上ならスコア55%UP"
+  },
+  {
     "id":1100301, "effect_arg_no":20103, "level":1, "interval":11000, "probability":43, "duration":6000, "damage":0, "effect_args":"[190,0]", "digest":"GOOD以上ならスコア19%UP", "description":"約11秒毎、中確率で約6秒間GOOD以上ならスコア19%UP"
   },
   {
@@ -300,6 +330,36 @@
     "id":1102310, "effect_arg_no":20123, "level":10, "interval":13000, "probability":41, "duration":4500, "damage":0, "effect_args":"[210,210]", "digest":"GOOD以上ならコンボ補正21%スコア21%UP", "description":"約13秒毎、中確率で約5秒間GOOD以上ならコンボ補正21%スコア21%UP"
   },
   {
+    "id":1103101, "effect_arg_no":20131, "level":1, "interval":11000, "probability":43, "duration":5000, "damage":400, "effect_args":"[410,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア41%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア41%UP"
+  },
+  {
+    "id":1103102, "effect_arg_no":20131, "level":2, "interval":11000, "probability":43, "duration":5000, "damage":400, "effect_args":"[420,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア42%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア42%UP"
+  },
+  {
+    "id":1103103, "effect_arg_no":20131, "level":3, "interval":11000, "probability":43, "duration":5000, "damage":400, "effect_args":"[430,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア43%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア43%UP"
+  },
+  {
+    "id":1103104, "effect_arg_no":20131, "level":4, "interval":11000, "probability":43, "duration":5000, "damage":400, "effect_args":"[440,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア44%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア44%UP"
+  },
+  {
+    "id":1103105, "effect_arg_no":20131, "level":5, "interval":11000, "probability":43, "duration":5000, "damage":400, "effect_args":"[450,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア45%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア45%UP"
+  },
+  {
+    "id":1103106, "effect_arg_no":20131, "level":6, "interval":11000, "probability":43, "duration":5000, "damage":400, "effect_args":"[460,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア46%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア46%UP"
+  },
+  {
+    "id":1103107, "effect_arg_no":20131, "level":7, "interval":11400, "probability":43, "duration":5000, "damage":400, "effect_args":"[470,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア47%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア47%UP"
+  },
+  {
+    "id":1103108, "effect_arg_no":20131, "level":8, "interval":11400, "probability":43, "duration":5000, "damage":400, "effect_args":"[480,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア48%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア48%UP"
+  },
+  {
+    "id":1103109, "effect_arg_no":20131, "level":9, "interval":11400, "probability":43, "duration":5000, "damage":400, "effect_args":"[490,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア49%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア49%UP"
+  },
+  {
+    "id":1103110, "effect_arg_no":20131, "level":10, "interval":11400, "probability":43, "duration":5000, "damage":400, "effect_args":"[500,0]", "digest":"発動時にライフを400消費し、GOOD以上ならスコア50%UP", "description":"約11秒毎、中確率で約5秒間、発動時にライフを400消費し、GOOD以上ならスコア50%UP"
+  },
+  {
     "id":1200201, "effect_arg_no":20202, "level":1, "interval":10400, "probability":47, "duration":6000, "damage":0, "effect_args":"[140,0]", "digest":"GREAT以上ならスコア14%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア14%UP"
   },
   {
@@ -388,6 +448,36 @@
   },
   {
     "id":1202210, "effect_arg_no":20222, "level":10, "interval":12000, "probability":42, "duration":5000, "damage":0, "effect_args":"[170,170]", "digest":"GREAT以上ならコンボ補正17%スコア17%UP", "description":"約12秒毎、中確率で約5秒間GREAT以上ならコンボ補正17%スコア17%UP"
+  },
+  {
+    "id":1203001, "effect_arg_no":20230, "level":1, "interval":10400, "probability":47, "duration":5000, "damage":400, "effect_args":"[360,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア36%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア36%UP"
+  },
+  {
+    "id":1203002, "effect_arg_no":20230, "level":2, "interval":10400, "probability":48, "duration":5000, "damage":400, "effect_args":"[370,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア37%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア37%UP"
+  },
+  {
+    "id":1203003, "effect_arg_no":20230, "level":3, "interval":10400, "probability":48, "duration":5000, "damage":400, "effect_args":"[380,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア38%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア38%UP"
+  },
+  {
+    "id":1203004, "effect_arg_no":20230, "level":4, "interval":10400, "probability":48, "duration":5000, "damage":400, "effect_args":"[390,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア39%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア39%UP"
+  },
+  {
+    "id":1203005, "effect_arg_no":20230, "level":5, "interval":10400, "probability":48, "duration":5000, "damage":400, "effect_args":"[400,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア40%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア40%UP"
+  },
+  {
+    "id":1203006, "effect_arg_no":20230, "level":6, "interval":10400, "probability":48, "duration":5000, "damage":400, "effect_args":"[410,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア41%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア41%UP"
+  },
+  {
+    "id":1203007, "effect_arg_no":20230, "level":7, "interval":10400, "probability":48, "duration":5000, "damage":400, "effect_args":"[420,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア42%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア42%UP"
+  },
+  {
+    "id":1203008, "effect_arg_no":20230, "level":8, "interval":10400, "probability":48, "duration":5000, "damage":400, "effect_args":"[430,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア43%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア43%UP"
+  },
+  {
+    "id":1203009, "effect_arg_no":20230, "level":9, "interval":10400, "probability":48, "duration":5000, "damage":400, "effect_args":"[440,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア44%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア44%UP"
+  },
+  {
+    "id":1203010, "effect_arg_no":20230, "level":10, "interval":10400, "probability":48, "duration":5000, "damage":400, "effect_args":"[450,0]", "digest":"発動時にライフを400消費し、GREAT以上ならスコア45%UP", "description":"約10秒毎、中確率で約5秒間、発動時にライフを400消費し、GREAT以上ならスコア45%UP"
   },
   {
     "id":1300101, "effect_arg_no":20301, "level":1, "interval":9500, "probability":50, "duration":4700, "damage":0, "effect_args":"[90,0]", "digest":"PERFECTならスコア9%UP", "description":"約10秒毎、中確率で約5秒間PERFECTならスコア9%UP"
