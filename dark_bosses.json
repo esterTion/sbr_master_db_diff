@@ -201,6 +201,15 @@
     "id":200607, "name":"デモンクイーン・クレシェンド", "stamina_cost":10, "max_hp":39690, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":40, "next_encounter_no":0, "win_reward_no":3445, "win_artist_exp":4000, "win_myumon_exp":4000, "win_event_point":10000, "asset_id":6, "engaged_asset_id":2
   },
   {
+    "id":200611, "name":"ダークドラグーン・フォルテ", "stamina_cost":10, "max_hp":96000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":100, "next_encounter_no":711, "win_reward_no":3446, "win_artist_exp":10000, "win_myumon_exp":10000, "win_event_point":9000, "asset_id":2, "engaged_asset_id":1
+  },
+  {
+    "id":200612, "name":"ダークリーパー・フォルテシモ", "stamina_cost":10, "max_hp":169000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":170, "next_encounter_no":712, "win_reward_no":3447, "win_artist_exp":17000, "win_myumon_exp":17000, "win_event_point":25000, "asset_id":4, "engaged_asset_id":1
+  },
+  {
+    "id":200613, "name":"デモンクイーン・クレシェンド", "stamina_cost":10, "max_hp":169000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":170, "next_encounter_no":713, "win_reward_no":3447, "win_artist_exp":17000, "win_myumon_exp":17000, "win_event_point":25000, "asset_id":6, "engaged_asset_id":1
+  },
+  {
     "id":1010204, "name":"ダークドラグーン", "stamina_cost":5, "max_hp":500, "can_support":false, "can_publish":false, "limit_hours":69, "limit_attack_count":10, "next_encounter_no":0, "win_reward_no":3001, "win_artist_exp":30, "win_myumon_exp":30, "win_event_point":0, "asset_id":1, "engaged_asset_id":1
   },
   {
