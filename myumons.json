@@ -30,6 +30,12 @@
     "id":114011, "myumon_basic_id":11, "name":"[黄昏のUNZストリートライブ]", "music_category":1, "rarity":5, "asset_id":1102, "mini_asset_id":1102, "life":386, "rhythm":2292, "melody":2333, "harmony":3120, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110005, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
   },
   {
+    "id":114020, "myumon_basic_id":11, "name":"[うち、ルナティックほわんだよっ♡]", "music_category":2, "rarity":4, "asset_id":1103, "mini_asset_id":1103, "life":395, "rhythm":4559, "melody":1911, "harmony":1946, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":114021, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
+  },
+  {
+    "id":114021, "myumon_basic_id":11, "name":"[おもいっきりぶちかますね！がぉ～]", "music_category":2, "rarity":5, "asset_id":1103, "mini_asset_id":1103, "life":505, "rhythm":5931, "melody":2520, "harmony":2456, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
+  },
+  {
     "id":121000, "myumon_basic_id":12, "name":"[Mashumairesh!!]", "music_category":2, "rarity":1, "asset_id":1200, "mini_asset_id":1200, "life":102, "rhythm":591, "melody":808, "harmony":685, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":121001, "shinka_recipe_no":21, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
   },
   {
@@ -46,6 +52,12 @@
   },
   {
     "id":123001, "myumon_basic_id":12, "name":"[あたしだって……いつかきっと！]", "music_category":2, "rarity":4, "asset_id":1200, "mini_asset_id":1200, "life":337, "rhythm":2642, "melody":1853, "harmony":1626, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":31, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
+  },
+  {
+    "id":123010, "myumon_basic_id":12, "name":"[超恥ずい…けど、喜んでくれるかな]", "music_category":2, "rarity":3, "asset_id":1200, "mini_asset_id":1203, "life":243, "rhythm":2550, "melody":1199, "harmony":1198, "main_1_skill_id":20001, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":123011, "shinka_recipe_no":23, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
+  },
+  {
+    "id":123011, "myumon_basic_id":12, "name":"[ぶちかますからね！ハロウィン♪]", "music_category":2, "rarity":4, "asset_id":1200, "mini_asset_id":1203, "life":325, "rhythm":3660, "melody":1792, "harmony":1801, "main_1_skill_id":20002, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
   },
   {
     "id":124000, "myumon_basic_id":12, "name":"[ほんと、調子くるう……恥ずいし]", "music_category":2, "rarity":4, "asset_id":1201, "mini_asset_id":1201, "life":301, "rhythm":1977, "melody":2581, "harmony":1962, "main_1_skill_id":21001, "main_2_skill_id":82001, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":124001, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
@@ -378,6 +390,12 @@
     "id":414011, "myumon_basic_id":41, "name":"[響かせよう、新たな闇の序曲を！]", "music_category":1, "rarity":5, "asset_id":4102, "mini_asset_id":4102, "life":537, "rhythm":2871, "melody":2854, "harmony":3947, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
   },
   {
+    "id":414020, "myumon_basic_id":41, "name":"[今すぐお菓子を献上するのだ♪]", "music_category":2, "rarity":4, "asset_id":4103, "mini_asset_id":4103, "life":416, "rhythm":4598, "melody":1948, "harmony":1873, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":414021, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
+  },
+  {
+    "id":414021, "myumon_basic_id":41, "name":"[跪け！激甘地獄に堕としてやるのだ]", "music_category":2, "rarity":5, "asset_id":4103, "mini_asset_id":4103, "life":539, "rhythm":5863, "melody":2416, "harmony":2391, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
+  },
+  {
     "id":421000, "myumon_basic_id":42, "name":"[BUD VIRGIN LOGIC]", "music_category":3, "rarity":1, "asset_id":4200, "mini_asset_id":4200, "life":99, "rhythm":653, "melody":785, "harmony":669, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":421001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「BUD VIRGIN LOGIC」に所属する「ペイペイン」のブロマイドです"
   },
   {
@@ -546,6 +564,12 @@
     "id":614011, "myumon_basic_id":61, "name":"[DOKONJOバーニングライブ！]", "music_category":3, "rarity":5, "asset_id":6102, "mini_asset_id":6102, "life":368, "rhythm":2075, "melody":3094, "harmony":2358, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ヤス」のブロマイドです"
   },
   {
+    "id":614020, "myumon_basic_id":61, "name":"[仮装だよ、何か文句あるか？]", "music_category":2, "rarity":4, "asset_id":6103, "mini_asset_id":6103, "life":394, "rhythm":4693, "melody":1982, "harmony":1897, "main_1_skill_id":30001, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":614021, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ヤス」のブロマイドです"
+  },
+  {
+    "id":614021, "myumon_basic_id":61, "name":"[徹底的にハロウィンしてやるぜ！！]", "music_category":2, "rarity":5, "asset_id":6103, "mini_asset_id":6103, "life":516, "rhythm":5934, "melody":2500, "harmony":2397, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ヤス」のブロマイドです"
+  },
+  {
     "id":621000, "myumon_basic_id":62, "name":"[DOKONJOFINGER]", "music_category":2, "rarity":1, "asset_id":6200, "mini_asset_id":6200, "life":92, "rhythm":662, "melody":665, "harmony":828, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":621001, "shinka_recipe_no":21, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ハッチン」のブロマイドです"
   },
   {
@@ -556,6 +580,12 @@
   },
   {
     "id":622001, "myumon_basic_id":62, "name":"[一年花組・ブンブンブブーン＋]", "music_category":2, "rarity":3, "asset_id":6200, "mini_asset_id":6200, "life":146, "rhythm":1247, "melody":1268, "harmony":1659, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ハッチン」のブロマイドです"
+  },
+  {
+    "id":623000, "myumon_basic_id":62, "name":"[完っ璧なコスプレだろ！なっ！？]", "music_category":2, "rarity":3, "asset_id":6200, "mini_asset_id":6203, "life":236, "rhythm":2516, "melody":1238, "harmony":1244, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":623001, "shinka_recipe_no":23, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ハッチン」のブロマイドです"
+  },
+  {
+    "id":623001, "myumon_basic_id":62, "name":"[ファロインライブでブンブブーン！]", "music_category":2, "rarity":4, "asset_id":6200, "mini_asset_id":6203, "life":337, "rhythm":3613, "melody":1785, "harmony":1774, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ハッチン」のブロマイドです"
   },
   {
     "id":624000, "myumon_basic_id":62, "name":"[ギャファッフンて言わせてやるぜ！]", "music_category":2, "rarity":4, "asset_id":6201, "mini_asset_id":6201, "life":328, "rhythm":2169, "melody":2031, "harmony":2865, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":33, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":624001, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ハッチン」のブロマイドです"
@@ -862,6 +892,12 @@
   },
   {
     "id":914001, "myumon_basic_id":91, "name":"[最高にしかなれない黄金の旋律！]", "music_category":3, "rarity":5, "asset_id":9101, "mini_asset_id":9101, "life":449, "rhythm":4418, "melody":2607, "harmony":2701, "main_1_skill_id":20002, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「チタン」のブロマイドです"
+  },
+  {
+    "id":914010, "myumon_basic_id":91, "name":"[オレ達は時代を超え……夜を紡ぐ]", "music_category":2, "rarity":4, "asset_id":9102, "mini_asset_id":9102, "life":400, "rhythm":4671, "melody":1958, "harmony":1904, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":914011, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「チタン」のブロマイドです"
+  },
+  {
+    "id":914011, "myumon_basic_id":91, "name":"[聞こえるか？黄金碧角の奏鳴曲が…]", "music_category":2, "rarity":5, "asset_id":9102, "mini_asset_id":9102, "life":503, "rhythm":5959, "melody":2441, "harmony":2521, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「チタン」のブロマイドです"
   },
   {
     "id":921000, "myumon_basic_id":92, "name":"[ARCAREAFACT]", "music_category":3, "rarity":1, "asset_id":9200, "mini_asset_id":9200, "life":99, "rhythm":642, "melody":627, "harmony":840, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":921001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「オリオン」のブロマイドです"
