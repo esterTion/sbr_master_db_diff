@@ -6,10 +6,13 @@
     "id":102, "reward_no":1, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":260
   },
   {
-    "id":103, "reward_no":1, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":70
+    "id":103, "reward_no":1, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":35
   },
   {
     "id":104, "reward_no":1, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":15
+  },
+  {
+    "id":105, "reward_no":1, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":35
   },
   {
     "id":201, "reward_no":2, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":655
@@ -18,10 +21,13 @@
     "id":202, "reward_no":2, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":260
   },
   {
-    "id":203, "reward_no":2, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":70
+    "id":203, "reward_no":2, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":35
   },
   {
     "id":204, "reward_no":2, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":15
+  },
+  {
+    "id":205, "reward_no":2, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":35
   },
   {
     "id":301, "reward_no":3, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":655
@@ -54,10 +60,13 @@
     "id":502, "reward_no":5, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":260
   },
   {
-    "id":503, "reward_no":5, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":70
+    "id":503, "reward_no":5, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":35
   },
   {
     "id":504, "reward_no":5, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":15
+  },
+  {
+    "id":505, "reward_no":5, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":35
   },
   {
     "id":601, "reward_no":6, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":655
@@ -66,10 +75,13 @@
     "id":602, "reward_no":6, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":260
   },
   {
-    "id":603, "reward_no":6, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":70
+    "id":603, "reward_no":6, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":35
   },
   {
     "id":604, "reward_no":6, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":15
+  },
+  {
+    "id":605, "reward_no":6, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":35
   },
   {
     "id":701, "reward_no":7, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":655
@@ -78,10 +90,13 @@
     "id":702, "reward_no":7, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":260
   },
   {
-    "id":703, "reward_no":7, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":70
+    "id":703, "reward_no":7, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":35
   },
   {
     "id":704, "reward_no":7, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":15
+  },
+  {
+    "id":705, "reward_no":7, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":35
   },
   {
     "id":801, "reward_no":8, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":655
@@ -126,10 +141,13 @@
     "id":1102, "reward_no":11, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":260
   },
   {
-    "id":1103, "reward_no":11, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":70
+    "id":1103, "reward_no":11, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":35
   },
   {
     "id":1104, "reward_no":11, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":15
+  },
+  {
+    "id":1105, "reward_no":11, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":35
   },
   {
     "id":1201, "reward_no":12, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":655
@@ -174,7 +192,7 @@
     "id":9002, "reward_no":90, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":260
   },
   {
-    "id":9003, "reward_no":90, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":70
+    "id":9003, "reward_no":90, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":35
   },
   {
     "id":9004, "reward_no":90, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":15
@@ -186,7 +204,7 @@
     "id":9006, "reward_no":90, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":260
   },
   {
-    "id":9007, "reward_no":90, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":70
+    "id":9007, "reward_no":90, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":35
   },
   {
     "id":9008, "reward_no":90, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":15
@@ -198,7 +216,7 @@
     "id":9010, "reward_no":90, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":260
   },
   {
-    "id":9011, "reward_no":90, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":70
+    "id":9011, "reward_no":90, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":35
   },
   {
     "id":9012, "reward_no":90, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":15
@@ -210,10 +228,22 @@
     "id":9014, "reward_no":90, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":260
   },
   {
-    "id":9015, "reward_no":90, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":70
+    "id":9015, "reward_no":90, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":35
   },
   {
     "id":9016, "reward_no":90, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":15
+  },
+  {
+    "id":9017, "reward_no":90, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":35
+  },
+  {
+    "id":9018, "reward_no":90, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":35
+  },
+  {
+    "id":9019, "reward_no":90, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":35
+  },
+  {
+    "id":9020, "reward_no":90, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":35
   },
   {
     "id":10101, "reward_no":101, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":610
@@ -222,10 +252,13 @@
     "id":10102, "reward_no":101, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":280
   },
   {
-    "id":10103, "reward_no":101, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":90
+    "id":10103, "reward_no":101, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":45
   },
   {
     "id":10104, "reward_no":101, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":20
+  },
+  {
+    "id":10105, "reward_no":101, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":45
   },
   {
     "id":10201, "reward_no":102, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":610
@@ -234,10 +267,13 @@
     "id":10202, "reward_no":102, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":280
   },
   {
-    "id":10203, "reward_no":102, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":90
+    "id":10203, "reward_no":102, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":45
   },
   {
     "id":10204, "reward_no":102, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":20
+  },
+  {
+    "id":10205, "reward_no":102, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":45
   },
   {
     "id":10301, "reward_no":103, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":610
@@ -270,10 +306,13 @@
     "id":10502, "reward_no":105, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":280
   },
   {
-    "id":10503, "reward_no":105, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":90
+    "id":10503, "reward_no":105, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":45
   },
   {
     "id":10504, "reward_no":105, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":20
+  },
+  {
+    "id":10505, "reward_no":105, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":45
   },
   {
     "id":10601, "reward_no":106, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":610
@@ -282,10 +321,13 @@
     "id":10602, "reward_no":106, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":280
   },
   {
-    "id":10603, "reward_no":106, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":90
+    "id":10603, "reward_no":106, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":45
   },
   {
     "id":10604, "reward_no":106, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":20
+  },
+  {
+    "id":10605, "reward_no":106, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":45
   },
   {
     "id":10701, "reward_no":107, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":610
@@ -294,10 +336,13 @@
     "id":10702, "reward_no":107, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":280
   },
   {
-    "id":10703, "reward_no":107, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":90
+    "id":10703, "reward_no":107, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":45
   },
   {
     "id":10704, "reward_no":107, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":20
+  },
+  {
+    "id":10705, "reward_no":107, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":45
   },
   {
     "id":10801, "reward_no":108, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":610
@@ -342,10 +387,13 @@
     "id":11102, "reward_no":111, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":280
   },
   {
-    "id":11103, "reward_no":111, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":90
+    "id":11103, "reward_no":111, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":45
   },
   {
     "id":11104, "reward_no":111, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":20
+  },
+  {
+    "id":11105, "reward_no":111, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":45
   },
   {
     "id":11201, "reward_no":112, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":610
@@ -390,7 +438,7 @@
     "id":19002, "reward_no":190, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":280
   },
   {
-    "id":19003, "reward_no":190, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":90
+    "id":19003, "reward_no":190, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":45
   },
   {
     "id":19004, "reward_no":190, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":20
@@ -402,7 +450,7 @@
     "id":19006, "reward_no":190, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":280
   },
   {
-    "id":19007, "reward_no":190, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":90
+    "id":19007, "reward_no":190, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":45
   },
   {
     "id":19008, "reward_no":190, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":20
@@ -414,7 +462,7 @@
     "id":19010, "reward_no":190, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":280
   },
   {
-    "id":19011, "reward_no":190, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":90
+    "id":19011, "reward_no":190, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":45
   },
   {
     "id":19012, "reward_no":190, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":20
@@ -426,10 +474,22 @@
     "id":19014, "reward_no":190, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":280
   },
   {
-    "id":19015, "reward_no":190, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":90
+    "id":19015, "reward_no":190, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":45
   },
   {
     "id":19016, "reward_no":190, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":20
+  },
+  {
+    "id":19017, "reward_no":190, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":45
+  },
+  {
+    "id":19018, "reward_no":190, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":45
+  },
+  {
+    "id":19019, "reward_no":190, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":45
+  },
+  {
+    "id":19020, "reward_no":190, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":45
   },
   {
     "id":20101, "reward_no":201, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":565
@@ -438,10 +498,13 @@
     "id":20102, "reward_no":201, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":300
   },
   {
-    "id":20103, "reward_no":201, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":110
+    "id":20103, "reward_no":201, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":55
   },
   {
     "id":20104, "reward_no":201, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":25
+  },
+  {
+    "id":20105, "reward_no":201, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":55
   },
   {
     "id":20201, "reward_no":202, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":565
@@ -450,10 +513,13 @@
     "id":20202, "reward_no":202, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":300
   },
   {
-    "id":20203, "reward_no":202, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":110
+    "id":20203, "reward_no":202, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":55
   },
   {
     "id":20204, "reward_no":202, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":25
+  },
+  {
+    "id":20205, "reward_no":202, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":55
   },
   {
     "id":20301, "reward_no":203, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":565
@@ -486,10 +552,13 @@
     "id":20502, "reward_no":205, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":300
   },
   {
-    "id":20503, "reward_no":205, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":110
+    "id":20503, "reward_no":205, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":55
   },
   {
     "id":20504, "reward_no":205, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":25
+  },
+  {
+    "id":20505, "reward_no":205, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":55
   },
   {
     "id":20601, "reward_no":206, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":565
@@ -498,10 +567,13 @@
     "id":20602, "reward_no":206, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":300
   },
   {
-    "id":20603, "reward_no":206, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":110
+    "id":20603, "reward_no":206, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":55
   },
   {
     "id":20604, "reward_no":206, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":25
+  },
+  {
+    "id":20605, "reward_no":206, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":55
   },
   {
     "id":20701, "reward_no":207, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":565
@@ -510,10 +582,13 @@
     "id":20702, "reward_no":207, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":300
   },
   {
-    "id":20703, "reward_no":207, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":110
+    "id":20703, "reward_no":207, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":55
   },
   {
     "id":20704, "reward_no":207, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":25
+  },
+  {
+    "id":20705, "reward_no":207, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":55
   },
   {
     "id":20801, "reward_no":208, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":565
@@ -558,10 +633,13 @@
     "id":21102, "reward_no":211, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":300
   },
   {
-    "id":21103, "reward_no":211, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":110
+    "id":21103, "reward_no":211, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":55
   },
   {
     "id":21104, "reward_no":211, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":25
+  },
+  {
+    "id":21105, "reward_no":211, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":55
   },
   {
     "id":21201, "reward_no":212, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":565
@@ -606,7 +684,7 @@
     "id":29002, "reward_no":290, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":300
   },
   {
-    "id":29003, "reward_no":290, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":110
+    "id":29003, "reward_no":290, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":55
   },
   {
     "id":29004, "reward_no":290, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":25
@@ -618,7 +696,7 @@
     "id":29006, "reward_no":290, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":300
   },
   {
-    "id":29007, "reward_no":290, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":110
+    "id":29007, "reward_no":290, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":55
   },
   {
     "id":29008, "reward_no":290, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":25
@@ -630,7 +708,7 @@
     "id":29010, "reward_no":290, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":300
   },
   {
-    "id":29011, "reward_no":290, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":110
+    "id":29011, "reward_no":290, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":55
   },
   {
     "id":29012, "reward_no":290, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":25
@@ -642,10 +720,22 @@
     "id":29014, "reward_no":290, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":300
   },
   {
-    "id":29015, "reward_no":290, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":110
+    "id":29015, "reward_no":290, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":55
   },
   {
     "id":29016, "reward_no":290, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":25
+  },
+  {
+    "id":29017, "reward_no":290, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":55
+  },
+  {
+    "id":29018, "reward_no":290, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":55
+  },
+  {
+    "id":29019, "reward_no":290, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":55
+  },
+  {
+    "id":29020, "reward_no":290, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":55
   },
   {
     "id":30101, "reward_no":301, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":520
@@ -654,10 +744,13 @@
     "id":30102, "reward_no":301, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":320
   },
   {
-    "id":30103, "reward_no":301, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":130
+    "id":30103, "reward_no":301, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":65
   },
   {
     "id":30104, "reward_no":301, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":30
+  },
+  {
+    "id":30105, "reward_no":301, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":65
   },
   {
     "id":30201, "reward_no":302, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":520
@@ -666,10 +759,13 @@
     "id":30202, "reward_no":302, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":320
   },
   {
-    "id":30203, "reward_no":302, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":130
+    "id":30203, "reward_no":302, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":65
   },
   {
     "id":30204, "reward_no":302, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":30
+  },
+  {
+    "id":30205, "reward_no":302, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":65
   },
   {
     "id":30301, "reward_no":303, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":520
@@ -702,10 +798,13 @@
     "id":30502, "reward_no":305, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":320
   },
   {
-    "id":30503, "reward_no":305, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":130
+    "id":30503, "reward_no":305, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":65
   },
   {
     "id":30504, "reward_no":305, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":30
+  },
+  {
+    "id":30505, "reward_no":305, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":65
   },
   {
     "id":30601, "reward_no":306, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":520
@@ -714,10 +813,13 @@
     "id":30602, "reward_no":306, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":320
   },
   {
-    "id":30603, "reward_no":306, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":130
+    "id":30603, "reward_no":306, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":65
   },
   {
     "id":30604, "reward_no":306, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":30
+  },
+  {
+    "id":30605, "reward_no":306, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":65
   },
   {
     "id":30701, "reward_no":307, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":520
@@ -726,10 +828,13 @@
     "id":30702, "reward_no":307, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":320
   },
   {
-    "id":30703, "reward_no":307, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":130
+    "id":30703, "reward_no":307, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":65
   },
   {
     "id":30704, "reward_no":307, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":30
+  },
+  {
+    "id":30705, "reward_no":307, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":65
   },
   {
     "id":30801, "reward_no":308, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":520
@@ -774,10 +879,13 @@
     "id":31102, "reward_no":311, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":320
   },
   {
-    "id":31103, "reward_no":311, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":130
+    "id":31103, "reward_no":311, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":65
   },
   {
     "id":31104, "reward_no":311, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":30
+  },
+  {
+    "id":31105, "reward_no":311, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":65
   },
   {
     "id":31201, "reward_no":312, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":520
@@ -822,7 +930,7 @@
     "id":39002, "reward_no":390, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":320
   },
   {
-    "id":39003, "reward_no":390, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":130
+    "id":39003, "reward_no":390, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":65
   },
   {
     "id":39004, "reward_no":390, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":30
@@ -834,7 +942,7 @@
     "id":39006, "reward_no":390, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":320
   },
   {
-    "id":39007, "reward_no":390, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":130
+    "id":39007, "reward_no":390, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":65
   },
   {
     "id":39008, "reward_no":390, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":30
@@ -846,7 +954,7 @@
     "id":39010, "reward_no":390, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":320
   },
   {
-    "id":39011, "reward_no":390, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":130
+    "id":39011, "reward_no":390, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":65
   },
   {
     "id":39012, "reward_no":390, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":30
@@ -858,10 +966,22 @@
     "id":39014, "reward_no":390, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":320
   },
   {
-    "id":39015, "reward_no":390, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":130
+    "id":39015, "reward_no":390, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":65
   },
   {
     "id":39016, "reward_no":390, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":30
+  },
+  {
+    "id":39017, "reward_no":390, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":65
+  },
+  {
+    "id":39018, "reward_no":390, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":65
+  },
+  {
+    "id":39019, "reward_no":390, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":65
+  },
+  {
+    "id":39020, "reward_no":390, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":65
   },
   {
     "id":80000001, "reward_no":800000, "content_type":"Item", "content_id":40001, "content_quantity":1, "weight":100
