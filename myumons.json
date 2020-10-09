@@ -156,6 +156,12 @@
     "id":213001, "myumon_basic_id":21, "name":"[みんな、最高にぷるぷるにゃん！]", "music_category":1, "rarity":4, "asset_id":2100, "mini_asset_id":2100, "life":279, "rhythm":1704, "melody":1673, "harmony":2548, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110044, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
   },
   {
+    "id":213010, "myumon_basic_id":21, "name":"[いっぱいおどかしちゃうにゃん♪]", "music_category":3, "rarity":3, "asset_id":2100, "mini_asset_id":2105, "life":247, "rhythm":1216, "melody":1204, "harmony":2499, "main_1_skill_id":30001, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":213011, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
+  },
+  {
+    "id":213011, "myumon_basic_id":21, "name":"[ぷるぷる！はろうぃんらいぶにゃん]", "music_category":3, "rarity":4, "asset_id":2100, "mini_asset_id":2105, "life":341, "rhythm":1746, "melody":1732, "harmony":3665, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
+  },
+  {
     "id":214000, "myumon_basic_id":21, "name":"[みんなでパジャマPartyにゃ♪]", "music_category":1, "rarity":4, "asset_id":2101, "mini_asset_id":2101, "life":376, "rhythm":2308, "melody":3042, "harmony":2295, "main_1_skill_id":31001, "main_2_skill_id":0, "support_skill_id":110004, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":214001, "shinka_recipe_no":14, "enable_deck":true, "enable_partner":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
   },
   {
@@ -504,6 +510,12 @@
     "id":524001, "myumon_basic_id":52, "name":"[頂点に向けて、Realize！]", "music_category":1, "rarity":5, "asset_id":5201, "mini_asset_id":5201, "life":350, "rhythm":2093, "melody":2986, "harmony":2174, "main_1_skill_id":31002, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":32, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「スモモネ」のブロマイドです"
   },
   {
+    "id":524010, "myumon_basic_id":52, "name":"[いやしのお注射、してあげるッス♡]", "music_category":3, "rarity":4, "asset_id":5202, "mini_asset_id":5203, "life":393, "rhythm":1936, "melody":1860, "harmony":4636, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":524011, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「スモモネ」のブロマイドです"
+  },
+  {
+    "id":524011, "myumon_basic_id":52, "name":"[朝までハロウィンしちゃうッスよ♡]", "music_category":3, "rarity":5, "asset_id":5202, "mini_asset_id":5203, "life":519, "rhythm":2392, "melody":2484, "harmony":5932, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「スモモネ」のブロマイドです"
+  },
+  {
     "id":531000, "myumon_basic_id":53, "name":"[REIJINGSIGNAL]", "music_category":3, "rarity":1, "asset_id":5300, "mini_asset_id":5300, "life":104, "rhythm":654, "melody":729, "harmony":690, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110041, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":531001, "shinka_recipe_no":31, "enable_deck":true, "enable_partner":true, "description":"「REIJINGSIGNAL」に所属する「ういうい」のブロマイドです"
   },
   {
@@ -846,6 +858,12 @@
     "id":824001, "myumon_basic_id":82, "name":"[レッツビギン！夢銀河☆ステージ！]", "music_category":1, "rarity":5, "asset_id":8201, "mini_asset_id":8201, "life":480, "rhythm":2658, "melody":2604, "harmony":4545, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「カイ」のブロマイドです"
   },
   {
+    "id":824010, "myumon_basic_id":82, "name":"[ツインズ劇場☆二律背反な二人の翼]", "music_category":3, "rarity":4, "asset_id":8202, "mini_asset_id":8202, "life":394, "rhythm":1905, "melody":1943, "harmony":4574, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":824011, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「カイ」のブロマイドです"
+  },
+  {
+    "id":824011, "myumon_basic_id":82, "name":"[夢銀河の翼☆ハロウィンライブ]", "music_category":3, "rarity":5, "asset_id":8202, "mini_asset_id":8202, "life":519, "rhythm":2467, "melody":2406, "harmony":5963, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「カイ」のブロマイドです"
+  },
+  {
     "id":831000, "myumon_basic_id":83, "name":"[Trichronika]", "music_category":1, "rarity":1, "asset_id":8300, "mini_asset_id":8300, "life":99, "rhythm":892, "melody":586, "harmony":627, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":831001, "shinka_recipe_no":11, "enable_deck":true, "enable_partner":true, "description":"「トライクロニカ」に所属する「リク」のブロマイドです"
   },
   {
@@ -910,6 +928,12 @@
   },
   {
     "id":922001, "myumon_basic_id":92, "name":"[黄金のおぼっちゃま！+]", "music_category":3, "rarity":3, "asset_id":9200, "mini_asset_id":9200, "life":187, "rhythm":1196, "melody":1199, "harmony":1595, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「オリオン」のブロマイドです"
+  },
+  {
+    "id":923000, "myumon_basic_id":92, "name":"[幕間、黄金のリフレッシュを共に。]", "music_category":3, "rarity":3, "asset_id":9200, "mini_asset_id":9202, "life":242, "rhythm":1217, "melody":1203, "harmony":2533, "main_1_skill_id":22001, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":923001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「オリオン」のブロマイドです"
+  },
+  {
+    "id":923001, "myumon_basic_id":92, "name":"[最高にしかなれない黄金碧角奏鳴曲]", "music_category":3, "rarity":4, "asset_id":9200, "mini_asset_id":9202, "life":344, "rhythm":1725, "melody":1756, "harmony":3642, "main_1_skill_id":22002, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「オリオン」のブロマイドです"
   },
   {
     "id":924000, "myumon_basic_id":92, "name":"[黄金のノブレスオブリージュ]", "music_category":3, "rarity":4, "asset_id":9201, "mini_asset_id":9201, "life":228, "rhythm":1366, "melody":1420, "harmony":1937, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":924001, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「オリオン」のブロマイドです"
