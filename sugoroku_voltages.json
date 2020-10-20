@@ -1,0 +1,23 @@
+[
+  {
+    "id":1, "voltage_no":1, "level":0, "min_voltage":0, "max_voltage":24, "is_burst":false, "score_rate":100, "restriction_ids":"[100,200,300,400,500]"
+  },
+  {
+    "id":2, "voltage_no":1, "level":1, "min_voltage":25, "max_voltage":39, "is_burst":false, "score_rate":700, "restriction_ids":"[101,200,300,400,500]"
+  },
+  {
+    "id":3, "voltage_no":1, "level":2, "min_voltage":40, "max_voltage":54, "is_burst":false, "score_rate":1150, "restriction_ids":"[102,200,300,400,500]"
+  },
+  {
+    "id":4, "voltage_no":1, "level":3, "min_voltage":55, "max_voltage":69, "is_burst":false, "score_rate":1600, "restriction_ids":"[102,201,301,400,500]"
+  },
+  {
+    "id":5, "voltage_no":1, "level":4, "min_voltage":70, "max_voltage":84, "is_burst":false, "score_rate":2000, "restriction_ids":"[103,200,300,400,500]"
+  },
+  {
+    "id":6, "voltage_no":1, "level":5, "min_voltage":85, "max_voltage":100, "is_burst":false, "score_rate":2500, "restriction_ids":"[103,201,301,402,501]"
+  },
+  {
+    "id":7, "voltage_no":1, "level":6, "min_voltage":101, "max_voltage":101, "is_burst":true, "score_rate":3500, "restriction_ids":"[103,201,302,401,503]"
+  }
+]

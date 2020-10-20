@@ -1,0 +1,68 @@
+[
+  {
+    "id":100, "category":1, "args":"[\"Easy\"]", "text":"どの難易度でも選択可能"
+  },
+  {
+    "id":101, "category":1, "args":"[\"Normal\"]", "text":"難易度Easy選択不可"
+  },
+  {
+    "id":102, "category":1, "args":"[\"Hard\"]", "text":"難易度Hard未満選択不可"
+  },
+  {
+    "id":103, "category":1, "args":"[\"Expert\"]", "text":"難易度Expert未満選択不可"
+  },
+  {
+    "id":200, "category":2, "args":"[\"Easy\"]", "text":"タッチ判定が「かんたん」に"
+  },
+  {
+    "id":201, "category":2, "args":"[\"Usually\"]", "text":"タッチ判定が「ふつう」に"
+  },
+  {
+    "id":202, "category":2, "args":"[\"Strict\"]", "text":"タッチ判定が「きびしい」に"
+  },
+  {
+    "id":300, "category":3, "args":"[\"Good\"]", "text":"コンボ判定が「GOOD」以上に"
+  },
+  {
+    "id":301, "category":3, "args":"[\"Great\"]", "text":"コンボ判定が「GREAT」以上に"
+  },
+  {
+    "id":302, "category":3, "args":"[\"Perfect\"]", "text":"コンボ判定が「PERFECT」以上に"
+  },
+  {
+    "id":400, "category":4, "args":"[\"Single\"]", "text":"受けるダメージが「1倍」に"
+  },
+  {
+    "id":401, "category":4, "args":"[\"Double\"]", "text":"受けるダメージが「2倍」に"
+  },
+  {
+    "id":402, "category":4, "args":"[\"Triple\"]", "text":"受けるダメージが「3倍」に"
+  },
+  {
+    "id":500, "category":5, "args":"[\"None\"]", "text":"ノーツかくしが「なし」に"
+  },
+  {
+    "id":501, "category":5, "args":"[\"Little\"]", "text":"ノーツかくしが「すこし」に"
+  },
+  {
+    "id":502, "category":5, "args":"[\"Rather\"]", "text":"ノーツかくしが「かなり」に"
+  },
+  {
+    "id":503, "category":5, "args":"[\"Extreme\"]", "text":"ノーツかくしが「すごく」に"
+  },
+  {
+    "id":600, "category":6, "args":"[10000]", "text":"スコア10000以下はライブ失敗"
+  },
+  {
+    "id":700, "category":7, "args":"[50]", "text":"コンボ数が50%以下はライブ失敗"
+  },
+  {
+    "id":800, "category":8, "args":"[\"Bad\",5]", "text":"ノーツ判定Bad以下5回でライブ失敗"
+  },
+  {
+    "id":900, "category":9, "args":"[]", "text":"アクティブスキルが発生しない"
+  },
+  {
+    "id":1000, "category":10, "args":"[]", "text":"パッシブスキルが発生しない"
+  }
+]

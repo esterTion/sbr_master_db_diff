@@ -1,0 +1,152 @@
+[
+  {
+    "id":1, "effect":1, "args":"[]", "is_stop":false, "detail_text":"効果なし", "activate_text":"効果なし", "label":"", "place_asset_id":3, "icon_asset_id":0
+  },
+  {
+    "id":2, "effect":2, "args":"[]", "is_stop":true, "detail_text":"スタートマス", "activate_text":"スタートマス", "label":"", "place_asset_id":1, "icon_asset_id":0
+  },
+  {
+    "id":3, "effect":3, "args":"[]", "is_stop":true, "detail_text":"ゴールマス", "activate_text":"ゴールマス", "label":"", "place_asset_id":2, "icon_asset_id":0
+  },
+  {
+    "id":10040001, "effect":4, "args":"[1,1]", "is_stop":false, "detail_text":"1マスすすむ", "activate_text":"1マスすすむ", "label":"1すすむ", "place_asset_id":5, "icon_asset_id":1
+  },
+  {
+    "id":10040002, "effect":4, "args":"[2,2]", "is_stop":false, "detail_text":"2マスすすむ", "activate_text":"2マスすすむ", "label":"2すすむ", "place_asset_id":5, "icon_asset_id":1
+  },
+  {
+    "id":10040003, "effect":4, "args":"[3,3]", "is_stop":false, "detail_text":"3マスすすむ", "activate_text":"3マスすすむ", "label":"3すすむ", "place_asset_id":5, "icon_asset_id":1
+  },
+  {
+    "id":10040004, "effect":4, "args":"[4,4]", "is_stop":false, "detail_text":"4マスすすむ", "activate_text":"4マスすすむ", "label":"4すすむ", "place_asset_id":5, "icon_asset_id":1
+  },
+  {
+    "id":10040005, "effect":4, "args":"[5,5]", "is_stop":false, "detail_text":"5マスすすむ", "activate_text":"5マスすすむ", "label":"5すすむ", "place_asset_id":5, "icon_asset_id":1
+  },
+  {
+    "id":10040006, "effect":4, "args":"[6,6]", "is_stop":false, "detail_text":"6マスすすむ", "activate_text":"6マスすすむ", "label":"6すすむ", "place_asset_id":5, "icon_asset_id":1
+  },
+  {
+    "id":10040007, "effect":4, "args":"[1,3]", "is_stop":false, "detail_text":"1～3マス進む", "activate_text":"{0}マス進む", "label":"1～3", "place_asset_id":5, "icon_asset_id":1
+  },
+  {
+    "id":10040008, "effect":4, "args":"[4,6]", "is_stop":false, "detail_text":"4～6マス進む", "activate_text":"{0}マス進む", "label":"4～6", "place_asset_id":5, "icon_asset_id":1
+  },
+  {
+    "id":10070001, "effect":7, "args":"[810000,1]", "is_stop":false, "detail_text":"抽選報酬{0}を{1}個獲得する", "activate_text":"抽選報酬{0}を{1}個獲得する", "label":"おたから", "place_asset_id":5, "icon_asset_id":3
+  },
+  {
+    "id":10080001, "effect":8, "args":"[1000]", "is_stop":false, "detail_text":"イベント.ptを{0}獲得！", "activate_text":"イベント.pt{0}獲得！", "label":"イベント.pt", "place_asset_id":5, "icon_asset_id":3
+  },
+  {
+    "id":10080002, "effect":8, "args":"[1]", "is_stop":false, "detail_text":"イベント.ptを{0}獲得！", "activate_text":"イベント.pt{0}獲得！", "label":"イベント.pt", "place_asset_id":5, "icon_asset_id":3
+  },
+  {
+    "id":10080003, "effect":8, "args":"[100]", "is_stop":false, "detail_text":"イベント.ptを{0}獲得！", "activate_text":"イベント.pt{0}獲得！", "label":"イベント.pt", "place_asset_id":5, "icon_asset_id":3
+  },
+  {
+    "id":10110001, "effect":11, "args":"[10,10]", "is_stop":false, "detail_text":"ボルテージが {0} UP！", "activate_text":"ボルテージが {0} UP！", "label":"ボルテージ", "place_asset_id":5, "icon_asset_id":4
+  },
+  {
+    "id":10110005, "effect":11, "args":"[50,50]", "is_stop":false, "detail_text":"ボルテージが {0} UP！", "activate_text":"ボルテージが {0} UP！", "label":"ボルテージ", "place_asset_id":5, "icon_asset_id":4
+  },
+  {
+    "id":10130001, "effect":13, "args":"[150]", "is_stop":false, "detail_text":"ボルテージが{0}％に変化", "activate_text":"ボルテージが{0}％に変化", "label":"ボルテージ", "place_asset_id":5, "icon_asset_id":4
+  },
+  {
+    "id":10140001, "effect":14, "args":"[\"Item\",50001,1000]", "is_stop":false, "detail_text":"{1} サウンドルGET！", "activate_text":"{1} サウンドルGET！", "label":"ｘ1000", "place_asset_id":5, "icon_asset_id":50001
+  },
+  {
+    "id":10140002, "effect":14, "args":"[\"Item\",50001,3000]", "is_stop":false, "detail_text":"{1} サウンドルGET！", "activate_text":"{1} サウンドルGET！", "label":"ｘ3000", "place_asset_id":5, "icon_asset_id":50001
+  },
+  {
+    "id":10140003, "effect":14, "args":"[\"Item\",10001,1]", "is_stop":false, "detail_text":"{0}を{1}個GET！", "activate_text":"{0}を{1}個GET！", "label":"ｘ1", "place_asset_id":5, "icon_asset_id":10001
+  },
+  {
+    "id":10140004, "effect":14, "args":"[\"Item\",10002,1]", "is_stop":false, "detail_text":"{0}を{1}個GET！", "activate_text":"{0}を{1}個GET！", "label":"ｘ1", "place_asset_id":5, "icon_asset_id":10002
+  },
+  {
+    "id":10140005, "effect":14, "args":"[\"Item\",10003,1]", "is_stop":false, "detail_text":"{0}を{1}個GET！", "activate_text":"{0}を{1}個GET！", "label":"ｘ1", "place_asset_id":5, "icon_asset_id":10003
+  },
+  {
+    "id":10140006, "effect":14, "args":"[\"Item\",100001,1]", "is_stop":false, "detail_text":"{0}を{1}個GET！", "activate_text":"{0}を{1}個GET！", "label":"ｘ1", "place_asset_id":5, "icon_asset_id":100001
+  },
+  {
+    "id":10140007, "effect":14, "args":"[\"Item\",100002,1]", "is_stop":false, "detail_text":"{0}を{1}個GET！", "activate_text":"{0}を{1}個GET！", "label":"ｘ1", "place_asset_id":5, "icon_asset_id":100002
+  },
+  {
+    "id":10140008, "effect":14, "args":"[\"Item\",60003,10]", "is_stop":false, "detail_text":"{0}を{1}個GET！", "activate_text":"{0}を{1}個GET！", "label":"ｘ10", "place_asset_id":5, "icon_asset_id":60001
+  },
+  {
+    "id":10200001, "effect":20, "args":"[1]", "is_stop":false, "detail_text":"スペシャルの残り回数が +{0}", "activate_text":"スペシャルの残り回数が +{0}\n※残り回数は次周に持ち越されません", "label":"スペシャル", "place_asset_id":5, "icon_asset_id":5
+  },
+  {
+    "id":10260001, "effect":26, "args":"[11,0,0,0]", "is_stop":false, "detail_text":"スペシャルマップへワープ！", "activate_text":"スペシャルマップへワープ！", "label":"ワープ", "place_asset_id":5, "icon_asset_id":2
+  },
+  {
+    "id":10260002, "effect":26, "args":"[10,0,0,85]", "is_stop":true, "detail_text":"もとのマップにワープ！", "activate_text":"もとのマップにワープ！", "label":"ワープ", "place_asset_id":5, "icon_asset_id":2
+  },
+  {
+    "id":10260003, "effect":26, "args":"[21,0,0,0]", "is_stop":false, "detail_text":"スペシャルマップへワープ！", "activate_text":"スペシャルマップへワープ！", "label":"ワープ", "place_asset_id":5, "icon_asset_id":2
+  },
+  {
+    "id":10260004, "effect":26, "args":"[20,0,0,85]", "is_stop":true, "detail_text":"もとのマップにワープ！", "activate_text":"もとのマップにワープ！", "label":"ワープ", "place_asset_id":5, "icon_asset_id":2
+  },
+  {
+    "id":20050001, "effect":5, "args":"[1,1]", "is_stop":false, "detail_text":"1 マスもどる", "activate_text":"{0} マスもどる", "label":"1もどる", "place_asset_id":6, "icon_asset_id":1
+  },
+  {
+    "id":20050002, "effect":5, "args":"[2,2]", "is_stop":false, "detail_text":"2 マスもどる", "activate_text":"{0} マスもどる", "label":"2もどる", "place_asset_id":6, "icon_asset_id":1
+  },
+  {
+    "id":20050003, "effect":5, "args":"[3,3]", "is_stop":false, "detail_text":"3 マスもどる", "activate_text":"{0} マスもどる", "label":"3もどる", "place_asset_id":6, "icon_asset_id":1
+  },
+  {
+    "id":20050004, "effect":5, "args":"[4,4]", "is_stop":false, "detail_text":"4 マスもどる", "activate_text":"{0} マスもどる", "label":"4もどる", "place_asset_id":6, "icon_asset_id":1
+  },
+  {
+    "id":20050005, "effect":5, "args":"[5,5]", "is_stop":false, "detail_text":"5 マスもどる", "activate_text":"{0} マスもどる", "label":"5もどる", "place_asset_id":6, "icon_asset_id":1
+  },
+  {
+    "id":20050006, "effect":5, "args":"[6,6]", "is_stop":false, "detail_text":"6 マスもどる", "activate_text":"{0} マスもどる", "label":"6もどる", "place_asset_id":6, "icon_asset_id":1
+  },
+  {
+    "id":20050007, "effect":5, "args":"[1,3]", "is_stop":false, "detail_text":"1 ～ 3 マスもどる", "activate_text":"{0} マスもどる", "label":"1～3", "place_asset_id":6, "icon_asset_id":1
+  },
+  {
+    "id":20050008, "effect":5, "args":"[4,6]", "is_stop":false, "detail_text":"4 ～ 6 マスもどる", "activate_text":"{0} マスもどる", "label":"4～6", "place_asset_id":6, "icon_asset_id":1
+  },
+  {
+    "id":20060001, "effect":6, "args":"[0]", "is_stop":false, "detail_text":"ふりだしに戻る", "activate_text":"ふりだしに戻る", "label":"ふりだし", "place_asset_id":6, "icon_asset_id":2
+  },
+  {
+    "id":20120001, "effect":12, "args":"[10,10]", "is_stop":false, "detail_text":"ボルテージが 10 DOWN…", "activate_text":"ボルテージが {0} DOWN…", "label":"-10", "place_asset_id":6, "icon_asset_id":4
+  },
+  {
+    "id":20120002, "effect":12, "args":"[20,20]", "is_stop":false, "detail_text":"ボルテージが 20 DOWN…", "activate_text":"ボルテージが {0} DOWN…", "label":"-20", "place_asset_id":6, "icon_asset_id":4
+  },
+  {
+    "id":20130001, "effect":13, "args":"[50]", "is_stop":false, "detail_text":"ボルテージが{0}％に変化", "activate_text":"ボルテージが{0}％に変化", "label":"ボルテージ", "place_asset_id":6, "icon_asset_id":4
+  },
+  {
+    "id":20210001, "effect":21, "args":"[1]", "is_stop":false, "detail_text":"スペシャルの残り回数が -{0}", "activate_text":"スペシャルの残り回数が -{0}", "label":"スペシャル", "place_asset_id":6, "icon_asset_id":5
+  },
+  {
+    "id":30220001, "effect":22, "args":"[]", "is_stop":false, "detail_text":"全曲からランダムでLIVE", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":6
+  },
+  {
+    "id":30230001, "effect":23, "args":"[]", "is_stop":false, "detail_text":"イベントの課題曲からランダムで選んでLIVE", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":6
+  },
+  {
+    "id":30240001, "effect":24, "args":"[]", "is_stop":false, "detail_text":"ライブマス_課題曲以外からランダムで対象決定", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":6
+  },
+  {
+    "id":30250001, "effect":25, "args":"[116]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":6
+  },
+  {
+    "id":30250002, "effect":25, "args":"[1007]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":6
+  },
+  {
+    "id":30250003, "effect":25, "args":"[9028]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":6
+  }
+]

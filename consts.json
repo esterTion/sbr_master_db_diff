@@ -255,6 +255,9 @@
     "id":50512, "category":"NotesDistance", "name":"Rather", "value":"20"
   },
   {
+    "id":50513, "category":"NotesDistance", "name":"Extreme", "value":"30"
+  },
+  {
     "id":50600, "category":"MusicMissionCategory", "name":"ScoreRank", "value":"1"
   },
   {
@@ -283,6 +286,21 @@
   },
   {
     "id":50804, "category":"MusicRequirementCategory", "name":"MyumonStory", "value":"4"
+  },
+  {
+    "id":50901, "category":"MusicTouch", "name":"Miss", "value":"0"
+  },
+  {
+    "id":50902, "category":"MusicTouch", "name":"Bad", "value":"1"
+  },
+  {
+    "id":50903, "category":"MusicTouch", "name":"Good", "value":"2"
+  },
+  {
+    "id":50904, "category":"MusicTouch", "name":"Great", "value":"3"
+  },
+  {
+    "id":50905, "category":"MusicTouch", "name":"Perfect", "value":"4"
   },
   {
     "id":60000, "category":"Rarity", "name":"R", "value":"1"
@@ -580,6 +598,9 @@
   },
   {
     "id":140004, "category":"LiveType", "name":"Dark", "value":"4"
+  },
+  {
+    "id":140005, "category":"LiveType", "name":"Sugoroku", "value":"5"
   },
   {
     "id":140201, "category":"LiveReasonCode", "name":"None", "value":"0"
@@ -1254,6 +1275,9 @@
     "id":280003, "category":"TweetType", "name":"QuizResult", "value":"3"
   },
   {
+    "id":280004, "category":"TweetType", "name":"SugorokuLive", "value":"4"
+  },
+  {
     "id":290101, "category":"AppealWordPlace", "name":"Gacha", "value":"1"
   },
   {
@@ -1278,10 +1302,16 @@
     "id":300302, "category":"EventPlayCategory", "name":"Dark", "value":"2"
   },
   {
+    "id":300303, "category":"EventPlayCategory", "name":"Sugoroku", "value":"3"
+  },
+  {
     "id":300401, "category":"EventMyumonCategory", "name":"FreeRate", "value":"1"
   },
   {
     "id":300402, "category":"EventMyumonCategory", "name":"DarkDamageBonus", "value":"2"
+  },
+  {
+    "id":300403, "category":"EventMyumonCategory", "name":"SugorokuRate", "value":"3"
   },
   {
     "id":310101, "category":"TradeStoreBuyLimitType", "name":"All", "value":"1"
@@ -1339,5 +1369,149 @@
   },
   {
     "id":330402, "category":"QuizFinishCondition", "name":"Challenge", "value":"2"
+  },
+  {
+    "id":340001, "category":"Sugoroku", "name":"SpecialDiceLimit", "value":"3"
+  },
+  {
+    "id":340002, "category":"Sugoroku", "name":"DiceStamina", "value":"5"
+  },
+  {
+    "id":340003, "category":"Sugoroku", "name":"LivePlaceEffects", "value":"[22,23,24,25]"
+  },
+  {
+    "id":340004, "category":"Sugoroku", "name":"MoveVoltage", "value":"3"
+  },
+  {
+    "id":340005, "category":"Sugoroku", "name":"SkipVoltage", "value":"1"
+  },
+  {
+    "id":340006, "category":"Sugoroku", "name":"VoltageRate", "value":"1000"
+  },
+  {
+    "id":340007, "category":"Sugoroku", "name":"JustStopRate", "value":"150"
+  },
+  {
+    "id":340008, "category":"Sugoroku", "name":"BaseRate", "value":"50"
+  },
+  {
+    "id":340009, "category":"Sugoroku", "name":"FailRate", "value":"50"
+  },
+  {
+    "id":340010, "category":"Sugoroku", "name":"LiveRewardSize", "value":"[4,5]"
+  },
+  {
+    "id":340101, "category":"SugorokuAction", "name":"Dice", "value":"1"
+  },
+  {
+    "id":340102, "category":"SugorokuAction", "name":"PlaceEffect", "value":"2"
+  },
+  {
+    "id":340103, "category":"SugorokuAction", "name":"LiveStart", "value":"3"
+  },
+  {
+    "id":340104, "category":"SugorokuAction", "name":"LiveEnd", "value":"4"
+  },
+  {
+    "id":340201, "category":"SugorokuPlaceEffect", "name":"None", "value":"1"
+  },
+  {
+    "id":340202, "category":"SugorokuPlaceEffect", "name":"Start", "value":"2"
+  },
+  {
+    "id":340203, "category":"SugorokuPlaceEffect", "name":"Goal", "value":"3"
+  },
+  {
+    "id":340204, "category":"SugorokuPlaceEffect", "name":"Move", "value":"4"
+  },
+  {
+    "id":340205, "category":"SugorokuPlaceEffect", "name":"Back", "value":"5"
+  },
+  {
+    "id":340206, "category":"SugorokuPlaceEffect", "name":"Jump", "value":"6"
+  },
+  {
+    "id":340207, "category":"SugorokuPlaceEffect", "name":"AddLotteryReward", "value":"7"
+  },
+  {
+    "id":340208, "category":"SugorokuPlaceEffect", "name":"AddEventPoint", "value":"8"
+  },
+  {
+    "id":340211, "category":"SugorokuPlaceEffect", "name":"AddVoltage", "value":"11"
+  },
+  {
+    "id":340212, "category":"SugorokuPlaceEffect", "name":"SubstractVoltage", "value":"12"
+  },
+  {
+    "id":340213, "category":"SugorokuPlaceEffect", "name":"RateVoltage", "value":"13"
+  },
+  {
+    "id":340214, "category":"SugorokuPlaceEffect", "name":"AddContent", "value":"14"
+  },
+  {
+    "id":340216, "category":"SugorokuPlaceEffect", "name":"MultiplyDice", "value":"16"
+  },
+  {
+    "id":340217, "category":"SugorokuPlaceEffect", "name":"DivisionDice", "value":"17"
+  },
+  {
+    "id":340218, "category":"SugorokuPlaceEffect", "name":"OverDice", "value":"18"
+  },
+  {
+    "id":340219, "category":"SugorokuPlaceEffect", "name":"UnderDice", "value":"19"
+  },
+  {
+    "id":340220, "category":"SugorokuPlaceEffect", "name":"AddSpecialDice", "value":"20"
+  },
+  {
+    "id":340221, "category":"SugorokuPlaceEffect", "name":"SubstractSpecialDice", "value":"21"
+  },
+  {
+    "id":340222, "category":"SugorokuPlaceEffect", "name":"LiveAll", "value":"22"
+  },
+  {
+    "id":340223, "category":"SugorokuPlaceEffect", "name":"LiveEvent", "value":"23"
+  },
+  {
+    "id":340224, "category":"SugorokuPlaceEffect", "name":"LiveNotEvent", "value":"24"
+  },
+  {
+    "id":340225, "category":"SugorokuPlaceEffect", "name":"LiveOne", "value":"25"
+  },
+  {
+    "id":340226, "category":"SugorokuPlaceEffect", "name":"JumpMap", "value":"26"
+  },
+  {
+    "id":340227, "category":"SugorokuPlaceEffect", "name":"RandomEffect", "value":"27"
+  },
+  {
+    "id":340301, "category":"SugorokuRestriction", "name":"Grade", "value":"1"
+  },
+  {
+    "id":340302, "category":"SugorokuRestriction", "name":"TouchDecision", "value":"2"
+  },
+  {
+    "id":340303, "category":"SugorokuRestriction", "name":"ComboDecision", "value":"3"
+  },
+  {
+    "id":340304, "category":"SugorokuRestriction", "name":"DamageMagnification", "value":"4"
+  },
+  {
+    "id":340305, "category":"SugorokuRestriction", "name":"NotesDistance", "value":"5"
+  },
+  {
+    "id":340306, "category":"SugorokuRestriction", "name":"FailScore", "value":"6"
+  },
+  {
+    "id":340307, "category":"SugorokuRestriction", "name":"FailCombo", "value":"7"
+  },
+  {
+    "id":340308, "category":"SugorokuRestriction", "name":"FailTouch", "value":"8"
+  },
+  {
+    "id":340309, "category":"SugorokuRestriction", "name":"NoActiveSkill", "value":"9"
+  },
+  {
+    "id":340310, "category":"SugorokuRestriction", "name":"NoPassiveSkill", "value":"10"
   }
 ]
