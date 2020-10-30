@@ -696,6 +696,9 @@
     "id":150014, "category":"ItemCategory", "name":"CommonEventPoint", "value":"14"
   },
   {
+    "id":150015, "category":"ItemCategory", "name":"MyumonHaveExtend", "value":"15"
+  },
+  {
     "id":150101, "category":"ItemId", "name":"Soundle", "value":"50001"
   },
   {
@@ -1279,6 +1282,12 @@
   },
   {
     "id":290101, "category":"AppealWordPlace", "name":"Gacha", "value":"1"
+  },
+  {
+    "id":290102, "category":"AppealWordPlace", "name":"Payment", "value":"2"
+  },
+  {
+    "id":290103, "category":"AppealWordPlace", "name":"Shop", "value":"3"
   },
   {
     "id":300101, "category":"EventStoryCategory", "name":"Opening", "value":"1"

@@ -81,7 +81,16 @@
     "id":40014, "category":4, "name":"【ハロコレ3】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40015, "category":4, "name":"【ゼロティク】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41002, "category":4, "name":"2020年11月SR以上確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41003, "category":4, "name":"2020年11月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -171,6 +180,9 @@
     "id":120014, "category":12, "name":"【ハロコレ3】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120015, "category":12, "name":"【ゼロティク】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -187,5 +199,8 @@
   },
   {
     "id":140003, "category":14, "name":"うきうき〜のE〜♪ポイント", "quantity_max":999999, "ex_params":"{}", "description":"専用ガチャが実行できるアイテムです"
+  },
+  {
+    "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":4, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"
   }
 ]

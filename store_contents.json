@@ -117,6 +117,9 @@
     "id":1104, "category":1, "content_type":"TownStaff", "content_id":5001, "content_quantity":1, "cost_item_id":50001, "cost_quantity":2000, "buy_limit_type":2, "buy_limit":1, "store_condition_ids":"[]", "sort_order":1, "comment":"", "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
+    "id":1200, "category":1, "content_type":"Item", "content_id":150001, "content_quantity":1, "cost_item_id":60002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":4, "store_condition_ids":"[]", "sort_order":1000, "comment":"所持上限数+25", "started_at":"2020/10/30 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
     "id":1995, "category":2, "content_type":"StorePack", "content_id":6, "content_quantity":1, "cost_item_id":60002, "cost_quantity":2100, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":10, "comment":"", "started_at":"2020/03/16 11:00:00 +09:00", "ended_at":"2020/03/31 23:59:59 +09:00"
   },
   {
@@ -282,6 +285,15 @@
     "id":2049, "category":2, "content_type":"StorePack", "content_id":55, "content_quantity":1, "cost_item_id":60002, "cost_quantity":1500, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":53, "comment":"", "started_at":"2020/10/21 12:00:00 +09:00", "ended_at":"2020/10/29 11:59:59 +09:00"
   },
   {
+    "id":2050, "category":2, "content_type":"StorePack", "content_id":56, "content_quantity":1, "cost_item_id":60002, "cost_quantity":450, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":56, "comment":"", "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2020/11/07 11:59:59 +09:00"
+  },
+  {
+    "id":2051, "category":2, "content_type":"StorePack", "content_id":57, "content_quantity":1, "cost_item_id":60002, "cost_quantity":1050, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":57, "comment":"", "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2020/11/07 11:59:59 +09:00"
+  },
+  {
+    "id":2052, "category":2, "content_type":"StorePack", "content_id":58, "content_quantity":1, "cost_item_id":60002, "cost_quantity":3900, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":58, "comment":"", "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2020/11/07 11:59:59 +09:00"
+  },
+  {
     "id":3000, "category":3, "content_type":"AvatarItem", "content_id":10002, "content_quantity":1, "cost_item_id":50001, "cost_quantity":15000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":39, "comment":"", "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
@@ -415,6 +427,9 @@
   },
   {
     "id":3218, "category":3, "content_type":"AvatarItem", "content_id":20020, "content_quantity":1, "cost_item_id":50001, "cost_quantity":35000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":45, "comment":"", "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3219, "category":3, "content_type":"AvatarItem", "content_id":20021, "content_quantity":1, "cost_item_id":50001, "cost_quantity":35000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":46, "comment":"", "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
     "id":4000, "category":4, "content_type":"Music", "content_id":105, "content_quantity":1, "cost_item_id":50001, "cost_quantity":10000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":13, "comment":"", "started_at":"2020/03/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"

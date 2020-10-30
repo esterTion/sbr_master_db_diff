@@ -1200,6 +1200,96 @@
     "id":9200210, "effect_arg_no":1040002, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,3,60,0]", "digest":"ホールド除くMISS判定1回PERFECT＆MISSまでスコア6%UP", "description":"ホールドノーツを除くMISS判定を1回PERFECTに。さらにMISS判定になるまでのスコアを6%UP"
   },
   {
+    "id":9300001, "effect_arg_no":1050000, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,1,-120,0]", "digest":"ホールド除きMISSを2回までGOODにするが獲得スコア-12%", "description":"ホールドノーツを除くMISS判定を2回までGOODにするが獲得スコアが-12%DOWN"
+  },
+  {
+    "id":9300002, "effect_arg_no":1050000, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,1,-115,0]", "digest":"ホールド除きMISSを2回までGOODにするが獲得スコア-11.5%", "description":"ホールドノーツを除くMISS判定を2回までGOODにするが獲得スコアが-11.5%DOWN"
+  },
+  {
+    "id":9300003, "effect_arg_no":1050000, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,1,-110,0]", "digest":"ホールド除きMISSを2回までGOODにするが獲得スコア-11%", "description":"ホールドノーツを除くMISS判定を2回までGOODにするが獲得スコアが-11%DOWN"
+  },
+  {
+    "id":9300004, "effect_arg_no":1050000, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,1,-105,0]", "digest":"ホールド除きMISSを2回までGOODにするが獲得スコア-10.5%", "description":"ホールドノーツを除くMISS判定を2回までGOODにするが獲得スコアが-10.5%DOWN"
+  },
+  {
+    "id":9300005, "effect_arg_no":1050000, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,1,-100,0]", "digest":"ホールド除きMISSを2回までGOODにするが獲得スコア-10%", "description":"ホールドノーツを除くMISS判定を2回までGOODにするが獲得スコアが-10%DOWN"
+  },
+  {
+    "id":9300006, "effect_arg_no":1050000, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,1,-100,0]", "digest":"ホールド除きMISSを3回までGOODにするが獲得スコア-10%", "description":"ホールドノーツを除くMISS判定を3回までGOODにするが獲得スコアが-10%DOWN"
+  },
+  {
+    "id":9300007, "effect_arg_no":1050000, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,1,-95,0]", "digest":"ホールド除きMISSを3回までGOODにするが獲得スコア-9.5%", "description":"ホールドノーツを除くMISS判定を3回までGOODにするが獲得スコアが-9.5%DOWN"
+  },
+  {
+    "id":9300008, "effect_arg_no":1050000, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,1,-90,0]", "digest":"ホールド除きMISSを3回までGOODにするが獲得スコア-9%", "description":"ホールドノーツを除くMISS判定を3回までGOODにするが獲得スコアが-9%DOWN"
+  },
+  {
+    "id":9300009, "effect_arg_no":1050000, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,1,-85,0]", "digest":"ホールド除きMISSを3回までGOODにするが獲得スコア-8.5%", "description":"ホールドノーツを除くMISS判定を3回までGOODにするが獲得スコアが-8.5%DOWN"
+  },
+  {
+    "id":9300010, "effect_arg_no":1050000, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,1,-80,0]", "digest":"ホールド除きMISSを3回までGOODにするが獲得スコア-8%", "description":"ホールドノーツを除くMISS判定を3回までGOODにするが獲得スコアが-8%DOWN"
+  },
+  {
+    "id":9300101, "effect_arg_no":1050001, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-100,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-10%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-10%DOWN"
+  },
+  {
+    "id":9300102, "effect_arg_no":1050001, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-95,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-9.5%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-9.5%DOWN"
+  },
+  {
+    "id":9300103, "effect_arg_no":1050001, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-90,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-9%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-9%DOWN"
+  },
+  {
+    "id":9300104, "effect_arg_no":1050001, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-85,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-8.5%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-8.5%DOWN"
+  },
+  {
+    "id":9300105, "effect_arg_no":1050001, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-80,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-8%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-8%DOWN"
+  },
+  {
+    "id":9300106, "effect_arg_no":1050001, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-75,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-7.5%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-7.5%DOWN"
+  },
+  {
+    "id":9300107, "effect_arg_no":1050001, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-70,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-7%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-7%DOWN"
+  },
+  {
+    "id":9300108, "effect_arg_no":1050001, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-65,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-6.5%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-6.5%DOWN"
+  },
+  {
+    "id":9300109, "effect_arg_no":1050001, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-60,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-6%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-6%DOWN"
+  },
+  {
+    "id":9300110, "effect_arg_no":1050001, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,-55,0]", "digest":"ホールド除きMISSを3回までGREATにするが獲得スコア-5.5%", "description":"ホールドノーツを除くMISS判定を3回までGREATにするが獲得スコアが-5.5%DOWN"
+  },
+  {
+    "id":9300201, "effect_arg_no":1050002, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-75,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-7.5%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-7.5%DOWN"
+  },
+  {
+    "id":9300202, "effect_arg_no":1050002, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-70,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-7%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-7%DOWN"
+  },
+  {
+    "id":9300203, "effect_arg_no":1050002, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-65,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-6.5%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-6.5%DOWN"
+  },
+  {
+    "id":9300204, "effect_arg_no":1050002, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-60,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-6%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-6%DOWN"
+  },
+  {
+    "id":9300205, "effect_arg_no":1050002, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-55,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-5.5%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-5.5%DOWN"
+  },
+  {
+    "id":9300206, "effect_arg_no":1050002, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-50,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-5%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-5%DOWN"
+  },
+  {
+    "id":9300207, "effect_arg_no":1050002, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-45,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-4.5%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-4.5%DOWN"
+  },
+  {
+    "id":9300208, "effect_arg_no":1050002, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-40,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-4%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-4%DOWN"
+  },
+  {
+    "id":9300209, "effect_arg_no":1050002, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-35,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-3.5%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-3.5%DOWN"
+  },
+  {
+    "id":9300210, "effect_arg_no":1050002, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,-30,0]", "digest":"ホールド除きMISSを3回までPERFECTにするが獲得スコア-3%", "description":"ホールドノーツを除くMISS判定を3回までPERFECTにするが獲得スコアが-3%DOWN"
+  },
+  {
     "id":10000101, "effect_arg_no":1090001, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,100]", "digest":"ライフ0時に1回だけライフを100回復", "description":"ライフが0になった時、1回だけライフを100回復する"
   },
   {
