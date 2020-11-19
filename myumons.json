@@ -624,6 +624,12 @@
     "id":624011, "myumon_basic_id":62, "name":"[真夏の宴はファファファのファッ！]", "music_category":1, "rarity":5, "asset_id":6202, "mini_asset_id":6202, "life":496, "rhythm":2692, "melody":2706, "harmony":5082, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":33, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ハッチン」のブロマイドです"
   },
   {
+    "id":624020, "myumon_basic_id":62, "name":"[寄り道の秋、楽しすぎじゃね！？]", "music_category":3, "rarity":4, "asset_id":6203, "mini_asset_id":6204, "life":356, "rhythm":1778, "melody":4589, "harmony":1722, "main_1_skill_id":11013, "main_2_skill_id":82001, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":624021, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ハッチン」のブロマイドです"
+  },
+  {
+    "id":624021, "myumon_basic_id":62, "name":"[ファファファのファチミツ棒だぜ！]", "music_category":3, "rarity":5, "asset_id":6203, "mini_asset_id":6204, "life":466, "rhythm":2341, "melody":5944, "harmony":2293, "main_1_skill_id":10014, "main_2_skill_id":82002, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ハッチン」のブロマイドです"
+  },
+  {
     "id":631000, "myumon_basic_id":63, "name":"[DOKONJOFINGER]", "music_category":1, "rarity":1, "asset_id":6300, "mini_asset_id":6300, "life":117, "rhythm":656, "melody":650, "harmony":678, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110041, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":631001, "shinka_recipe_no":11, "enable_deck":true, "enable_partner":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
   },
   {
@@ -930,6 +936,12 @@
     "id":912001, "myumon_basic_id":91, "name":"[黄金のアーティスト！+]", "music_category":3, "rarity":3, "asset_id":9100, "mini_asset_id":9100, "life":184, "rhythm":1211, "melody":1582, "harmony":1216, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「チタン」のブロマイドです"
   },
   {
+    "id":913000, "myumon_basic_id":91, "name":"[黄金のキノコで、弟達の夢を紡ぐ！]", "music_category":3, "rarity":3, "asset_id":9100, "mini_asset_id":9103, "life":258, "rhythm":1300, "melody":2878, "harmony":1264, "main_1_skill_id":21001, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":913001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「チタン」のブロマイドです"
+  },
+  {
+    "id":913001, "myumon_basic_id":91, "name":"[オレ達の黄金秋色メロディアス！]", "music_category":3, "rarity":4, "asset_id":9100, "mini_asset_id":9103, "life":362, "rhythm":1782, "melody":4085, "harmony":1726, "main_1_skill_id":21002, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「チタン」のブロマイドです"
+  },
+  {
     "id":914000, "myumon_basic_id":91, "name":"[守ってみせる、必ず……！]", "music_category":3, "rarity":4, "asset_id":9101, "mini_asset_id":9101, "life":358, "rhythm":3517, "melody":2141, "harmony":2116, "main_1_skill_id":20001, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":914001, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「ARCAREAFACT」に所属する「チタン」のブロマイドです"
   },
   {
@@ -1072,6 +1084,12 @@
   },
   {
     "id":1024001, "myumon_basic_id":102, "name":"[つきのもいっぱいがんばるの～♪]", "music_category":1, "rarity":5, "asset_id":10201, "mini_asset_id":10201, "life":301, "rhythm":2054, "melody":2845, "harmony":2192, "main_1_skill_id":10014, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ツキノ」のブロマイドです"
+  },
+  {
+    "id":1024010, "myumon_basic_id":102, "name":"[おいしいおいしいフルコースなの♪]", "music_category":3, "rarity":4, "asset_id":10202, "mini_asset_id":10202, "life":385, "rhythm":1811, "melody":4841, "harmony":1830, "main_1_skill_id":30001, "main_2_skill_id":93001, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1024011, "shinka_recipe_no":34, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ツキノ」のブロマイドです"
+  },
+  {
+    "id":1024011, "myumon_basic_id":102, "name":"[つきの印のじゅーしー葡萄なの♪]", "music_category":3, "rarity":5, "asset_id":10202, "mini_asset_id":10202, "life":483, "rhythm":2443, "melody":5992, "harmony":2432, "main_1_skill_id":30002, "main_2_skill_id":93002, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ツキノ」のブロマイドです"
   },
   {
     "id":1031000, "myumon_basic_id":103, "name":"[クリティクリスタ]", "music_category":1, "rarity":1, "asset_id":10300, "mini_asset_id":10300, "life":110, "rhythm":580, "melody":611, "harmony":838, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1031001, "shinka_recipe_no":11, "enable_deck":true, "enable_partner":true, "description":"「クリティクリスタ」に所属する「ホルミー」のブロマイドです"
@@ -1384,6 +1402,12 @@
   },
   {
     "id":1332001, "myumon_basic_id":133, "name":"[やっばー！アタシギャルっぽくね？＋]", "music_category":1, "rarity":3, "asset_id":13300, "mini_asset_id":13300, "life":185, "rhythm":1616, "melody":1193, "harmony":1194, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「ウワサノペタルズ」に所属する「きっつん」のブロマイドです"
+  },
+  {
+    "id":1333000, "myumon_basic_id":133, "name":"[秋は月里村芋煮会でキマリっしょ！]", "music_category":3, "rarity":3, "asset_id":13300, "mini_asset_id":13302, "life":231, "rhythm":1151, "melody":2691, "harmony":1189, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":1333001, "shinka_recipe_no":33, "enable_deck":true, "enable_partner":true, "description":"「ウワサノペタルズ」に所属する「きっつん」のブロマイドです"
+  },
+  {
+    "id":1333001, "myumon_basic_id":133, "name":"[イモとのギャップやばすぎっしょ！]", "music_category":3, "rarity":4, "asset_id":13300, "mini_asset_id":13302, "life":345, "rhythm":1644, "melody":3774, "harmony":1698, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "enable_deck":true, "enable_partner":true, "description":"「ウワサノペタルズ」に所属する「きっつん」のブロマイドです"
   },
   {
     "id":1334000, "myumon_basic_id":133, "name":"[やっばー！これ超ギャルっぽくね？]", "music_category":2, "rarity":4, "asset_id":13301, "mini_asset_id":13301, "life":372, "rhythm":2043, "melody":1999, "harmony":3936, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1334001, "shinka_recipe_no":24, "enable_deck":true, "enable_partner":true, "description":"「ウワサノペタルズ」に所属する「きっつん」のブロマイドです"
