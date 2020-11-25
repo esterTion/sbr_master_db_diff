@@ -9,6 +9,9 @@
     "id":1002, "layer_type":"Background", "name":"アニバーサリータウン", "description":"ハッピーアニバーサリー！記念日を祝して、MIDICITYの街中が大いに盛り上がりを見せている！ありがとう！", "default_asset_ids":"null"
   },
   {
+    "id":1003, "layer_type":"Background", "name":"シンガンホームタウン", "description":"シンガンクリムゾンズモチーフのホームタウン。深紅色の心眼でこの澱んだホームを見続けルッ！", "default_asset_ids":"null"
+  },
+  {
     "id":2000, "layer_type":"Road", "name":"砂利道の大通り", "description":"自然たっぷりの郊外の道。\n雨が降るとどろんこに！", "default_asset_ids":"null"
   },
   {
@@ -28,6 +31,9 @@
   },
   {
     "id":2006, "layer_type":"Road", "name":"パレードロード", "description":"記念日を祝して、豪華に舗装された大通り。大スターになった気分を味わえるのだとか。", "default_asset_ids":"null"
+  },
+  {
+    "id":2007, "layer_type":"Road", "name":"シンガンロード", "description":"シンガンクリムゾンズモチーフの道。オレ達はMIDICITYの頂点を目指して、どんなこ（以下略", "default_asset_ids":"null"
   },
   {
     "id":3000, "layer_type":"OnTheRoad", "name":"道路の上", "description":"", "default_asset_ids":"null"
@@ -76,6 +82,9 @@
   },
   {
     "id":7006, "layer_type":"Fence", "name":"レインボーフェンス", "description":"虹が特徴のサークルフェンス。レインボカラーで街を色鮮やかに飾る。", "default_asset_ids":"null"
+  },
+  {
+    "id":7007, "layer_type":"Fence", "name":"シンガンフェンス", "description":"シンガンクリムゾンズモチーフのフェンス。オレ色フェンスで染まりやがれ黙示録だぜッ！！", "default_asset_ids":"null"
   },
   {
     "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"

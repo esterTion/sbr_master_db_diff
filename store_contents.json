@@ -606,6 +606,9 @@
     "id":4051, "category":4, "content_type":"Music", "content_id":905, "content_quantity":1, "cost_item_id":50001, "cost_quantity":10000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":52, "comment":"", "started_at":"2020/11/13 11:00:00 +09:00", "ended_at":"2020/12/04 11:45:00 +09:00"
   },
   {
+    "id":4052, "category":4, "content_type":"Music", "content_id":217, "content_quantity":1, "cost_item_id":50001, "cost_quantity":10000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":53, "comment":"", "started_at":"2020/11/25 11:00:00 +09:00", "ended_at":"2020/12/14 11:45:00 +09:00"
+  },
+  {
     "id":5000, "category":5, "content_type":"LiveHouseItem", "content_id":1002, "content_quantity":1, "cost_item_id":50001, "cost_quantity":40000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":16, "comment":"", "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
@@ -709,6 +712,9 @@
   },
   {
     "id":6018, "category":6, "content_type":"TownBuilding", "content_id":40303, "content_quantity":1, "cost_item_id":50001, "cost_quantity":0, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":29, "comment":"", "started_at":"2020/06/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":6019, "category":6, "content_type":"TownBuilding", "content_id":40304, "content_quantity":1, "cost_item_id":50001, "cost_quantity":5000000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":31, "comment":"", "started_at":"2020/11/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
     "id":6100, "category":6, "content_type":"Townscape", "content_id":1001, "content_quantity":1, "cost_item_id":50001, "cost_quantity":10000000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "sort_order":30, "comment":"", "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
