@@ -57,6 +57,9 @@
     "id":10313, "category":"GameScene", "name":"IntroQuiz", "value":"13"
   },
   {
+    "id":10314, "category":"GameScene", "name":"MusicSelect", "value":"14"
+  },
+  {
     "id":10400, "category":"GamePage", "name":"DefaultPerPage", "value":"20"
   },
   {
@@ -73,6 +76,18 @@
   },
   {
     "id":10603, "category":"UpdateResult", "name":"CommentNgWord", "value":"2"
+  },
+  {
+    "id":10701, "category":"ResetCycle", "name":"None", "value":"0"
+  },
+  {
+    "id":10702, "category":"ResetCycle", "name":"Daily", "value":"1"
+  },
+  {
+    "id":10703, "category":"ResetCycle", "name":"Weekly", "value":"2"
+  },
+  {
+    "id":10704, "category":"ResetCycle", "name":"Monthly", "value":"3"
   },
   {
     "id":19901, "category":"CustomSwitch", "name":"Logout", "value":"2020/11/20"
@@ -169,6 +184,15 @@
   },
   {
     "id":40301, "category":"UserProfileComment", "name":"SizeMax", "value":"40"
+  },
+  {
+    "id":40401, "category":"UserTargetType", "name":"All", "value":"1"
+  },
+  {
+    "id":40402, "category":"UserTargetType", "name":"Beginner", "value":"2"
+  },
+  {
+    "id":40403, "category":"UserTargetType", "name":"Comeback", "value":"3"
   },
   {
     "id":50000, "category":"Music", "name":"DefaultUnlockGrade", "value":"3"
@@ -1522,5 +1546,11 @@
   },
   {
     "id":340310, "category":"SugorokuRestriction", "name":"NoPassiveSkill", "value":"10"
+  },
+  {
+    "id":350101, "category":"CampaignEffectType", "name":"Exp", "value":"1"
+  },
+  {
+    "id":350102, "category":"CampaignEffectType", "name":"Reward", "value":"2"
   }
 ]
