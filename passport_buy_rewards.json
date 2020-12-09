@@ -1,0 +1,20 @@
+[
+  {
+    "id":1, "is_loop":false, "count":1, "reward_no":901, "recommend":false
+  },
+  {
+    "id":2, "is_loop":false, "count":2, "reward_no":902, "recommend":false
+  },
+  {
+    "id":3, "is_loop":false, "count":3, "reward_no":903, "recommend":true
+  },
+  {
+    "id":4, "is_loop":true, "count":1, "reward_no":904, "recommend":false
+  },
+  {
+    "id":5, "is_loop":true, "count":2, "reward_no":905, "recommend":false
+  },
+  {
+    "id":6, "is_loop":true, "count":3, "reward_no":906, "recommend":true
+  }
+]

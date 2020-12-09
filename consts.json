@@ -225,6 +225,12 @@
     "id":50203, "category":"MusicGrade", "name":"Expert", "value":"4"
   },
   {
+    "id":50204, "category":"MusicGrade", "name":"Lunatic", "value":"5"
+  },
+  {
+    "id":50205, "category":"MusicGrade", "name":"Reserve", "value":"6"
+  },
+  {
     "id":50300, "category":"MusicClearStatus", "name":"Fail", "value":"0"
   },
   {
@@ -610,6 +616,15 @@
   },
   {
     "id":120603, "category":"DarkRandomSupport", "name":"RequestSeconds", "value":"300"
+  },
+  {
+    "id":120700, "category":"DarkConditionType", "name":"None", "value":"0"
+  },
+  {
+    "id":120701, "category":"DarkConditionType", "name":"TownscapeSet", "value":"1"
+  },
+  {
+    "id":120702, "category":"DarkConditionType", "name":"TownBuildingSet", "value":"2"
   },
   {
     "id":140001, "category":"LiveType", "name":"Free", "value":"1"
@@ -1056,6 +1071,9 @@
     "id":210202, "category":"LoginBonusConditionType", "name":"Comeback", "value":"2"
   },
   {
+    "id":210203, "category":"LoginBonusConditionType", "name":"ComebackPeriod", "value":"3"
+  },
+  {
     "id":220000, "category":"SkillKind", "name":"Normal", "value":"0"
   },
   {
@@ -1140,6 +1158,9 @@
     "id":240104, "category":"MissionCategory", "name":"Special", "value":"4"
   },
   {
+    "id":240105, "category":"MissionCategory", "name":"Passport", "value":"5"
+  },
+  {
     "id":240201, "category":"MissionStatus", "name":"Open", "value":"0"
   },
   {
@@ -1159,6 +1180,9 @@
   },
   {
     "id":240504, "category":"MissionCategoryName", "name":"Special", "value":"スペシャル"
+  },
+  {
+    "id":240505, "category":"MissionCategoryName", "name":"Passport", "value":"パスポート"
   },
   {
     "id":240601, "category":"MissionButtonType", "name":"Normal", "value":"0"
@@ -1552,5 +1576,11 @@
   },
   {
     "id":350102, "category":"CampaignEffectType", "name":"Reward", "value":"2"
+  },
+  {
+    "id":350103, "category":"CampaignEffectType", "name":"RewardPlus", "value":"3"
+  },
+  {
+    "id":360101, "category":"Passport", "name":"RebuyDay", "value":"3"
   }
 ]

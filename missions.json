@@ -442,5 +442,8 @@
   },
   {
     "id":4000087, "category":4, "reset_cycle":0, "title":"フリーライブで Colorful Snow Drop を3回プレイしよう", "detail":"フリーライブで楽曲 Colorful Snow Drop を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count", "clear_condition_args":"1009", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2020/12/07 12:00:00 +09:00", "ended_at":"2020/12/08 11:59:59 +09:00"
+  },
+  {
+    "id":4000088, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"10", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2020/12/10 12:00:00 +09:00", "ended_at":"2020/12/14 11:59:59 +09:00"
   }
 ]
