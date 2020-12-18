@@ -36,6 +36,9 @@
     "id":12, "name":"ダークドラグーン", "stamina_cost":5, "max_hp":25000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "next_encounter_no":0, "win_reward_no":3112, "win_artist_exp":1500, "win_myumon_exp":1500, "win_event_point":0, "asset_id":1, "engaged_asset_id":1
   },
   {
+    "id":13, "name":"ダークドラグーン・サンタ", "stamina_cost":5, "max_hp":25000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":5, "next_encounter_no":0, "win_reward_no":3112, "win_artist_exp":1500, "win_myumon_exp":1500, "win_event_point":0, "asset_id":102, "engaged_asset_id":1
+  },
+  {
     "id":200101, "name":"ダークリーパー", "stamina_cost":5, "max_hp":10000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":10, "next_encounter_no":0, "win_reward_no":3401, "win_artist_exp":1000, "win_myumon_exp":1000, "win_event_point":600, "asset_id":3, "engaged_asset_id":1
   },
   {

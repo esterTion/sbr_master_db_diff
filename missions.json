@@ -448,5 +448,23 @@
   },
   {
     "id":4000089, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"10", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2020/12/14 12:00:00 +09:00", "ended_at":"2020/12/17 11:59:59 +09:00"
+  },
+  {
+    "id":4000090, "category":4, "reset_cycle":0, "title":"【Xマス】フリーライブでPlease Please Christmas を5回プレイしよう", "detail":"フリーライブで楽曲 Please Please Christmas を累計5回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count", "clear_condition_args":"408", "goal":5, "reward_no":14020, "button_type":0, "destination_kind":1, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2020/12/29 11:59:59 +09:00"
+  },
+  {
+    "id":4000091, "category":4, "reset_cycle":0, "title":"【Xマス】すごろくイベントで1,000Pt以上獲得しよう", "detail":"すごろくイベントで1,000Pt以上獲得しよう", "add_condition_mission_id":0, "sort_order":2, "clear_condition_type":"event_point_count", "clear_condition_args":"[3002]", "goal":1000, "reward_no":14021, "button_type":0, "destination_kind":0, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2020/12/29 11:59:59 +09:00"
+  },
+  {
+    "id":4000092, "category":4, "reset_cycle":0, "title":"【Xマス】フリーライブで 恋詠ノ蝶 を5回プレイしよう", "detail":"フリーライブで楽曲 恋詠ノ蝶 を累計5回プレイしよう", "add_condition_mission_id":0, "sort_order":3, "clear_condition_type":"music_play_count", "clear_condition_args":"310", "goal":5, "reward_no":14020, "button_type":0, "destination_kind":1, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2020/12/29 11:59:59 +09:00"
+  },
+  {
+    "id":4000093, "category":4, "reset_cycle":0, "title":"【Xマス】ダークドラグーン・サンタを3体倒そう", "detail":"マイタウンで出現するダークドラグーン・サンタを3体倒そう", "add_condition_mission_id":0, "sort_order":4, "clear_condition_type":"dark_destroy_appoint_count", "clear_condition_args":"13", "goal":3, "reward_no":14021, "button_type":0, "destination_kind":3, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2020/12/29 11:59:59 +09:00"
+  },
+  {
+    "id":4000094, "category":4, "reset_cycle":0, "title":"【Xマス】クリスマス 特別ミッション を全てクリアしよう", "detail":"クリスマス 特別ミッションの内容を全てクリアしよう", "add_condition_mission_id":0, "sort_order":5, "clear_condition_type":"mission_all_clear", "clear_condition_args":"[4000090,4000091,4000092,4000093]", "goal":4, "reward_no":14022, "button_type":0, "destination_kind":0, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2020/12/29 11:59:59 +09:00"
+  },
+  {
+    "id":4000095, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":6, "clear_condition_type":"music_play_count_day", "clear_condition_args":"11", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2020/12/24 11:59:59 +09:00"
   }
 ]

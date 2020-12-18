@@ -132,7 +132,7 @@
     "id":20013, "category":"UserSetup", "name":"Myumon", "value":"[711000, 731000, 721000, 741000]"
   },
   {
-    "id":20014, "category":"UserSetup", "name":"Partner", "value":"211000"
+    "id":20014, "category":"UserSetup", "name":"Partner", "value":"2100"
   },
   {
     "id":20015, "category":"UserSetup", "name":"TownProduct", "value":"{\"id\":[2001], \"quantity\":1}"
@@ -1074,6 +1074,12 @@
     "id":210203, "category":"LoginBonusConditionType", "name":"ComebackPeriod", "value":"3"
   },
   {
+    "id":210301, "category":"LoginBonusSceneType", "name":"Default", "value":"1"
+  },
+  {
+    "id":210302, "category":"LoginBonusSceneType", "name":"Adventure", "value":"2"
+  },
+  {
     "id":220000, "category":"SkillKind", "name":"Normal", "value":"0"
   },
   {
@@ -1222,6 +1228,9 @@
   },
   {
     "id":260108, "category":"StoreCategory", "name":"BattlePoint", "value":"8"
+  },
+  {
+    "id":260109, "category":"StoreCategory", "name":"Costume", "value":"9"
   },
   {
     "id":260201, "category":"StoreBuyLimitType", "name":"All", "value":"1"

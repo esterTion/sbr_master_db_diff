@@ -15,6 +15,15 @@
     "id":1004, "layer_type":"Background", "name":"ましゅましゅホームタウン", "description":"Mashumairesh!!モチーフのホームタウン。れっつ、ふれっしゅ、にゅーふぇいす、なタウンです。", "default_asset_ids":"null"
   },
   {
+    "id":1100, "layer_type":"Background", "name":"スゴロクタウン", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
+  },
+  {
+    "id":1101, "layer_type":"Background", "name":"スゴロクタウン夜", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
+  },
+  {
+    "id":1102, "layer_type":"Background", "name":"スゴロクボーナスタウン", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
+  },
+  {
     "id":2000, "layer_type":"Road", "name":"砂利道の大通り", "description":"自然たっぷりの郊外の道。\n雨が降るとどろんこに！", "default_asset_ids":"null"
   },
   {
@@ -40,6 +49,9 @@
   },
   {
     "id":2008, "layer_type":"Road", "name":"ましゅましゅロード", "description":"Mashumairesh!!モチーフの道。千里の道もルナティック一歩から！だよね！", "default_asset_ids":"null"
+  },
+  {
+    "id":2100, "layer_type":"Road", "name":"スゴロクロード", "description":"スゴロクイベントで使用する道路です。", "default_asset_ids":"null"
   },
   {
     "id":3000, "layer_type":"OnTheRoad", "name":"道路の上", "description":"", "default_asset_ids":"null"

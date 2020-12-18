@@ -1,0 +1,536 @@
+[
+  {
+    "id":1100, "myumon_basic_id":11, "name":"[Mashumairesh!!] ほわん", "description":"ほわんの衣装です。", "asset_id":1100, "mini_asset_id":1100, "icon_asset_id":111000, "parent_id":0
+  },
+  {
+    "id":1101, "myumon_basic_id":11, "name":"[ほわぁ！あっちも行ってみようよ♪] ほわん", "description":"ほわんの特別な衣装です。", "asset_id":1101, "mini_asset_id":1101, "icon_asset_id":114000, "parent_id":1100
+  },
+  {
+    "id":1102, "myumon_basic_id":11, "name":"[夕飯のお買い物にいこう♪] ほわん", "description":"ほわんの特別な衣装です。", "asset_id":1102, "mini_asset_id":1102, "icon_asset_id":114010, "parent_id":1100
+  },
+  {
+    "id":1103, "myumon_basic_id":11, "name":"[うち、ルナティックほわんだよっ♡] ほわん", "description":"ほわんの特別な衣装です。", "asset_id":1103, "mini_asset_id":1103, "icon_asset_id":114020, "parent_id":1100
+  },
+  {
+    "id":1200, "myumon_basic_id":12, "name":"[Mashumairesh!!] マシマヒメコ", "description":"マシマヒメコの衣装です。", "asset_id":1200, "mini_asset_id":1200, "icon_asset_id":121000, "parent_id":0
+  },
+  {
+    "id":1201, "myumon_basic_id":12, "name":"[超恥ずい…けど、喜んでくれるかな] マシマヒメコ", "description":"マシマヒメコの特別な衣装です。", "asset_id":0, "mini_asset_id":1203, "icon_asset_id":123010, "parent_id":1200
+  },
+  {
+    "id":1202, "myumon_basic_id":12, "name":"[ほんと、調子くるう……恥ずいし] マシマヒメコ", "description":"マシマヒメコの特別な衣装です。", "asset_id":1201, "mini_asset_id":1201, "icon_asset_id":124000, "parent_id":1200
+  },
+  {
+    "id":1203, "myumon_basic_id":12, "name":"[ちょ、ちょっと！それはダメー！] マシマヒメコ", "description":"マシマヒメコの特別な衣装です。", "asset_id":1202, "mini_asset_id":1202, "icon_asset_id":124010, "parent_id":1200
+  },
+  {
+    "id":1204, "myumon_basic_id":12, "name":"[最初は大根だったけど、今は……] マシマヒメコ", "description":"マシマヒメコの特別な衣装です。", "asset_id":1203, "mini_asset_id":1204, "icon_asset_id":124020, "parent_id":1200
+  },
+  {
+    "id":1300, "myumon_basic_id":13, "name":"[Mashumairesh!!] デルミン", "description":"デルミンの衣装です。", "asset_id":1300, "mini_asset_id":1300, "icon_asset_id":131000, "parent_id":0
+  },
+  {
+    "id":1301, "myumon_basic_id":13, "name":"[リゾート体験、わくわくのわくです] デルミン", "description":"デルミンの特別な衣装です。", "asset_id":0, "mini_asset_id":1302, "icon_asset_id":133010, "parent_id":1300
+  },
+  {
+    "id":1302, "myumon_basic_id":13, "name":"[今日のノルマまでもう少しです。] デルミン", "description":"デルミンの特別な衣装です。", "asset_id":1301, "mini_asset_id":1301, "icon_asset_id":134000, "parent_id":1300
+  },
+  {
+    "id":1303, "myumon_basic_id":13, "name":"[大きく息をすって、しゅびっ！] デルミン", "description":"デルミンの特別な衣装です。", "asset_id":1302, "mini_asset_id":1303, "icon_asset_id":134010, "parent_id":1300
+  },
+  {
+    "id":1304, "myumon_basic_id":13, "name":"[一筆入魂のうずしおです。] デルミン", "description":"デルミンの特別な衣装です。", "asset_id":1303, "mini_asset_id":1304, "icon_asset_id":134020, "parent_id":1300
+  },
+  {
+    "id":1400, "myumon_basic_id":14, "name":"[Mashumairesh!!] ルフユ", "description":"ルフユの衣装です。", "asset_id":1400, "mini_asset_id":1400, "icon_asset_id":141000, "parent_id":0
+  },
+  {
+    "id":1401, "myumon_basic_id":14, "name":"[友好度１６９%上昇中？] ルフユ", "description":"ルフユの特別な衣装です。", "asset_id":1401, "mini_asset_id":1401, "icon_asset_id":144000, "parent_id":1400
+  },
+  {
+    "id":1402, "myumon_basic_id":14, "name":"[ルナティックの名にかけて！宿命編] ルフユ", "description":"ルフユの特別な衣装です。", "asset_id":1402, "mini_asset_id":1402, "icon_asset_id":144010, "parent_id":1400
+  },
+  {
+    "id":2100, "myumon_basic_id":21, "name":"[Plasmagica] シアン", "description":"シアンの衣装です。", "asset_id":2100, "mini_asset_id":2100, "icon_asset_id":211000, "parent_id":0
+  },
+  {
+    "id":2101, "myumon_basic_id":21, "name":"[いっぱいおどかしちゃうにゃん♪] シアン", "description":"シアンの特別な衣装です。", "asset_id":0, "mini_asset_id":2105, "icon_asset_id":213010, "parent_id":2100
+  },
+  {
+    "id":2102, "myumon_basic_id":21, "name":"[みんなでパジャマPartyにゃ♪] シアン", "description":"シアンの特別な衣装です。", "asset_id":2101, "mini_asset_id":2101, "icon_asset_id":214000, "parent_id":2100
+  },
+  {
+    "id":2103, "myumon_basic_id":21, "name":"[Live衣装の打ち合わせにゃん♡] シアン", "description":"シアンの特別な衣装です。", "asset_id":2102, "mini_asset_id":2102, "icon_asset_id":214010, "parent_id":2100
+  },
+  {
+    "id":2104, "myumon_basic_id":21, "name":"[いちごあめ、だ～い好きにゃん♪] シアン", "description":"シアンの特別な衣装です。", "asset_id":2103, "mini_asset_id":2103, "icon_asset_id":214020, "parent_id":2100
+  },
+  {
+    "id":2105, "myumon_basic_id":21, "name":"[スモールギフトビッグスマイルにゃ] シアン", "description":"シアンの特別な衣装です。", "asset_id":2104, "mini_asset_id":2104, "icon_asset_id":214030, "parent_id":2100
+  },
+  {
+    "id":2200, "myumon_basic_id":22, "name":"[Plasmagica] チュチュ", "description":"チュチュの衣装です。", "asset_id":2200, "mini_asset_id":2200, "icon_asset_id":221000, "parent_id":0
+  },
+  {
+    "id":2201, "myumon_basic_id":22, "name":"[聞こえますか？雨と浴衣と私の音色] チュチュ", "description":"チュチュの特別な衣装です。", "asset_id":0, "mini_asset_id":2203, "icon_asset_id":223010, "parent_id":2200
+  },
+  {
+    "id":2202, "myumon_basic_id":22, "name":"[華麗にキメて見せますわ♡] チュチュ", "description":"チュチュの特別な衣装です。", "asset_id":2201, "mini_asset_id":2201, "icon_asset_id":224000, "parent_id":2200
+  },
+  {
+    "id":2203, "myumon_basic_id":22, "name":"[あの時、あなたがいてくれたから] チュチュ", "description":"チュチュの特別な衣装です。", "asset_id":2202, "mini_asset_id":2202, "icon_asset_id":224010, "parent_id":2200
+  },
+  {
+    "id":2204, "myumon_basic_id":22, "name":"[いつかこの一番星のように、私も] チュチュ", "description":"チュチュの特別な衣装です。", "asset_id":2203, "mini_asset_id":2204, "icon_asset_id":224020, "parent_id":2200
+  },
+  {
+    "id":2300, "myumon_basic_id":23, "name":"[Plasmagica] レトリー", "description":"レトリーの衣装です。", "asset_id":2300, "mini_asset_id":2300, "icon_asset_id":231000, "parent_id":0
+  },
+  {
+    "id":2301, "myumon_basic_id":23, "name":"[ぜ、全部買うしかない……！] レトリー", "description":"レトリーの特別な衣装です。", "asset_id":0, "mini_asset_id":2303, "icon_asset_id":233010, "parent_id":2300
+  },
+  {
+    "id":2302, "myumon_basic_id":23, "name":"[はーとふるわんにゃんのいちご先生] レトリー", "description":"レトリーの特別な衣装です。", "asset_id":2301, "mini_asset_id":2301, "icon_asset_id":234000, "parent_id":2300
+  },
+  {
+    "id":2303, "myumon_basic_id":23, "name":"[こ、これってリア充すぎない……？] レトリー", "description":"レトリーの特別な衣装です。", "asset_id":2302, "mini_asset_id":2302, "icon_asset_id":234010, "parent_id":2300
+  },
+  {
+    "id":2304, "myumon_basic_id":23, "name":"[ずっと夢見てた、この冬ルート！] レトリー", "description":"レトリーの特別な衣装です。", "asset_id":2303, "mini_asset_id":2304, "icon_asset_id":234020, "parent_id":2300
+  },
+  {
+    "id":2400, "myumon_basic_id":24, "name":"[Plasmagica] モア", "description":"モアの衣装です。", "asset_id":2400, "mini_asset_id":2400, "icon_asset_id":241000, "parent_id":0
+  },
+  {
+    "id":2401, "myumon_basic_id":24, "name":"[もっと仲良くするぴゅる～☆] モア", "description":"モアの特別な衣装です。", "asset_id":2401, "mini_asset_id":2401, "icon_asset_id":244000, "parent_id":2400
+  },
+  {
+    "id":2402, "myumon_basic_id":24, "name":"[一緒だから楽しいぴゅる～♪] モア", "description":"モアの特別な衣装です。", "asset_id":2402, "mini_asset_id":2402, "icon_asset_id":244010, "parent_id":2400
+  },
+  {
+    "id":3100, "myumon_basic_id":31, "name":"[徒然なる操り霧幻庵] ダル太夫", "description":"ダル太夫の衣装です。", "asset_id":3100, "mini_asset_id":3100, "icon_asset_id":311000, "parent_id":0
+  },
+  {
+    "id":3101, "myumon_basic_id":31, "name":"[鮮やかな彩りでありんすなあ。] ダル太夫", "description":"ダル太夫の特別な衣装です。", "asset_id":0, "mini_asset_id":3103, "icon_asset_id":313010, "parent_id":3100
+  },
+  {
+    "id":3102, "myumon_basic_id":31, "name":"[特番出演でありんす] ダル太夫", "description":"ダル太夫の特別な衣装です。", "asset_id":3101, "mini_asset_id":3101, "icon_asset_id":314000, "parent_id":3100
+  },
+  {
+    "id":3103, "myumon_basic_id":31, "name":"[あちきの歌、聞いておくんなまし♪] ダル太夫", "description":"ダル太夫の特別な衣装です。", "asset_id":3102, "mini_asset_id":3102, "icon_asset_id":314010, "parent_id":3100
+  },
+  {
+    "id":3200, "myumon_basic_id":32, "name":"[徒然なる操り霧幻庵] 阿", "description":"阿の衣装です。", "asset_id":3200, "mini_asset_id":3200, "icon_asset_id":321000, "parent_id":0
+  },
+  {
+    "id":3201, "myumon_basic_id":32, "name":"[ぷりんの恨み！なんたる不覚…！] 阿", "description":"阿の特別な衣装です。", "asset_id":3201, "mini_asset_id":3201, "icon_asset_id":324000, "parent_id":3200
+  },
+  {
+    "id":3202, "myumon_basic_id":32, "name":"[くりすますりーす、侮れぬ！] 阿", "description":"阿の特別な衣装です。", "asset_id":0, "mini_asset_id":3202, "icon_asset_id":323010, "parent_id":3200
+  },
+  {
+    "id":3300, "myumon_basic_id":33, "name":"[徒然なる操り霧幻庵] 吽", "description":"吽の衣装です。", "asset_id":3300, "mini_asset_id":3300, "icon_asset_id":331000, "parent_id":0
+  },
+  {
+    "id":3301, "myumon_basic_id":33, "name":"[おしゃれも修行のうち、ですよ♪] 吽", "description":"吽の特別な衣装です。", "asset_id":3301, "mini_asset_id":3301, "icon_asset_id":334000, "parent_id":3300
+  },
+  {
+    "id":3302, "myumon_basic_id":33, "name":"[くりすますりーす、作ります♪] 吽", "description":"吽の特別な衣装です。", "asset_id":0, "mini_asset_id":3302, "icon_asset_id":333010, "parent_id":3300
+  },
+  {
+    "id":4100, "myumon_basic_id":41, "name":"[BUD VIRGIN LOGIC] アイレーン", "description":"アイレーンの衣装です。", "asset_id":4100, "mini_asset_id":4100, "icon_asset_id":411000, "parent_id":0
+  },
+  {
+    "id":4101, "myumon_basic_id":41, "name":"[くっそめんどくさいのだ～] アイレーン", "description":"アイレーンの特別な衣装です。", "asset_id":4101, "mini_asset_id":4101, "icon_asset_id":414000, "parent_id":4100
+  },
+  {
+    "id":4102, "myumon_basic_id":41, "name":"[うむ、閃き降臨の予感なのだ♪] アイレーン", "description":"アイレーンの特別な衣装です。", "asset_id":4102, "mini_asset_id":4102, "icon_asset_id":414010, "parent_id":4100
+  },
+  {
+    "id":4103, "myumon_basic_id":41, "name":"[今すぐお菓子を献上するのだ♪] アイレーン", "description":"アイレーンの特別な衣装です。", "asset_id":4103, "mini_asset_id":4103, "icon_asset_id":414020, "parent_id":4100
+  },
+  {
+    "id":4104, "myumon_basic_id":41, "name":"[兄妹の絆、あの日あの時あの音で。] アイレーン", "description":"アイレーンの特別な衣装です。", "asset_id":4104, "mini_asset_id":4104, "icon_asset_id":414030, "parent_id":4100
+  },
+  {
+    "id":4200, "myumon_basic_id":42, "name":"[BUD VIRGIN LOGIC] ペイペイン", "description":"ペイペインの衣装です。", "asset_id":4200, "mini_asset_id":4200, "icon_asset_id":421000, "parent_id":0
+  },
+  {
+    "id":4201, "myumon_basic_id":42, "name":"[闇麒麟メイドの密かな喜び] ペイペイン", "description":"ペイペインの特別な衣装です。", "asset_id":4201, "mini_asset_id":4201, "icon_asset_id":424000, "parent_id":4200
+  },
+  {
+    "id":4202, "myumon_basic_id":42, "name":"[デコります。尊き我が頭首の為に。] ペイペイン", "description":"ペイペインの特別な衣装です。", "asset_id":0, "mini_asset_id":4202, "icon_asset_id":423010, "parent_id":4200
+  },
+  {
+    "id":4300, "myumon_basic_id":43, "name":"[BUD VIRGIN LOGIC] ハンドレッコ", "description":"ハンドレッコの衣装です。", "asset_id":4300, "mini_asset_id":4300, "icon_asset_id":431000, "parent_id":0
+  },
+  {
+    "id":4301, "myumon_basic_id":43, "name":"[いいのかい？やるからには本気だよ] ハンドレッコ", "description":"ハンドレッコの特別な衣装です。", "asset_id":4301, "mini_asset_id":4301, "icon_asset_id":434000, "parent_id":4300
+  },
+  {
+    "id":4302, "myumon_basic_id":43, "name":"[マスターの喜ぶ顔……興味深いね。] ハンドレッコ", "description":"ハンドレッコの特別な衣装です。", "asset_id":0, "mini_asset_id":4302, "icon_asset_id":433010, "parent_id":4300
+  },
+  {
+    "id":5100, "myumon_basic_id":51, "name":"[REIJINGSIGNAL] ララリン", "description":"ララリンの衣装です。", "asset_id":5100, "mini_asset_id":5100, "icon_asset_id":511000, "parent_id":0
+  },
+  {
+    "id":5101, "myumon_basic_id":51, "name":"[君は…どこを見ているんだい？] ララリン", "description":"ララリンの特別な衣装です。", "asset_id":0, "mini_asset_id":5103, "icon_asset_id":513010, "parent_id":5100
+  },
+  {
+    "id":5102, "myumon_basic_id":51, "name":"[Going my way！] ララリン", "description":"ララリンの特別な衣装です。", "asset_id":5101, "mini_asset_id":5101, "icon_asset_id":514000, "parent_id":5100
+  },
+  {
+    "id":5103, "myumon_basic_id":51, "name":"[ほう、ご馳走が欲しいのかい？] ララリン", "description":"ララリンの特別な衣装です。", "asset_id":5102, "mini_asset_id":5102, "icon_asset_id":514010, "parent_id":5100
+  },
+  {
+    "id":5200, "myumon_basic_id":52, "name":"[REIJINGSIGNAL] スモモネ", "description":"スモモネの衣装です。", "asset_id":5200, "mini_asset_id":5200, "icon_asset_id":521000, "parent_id":0
+  },
+  {
+    "id":5201, "myumon_basic_id":52, "name":"[ちょちょちょ超～良いきもちッス♡] スモモネ", "description":"スモモネの特別な衣装です。", "asset_id":0, "mini_asset_id":5202, "icon_asset_id":523010, "parent_id":5200
+  },
+  {
+    "id":5202, "myumon_basic_id":52, "name":"[あたしはあたしらしくッス♡] スモモネ", "description":"スモモネの特別な衣装です。", "asset_id":5201, "mini_asset_id":5201, "icon_asset_id":524000, "parent_id":5200
+  },
+  {
+    "id":5203, "myumon_basic_id":52, "name":"[いやしのお注射、してあげるッス♡] スモモネ", "description":"スモモネの特別な衣装です。", "asset_id":5202, "mini_asset_id":5203, "icon_asset_id":524010, "parent_id":5200
+  },
+  {
+    "id":5300, "myumon_basic_id":53, "name":"[REIJINGSIGNAL] ういうい", "description":"ういういの衣装です。", "asset_id":5300, "mini_asset_id":5300, "icon_asset_id":531000, "parent_id":0
+  },
+  {
+    "id":5301, "myumon_basic_id":53, "name":"[Perfectに決めるゼヨ] ういうい", "description":"ういういの特別な衣装です。", "asset_id":5301, "mini_asset_id":5301, "icon_asset_id":534000, "parent_id":5300
+  },
+  {
+    "id":5302, "myumon_basic_id":53, "name":"[暑いゼヨ。けど、悪くは無いゼヨ] ういうい", "description":"ういういの特別な衣装です。", "asset_id":5302, "mini_asset_id":5302, "icon_asset_id":534010, "parent_id":5300
+  },
+  {
+    "id":6100, "myumon_basic_id":61, "name":"[DOKONJOFINGER] ヤス", "description":"ヤスの衣装です。", "asset_id":6100, "mini_asset_id":6100, "icon_asset_id":611000, "parent_id":0
+  },
+  {
+    "id":6101, "myumon_basic_id":61, "name":"[三限途中、弁当は屋上で] ヤス", "description":"ヤスの特別な衣装です。", "asset_id":6101, "mini_asset_id":6101, "icon_asset_id":614000, "parent_id":6100
+  },
+  {
+    "id":6102, "myumon_basic_id":61, "name":"[振り向けば爆発です] ヤス", "description":"ヤスの特別な衣装です。", "asset_id":6102, "mini_asset_id":6102, "icon_asset_id":614010, "parent_id":6100
+  },
+  {
+    "id":6103, "myumon_basic_id":61, "name":"[仮装だよ、何か文句あるか？] ヤス", "description":"ヤスの特別な衣装です。", "asset_id":6103, "mini_asset_id":6103, "icon_asset_id":614020, "parent_id":6100
+  },
+  {
+    "id":6200, "myumon_basic_id":62, "name":"[DOKONJOFINGER] ハッチン", "description":"ハッチンの衣装です。", "asset_id":6200, "mini_asset_id":6200, "icon_asset_id":621000, "parent_id":0
+  },
+  {
+    "id":6201, "myumon_basic_id":62, "name":"[完っ璧なコスプレだろ！なっ！？] ハッチン", "description":"ハッチンの特別な衣装です。", "asset_id":0, "mini_asset_id":6203, "icon_asset_id":623000, "parent_id":6200
+  },
+  {
+    "id":6202, "myumon_basic_id":62, "name":"[ギャファッフンて言わせてやるぜ！] ハッチン", "description":"ハッチンの特別な衣装です。", "asset_id":6201, "mini_asset_id":6201, "icon_asset_id":624000, "parent_id":6200
+  },
+  {
+    "id":6203, "myumon_basic_id":62, "name":"[オレ色ファな火がブンブブーン！！] ハッチン", "description":"ハッチンの特別な衣装です。", "asset_id":6202, "mini_asset_id":6202, "icon_asset_id":624010, "parent_id":6200
+  },
+  {
+    "id":6204, "myumon_basic_id":62, "name":"[寄り道の秋、楽しすぎじゃね！？] ハッチン", "description":"ハッチンの特別な衣装です。", "asset_id":6203, "mini_asset_id":6204, "icon_asset_id":624020, "parent_id":6200
+  },
+  {
+    "id":6300, "myumon_basic_id":63, "name":"[DOKONJOFINGER] ジョウ", "description":"ジョウの衣装です。", "asset_id":6300, "mini_asset_id":6300, "icon_asset_id":631000, "parent_id":0
+  },
+  {
+    "id":6301, "myumon_basic_id":63, "name":"[ハロウィン保険医は多忙です。] ジョウ", "description":"ジョウの特別な衣装です。", "asset_id":0, "mini_asset_id":6303, "icon_asset_id":633010, "parent_id":6300
+  },
+  {
+    "id":6302, "myumon_basic_id":63, "name":"[間に合わねえのか……今日も……] ジョウ", "description":"ジョウの特別な衣装です。", "asset_id":6301, "mini_asset_id":6301, "icon_asset_id":634000, "parent_id":6300
+  },
+  {
+    "id":6303, "myumon_basic_id":63, "name":"[夏期講習は神輿です] ジョウ", "description":"ジョウの特別な衣装です。", "asset_id":6302, "mini_asset_id":6302, "icon_asset_id":634010, "parent_id":6300
+  },
+  {
+    "id":6304, "myumon_basic_id":63, "name":"[負けたくねえ……ただそれだけだ！] ジョウ", "description":"ジョウの特別な衣装です。", "asset_id":6303, "mini_asset_id":6304, "icon_asset_id":634020, "parent_id":6300
+  },
+  {
+    "id":6400, "myumon_basic_id":64, "name":"[DOKONJOFINGER] 双循", "description":"双循の衣装です。", "asset_id":6400, "mini_asset_id":6400, "icon_asset_id":641000, "parent_id":0
+  },
+  {
+    "id":6401, "myumon_basic_id":64, "name":"[生徒会特別価格・焼きそばパン] 双循", "description":"双循の特別な衣装です。", "asset_id":6401, "mini_asset_id":6401, "icon_asset_id":644000, "parent_id":6400
+  },
+  {
+    "id":6402, "myumon_basic_id":64, "name":"[最凶の生徒会長とはワシのことじゃ] 双循", "description":"双循の特別な衣装です。", "asset_id":6402, "mini_asset_id":6402, "icon_asset_id":644010, "parent_id":6400
+  },
+  {
+    "id":7100, "myumon_basic_id":71, "name":"[SHINGANCRIMSONZ] クロウ", "description":"クロウの衣装です。", "asset_id":7100, "mini_asset_id":7100, "icon_asset_id":711000, "parent_id":0
+  },
+  {
+    "id":7101, "myumon_basic_id":71, "name":"[超絶堕天ギター技爆誕降（以下略] クロウ", "description":"クロウの特別な衣装です。", "asset_id":7101, "mini_asset_id":7101, "icon_asset_id":714000, "parent_id":7100
+  },
+  {
+    "id":7102, "myumon_basic_id":71, "name":"[テメエ！ざっけんなヘタレオン！！] クロウ", "description":"クロウの特別な衣装です。", "asset_id":7102, "mini_asset_id":7102, "icon_asset_id":714010, "parent_id":7100
+  },
+  {
+    "id":7103, "myumon_basic_id":71, "name":"[深紅色の酪農黙示録は突然にッ！！] クロウ", "description":"クロウの特別な衣装です。", "asset_id":7103, "mini_asset_id":7103, "icon_asset_id":714020, "parent_id":7100
+  },
+  {
+    "id":7200, "myumon_basic_id":72, "name":"[SHINGANCRIMSONZ] アイオーン", "description":"アイオーンの衣装です。", "asset_id":7200, "mini_asset_id":7200, "icon_asset_id":721000, "parent_id":0
+  },
+  {
+    "id":7201, "myumon_basic_id":72, "name":"[漆黒の聖域……俺はア（以下略] アイオーン", "description":"アイオーンの特別な衣装です。", "asset_id":7201, "mini_asset_id":7201, "icon_asset_id":724000, "parent_id":7200
+  },
+  {
+    "id":7202, "myumon_basic_id":72, "name":"[闇の太陽神と影若布、常夏の戯れ。] アイオーン", "description":"アイオーンの特別な衣装です。", "asset_id":7202, "mini_asset_id":7202, "icon_asset_id":724010, "parent_id":7200
+  },
+  {
+    "id":7203, "myumon_basic_id":72, "name":"[兄妹の絆、あの日あの時あの音で。] アイオーン", "description":"アイオーンの特別な衣装です。", "asset_id":7203, "mini_asset_id":7203, "icon_asset_id":724020, "parent_id":7200
+  },
+  {
+    "id":7300, "myumon_basic_id":73, "name":"[SHINGANCRIMSONZ] ヤイバ", "description":"ヤイバの衣装です。", "asset_id":7300, "mini_asset_id":7300, "icon_asset_id":731000, "parent_id":0
+  },
+  {
+    "id":7301, "myumon_basic_id":73, "name":"[レジェンド・オブ・ロクロクローン] ヤイバ", "description":"ヤイバの特別な衣装です。", "asset_id":7301, "mini_asset_id":7301, "icon_asset_id":734000, "parent_id":7300
+  },
+  {
+    "id":7302, "myumon_basic_id":73, "name":"[レジェンド・オブ・バナナボート！] ヤイバ", "description":"ヤイバの特別な衣装です。", "asset_id":7302, "mini_asset_id":7302, "icon_asset_id":734010, "parent_id":7300
+  },
+  {
+    "id":7303, "myumon_basic_id":73, "name":"[レジェンド・オブ・真冬煙突の巻！] ヤイバ", "description":"ヤイバの特別な衣装です。", "asset_id":7303, "mini_asset_id":7303, "icon_asset_id":734020, "parent_id":7300
+  },
+  {
+    "id":7400, "myumon_basic_id":74, "name":"[SHINGANCRIMSONZ] ロム", "description":"ロムの衣装です。", "asset_id":7400, "mini_asset_id":7400, "icon_asset_id":741000, "parent_id":0
+  },
+  {
+    "id":7401, "myumon_basic_id":74, "name":"[染みるじゃねえか、リアルにな。] ロム", "description":"ロムの特別な衣装です。", "asset_id":0, "mini_asset_id":7404, "icon_asset_id":743010, "parent_id":7400
+  },
+  {
+    "id":7402, "myumon_basic_id":74, "name":"[全力で対応するしかねえんだ！] ロム", "description":"ロムの特別な衣装です。", "asset_id":7401, "mini_asset_id":7401, "icon_asset_id":744000, "parent_id":7400
+  },
+  {
+    "id":7403, "myumon_basic_id":74, "name":"[リアルに奢ってやるぜ！！] ロム", "description":"ロムの特別な衣装です。", "asset_id":7402, "mini_asset_id":7402, "icon_asset_id":744010, "parent_id":7400
+  },
+  {
+    "id":7404, "myumon_basic_id":74, "name":"[心配すんな、会社には申請済みだぜ] ロム", "description":"ロムの特別な衣装です。", "asset_id":7403, "mini_asset_id":7403, "icon_asset_id":744020, "parent_id":7400
+  },
+  {
+    "id":8100, "myumon_basic_id":81, "name":"[Trichronika] シュウ☆ゾー", "description":"シュウ☆ゾーの衣装です。", "asset_id":8100, "mini_asset_id":8100, "icon_asset_id":811000, "parent_id":0
+  },
+  {
+    "id":8101, "myumon_basic_id":81, "name":"[この続きはLiveで……ねっ☆] シュウ☆ゾー", "description":"シュウ☆ゾーの特別な衣装です。", "asset_id":0, "mini_asset_id":8103, "icon_asset_id":813010, "parent_id":8100
+  },
+  {
+    "id":8102, "myumon_basic_id":81, "name":"[夢銀河☆ロケッツ７スター号さっ] シュウ☆ゾー", "description":"シュウ☆ゾーの特別な衣装です。", "asset_id":8101, "mini_asset_id":8101, "icon_asset_id":814000, "parent_id":8100
+  },
+  {
+    "id":8103, "myumon_basic_id":81, "name":"[イクよっ☆夢銀河レッドカーペット] シュウ☆ゾー", "description":"シュウ☆ゾーの特別な衣装です。", "asset_id":8102, "mini_asset_id":8102, "icon_asset_id":814010, "parent_id":8100
+  },
+  {
+    "id":8200, "myumon_basic_id":82, "name":"[Trichronika] カイ", "description":"カイの衣装です。", "asset_id":8200, "mini_asset_id":8200, "icon_asset_id":821000, "parent_id":0
+  },
+  {
+    "id":8201, "myumon_basic_id":82, "name":"[オレのプレシャス☆ブロマイド！] カイ", "description":"カイの特別な衣装です。", "asset_id":8201, "mini_asset_id":8201, "icon_asset_id":824000, "parent_id":8200
+  },
+  {
+    "id":8202, "myumon_basic_id":82, "name":"[ツインズ劇場☆二律背反な二人の翼] カイ", "description":"カイの特別な衣装です。", "asset_id":8202, "mini_asset_id":8202, "icon_asset_id":824010, "parent_id":8200
+  },
+  {
+    "id":8300, "myumon_basic_id":83, "name":"[Trichronika] リク", "description":"リクの衣装です。", "asset_id":8300, "mini_asset_id":8300, "icon_asset_id":831000, "parent_id":0
+  },
+  {
+    "id":8301, "myumon_basic_id":83, "name":"[いつかシュウ☆ゾーくんのように] リク", "description":"リクの特別な衣装です。", "asset_id":8301, "mini_asset_id":8301, "icon_asset_id":834000, "parent_id":8300
+  },
+  {
+    "id":8302, "myumon_basic_id":83, "name":"[負けたくない！僕だって男だもん！] リク", "description":"リクの特別な衣装です。", "asset_id":8302, "mini_asset_id":8302, "icon_asset_id":834010, "parent_id":8300
+  },
+  {
+    "id":9100, "myumon_basic_id":91, "name":"[ARCAREAFACT] チタン", "description":"チタンの衣装です。", "asset_id":9100, "mini_asset_id":9100, "icon_asset_id":911000, "parent_id":0
+  },
+  {
+    "id":9101, "myumon_basic_id":91, "name":"[黄金のキノコで、弟達の夢を紡ぐ！] チタン", "description":"チタンの特別な衣装です。", "asset_id":0, "mini_asset_id":9103, "icon_asset_id":913000, "parent_id":9100
+  },
+  {
+    "id":9102, "myumon_basic_id":91, "name":"[守ってみせる、必ず……！] チタン", "description":"チタンの特別な衣装です。", "asset_id":9101, "mini_asset_id":9101, "icon_asset_id":914000, "parent_id":9100
+  },
+  {
+    "id":9103, "myumon_basic_id":91, "name":"[オレ達は時代を超え……夜を紡ぐ] チタン", "description":"チタンの特別な衣装です。", "asset_id":9102, "mini_asset_id":9102, "icon_asset_id":914010, "parent_id":9100
+  },
+  {
+    "id":9200, "myumon_basic_id":92, "name":"[ARCAREAFACT] オリオン", "description":"オリオンの衣装です。", "asset_id":9200, "mini_asset_id":9200, "icon_asset_id":921000, "parent_id":0
+  },
+  {
+    "id":9201, "myumon_basic_id":92, "name":"[幕間、黄金のリフレッシュを共に。] オリオン", "description":"オリオンの特別な衣装です。", "asset_id":0, "mini_asset_id":9202, "icon_asset_id":923000, "parent_id":9200
+  },
+  {
+    "id":9202, "myumon_basic_id":92, "name":"[黄金のノブレスオブリージュ] オリオン", "description":"オリオンの特別な衣装です。", "asset_id":9201, "mini_asset_id":9201, "icon_asset_id":924000, "parent_id":9200
+  },
+  {
+    "id":9203, "myumon_basic_id":92, "name":"[仕上げてみせるぜ。最高に最上に！] オリオン", "description":"オリオンの特別な衣装です。", "asset_id":9202, "mini_asset_id":9203, "icon_asset_id":924010, "parent_id":9200
+  },
+  {
+    "id":9300, "myumon_basic_id":93, "name":"[ARCAREAFACT] セレン", "description":"セレンの衣装です。", "asset_id":9300, "mini_asset_id":9300, "icon_asset_id":931000, "parent_id":0
+  },
+  {
+    "id":9301, "myumon_basic_id":93, "name":"[僕のスイーツパーティへようこそ♪] セレン", "description":"セレンの特別な衣装です。", "asset_id":9301, "mini_asset_id":9301, "icon_asset_id":934000, "parent_id":9300
+  },
+  {
+    "id":9400, "myumon_basic_id":94, "name":"[ARCAREAFACT] アルゴン", "description":"アルゴンの衣装です。", "asset_id":9400, "mini_asset_id":9400, "icon_asset_id":941000, "parent_id":0
+  },
+  {
+    "id":9401, "myumon_basic_id":94, "name":"[Say！黄金ダンスパ～リィナィ！] アルゴン", "description":"アルゴンの特別な衣装です。", "asset_id":9401, "mini_asset_id":9401, "icon_asset_id":944000, "parent_id":9400
+  },
+  {
+    "id":10100, "myumon_basic_id":101, "name":"[クリティクリスタ] ロージア", "description":"ロージアの衣装です。", "asset_id":10100, "mini_asset_id":10100, "icon_asset_id":1011000, "parent_id":0
+  },
+  {
+    "id":10101, "myumon_basic_id":101, "name":"[おまたせっ♡いっぱい握手しよっ♡] ロージア", "description":"ロージアの特別な衣装です。", "asset_id":10101, "mini_asset_id":10101, "icon_asset_id":1014000, "parent_id":10100
+  },
+  {
+    "id":10102, "myumon_basic_id":101, "name":"[お兄ちゃんぶつかっちゃうよ～っ♡] ロージア", "description":"ロージアの特別な衣装です。", "asset_id":10102, "mini_asset_id":10102, "icon_asset_id":1014010, "parent_id":10100
+  },
+  {
+    "id":10103, "myumon_basic_id":101, "name":"[ばきゅんきゅん～♡クリクリポリス] ロージア", "description":"ロージアの特別な衣装です。", "asset_id":10103, "mini_asset_id":10103, "icon_asset_id":1014020, "parent_id":10100
+  },
+  {
+    "id":10200, "myumon_basic_id":102, "name":"[クリティクリスタ] ツキノ", "description":"ツキノの衣装です。", "asset_id":10200, "mini_asset_id":10200, "icon_asset_id":1021000, "parent_id":0
+  },
+  {
+    "id":10201, "myumon_basic_id":102, "name":"[おいしい撮影は大好きなの♡] ツキノ", "description":"ツキノの特別な衣装です。", "asset_id":10201, "mini_asset_id":10201, "icon_asset_id":1024000, "parent_id":10200
+  },
+  {
+    "id":10202, "myumon_basic_id":102, "name":"[おいしいおいしいフルコースなの♪] ツキノ", "description":"ツキノの特別な衣装です。", "asset_id":10202, "mini_asset_id":10202, "icon_asset_id":1024010, "parent_id":10200
+  },
+  {
+    "id":10300, "myumon_basic_id":103, "name":"[クリティクリスタ] ホルミー", "description":"ホルミーの衣装です。", "asset_id":10300, "mini_asset_id":10300, "icon_asset_id":1031000, "parent_id":0
+  },
+  {
+    "id":10301, "myumon_basic_id":103, "name":"[私、いつも考えすぎてしまって] ホルミー", "description":"ホルミーの特別な衣装です。", "asset_id":10301, "mini_asset_id":10301, "icon_asset_id":1034000, "parent_id":10300
+  },
+  {
+    "id":10302, "myumon_basic_id":103, "name":"[とっておきの音をお届けします！] ホルミー", "description":"ホルミーの特別な衣装です。", "asset_id":10302, "mini_asset_id":10302, "icon_asset_id":1034010, "parent_id":10300
+  },
+  {
+    "id":10400, "myumon_basic_id":104, "name":"[クリティクリスタ] ジャクリン", "description":"ジャクリンの衣装です。", "asset_id":10400, "mini_asset_id":10400, "icon_asset_id":1041000, "parent_id":0
+  },
+  {
+    "id":10401, "myumon_basic_id":104, "name":"[うち、スポーツなら負けへんよ！] ジャクリン", "description":"ジャクリンの特別な衣装です。", "asset_id":10401, "mini_asset_id":10401, "icon_asset_id":1044000, "parent_id":10400
+  },
+  {
+    "id":11100, "myumon_basic_id":111, "name":"[Yokazenohorizon] リカオ", "description":"リカオの衣装です。", "asset_id":11100, "mini_asset_id":11100, "icon_asset_id":1111000, "parent_id":0
+  },
+  {
+    "id":11101, "myumon_basic_id":111, "name":"[４人のBは聖夜に謳い踊り眠る] リカオ", "description":"リカオの特別な衣装です。", "asset_id":0, "mini_asset_id":11103, "icon_asset_id":1113010, "parent_id":11100
+  },
+  {
+    "id":11102, "myumon_basic_id":111, "name":"[無実を証明するだけだ……です。] リカオ", "description":"リカオの特別な衣装です。", "asset_id":11101, "mini_asset_id":11101, "icon_asset_id":1114000, "parent_id":11100
+  },
+  {
+    "id":11103, "myumon_basic_id":111, "name":"[どうしようもなく止まらない…です] リカオ", "description":"リカオの特別な衣装です。", "asset_id":11102, "mini_asset_id":11102, "icon_asset_id":1114010, "parent_id":11100
+  },
+  {
+    "id":11200, "myumon_basic_id":112, "name":"[Yokazenohorizon] ジャロップ", "description":"ジャロップの衣装です。", "asset_id":11200, "mini_asset_id":11200, "icon_asset_id":1121000, "parent_id":0
+  },
+  {
+    "id":11201, "myumon_basic_id":112, "name":"[ワカル～♪イメージ大事だよね] ジャロップ", "description":"ジャロップの特別な衣装です。", "asset_id":11201, "mini_asset_id":11201, "icon_asset_id":1124000, "parent_id":11200
+  },
+  {
+    "id":11300, "myumon_basic_id":113, "name":"[Yokazenohorizon] クースカ", "description":"クースカの衣装です。", "asset_id":11300, "mini_asset_id":11300, "icon_asset_id":1131000, "parent_id":0
+  },
+  {
+    "id":11301, "myumon_basic_id":113, "name":"[イノベーションは、突然に] クースカ", "description":"クースカの特別な衣装です。", "asset_id":0, "mini_asset_id":11302, "icon_asset_id":1133010, "parent_id":11300
+  },
+  {
+    "id":11302, "myumon_basic_id":113, "name":"[ボークのルーティンはこの場所から] クースカ", "description":"クースカの特別な衣装です。", "asset_id":11301, "mini_asset_id":11301, "icon_asset_id":1134000, "parent_id":11300
+  },
+  {
+    "id":11400, "myumon_basic_id":114, "name":"[Yokazenohorizon] ウララギ", "description":"ウララギの衣装です。", "asset_id":11400, "mini_asset_id":11400, "icon_asset_id":1141000, "parent_id":0
+  },
+  {
+    "id":11401, "myumon_basic_id":114, "name":"[ふふ、甘い物はいかがですか？] ウララギ", "description":"ウララギの特別な衣装です。", "asset_id":11401, "mini_asset_id":11401, "icon_asset_id":1144000, "parent_id":11400
+  },
+  {
+    "id":12100, "myumon_basic_id":121, "name":"[しにものぐるい] まりまり", "description":"まりまりの衣装です。", "asset_id":12100, "mini_asset_id":12100, "icon_asset_id":1211000, "parent_id":0
+  },
+  {
+    "id":12101, "myumon_basic_id":121, "name":"[ライブの前はやっぱりこればい♪] まりまり", "description":"まりまりの特別な衣装です。", "asset_id":12101, "mini_asset_id":12101, "icon_asset_id":1214000, "parent_id":12100
+  },
+  {
+    "id":12200, "myumon_basic_id":122, "name":"[しにものぐるい] でゅらでゅら", "description":"でゅらでゅらの衣装です。", "asset_id":12200, "mini_asset_id":12200, "icon_asset_id":1221000, "parent_id":0
+  },
+  {
+    "id":12201, "myumon_basic_id":122, "name":"[水面に浮かぶ毬と想いは尊きかな] でゅらでゅら", "description":"でゅらでゅらの特別な衣装です。", "asset_id":12201, "mini_asset_id":12201, "icon_asset_id":1224000, "parent_id":12200
+  },
+  {
+    "id":12300, "myumon_basic_id":123, "name":"[しにものぐるい] もんもん", "description":"もんもんの衣装です。", "asset_id":12300, "mini_asset_id":12300, "icon_asset_id":1231000, "parent_id":0
+  },
+  {
+    "id":12400, "myumon_basic_id":124, "name":"[しにものぐるい] つぎはぎ", "description":"つぎはぎの衣装です。", "asset_id":12400, "mini_asset_id":12400, "icon_asset_id":1241000, "parent_id":0
+  },
+  {
+    "id":12401, "myumon_basic_id":124, "name":"[ひゃっ！？お、おどかさないでよう] つぎはぎ", "description":"つぎはぎの特別な衣装です。", "asset_id":12401, "mini_asset_id":12401, "icon_asset_id":1244000, "parent_id":12400
+  },
+  {
+    "id":12500, "myumon_basic_id":125, "name":"[しにものぐるい] がしがし", "description":"がしがしの衣装です。", "asset_id":12500, "mini_asset_id":12500, "icon_asset_id":1251000, "parent_id":0
+  },
+  {
+    "id":13100, "myumon_basic_id":131, "name":"[ウワサノペタルズ] しばりん", "description":"しばりんの衣装です。", "asset_id":13100, "mini_asset_id":13100, "icon_asset_id":1311000, "parent_id":0
+  },
+  {
+    "id":13101, "myumon_basic_id":131, "name":"[放課後カボチャ畑で君と。] しばりん", "description":"しばりんの特別な衣装です。", "asset_id":0, "mini_asset_id":13102, "icon_asset_id":1313000, "parent_id":13100
+  },
+  {
+    "id":13102, "myumon_basic_id":131, "name":"[きょうの弁当はすぺしゃるだべ♪] しばりん", "description":"しばりんの特別な衣装です。", "asset_id":13101, "mini_asset_id":13101, "icon_asset_id":1314000, "parent_id":13100
+  },
+  {
+    "id":13200, "myumon_basic_id":132, "name":"[ウワサノペタルズ] ぽこえ", "description":"ぽこえの衣装です。", "asset_id":13200, "mini_asset_id":13200, "icon_asset_id":1321000, "parent_id":0
+  },
+  {
+    "id":13300, "myumon_basic_id":133, "name":"[ウワサノペタルズ] きっつん", "description":"きっつんの衣装です。", "asset_id":13300, "mini_asset_id":13300, "icon_asset_id":1331000, "parent_id":0
+  },
+  {
+    "id":13301, "myumon_basic_id":133, "name":"[秋は月里村芋煮会でキマリっしょ！] きっつん", "description":"きっつんの特別な衣装です。", "asset_id":0, "mini_asset_id":13302, "icon_asset_id":1333000, "parent_id":13300
+  },
+  {
+    "id":13302, "myumon_basic_id":133, "name":"[やっばー！これ超ギャルっぽくね？] きっつん", "description":"きっつんの特別な衣装です。", "asset_id":13301, "mini_asset_id":13301, "icon_asset_id":1334000, "parent_id":13300
+  },
+  {
+    "id":13400, "myumon_basic_id":134, "name":"[ウワサノペタルズ] はっくん", "description":"はっくんの衣装です。", "asset_id":13400, "mini_asset_id":13400, "icon_asset_id":1341000, "parent_id":0
+  },
+  {
+    "id":14100, "myumon_basic_id":141, "name":"[忍迅雷音] 嵐", "description":"嵐の衣装です。", "asset_id":14100, "mini_asset_id":14100, "icon_asset_id":1411000, "parent_id":0
+  },
+  {
+    "id":14101, "myumon_basic_id":141, "name":"[腹ごしらえは忍の基本でござる] 嵐", "description":"嵐の特別な衣装です。", "asset_id":14101, "mini_asset_id":14101, "icon_asset_id":1414000, "parent_id":14100
+  },
+  {
+    "id":14200, "myumon_basic_id":142, "name":"[忍迅雷音] 朧", "description":"朧の衣装です。", "asset_id":14200, "mini_asset_id":14200, "icon_asset_id":1421000, "parent_id":0
+  },
+  {
+    "id":14201, "myumon_basic_id":142, "name":"[忍法・破楼印変化の術！] 朧", "description":"朧の特別な衣装です。", "asset_id":14201, "mini_asset_id":14201, "icon_asset_id":1424000, "parent_id":14200
+  },
+  {
+    "id":14300, "myumon_basic_id":143, "name":"[忍迅雷音] 燐", "description":"燐の衣装です。", "asset_id":14300, "mini_asset_id":14300, "icon_asset_id":1431000, "parent_id":0
+  },
+  {
+    "id":14301, "myumon_basic_id":143, "name":"[ふぅ…慣れていくのね、この時代に] 燐", "description":"燐の特別な衣装です。", "asset_id":14301, "mini_asset_id":14301, "icon_asset_id":1434000, "parent_id":14300
+  },
+  {
+    "id":14400, "myumon_basic_id":144, "name":"[忍迅雷音] 神威", "description":"神威の衣装です。", "asset_id":14400, "mini_asset_id":14400, "icon_asset_id":1441000, "parent_id":0
+  },
+  {
+    "id":15100, "myumon_basic_id":151, "name":"[ゼロティックホリック] ぎゃらこ", "description":"ぎゃらこの衣装です。", "asset_id":15100, "mini_asset_id":15100, "icon_asset_id":1511000, "parent_id":0
+  },
+  {
+    "id":15101, "myumon_basic_id":151, "name":"[どっかーん！のDだよー！！] ぎゃらこ", "description":"ぎゃらこの特別な衣装です。", "asset_id":15101, "mini_asset_id":15101, "icon_asset_id":1514000, "parent_id":15100
+  },
+  {
+    "id":15200, "myumon_basic_id":152, "name":"[ゼロティックホリック] しまっく", "description":"しまっくの衣装です。", "asset_id":15200, "mini_asset_id":15200, "icon_asset_id":1521000, "parent_id":0
+  },
+  {
+    "id":15201, "myumon_basic_id":152, "name":"[何も怖くない。推しの為ならね。] しまっく", "description":"しまっくの特別な衣装です。", "asset_id":15201, "mini_asset_id":15201, "icon_asset_id":1524000, "parent_id":15200
+  },
+  {
+    "id":15300, "myumon_basic_id":153, "name":"[ゼロティックホリック] れっぱにょ", "description":"れっぱにょの衣装です。", "asset_id":15300, "mini_asset_id":15300, "icon_asset_id":1531000, "parent_id":0
+  },
+  {
+    "id":15301, "myumon_basic_id":153, "name":"[頑張りましたね。いい子、いい子♡] れっぱにょ", "description":"れっぱにょの特別な衣装です。", "asset_id":15301, "mini_asset_id":15301, "icon_asset_id":1534000, "parent_id":15300
+  },
+  {
+    "id":15400, "myumon_basic_id":154, "name":"[ゼロティックホリック] ギリリ", "description":"ギリリの衣装です。", "asset_id":15400, "mini_asset_id":15400, "icon_asset_id":1541000, "parent_id":0
+  },
+  {
+    "id":15401, "myumon_basic_id":154, "name":"[ミライ型ミディドォル起動実験…。] ギリリ", "description":"ギリリの特別な衣装です。", "asset_id":15401, "mini_asset_id":15401, "icon_asset_id":1544000, "parent_id":15400
+  }
+]

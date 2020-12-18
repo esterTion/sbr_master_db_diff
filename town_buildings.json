@@ -15,6 +15,9 @@
     "id":10003, "name":"ハーフ記念ライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"ハーフアニバーサリー記念に建築されたライブハウス。様々なアーティストが記念を祝うためにライブにくるとか。", "townscape_id":5001
   },
   {
+    "id":11000, "name":"スゴロクライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"スゴロクイベントで使用する建物です。", "townscape_id":5001
+  },
+  {
     "id":20000, "name":"ボロいグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":100000, "description":"グッズアイテムを売っているお店です。\n見た目と売上は…関係ないはず…。", "townscape_id":5002
   },
   {
@@ -34,6 +37,9 @@
   },
   {
     "id":30002, "name":"ステキ映画館", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"キャラクター情報を見られる建物です。\nリッチかつゴージャスな見た目で\n町の定番おデートスポットになるかも？", "townscape_id":5003
+  },
+  {
+    "id":31000, "name":"スゴロク映画館", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"スゴロクイベントで使用する建物です。", "townscape_id":5003
   },
   {
     "id":40100, "name":"古風なカフェ", "category":4, "sub_category":1, "interval_second":600, "sale_soundle":300, "sale_exp":3, "max_soundle":2100, "description":"古き良き味わいのある喫茶店です。\n町のみんなの憩いの場です。", "townscape_id":5004
