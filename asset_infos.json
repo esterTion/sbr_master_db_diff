@@ -1,4 +1,7 @@
 {
+  "ios":{
+    "hash":8334074968514105293, "size":189776, "category":0, "is_individual_download":0
+  },
   "livestage/livestage00001001":{
     "hash":-2852826556762780678, "size":132608, "category":0, "is_individual_download":0
   },
@@ -481,9 +484,6 @@
   },
   "townbuilding/townbuilding00010002":{
     "hash":-2249022384377803748, "size":40480, "category":0, "is_individual_download":0
-  },
-  "ios":{
-    "hash":-57557831423827151, "size":189104, "category":0, "is_individual_download":0
   },
   "subtutorial/subtutorial00000180":{
     "hash":-269722848316506345, "size":183248, "category":0, "is_individual_download":0
@@ -1447,6 +1447,9 @@
   },
   "gachalogo/gachalogo00030004":{
     "hash":3543677353586253647, "size":53008, "category":0, "is_individual_download":0
+  },
+  "gachalogo/gachalogo00002099":{
+    "hash":1137285938062035580, "size":57744, "category":0, "is_individual_download":0
   },
   "gachalogo/gachalogo00030003":{
     "hash":7354086264401875627, "size":58688, "category":0, "is_individual_download":0
@@ -2447,6 +2450,9 @@
   "banner/banner09000002":{
     "hash":4501587673393629733, "size":64000, "category":0, "is_individual_download":0
   },
+  "banner/banner01000514":{
+    "hash":5482453512460662520, "size":79760, "category":0, "is_individual_download":0
+  },
   "banner/banner02000030":{
     "hash":7093980595958208915, "size":55104, "category":0, "is_individual_download":0
   },
@@ -2558,8 +2564,8 @@
   "advse/advse0002":{
     "hash":1059637118652615149, "size":21200, "category":0, "is_individual_download":0
   },
-  "scenario/c03023005.chapter":{
-    "hash":2619900628326853454, "size":7088, "category":0, "is_individual_download":0
+  "scenario/ns05053003.chapter":{
+    "hash":1007894219420181491, "size":3248, "category":0, "is_individual_download":0
   },
   "advse/advse0007":{
     "hash":-6836165660589765361, "size":30768, "category":0, "is_individual_download":0
@@ -6986,6 +6992,9 @@
   "cri/sound/music/15364246703918869817":{
     "hash":-2512052014239986381, "size":3899168, "category":3, "is_individual_download":1
   },
+  "cri/sound/music/15463413276304692721":{
+    "hash":2481741673425323731, "size":3633888, "category":3, "is_individual_download":1
+  },
   "cri/sound/music/1549289489579254891":{
     "hash":-3272258535495947771, "size":3609984, "category":3, "is_individual_download":1
   },
@@ -7124,6 +7133,9 @@
   "cri/sound/music/2513397058400535367":{
     "hash":-1027069558490406146, "size":3579296, "category":3, "is_individual_download":1
   },
+  "cri/sound/music/2557200584521170987":{
+    "hash":-537085903051304620, "size":3543136, "category":3, "is_individual_download":1
+  },
   "cri/sound/music/2664874025071606040":{
     "hash":-1215399587240823301, "size":4352032, "category":3, "is_individual_download":1
   },
@@ -7150,6 +7162,9 @@
   },
   "cri/sound/music/360258177383418968":{
     "hash":8189599281962144424, "size":3706176, "category":3, "is_individual_download":1
+  },
+  "cri/sound/music/3626914249780661511":{
+    "hash":-881534455737408946, "size":4603008, "category":3, "is_individual_download":1
   },
   "cri/sound/music/382355898393991193":{
     "hash":-4636353814568048173, "size":4521120, "category":3, "is_individual_download":1
@@ -7308,7 +7323,7 @@
     "hash":4013172842545910238, "size":4845760, "category":3, "is_individual_download":1
   },
   "chartinfo/chartinfo":{
-    "hash":-5590031891060551400, "size":6880, "category":0, "is_individual_download":0
+    "hash":-7120924702116811223, "size":6992, "category":0, "is_individual_download":0
   },
   "itempackicon/itempackicon00000003":{
     "hash":6941080308556437564, "size":31840, "category":0, "is_individual_download":0
@@ -7885,6 +7900,9 @@
   },
   "musicjacket/musicjacket00000401":{
     "hash":5147920581104326990, "size":111712, "category":0, "is_individual_download":0
+  },
+  "musicjacket/musicjacket00009035":{
+    "hash":247128371676890692, "size":29200, "category":0, "is_individual_download":0
   },
   "musicjacket/musicjacket00000102":{
     "hash":277633499071338588, "size":121680, "category":0, "is_individual_download":0
@@ -8603,6 +8621,9 @@
   "gachabg/gachabg00002008":{
     "hash":6172561950380593160, "size":1949616, "category":0, "is_individual_download":1
   },
+  "gachabg/gachabg00002099":{
+    "hash":2481706649000711400, "size":2433040, "category":0, "is_individual_download":1
+  },
   "gachabg/gachabg00002064":{
     "hash":3447358422136373580, "size":4214352, "category":0, "is_individual_download":1
   },
@@ -8642,8 +8663,14 @@
   "exminimodel/exminimodel00000205":{
     "hash":5924693718305417639, "size":200768, "category":0, "is_individual_download":0
   },
+  "exminimodel/exminimodel00001104":{
+    "hash":-4756143164434004322, "size":189472, "category":0, "is_individual_download":0
+  },
   "exminimodel/exminimodel00000305":{
     "hash":1074684846172989784, "size":204544, "category":0, "is_individual_download":0
+  },
+  "exminimodel/exminimodel00001103":{
+    "hash":1078129313602579336, "size":187808, "category":0, "is_individual_download":0
   },
   "exminimodel/exminimodel00000603":{
     "hash":-2943263966021454801, "size":253072, "category":0, "is_individual_download":0
@@ -8672,6 +8699,9 @@
   "exminimodel/exminimodel00000404":{
     "hash":-482907221565003331, "size":242768, "category":0, "is_individual_download":0
   },
+  "exminimodel/exminimodel00001101":{
+    "hash":7163757484524724650, "size":192720, "category":0, "is_individual_download":0
+  },
   "exminimodel/exminimodel00000102":{
     "hash":-6260843076699616021, "size":193840, "category":0, "is_individual_download":0
   },
@@ -8689,6 +8719,9 @@
   },
   "exminimodel/exminimodel00000503":{
     "hash":445159681406542007, "size":267664, "category":0, "is_individual_download":0
+  },
+  "exminimodel/exminimodel00001102":{
+    "hash":6282862778640356202, "size":181616, "category":0, "is_individual_download":0
   },
   "exminimodel/exminimodel00000504":{
     "hash":1164704718303803145, "size":223440, "category":0, "is_individual_download":0
@@ -8737,6 +8770,9 @@
   },
   "chart/chart00030904":{
     "hash":8017061833209255953, "size":13536, "category":0, "is_individual_download":0
+  },
+  "chart/chart00903603":{
+    "hash":5082791563072483420, "size":9744, "category":0, "is_individual_download":0
   },
   "chart/chart00011303":{
     "hash":6363818839949359173, "size":9312, "category":0, "is_individual_download":0
@@ -9025,6 +9061,9 @@
   },
   "chart/chart00031001":{
     "hash":-3093067981023358551, "size":2896, "category":0, "is_individual_download":0
+  },
+  "chart/chart00101001":{
+    "hash":3594501607395794986, "size":3216, "category":0, "is_individual_download":0
   },
   "chart/chart00071202":{
     "hash":1401489308724087675, "size":5408, "category":0, "is_individual_download":0
@@ -9503,6 +9542,9 @@
   "chart/chart00150202":{
     "hash":6406352709770655377, "size":5024, "category":0, "is_individual_download":0
   },
+  "chart/chart00101003":{
+    "hash":-8386670547251253143, "size":9744, "category":0, "is_individual_download":0
+  },
   "chart/chart00060301":{
     "hash":-3897067029063251415, "size":3232, "category":0, "is_individual_download":0
   },
@@ -9578,6 +9620,9 @@
   "chart/chart00100502":{
     "hash":-3468375710713902671, "size":6016, "category":0, "is_individual_download":0
   },
+  "chart/chart00101002":{
+    "hash":3987727040369449161, "size":5712, "category":0, "is_individual_download":0
+  },
   "chart/chart00040402":{
     "hash":816806127291738188, "size":6384, "category":0, "is_individual_download":0
   },
@@ -9640,6 +9685,9 @@
   },
   "chart/chart00011203":{
     "hash":-3241141309432830530, "size":9280, "category":0, "is_individual_download":0
+  },
+  "chart/chart00903601":{
+    "hash":2331224964303869555, "size":3296, "category":0, "is_individual_download":0
   },
   "chart/chart00020301":{
     "hash":-6688469917257121932, "size":3248, "category":0, "is_individual_download":0
@@ -9733,6 +9781,9 @@
   },
   "chart/chart00011403":{
     "hash":6554150525143082233, "size":10256, "category":0, "is_individual_download":0
+  },
+  "chart/chart00903501":{
+    "hash":-5954056348745883653, "size":2624, "category":0, "is_individual_download":0
   },
   "chart/chart00010902":{
     "hash":8929874449173130351, "size":6304, "category":0, "is_individual_download":0
@@ -9887,6 +9938,9 @@
   "chart/chart00902504":{
     "hash":-6372689914455900412, "size":15888, "category":0, "is_individual_download":0
   },
+  "chart/chart00070105":{
+    "hash":-1916520219745507732, "size":20720, "category":0, "is_individual_download":0
+  },
   "chart/chart00070102":{
     "hash":-8330196779145411229, "size":5792, "category":0, "is_individual_download":0
   },
@@ -10037,6 +10091,9 @@
   "chart/chart00120301":{
     "hash":1035686481122429032, "size":2992, "category":0, "is_individual_download":0
   },
+  "chart/chart00903504":{
+    "hash":-2142986820662436943, "size":13456, "category":0, "is_individual_download":0
+  },
   "chart/chart00060901":{
     "hash":-4052793649323393099, "size":3056, "category":0, "is_individual_download":0
   },
@@ -10054,6 +10111,9 @@
   },
   "chart/chart00130103":{
     "hash":-3433420748668397983, "size":10256, "category":0, "is_individual_download":0
+  },
+  "chart/chart00101004":{
+    "hash":-240778556747636982, "size":15008, "category":0, "is_individual_download":0
   },
   "chart/chart00050802":{
     "hash":-2666653877941043251, "size":5648, "category":0, "is_individual_download":0
@@ -10159,6 +10219,9 @@
   },
   "chart/chart00021104":{
     "hash":2248287667028597241, "size":11344, "category":0, "is_individual_download":0
+  },
+  "chart/chart00903604":{
+    "hash":5134889203535146249, "size":13440, "category":0, "is_individual_download":0
   },
   "chart/chart00030502":{
     "hash":-5556064059292894443, "size":7200, "category":0, "is_individual_download":0
@@ -10418,6 +10481,9 @@
   "chart/chart00030902":{
     "hash":-8017641826677604578, "size":5728, "category":0, "is_individual_download":0
   },
+  "chart/chart00903502":{
+    "hash":-7196548879818438084, "size":4544, "category":0, "is_individual_download":0
+  },
   "chart/chart00060401":{
     "hash":1289069439423663979, "size":2784, "category":0, "is_individual_download":0
   },
@@ -10553,6 +10619,9 @@
   "chart/chart00902403":{
     "hash":6369765149767635698, "size":7760, "category":0, "is_individual_download":0
   },
+  "chart/chart00903602":{
+    "hash":-695999909379324385, "size":6480, "category":0, "is_individual_download":0
+  },
   "chart/chart00011001":{
     "hash":-4317176523827447839, "size":2752, "category":0, "is_individual_download":0
   },
@@ -10561,6 +10630,9 @@
   },
   "chart/chart00021801":{
     "hash":7802511533982969985, "size":2896, "category":0, "is_individual_download":0
+  },
+  "chart/chart00903503":{
+    "hash":865700989286853601, "size":7136, "category":0, "is_individual_download":0
   },
   "chart/chart00120204":{
     "hash":-6587352291524442610, "size":11760, "category":0, "is_individual_download":0
@@ -11125,6 +11197,9 @@
   },
   "scenario/c03063009.chapter":{
     "hash":-3539274267167060273, "size":8400, "category":0, "is_individual_download":0
+  },
+  "scenario/c03023005.chapter":{
+    "hash":2619900628326853454, "size":7088, "category":0, "is_individual_download":0
   },
   "scenario/ns05122009.chapter":{
     "hash":3745410534247287096, "size":3232, "category":0, "is_individual_download":0
@@ -14507,9 +14582,6 @@
   "scenario/e09101606.chapter":{
     "hash":-5299710862545300964, "size":8704, "category":0, "is_individual_download":0
   },
-  "scenario/ns05053003.chapter":{
-    "hash":1007894219420181491, "size":3248, "category":0, "is_individual_download":0
-  },
   "scenario/e09101703.chapter":{
     "hash":-1212548009924584247, "size":9600, "category":0, "is_individual_download":0
   },
@@ -15722,6 +15794,9 @@
   "announceartist/announceartist00000014":{
     "hash":-5416292899808630189, "size":1313376, "category":0, "is_individual_download":0
   },
+  "announceartist/announceartist00001016":{
+    "hash":-9159697505009046657, "size":505760, "category":0, "is_individual_download":0
+  },
   "announceartist/announceartist00000011":{
     "hash":6423064402529891305, "size":1237776, "category":0, "is_individual_download":0
   },
@@ -15867,7 +15942,7 @@
     "hash":2686923600214416651, "size":313296, "category":0, "is_individual_download":0
   },
   "minimodel/minimodel09103":{
-    "hash":29170788257566891, "size":222160, "category":0, "is_individual_download":0
+    "hash":7402868963227640035, "size":222128, "category":0, "is_individual_download":0
   },
   "minimodel/minimodel11401":{
     "hash":5005277393300113238, "size":288592, "category":0, "is_individual_download":0
