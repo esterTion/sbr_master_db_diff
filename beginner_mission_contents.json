@@ -1,72 +1,72 @@
 [
   {
-    "id":1, "beginner_mission_id":1, "order_no":1, "title":"メインストーリー序章２節４話を読もう", "detail":"ストーリー ＞ メインストーリー ＞ 序章 から２節４話のストーリーを読もう", "sort_order":1, "clear_condition_type":"main_story_play", "clear_condition_args":"1010205", "goal":1, "reward_no":19001, "destination_kind":2
+    "id":1, "beginner_mission_id":1, "order_no":1, "title":"メインストーリー序章２節４話を読もう", "detail":"ストーリー ＞ メインストーリー ＞ 序章 から２節４話のストーリーを読もう", "sort_order":1, "clear_condition_type":"main_story_play", "clear_condition_args":"1010205", "goal":1, "reward_no":19001, "destination_kind":21
   },
   {
-    "id":2, "beginner_mission_id":1, "order_no":1, "title":"フリーライブで『ハートをRock!!』をプレイしよう", "detail":"フリーライブで楽曲『ハートをRock!!」をプレイしよう", "sort_order":2, "clear_condition_type":"music_play", "clear_condition_args":"210", "goal":1, "reward_no":19002, "destination_kind":1
+    "id":2, "beginner_mission_id":1, "order_no":1, "title":"フリーライブで『ハートをRock!!』をプレイしよう", "detail":"フリーライブで楽曲『ハートをRock!!」をプレイしよう", "sort_order":2, "clear_condition_type":"music_play", "clear_condition_args":"210", "goal":1, "reward_no":19002, "destination_kind":14
   },
   {
-    "id":3, "beginner_mission_id":1, "order_no":1, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを30にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを30以上にしよう", "sort_order":3, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":30, "reward_no":19003, "destination_kind":4
+    "id":3, "beginner_mission_id":1, "order_no":1, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを30にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを30以上にしよう", "sort_order":3, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":30, "reward_no":19003, "destination_kind":15
   },
   {
     "id":4, "beginner_mission_id":1, "order_no":1, "title":"挑戦中のミッションを全てクリアしよう", "detail":"挑戦中のミッションの内容を全てクリアしよう", "sort_order":4, "clear_condition_type":"group_mission_all_clear", "clear_condition_args":"1", "goal":3, "reward_no":19004, "destination_kind":0
   },
   {
-    "id":5, "beginner_mission_id":1, "order_no":2, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を1にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を1以上にしよう", "sort_order":5, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":1, "reward_no":19005, "destination_kind":4
+    "id":5, "beginner_mission_id":1, "order_no":2, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を1にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を1以上にしよう", "sort_order":5, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":1, "reward_no":19005, "destination_kind":16
   },
   {
     "id":6, "beginner_mission_id":1, "order_no":2, "title":"タウンに『普通の楽器店』を建てよう", "detail":"タウン ＞ カスタム で『普通の楽器店』を建てよう", "sort_order":6, "clear_condition_type":"town_building_build", "clear_condition_args":"40201", "goal":1, "reward_no":19006, "destination_kind":3
   },
   {
-    "id":7, "beginner_mission_id":1, "order_no":2, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを35にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを35以上にしよう", "sort_order":7, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":35, "reward_no":19007, "destination_kind":4
+    "id":7, "beginner_mission_id":1, "order_no":2, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを35にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを35以上にしよう", "sort_order":7, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":35, "reward_no":19007, "destination_kind":15
   },
   {
     "id":8, "beginner_mission_id":1, "order_no":2, "title":"挑戦中のミッションを全てクリアしよう", "detail":"挑戦中のミッションの内容を全てクリアしよう", "sort_order":8, "clear_condition_type":"group_mission_all_clear", "clear_condition_args":"2", "goal":3, "reward_no":19008, "destination_kind":0
   },
   {
-    "id":9, "beginner_mission_id":1, "order_no":3, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を2にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を2以上にしよう", "sort_order":9, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":2, "reward_no":19009, "destination_kind":4
+    "id":9, "beginner_mission_id":1, "order_no":3, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を2にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を2以上にしよう", "sort_order":9, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":2, "reward_no":19009, "destination_kind":16
   },
   {
-    "id":10, "beginner_mission_id":1, "order_no":3, "title":"ほわんのキャラクターエピソード『[夕飯のお買い物にいこう♪]1話』を読もう", "detail":"ストーリー ＞ キャラクターエピソード ＞ ほわん から『[夕飯のお買い物にいこう♪]1話』を読もう", "sort_order":10, "clear_condition_type":"story_play", "clear_condition_args":"3011005", "goal":1, "reward_no":19010, "destination_kind":2
+    "id":10, "beginner_mission_id":1, "order_no":3, "title":"ほわんのキャラクターエピソード『[夕飯のお買い物にいこう♪]1話』を読もう", "detail":"ストーリー ＞ キャラクターエピソード ＞ ほわん から『[夕飯のお買い物にいこう♪]1話』を読もう", "sort_order":10, "clear_condition_type":"story_play", "clear_condition_args":"3011005", "goal":1, "reward_no":19010, "destination_kind":24
   },
   {
-    "id":11, "beginner_mission_id":1, "order_no":3, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを40にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを40以上にしよう", "sort_order":11, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":40, "reward_no":19011, "destination_kind":4
+    "id":11, "beginner_mission_id":1, "order_no":3, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを40にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを40以上にしよう", "sort_order":11, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":40, "reward_no":19011, "destination_kind":15
   },
   {
     "id":12, "beginner_mission_id":1, "order_no":3, "title":"挑戦中のミッションを全てクリアしよう", "detail":"挑戦中のミッションの内容を全てクリアしよう", "sort_order":12, "clear_condition_type":"group_mission_all_clear", "clear_condition_args":"3", "goal":3, "reward_no":19012, "destination_kind":0
   },
   {
-    "id":13, "beginner_mission_id":1, "order_no":4, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を3にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を3以上にしよう", "sort_order":13, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":3, "reward_no":19013, "destination_kind":4
+    "id":13, "beginner_mission_id":1, "order_no":4, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を3にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を3以上にしよう", "sort_order":13, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":3, "reward_no":19013, "destination_kind":16
   },
   {
-    "id":14, "beginner_mission_id":1, "order_no":4, "title":"フリーライブで『ハートをRock!!』をもう一度プレイしよう", "detail":"フリーライブで楽曲『ハートをRock!!』をプレイしよう", "sort_order":14, "clear_condition_type":"music_play", "clear_condition_args":"210", "goal":1, "reward_no":19014, "destination_kind":1
+    "id":14, "beginner_mission_id":1, "order_no":4, "title":"フリーライブで『ハートをRock!!』をもう一度プレイしよう", "detail":"フリーライブで楽曲『ハートをRock!!』をプレイしよう", "sort_order":14, "clear_condition_type":"music_play", "clear_condition_args":"210", "goal":1, "reward_no":19014, "destination_kind":14
   },
   {
-    "id":15, "beginner_mission_id":1, "order_no":4, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを45にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを45以上にしよう", "sort_order":15, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":45, "reward_no":19015, "destination_kind":4
+    "id":15, "beginner_mission_id":1, "order_no":4, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを45にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを45以上にしよう", "sort_order":15, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":45, "reward_no":19015, "destination_kind":15
   },
   {
     "id":16, "beginner_mission_id":1, "order_no":4, "title":"挑戦中のミッションを全てクリアしよう", "detail":"挑戦中のミッションの内容を全てクリアしよう", "sort_order":16, "clear_condition_type":"group_mission_all_clear", "clear_condition_args":"4", "goal":3, "reward_no":19016, "destination_kind":0
   },
   {
-    "id":17, "beginner_mission_id":1, "order_no":5, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を4にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を4以上にしよう", "sort_order":17, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":4, "reward_no":19017, "destination_kind":4
+    "id":17, "beginner_mission_id":1, "order_no":5, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を4にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を4以上にしよう", "sort_order":17, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":4, "reward_no":19017, "destination_kind":16
   },
   {
-    "id":18, "beginner_mission_id":1, "order_no":5, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のスキルを強化上げよう", "detail":"メンバー ＞ 強化 からスキル強化を選択し、該当ブロマイドのスキルをどれでもよいので強化しよう", "sort_order":18, "clear_condition_type":"myumon_skill_level_item", "clear_condition_args":"114010", "goal":1, "reward_no":19018, "destination_kind":4
+    "id":18, "beginner_mission_id":1, "order_no":5, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のスキルを強化上げよう", "detail":"メンバー ＞ 強化 からスキル強化を選択し、該当ブロマイドのスキルをどれでもよいので強化しよう", "sort_order":18, "clear_condition_type":"myumon_skill_level_item", "clear_condition_args":"114010", "goal":1, "reward_no":19018, "destination_kind":15
   },
   {
-    "id":19, "beginner_mission_id":1, "order_no":5, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを50にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを50以上にしよう", "sort_order":19, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":50, "reward_no":19019, "destination_kind":4
+    "id":19, "beginner_mission_id":1, "order_no":5, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを50にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを50以上にしよう", "sort_order":19, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":50, "reward_no":19019, "destination_kind":15
   },
   {
     "id":20, "beginner_mission_id":1, "order_no":5, "title":"挑戦中のミッションを全てクリアしよう", "detail":"挑戦中のミッションの内容を全てクリアしよう", "sort_order":20, "clear_condition_type":"group_mission_all_clear", "clear_condition_args":"5", "goal":3, "reward_no":19020, "destination_kind":0
   },
   {
-    "id":21, "beginner_mission_id":1, "order_no":6, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を5にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を5以上にしよう", "sort_order":21, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":5, "reward_no":19021, "destination_kind":4
+    "id":21, "beginner_mission_id":1, "order_no":6, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』の突破段階を5にしよう", "detail":"メンバー ＞ 限界突破 から該当ブロマイドの突破段階を5以上にしよう", "sort_order":21, "clear_condition_type":"myumon_genkai_level", "clear_condition_args":"114010", "goal":5, "reward_no":19021, "destination_kind":16
   },
   {
-    "id":22, "beginner_mission_id":1, "order_no":6, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを55にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを55以上にしよう", "sort_order":22, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":55, "reward_no":19022, "destination_kind":4
+    "id":22, "beginner_mission_id":1, "order_no":6, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』のレベルを55にしよう", "detail":"メンバー ＞ 強化 からアイテムを使ったり、ライブをしたりして該当ブロマイドのレベルを55以上にしよう", "sort_order":22, "clear_condition_type":"myumon_level", "clear_condition_args":"114010", "goal":55, "reward_no":19022, "destination_kind":15
   },
   {
-    "id":23, "beginner_mission_id":1, "order_no":6, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』を覚醒させよう", "detail":"メンバー ＞ 覚醒 から該当ブロマイドを覚醒させよう", "sort_order":23, "clear_condition_type":"myumon_shinka", "clear_condition_args":"114010", "goal":1, "reward_no":19023, "destination_kind":4
+    "id":23, "beginner_mission_id":1, "order_no":6, "title":"『SSR[夕飯のお買い物にいこう♪]ほわん』を覚醒させよう", "detail":"メンバー ＞ 覚醒 から該当ブロマイドを覚醒させよう", "sort_order":23, "clear_condition_type":"myumon_shinka", "clear_condition_args":"114010", "goal":1, "reward_no":19023, "destination_kind":17
   },
   {
     "id":24, "beginner_mission_id":1, "order_no":6, "title":"挑戦中のミッションを全てクリアしよう", "detail":"挑戦中のミッションの内容を全てクリアしよう", "sort_order":24, "clear_condition_type":"group_mission_all_clear", "clear_condition_args":"6", "goal":3, "reward_no":19024, "destination_kind":0

@@ -99,6 +99,9 @@
     "id":40020, "category":4, "name":"【Xマス3】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40021, "category":4, "name":"【正月】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -112,6 +115,12 @@
   },
   {
     "id":41005, "category":4, "name":"2020年12月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41006, "category":4, "name":"水着もあるョ!アニメ放送記念ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41007, "category":4, "name":"【復刻水コレ1】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -151,6 +160,9 @@
   },
   {
     "id":100006, "category":10, "name":"クリスマス限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":400}", "description":"突破EXPをかなり与えるクリスマスならではのアイテムです"
+  },
+  {
+    "id":100007, "category":10, "name":"お正月限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":400}", "description":"突破EXPをかなり与える お正月 ならではのアイテムです"
   },
   {
     "id":110001, "category":11, "name":"イベント.pt", "quantity_max":99999999, "ex_params":"{}", "description":""
@@ -222,6 +234,9 @@
     "id":120020, "category":12, "name":"【Xマス3】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120021, "category":12, "name":"【正月】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -250,6 +265,9 @@
   },
   {
     "id":140007, "category":14, "name":"SSRセレクトポイント", "quantity_max":999999, "ex_params":"{}", "description":"SSRセレクトポイント交換所で使用できるアイテムです"
+  },
+  {
+    "id":140008, "category":14, "name":"お年玉ポイント", "quantity_max":999999, "ex_params":"{}", "description":"お年玉ポイント交換所で使用できるアイテムです"
   },
   {
     "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":4, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"
