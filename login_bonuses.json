@@ -45,6 +45,9 @@
     "id":15, "title":"師走だョ！らんらら〜ん♪クリスマスログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":23
   },
   {
+    "id":16, "title":"おかえりなさいログインボーナス", "campaign":1, "condition_type":3, "condition_params":"{\"limit_day\":14,\"sleep_day\":21}", "sort_order":200
+  },
+  {
     "id":17, "title":"スタートダッシュログインボーナス", "campaign":1, "condition_type":1, "condition_params":"{\"condition_started_at\":\"2020/12/19 12:00:00\"}", "sort_order":201
   },
   {

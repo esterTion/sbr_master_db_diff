@@ -1077,6 +1077,15 @@
     "id":21020101, "gacha_id":2102, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":1, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "rarity_kakutei":true, "bonus_no":925, "point_item_id":null, "point_item_quantity":0, "button_description":"11回ガチャ", "tips_description":"1回のみ"
   },
   {
+    "id":21030101, "gacha_id":2103, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":1, "cost_type":"Item", "cost_id":60002, "cost_quantity":150, "output_count":1, "rarity_kakutei":false, "bonus_no":930, "point_item_id":null, "point_item_quantity":0, "button_description":"1回ガチャ", "tips_description":"【1回目】\n"
+  },
+  {
+    "id":21030102, "gacha_id":2103, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":2, "cycle_end":2, "cost_type":"Item", "cost_id":60002, "cost_quantity":150, "output_count":1, "rarity_kakutei":false, "bonus_no":931, "point_item_id":null, "point_item_quantity":0, "button_description":"1回ガチャ", "tips_description":"【2回目】\nSR以上確定"
+  },
+  {
+    "id":21030103, "gacha_id":2103, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":3, "cycle_end":3, "cost_type":"Item", "cost_id":60002, "cost_quantity":150, "output_count":1, "rarity_kakutei":false, "bonus_no":932, "point_item_id":null, "point_item_quantity":0, "button_description":"1回ガチャ", "tips_description":"【3回目】\nSSR確定"
+  },
+  {
     "id":21070101, "gacha_id":2107, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":0, "cost_type":"Item", "cost_id":60001, "cost_quantity":1800, "output_count":11, "rarity_kakutei":true, "bonus_no":0, "point_item_id":null, "point_item_quantity":0, "button_description":"11回ガチャ", "tips_description":"SR1枚以上確定"
   },
   {

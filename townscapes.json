@@ -15,6 +15,9 @@
     "id":1004, "layer_type":"Background", "name":"ましゅましゅホームタウン", "description":"Mashumairesh!!モチーフのホームタウン。れっつ、ふれっしゅ、にゅーふぇいす、なタウンです。", "default_asset_ids":"null"
   },
   {
+    "id":1005, "layer_type":"Background", "name":"お正月ホームタウン", "description":"お正月モチーフのホームタウン。ハッピーニューイヤホイ！今年もよろしくお願いしまーーーーーーす！", "default_asset_ids":"null"
+  },
+  {
     "id":1100, "layer_type":"Background", "name":"スゴロクタウン", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
   },
   {
@@ -49,6 +52,9 @@
   },
   {
     "id":2008, "layer_type":"Road", "name":"ましゅましゅロード", "description":"Mashumairesh!!モチーフの道。千里の道もルナティック一歩から！だよね！", "default_asset_ids":"null"
+  },
+  {
+    "id":2009, "layer_type":"Road", "name":"朱塗りのお正月大通り", "description":"新年を祝う、お正月モチーフの道。朱色が特徴の大通りで、豪華にタウンを彩る。", "default_asset_ids":"null"
   },
   {
     "id":2100, "layer_type":"Road", "name":"スゴロクロード", "description":"スゴロクイベントで使用する道路です。", "default_asset_ids":"null"
@@ -106,6 +112,9 @@
   },
   {
     "id":7008, "layer_type":"Fence", "name":"ましゅましゅフェンス", "description":"Mashumairesh!!モチーフのフェンス。都会のフェンスってかっこいい……！", "default_asset_ids":"null"
+  },
+  {
+    "id":7009, "layer_type":"Fence", "name":"お正月フェンス", "description":"万両や梅の花が飾られている、お正月らしい趣のあるフェンス。タウンの商売繁盛、豊かな生活を願って作られたとか。", "default_asset_ids":"null"
   },
   {
     "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"
