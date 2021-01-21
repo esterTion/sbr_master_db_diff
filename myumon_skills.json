@@ -226,5 +226,32 @@
   },
   {
     "id":120001, "name":"獲得アイテム増加", "myumon_skill_effect_id":18000, "effect_arg_no":180001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":1, "level_limit_item":1
+  },
+  {
+    "id":150000, "name":"ドキドキスコアUP", "myumon_skill_effect_id":600, "effect_arg_no":60000, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":150001, "name":"ドキドキスコアUP+", "myumon_skill_effect_id":600, "effect_arg_no":60001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":150002, "name":"ドキドキスコアUP++", "myumon_skill_effect_id":600, "effect_arg_no":60002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":151000, "name":"ワクワクスコアUP", "myumon_skill_effect_id":700, "effect_arg_no":70000, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":151001, "name":"ワクワクスコアUP+", "myumon_skill_effect_id":700, "effect_arg_no":70001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":151002, "name":"ワクワクスコアUP++", "myumon_skill_effect_id":700, "effect_arg_no":70002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":152000, "name":"キラキラスコアUP", "myumon_skill_effect_id":800, "effect_arg_no":80000, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":152001, "name":"キラキラスコアUP+", "myumon_skill_effect_id":800, "effect_arg_no":80001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":152002, "name":"キラキラスコアUP++", "myumon_skill_effect_id":800, "effect_arg_no":80002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   }
 ]
