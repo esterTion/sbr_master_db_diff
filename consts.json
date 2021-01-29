@@ -789,6 +789,12 @@
     "id":150015, "category":"ItemCategory", "name":"MyumonHaveExtend", "value":"15"
   },
   {
+    "id":150016, "category":"ItemCategory", "name":"PotentialSeal", "value":"16"
+  },
+  {
+    "id":150018, "category":"ItemCategory", "name":"AbilityManure", "value":"18"
+  },
+  {
     "id":150101, "category":"ItemId", "name":"Soundle", "value":"50001"
   },
   {
@@ -811,6 +817,9 @@
   },
   {
     "id":150108, "category":"ItemId", "name":"CommonEventPoint", "value":"140001"
+  },
+  {
+    "id":150109, "category":"ItemId", "name":"PotentialSeal", "value":"160001"
   },
   {
     "id":160000, "category":"PresentBox", "name":"PerPage", "value":"20"
@@ -1642,5 +1651,83 @@
   },
   {
     "id":360101, "category":"Passport", "name":"RebuyDay", "value":"3"
+  },
+  {
+    "id":370101, "category":"AbilityConditionType", "name":"UserLevel", "value":"1"
+  },
+  {
+    "id":370102, "category":"AbilityConditionType", "name":"MyumonLikeability", "value":"2"
+  },
+  {
+    "id":370103, "category":"AbilityConditionType", "name":"ArtistLevel", "value":"3"
+  },
+  {
+    "id":370104, "category":"AbilityConditionType", "name":"MyumonCount", "value":"4"
+  },
+  {
+    "id":370105, "category":"AbilityConditionType", "name":"AbilityLevel", "value":"5"
+  },
+  {
+    "id":370201, "category":"AbilityEffectType", "name":"None", "value":"0"
+  },
+  {
+    "id":370202, "category":"AbilityEffectType", "name":"ScoreUpArtist", "value":"1"
+  },
+  {
+    "id":370203, "category":"AbilityEffectType", "name":"ScoreUpMusicCategory", "value":"2"
+  },
+  {
+    "id":370204, "category":"AbilityEffectType", "name":"SkillDuration", "value":"3"
+  },
+  {
+    "id":370205, "category":"AbilityEffectType", "name":"SkillInterval", "value":"4"
+  },
+  {
+    "id":370206, "category":"AbilityEffectType", "name":"SkillProbability", "value":"5"
+  },
+  {
+    "id":370207, "category":"AbilityEffectType", "name":"StatusUp", "value":"6"
+  },
+  {
+    "id":380101, "category":"PotentialEffectType", "name":"None", "value":"0"
+  },
+  {
+    "id":380102, "category":"PotentialEffectType", "name":"ScoreUpArtist", "value":"1"
+  },
+  {
+    "id":380103, "category":"PotentialEffectType", "name":"ScoreUpMusicCategory", "value":"2"
+  },
+  {
+    "id":380104, "category":"PotentialEffectType", "name":"SkillDuration", "value":"3"
+  },
+  {
+    "id":380105, "category":"PotentialEffectType", "name":"SkillInterval", "value":"4"
+  },
+  {
+    "id":380106, "category":"PotentialEffectType", "name":"SkillProbability", "value":"5"
+  },
+  {
+    "id":380107, "category":"PotentialEffectType", "name":"StatusUp", "value":"6"
+  },
+  {
+    "id":380108, "category":"PotentialEffectType", "name":"StatusUpDeckTarget", "value":"7"
+  },
+  {
+    "id":380109, "category":"PotentialEffectType", "name":"StatusUpMyumon", "value":"8"
+  },
+  {
+    "id":380110, "category":"PotentialEffectType", "name":"StatusUpArtist", "value":"9"
+  },
+  {
+    "id":380111, "category":"PotentialEffectType", "name":"StatusUpMusicCategory", "value":"10"
+  },
+  {
+    "id":380112, "category":"PotentialEffectType", "name":"SkillLevelAdd", "value":"11"
+  },
+  {
+    "id":380113, "category":"PotentialEffectType", "name":"DarkDamageUp", "value":"12"
+  },
+  {
+    "id":380114, "category":"PotentialEffectType", "name":"DarkResistOverwrite", "value":"13"
   }
 ]

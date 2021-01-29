@@ -10,5 +10,17 @@
   },
   {
     "id":4, "stamina_rate":4, "lot_count_min":11, "lot_count_max":19, "event_rate":7.5, "is_passport_extend":false, "view_reward_rate":3
+  },
+  {
+    "id":5, "stamina_rate":5, "lot_count_min":18, "lot_count_max":20, "event_rate":9.4, "is_passport_extend":true, "view_reward_rate":4
+  },
+  {
+    "id":6, "stamina_rate":6, "lot_count_min":20, "lot_count_max":25, "event_rate":11.25, "is_passport_extend":true, "view_reward_rate":5
+  },
+  {
+    "id":7, "stamina_rate":7, "lot_count_min":25, "lot_count_max":28, "event_rate":13.1, "is_passport_extend":true, "view_reward_rate":6
+  },
+  {
+    "id":8, "stamina_rate":8, "lot_count_min":28, "lot_count_max":32, "event_rate":15, "is_passport_extend":true, "view_reward_rate":7
   }
 ]

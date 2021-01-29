@@ -174,7 +174,7 @@
     "id":508, "name":"Dazzling", "name_hiragana":"だずりんぐ", "artist_id":5, "special_artist_id":0, "jacket_image_id":508, "sort_order":508, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":134, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
-    "id":509, "name":"ain't nobody STOP", "name_hiragana":"いんとのーばでぃーすとっぷ", "artist_id":5, "special_artist_id":0, "jacket_image_id":711, "sort_order":509, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/10/15 11:00:00 +09:00", "ended_at":"2020/11/04 11:30:00 +09:00", "bpm":145, "lyrics":"0", "composed":"0", "arranged":"0", "description":"11/4まで限定公開中！　SHOW BY ROCK!! STARS!!挿入歌"
+    "id":509, "name":"ain't nobody STOP", "name_hiragana":"いんとのーばでぃーすとっぷ", "artist_id":5, "special_artist_id":0, "jacket_image_id":509, "sort_order":509, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/04 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":145, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
     "id":510, "name":"Plastic / Jewelry Tune", "name_hiragana":"ぷらすてぃっくじゅえりーちゅーん", "artist_id":5, "special_artist_id":0, "jacket_image_id":510, "sort_order":510, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/01/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
@@ -312,7 +312,7 @@
     "id":1006, "name":"あすいろ恋模様", "name_hiragana":"あすいろこいもよう", "artist_id":10, "special_artist_id":0, "jacket_image_id":1006, "sort_order":1006, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/09/04 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
-    "id":1007, "name":"きゅきゅきゅん♡ハートシェイカー", "name_hiragana":"きゅきゅきゅんはーとしぇいかー", "artist_id":10, "special_artist_id":0, "jacket_image_id":711, "sort_order":1007, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/10/21 12:00:00 +09:00", "ended_at":"2020/11/13 11:30:00 +09:00", "bpm":200, "lyrics":"0", "composed":"0", "arranged":"0", "description":"11/13まで限定公開中！　SHOW BY ROCK!! STARS!!挿入歌"
+    "id":1007, "name":"きゅきゅきゅん♡ハートシェイカー", "name_hiragana":"きゅきゅきゅんはーとしぇいかー", "artist_id":10, "special_artist_id":0, "jacket_image_id":1007, "sort_order":1007, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/04 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
     "id":1008, "name":"Attention, Please!!", "name_hiragana":"あてんしょんぷりーず", "artist_id":10, "special_artist_id":0, "jacket_image_id":1008, "sort_order":1008, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/20 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
@@ -363,6 +363,9 @@
     "id":1303, "name":"さよなら、僕らのラブソング。", "name_hiragana":"さよならぼくらのらぶそんぐ", "artist_id":13, "special_artist_id":0, "jacket_image_id":1303, "sort_order":1303, "category":2, "fever_started_at":0, "music_requirement_id":1303, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
+    "id":1304, "name":"永遠なんて嘘ばかりだった", "name_hiragana":"えいえんなんてうそばかりだった", "artist_id":13, "special_artist_id":0, "jacket_image_id":1304, "sort_order":1304, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":176, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
+  },
+  {
     "id":1401, "name":"Ninja Fanka", "name_hiragana":"にんじゃふぁんか", "artist_id":14, "special_artist_id":0, "jacket_image_id":1401, "sort_order":1401, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
@@ -385,6 +388,15 @@
   },
   {
     "id":1503, "name":"センチメンタル・バニラ", "name_hiragana":"せんちめんたるばにら", "artist_id":15, "special_artist_id":0, "jacket_image_id":1503, "sort_order":1503, "category":1, "fever_started_at":0, "music_requirement_id":1503, "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":140, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
+  },
+  {
+    "id":1801, "name":"EMORITY", "name_hiragana":"えもりてぃ", "artist_id":18, "special_artist_id":0, "jacket_image_id":1801, "sort_order":1801, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":186, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
+  },
+  {
+    "id":1802, "name":"Indivisible", "name_hiragana":"いんでぃびしぶる", "artist_id":18, "special_artist_id":0, "jacket_image_id":1802, "sort_order":1802, "category":1, "fever_started_at":0, "music_requirement_id":1802, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":131, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
+  },
+  {
+    "id":1803, "name":"Distribute Syndrome", "name_hiragana":"でぃすとりびゅーとしんどろーむ", "artist_id":18, "special_artist_id":0, "jacket_image_id":1803, "sort_order":1803, "category":1, "fever_started_at":0, "music_requirement_id":1803, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":167, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
     "id":9001, "name":"How To Fly", "name_hiragana":"はうたーふらい", "artist_id":90, "special_artist_id":100, "jacket_image_id":9001, "sort_order":19001, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":184, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "description":""

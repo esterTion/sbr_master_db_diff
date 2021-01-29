@@ -82,5 +82,11 @@
   },
   {
     "id":28, "name":"【正月3】ガチャポイント交換所", "sort_order":24, "description":"【正月3】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "gacha_id":2109, "event_id":0, "off_time_trade":true, "started_at":"2021/01/22 12:00:00 +09:00", "ended_at":"2021/02/12 11:59:59 +09:00"
+  },
+  {
+    "id":29, "name":"【クロモス】ガチャポイント交換所", "sort_order":25, "description":"【クロモス】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "gacha_id":2112, "event_id":0, "off_time_trade":true, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2021/02/22 11:59:59 +09:00"
+  },
+  {
+    "id":30, "name":"クロモスR/RR交換所", "sort_order":64996, "description":"クロモスR/RR引換券をここだけの特別なラインナップと交換できます", "gacha_id":6, "event_id":0, "off_time_trade":true, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2021/02/22 11:59:59 +09:00"
   }
 ]
