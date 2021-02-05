@@ -1,33 +1,33 @@
 [
   {
-    "id":1013001, "category":1, "reset_cycle":0, "title":"バンドエピソードを読もう", "detail":"ストーリー ＞ バンドエピソード からストーリーを読もう", "add_condition_mission_id":0, "sort_order":20, "clear_condition_type":"artist_story_play_count", "clear_condition_args":"0", "goal":1, "reward_no":11020, "button_type":0, "destination_kind":23, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1013001, "category":1, "reset_cycle":0, "title":"バンドエピソードを読もう", "detail":"ストーリー ＞ バンドエピソード からストーリーを読もう", "add_condition_mission_id":0, "sort_order":200, "clear_condition_type":"artist_story_play_count", "clear_condition_args":"0", "goal":1, "reward_no":11020, "button_type":0, "destination_kind":23, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1013002, "category":1, "reset_cycle":0, "title":"バンドエピソードを5話読もう", "detail":"ストーリー ＞ バンドエピソード からストーリーを5話読もう", "add_condition_mission_id":0, "sort_order":21, "clear_condition_type":"artist_story_play_count", "clear_condition_args":"0", "goal":5, "reward_no":11021, "button_type":0, "destination_kind":23, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1013002, "category":1, "reset_cycle":0, "title":"バンドエピソードを5話読もう", "detail":"ストーリー ＞ バンドエピソード からストーリーを5話読もう", "add_condition_mission_id":0, "sort_order":201, "clear_condition_type":"artist_story_play_count", "clear_condition_args":"0", "goal":5, "reward_no":11021, "button_type":0, "destination_kind":23, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1013003, "category":1, "reset_cycle":0, "title":"バンドエピソードを10話読もう", "detail":"ストーリー ＞ バンドエピソード からストーリーを10話読もう", "add_condition_mission_id":0, "sort_order":22, "clear_condition_type":"artist_story_play_count", "clear_condition_args":"0", "goal":10, "reward_no":11022, "button_type":0, "destination_kind":23, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1013003, "category":1, "reset_cycle":0, "title":"バンドエピソードを10話読もう", "detail":"ストーリー ＞ バンドエピソード からストーリーを10話読もう", "add_condition_mission_id":0, "sort_order":202, "clear_condition_type":"artist_story_play_count", "clear_condition_args":"0", "goal":10, "reward_no":11022, "button_type":0, "destination_kind":23, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1014001, "category":1, "reset_cycle":0, "title":"キャラクターエピソードを読もう", "detail":"ストーリー ＞ キャラクターエピソード からストーリーを読もう", "add_condition_mission_id":0, "sort_order":23, "clear_condition_type":"myumon_story_play_count", "clear_condition_args":"0", "goal":1, "reward_no":11023, "button_type":0, "destination_kind":24, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1014001, "category":1, "reset_cycle":0, "title":"キャラクターエピソードを読もう", "detail":"ストーリー ＞ キャラクターエピソード からストーリーを読もう", "add_condition_mission_id":0, "sort_order":203, "clear_condition_type":"myumon_story_play_count", "clear_condition_args":"0", "goal":1, "reward_no":11023, "button_type":0, "destination_kind":24, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1022001, "category":1, "reset_cycle":0, "title":"限界突破経験値を100以上獲得しよう", "detail":"メンバー ＞ 限界突破 からブロマイドを合成して限界突破経験値を100以上獲得しよう", "add_condition_mission_id":0, "sort_order":27, "clear_condition_type":"genkai_exp_count", "clear_condition_args":"0", "goal":100, "reward_no":11027, "button_type":0, "destination_kind":16, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1022001, "category":1, "reset_cycle":0, "title":"限界突破経験値を100以上獲得しよう", "detail":"メンバー ＞ 限界突破 からブロマイドを合成して限界突破経験値を100以上獲得しよう", "add_condition_mission_id":0, "sort_order":207, "clear_condition_type":"genkai_exp_count", "clear_condition_args":"0", "goal":100, "reward_no":11027, "button_type":0, "destination_kind":16, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1023001, "category":1, "reset_cycle":0, "title":"ブロマイドを覚醒させよう", "detail":"メンバー ＞ 覚醒  からブロマイドを覚醒させよう", "add_condition_mission_id":0, "sort_order":28, "clear_condition_type":"shinka_exec_count", "clear_condition_args":"0", "goal":1, "reward_no":11028, "button_type":0, "destination_kind":17, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1023001, "category":1, "reset_cycle":0, "title":"ブロマイドを覚醒させよう", "detail":"メンバー ＞ 覚醒  からブロマイドを覚醒させよう", "add_condition_mission_id":0, "sort_order":208, "clear_condition_type":"shinka_exec_count", "clear_condition_args":"0", "goal":1, "reward_no":11028, "button_type":0, "destination_kind":17, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1024001, "category":1, "reset_cycle":0, "title":"スキルレベルアップをしよう", "detail":"メンバー ＞ 強化 からスキル強化を選択して、スキルレベルをアップさせよう", "add_condition_mission_id":0, "sort_order":26, "clear_condition_type":"skill_level_up_count", "clear_condition_args":"0", "goal":1, "reward_no":11026, "button_type":0, "destination_kind":15, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1024001, "category":1, "reset_cycle":0, "title":"スキルレベルアップをしよう", "detail":"メンバー ＞ 強化 からスキル強化を選択して、スキルレベルをアップさせよう", "add_condition_mission_id":0, "sort_order":206, "clear_condition_type":"skill_level_up_count", "clear_condition_args":"0", "goal":1, "reward_no":11026, "button_type":0, "destination_kind":15, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1033001, "category":1, "reset_cycle":0, "title":"フリーライブでフルコンボを達成しよう", "detail":"ライブ ＞ フリーライブ からライブをしてフルコンボを達成しよう", "add_condition_mission_id":0, "sort_order":24, "clear_condition_type":"free_live_full_combo_count", "clear_condition_args":"0", "goal":1, "reward_no":11024, "button_type":0, "destination_kind":14, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1033001, "category":1, "reset_cycle":0, "title":"フリーライブでフルコンボを達成しよう", "detail":"ライブ ＞ フリーライブ からライブをしてフルコンボを達成しよう", "add_condition_mission_id":0, "sort_order":204, "clear_condition_type":"free_live_full_combo_count", "clear_condition_args":"0", "goal":1, "reward_no":11024, "button_type":0, "destination_kind":14, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1034001, "category":1, "reset_cycle":0, "title":"フリーライブでフルパーフェクトを達成しよう", "detail":"ライブ ＞ フリーライブ からライブをしてフルパーフェクトを達成しよう", "add_condition_mission_id":0, "sort_order":25, "clear_condition_type":"free_live_full_perfect_count", "clear_condition_args":"0", "goal":1, "reward_no":11025, "button_type":0, "destination_kind":14, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1034001, "category":1, "reset_cycle":0, "title":"フリーライブでフルパーフェクトを達成しよう", "detail":"ライブ ＞ フリーライブ からライブをしてフルパーフェクトを達成しよう", "add_condition_mission_id":0, "sort_order":205, "clear_condition_type":"free_live_full_perfect_count", "clear_condition_args":"0", "goal":1, "reward_no":11025, "button_type":0, "destination_kind":14, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1035001, "category":1, "reset_cycle":0, "title":"フリーライブで難易度『LUNATIC』をクリアしよう", "detail":"ライブ ＞ フリーライブ から難易度『LUNATIC』を、どの楽曲でもいいのでクリアしよう", "add_condition_mission_id":0, "sort_order":32, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"grade\":5,\"clear_status\":1}", "goal":1, "reward_no":11032, "button_type":0, "destination_kind":14, "started_at":"2020/12/24 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1035001, "category":1, "reset_cycle":0, "title":"フリーライブで難易度『LUNATIC』をクリアしよう", "detail":"ライブ ＞ フリーライブ から難易度『LUNATIC』を、どの楽曲でもいいのでクリアしよう", "add_condition_mission_id":0, "sort_order":212, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"grade\":5,\"clear_status\":1}", "goal":1, "reward_no":11032, "button_type":0, "destination_kind":14, "started_at":"2020/12/24 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
     "id":1041101, "category":1, "reset_cycle":0, "title":"好きな楽曲を「お気に入り」に登録しよう", "detail":"フリーライブの結果画面で、気に入った楽曲をお気に入り登録しよう", "add_condition_mission_id":0, "sort_order":8, "clear_condition_type":"music_like_exec", "clear_condition_args":"0", "goal":1, "reward_no":11008, "button_type":0, "destination_kind":14, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
@@ -39,7 +39,7 @@
     "id":1072001, "category":1, "reset_cycle":0, "title":"アバターを着替えよう", "detail":"ホーム画面の プロフ ＞ 着替える からアバターの衣装を変更しよう", "add_condition_mission_id":0, "sort_order":3, "clear_condition_type":"avatar_change", "clear_condition_args":"0", "goal":1, "reward_no":11003, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1082001, "category":1, "reset_cycle":0, "title":"キャラクターを10以上解放しよう", "detail":"メンバー ＞ キャラクター情報 から確認できる内容を10以上解放しよう", "add_condition_mission_id":0, "sort_order":31, "clear_condition_type":"myumon_basic_have_count", "clear_condition_args":"0", "goal":10, "reward_no":11031, "button_type":0, "destination_kind":5, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1082001, "category":1, "reset_cycle":0, "title":"キャラクターを10以上解放しよう", "detail":"メンバー ＞ キャラクター情報 から確認できる内容を10以上解放しよう", "add_condition_mission_id":0, "sort_order":211, "clear_condition_type":"myumon_basic_have_count", "clear_condition_args":"0", "goal":10, "reward_no":11031, "button_type":0, "destination_kind":5, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
     "id":1101002, "category":1, "reset_cycle":0, "title":"SQUARE ENIX ACCOUNTと連携登録しよう", "detail":"SQUARE ENIX ACCOUNTと連携登録しよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"bridge_regist", "clear_condition_args":"0", "goal":1, "reward_no":11001, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
@@ -57,43 +57,43 @@
     "id":1101007, "category":1, "reset_cycle":0, "title":"ライブハウスをカスタムしよう", "detail":"メンバー ＞ステージカスタム からステージ内容をカスタムしよう", "add_condition_mission_id":0, "sort_order":5, "clear_condition_type":"live_house_custom", "clear_condition_args":"0", "goal":1, "reward_no":11005, "button_type":0, "destination_kind":18, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102001, "category":1, "reset_cycle":0, "title":"3日ログインしよう", "detail":"3日ログインしよう", "add_condition_mission_id":0, "sort_order":9, "clear_condition_type":"login_day_count", "clear_condition_args":"0", "goal":3, "reward_no":11009, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102001, "category":1, "reset_cycle":0, "title":"3日ログインしよう", "detail":"3日ログインしよう", "add_condition_mission_id":0, "sort_order":31, "clear_condition_type":"login_day_count", "clear_condition_args":"0", "goal":3, "reward_no":11009, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102002, "category":1, "reset_cycle":0, "title":"10日ログインしよう", "detail":"10日ログインしよう", "add_condition_mission_id":0, "sort_order":10, "clear_condition_type":"login_day_count", "clear_condition_args":"0", "goal":10, "reward_no":11010, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102002, "category":1, "reset_cycle":0, "title":"10日ログインしよう", "detail":"10日ログインしよう", "add_condition_mission_id":0, "sort_order":32, "clear_condition_type":"login_day_count", "clear_condition_args":"0", "goal":10, "reward_no":11010, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102003, "category":1, "reset_cycle":0, "title":"20日ログインしよう", "detail":"20日ログインしよう", "add_condition_mission_id":0, "sort_order":11, "clear_condition_type":"login_day_count", "clear_condition_args":"0", "goal":20, "reward_no":11011, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102003, "category":1, "reset_cycle":0, "title":"20日ログインしよう", "detail":"20日ログインしよう", "add_condition_mission_id":0, "sort_order":33, "clear_condition_type":"login_day_count", "clear_condition_args":"0", "goal":20, "reward_no":11011, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102004, "category":1, "reset_cycle":0, "title":"30日ログインしよう", "detail":"30日ログインしよう", "add_condition_mission_id":0, "sort_order":12, "clear_condition_type":"login_day_count", "clear_condition_args":"0", "goal":30, "reward_no":11012, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102004, "category":1, "reset_cycle":0, "title":"30日ログインしよう", "detail":"30日ログインしよう", "add_condition_mission_id":0, "sort_order":34, "clear_condition_type":"login_day_count", "clear_condition_args":"0", "goal":30, "reward_no":11012, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102101, "category":1, "reset_cycle":0, "title":"マイタウンで収益を100万サウンドル獲得しよう", "detail":"マイタウンから、累計100万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":13, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":1000000, "reward_no":11013, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102101, "category":1, "reset_cycle":0, "title":"マイタウンで収益を100万サウンドル獲得しよう", "detail":"マイタウンから、累計100万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":101, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":1000000, "reward_no":11013, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102102, "category":1, "reset_cycle":0, "title":"マイタウンで収益を300万サウンドル獲得しよう", "detail":"マイタウンから、累計300万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":14, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":3000000, "reward_no":11014, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102102, "category":1, "reset_cycle":0, "title":"マイタウンで収益を300万サウンドル獲得しよう", "detail":"マイタウンから、累計300万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":102, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":3000000, "reward_no":11014, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102103, "category":1, "reset_cycle":0, "title":"マイタウンで収益を500万サウンドル獲得しよう", "detail":"マイタウンから、累計500万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":15, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":5000000, "reward_no":11015, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102103, "category":1, "reset_cycle":0, "title":"マイタウンで収益を500万サウンドル獲得しよう", "detail":"マイタウンから、累計500万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":103, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":5000000, "reward_no":11015, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102104, "category":1, "reset_cycle":0, "title":"マイタウンで収益を1000万サウンドル獲得しよう", "detail":"マイタウンから、累計1000万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":16, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":10000000, "reward_no":11016, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102104, "category":1, "reset_cycle":0, "title":"マイタウンで収益を1000万サウンドル獲得しよう", "detail":"マイタウンから、累計1000万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":104, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":10000000, "reward_no":11016, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102201, "category":1, "reset_cycle":0, "title":"ユーザーランクを10にしよう", "detail":"マイタウンでサウンドルを稼いでユーザーランクを10にしよう", "add_condition_mission_id":0, "sort_order":17, "clear_condition_type":"player_rank_count", "clear_condition_args":"0", "goal":10, "reward_no":11017, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102201, "category":1, "reset_cycle":0, "title":"ユーザーランクを10にしよう", "detail":"マイタウンでサウンドルを稼いでユーザーランクを10にしよう", "add_condition_mission_id":0, "sort_order":150, "clear_condition_type":"player_rank_count", "clear_condition_args":"0", "goal":10, "reward_no":11017, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102202, "category":1, "reset_cycle":0, "title":"ユーザーランクを20にしよう", "detail":"マイタウンでサウンドルを稼いでユーザーランクを20にしよう", "add_condition_mission_id":0, "sort_order":18, "clear_condition_type":"player_rank_count", "clear_condition_args":"0", "goal":20, "reward_no":11018, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102202, "category":1, "reset_cycle":0, "title":"ユーザーランクを20にしよう", "detail":"マイタウンでサウンドルを稼いでユーザーランクを20にしよう", "add_condition_mission_id":0, "sort_order":151, "clear_condition_type":"player_rank_count", "clear_condition_args":"0", "goal":20, "reward_no":11018, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102203, "category":1, "reset_cycle":0, "title":"ユーザーランクを50にしよう", "detail":"マイタウンでサウンドルを稼いでユーザーランクを50にしよう", "add_condition_mission_id":0, "sort_order":19, "clear_condition_type":"player_rank_count", "clear_condition_args":"0", "goal":50, "reward_no":11019, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102203, "category":1, "reset_cycle":0, "title":"ユーザーランクを50にしよう", "detail":"マイタウンでサウンドルを稼いでユーザーランクを50にしよう", "add_condition_mission_id":0, "sort_order":152, "clear_condition_type":"player_rank_count", "clear_condition_args":"0", "goal":50, "reward_no":11019, "button_type":0, "destination_kind":3, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102501, "category":1, "reset_cycle":0, "title":"楽曲を20曲獲得しよう", "detail":"ショップで購入したり、ストーリーを読んだりして楽曲を20曲獲得しよう", "add_condition_mission_id":0, "sort_order":29, "clear_condition_type":"music_have_count", "clear_condition_args":"0", "goal":20, "reward_no":11029, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102501, "category":1, "reset_cycle":0, "title":"楽曲を20曲獲得しよう", "detail":"ショップで購入したり、ストーリーを読んだりして楽曲を20曲獲得しよう", "add_condition_mission_id":0, "sort_order":209, "clear_condition_type":"music_have_count", "clear_condition_args":"0", "goal":20, "reward_no":11029, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":1102502, "category":1, "reset_cycle":0, "title":"楽曲を30曲獲得しよう", "detail":"ショップで購入したり、ストーリーを読んだりして楽曲を30曲獲得しよう", "add_condition_mission_id":0, "sort_order":30, "clear_condition_type":"music_have_count", "clear_condition_args":"0", "goal":30, "reward_no":11030, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":1102502, "category":1, "reset_cycle":0, "title":"楽曲を30曲獲得しよう", "detail":"ショップで購入したり、ストーリーを読んだりして楽曲を30曲獲得しよう", "add_condition_mission_id":0, "sort_order":210, "clear_condition_type":"music_have_count", "clear_condition_args":"0", "goal":30, "reward_no":11030, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
     "id":2000001, "category":2, "reset_cycle":1, "title":"ライブでフリーライブを1回プレイしよう", "detail":"ライブ ＞ フリーライブ からライブをしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count", "clear_condition_args":"0", "goal":1, "reward_no":12001, "button_type":0, "destination_kind":1, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2020/11/30 11:59:59 +09:00"
@@ -574,6 +574,9 @@
   },
   {
     "id":4000131, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"15", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2021/02/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000132, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"15", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/02/05 12:00:00 +09:00", "ended_at":"2021/02/08 11:59:59 +09:00"
   },
   {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
