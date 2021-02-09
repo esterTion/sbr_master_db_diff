@@ -93,10 +93,10 @@
     "id":233000, "name":"キラキラダブルUP+", "digest":"『キラキラ』タイプ楽曲でスコア20%コンボ補正20%UP", "description":"『キラキラ』タイプの楽曲プレイ時、スコアが20%コンボ補正が20%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":200,\"score\":200,\"category\":3}"
   },
   {
-    "id":300001, "name":"スキルタイムUP", "digest":"スキルの効果時間を約10秒延長する", "description":"自身のアクティブスキル効果時間を約10秒延長する", "potential_effect_type":3, "potential_effect_args":"1000"
+    "id":300001, "name":"スキルタイムUP", "digest":"スキルの効果時間を約1秒延長する", "description":"自身のアクティブスキル効果時間を約1秒延長する", "potential_effect_type":3, "potential_effect_args":"1000"
   },
   {
-    "id":300002, "name":"スキルタイムUP+", "digest":"スキルの効果時間を約20秒延長する", "description":"自身のアクティブスキル効果時間を約20秒延長する", "potential_effect_type":3, "potential_effect_args":"2000"
+    "id":300002, "name":"スキルタイムUP+", "digest":"スキルの効果時間を約2秒延長する", "description":"自身のアクティブスキル効果時間を約2秒延長する", "potential_effect_type":3, "potential_effect_args":"2000"
   },
   {
     "id":400001, "name":"スキルリキャストDOWN", "digest":"スキルの再発動時間を20%短縮", "description":"自身のアクティブスキルが再度発動できるまでの時間を20%短縮する", "potential_effect_type":4, "potential_effect_args":"20"
