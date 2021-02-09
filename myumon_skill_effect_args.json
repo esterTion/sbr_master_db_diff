@@ -2467,5 +2467,125 @@
   },
   {
     "id":15200210, "effect_arg_no":80002, "level":10, "interval":12400, "probability":41, "duration":5600, "damage":0, "effect_args":"[1,48,0]", "digest":"GOOD以上で『キラキラ』編成数1枚毎にスコア4.8%UP", "description":"約12秒毎、中確率で約6秒間GOOD以上で『キラキラ』編成数1枚毎にスコア4.8%UP"
+  },
+  {
+    "id":16000001, "effect_arg_no":90000, "level":1, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,90,0,4]", "digest":"GREAT以上でスコア9%UPライフ4回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア9%UPライフ4回復"
+  },
+  {
+    "id":16000002, "effect_arg_no":90000, "level":2, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,100,0,4]", "digest":"GREAT以上でスコア10%UPライフ4回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア10%UPライフ4回復"
+  },
+  {
+    "id":16000003, "effect_arg_no":90000, "level":3, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,110,0,5]", "digest":"GREAT以上でスコア11%UPライフ5回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア11%UPライフ5回復"
+  },
+  {
+    "id":16000004, "effect_arg_no":90000, "level":4, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,120,0,5]", "digest":"GREAT以上でスコア12%UPライフ5回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア12%UPライフ5回復"
+  },
+  {
+    "id":16000005, "effect_arg_no":90000, "level":5, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,130,0,6]", "digest":"GREAT以上でスコア13%UPライフ6回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア13%UPライフ6回復"
+  },
+  {
+    "id":16000006, "effect_arg_no":90000, "level":6, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,140,0,6]", "digest":"GREAT以上でスコア14%UPライフ6回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア14%UPライフ6回復"
+  },
+  {
+    "id":16000007, "effect_arg_no":90000, "level":7, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,150,0,7]", "digest":"GREAT以上でスコア15%UPライフ7回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア15%UPライフ7回復"
+  },
+  {
+    "id":16000008, "effect_arg_no":90000, "level":8, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,160,0,7]", "digest":"GREAT以上でスコア16%UPライフ7回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア16%UPライフ7回復"
+  },
+  {
+    "id":16000009, "effect_arg_no":90000, "level":9, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,170,0,8]", "digest":"GREAT以上でスコア17%UPライフ8回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア17%UPライフ8回復"
+  },
+  {
+    "id":16000010, "effect_arg_no":90000, "level":10, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[2,180,0,9]", "digest":"GREAT以上でスコア18%UPライフ9回復", "description":"約10秒毎、中確率で約5秒間GREAT以上でスコア18%UPライフ9回復"
+  },
+  {
+    "id":16000101, "effect_arg_no":90001, "level":1, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,140,0,7]", "digest":"GOOD以上でスコア14%UPライフ7回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア14%UPライフ7回復"
+  },
+  {
+    "id":16000102, "effect_arg_no":90001, "level":2, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,150,0,7]", "digest":"GOOD以上でスコア15%UPライフ7回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア15%UPライフ7回復"
+  },
+  {
+    "id":16000103, "effect_arg_no":90001, "level":3, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,160,0,8]", "digest":"GOOD以上でスコア16%UPライフ8回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア16%UPライフ8回復"
+  },
+  {
+    "id":16000104, "effect_arg_no":90001, "level":4, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,170,0,8]", "digest":"GOOD以上でスコア17%UPライフ8回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア17%UPライフ8回復"
+  },
+  {
+    "id":16000105, "effect_arg_no":90001, "level":5, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,180,0,9]", "digest":"GOOD以上でスコア18%UPライフ9回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア18%UPライフ9回復"
+  },
+  {
+    "id":16000106, "effect_arg_no":90001, "level":6, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,190,0,9]", "digest":"GOOD以上でスコア19%UPライフ9回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア19%UPライフ9回復"
+  },
+  {
+    "id":16000107, "effect_arg_no":90001, "level":7, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,200,0,10]", "digest":"GOOD以上でスコア20%UPライフ10回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア20%UPライフ10回復"
+  },
+  {
+    "id":16000108, "effect_arg_no":90001, "level":8, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,210,0,10]", "digest":"GOOD以上でスコア21%UPライフ10回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア21%UPライフ10回復"
+  },
+  {
+    "id":16000109, "effect_arg_no":90001, "level":9, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,220,0,11]", "digest":"GOOD以上でスコア22%UPライフ11回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア22%UPライフ11回復"
+  },
+  {
+    "id":16000110, "effect_arg_no":90001, "level":10, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[1,230,0,12]", "digest":"GOOD以上でスコア23%UPライフ12回復", "description":"約10秒毎、中確率で約5秒間GOOD以上でスコア23%UPライフ12回復"
+  },
+  {
+    "id":16000201, "effect_arg_no":90002, "level":1, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,190,0,10]", "digest":"BAD以上でスコア19%UPライフ10回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア19%UPライフ10回復"
+  },
+  {
+    "id":16000202, "effect_arg_no":90002, "level":2, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,200,0,10]", "digest":"BAD以上でスコア20%UPライフ10回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア20%UPライフ10回復"
+  },
+  {
+    "id":16000203, "effect_arg_no":90002, "level":3, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,210,0,11]", "digest":"BAD以上でスコア21%UPライフ11回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア21%UPライフ11回復"
+  },
+  {
+    "id":16000204, "effect_arg_no":90002, "level":4, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,220,0,11]", "digest":"BAD以上でスコア22%UPライフ11回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア22%UPライフ11回復"
+  },
+  {
+    "id":16000205, "effect_arg_no":90002, "level":5, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,230,0,12]", "digest":"BAD以上でスコア23%UPライフ12回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア23%UPライフ12回復"
+  },
+  {
+    "id":16000206, "effect_arg_no":90002, "level":6, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,240,0,12]", "digest":"BAD以上でスコア24%UPライフ12回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア24%UPライフ12回復"
+  },
+  {
+    "id":16000207, "effect_arg_no":90002, "level":7, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,250,0,13]", "digest":"BAD以上でスコア25%UPライフ13回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア25%UPライフ13回復"
+  },
+  {
+    "id":16000208, "effect_arg_no":90002, "level":8, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,260,0,13]", "digest":"BAD以上でスコア26%UPライフ13回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア26%UPライフ13回復"
+  },
+  {
+    "id":16000209, "effect_arg_no":90002, "level":9, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,270,0,14]", "digest":"BAD以上でスコア27%UPライフ14回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア27%UPライフ14回復"
+  },
+  {
+    "id":16000210, "effect_arg_no":90002, "level":10, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[0,280,0,15]", "digest":"BAD以上でスコア28%UPライフ15回復", "description":"約10秒毎、中確率で約5秒間BAD以上でスコア28%UPライフ15回復"
+  },
+  {
+    "id":17000001, "effect_arg_no":100000, "level":1, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[5000]", "digest":"発動しているスキルの効果時間を5秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を5秒延ばす"
+  },
+  {
+    "id":17000002, "effect_arg_no":100000, "level":2, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[6000]", "digest":"発動しているスキルの効果時間を6秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を6秒延ばす"
+  },
+  {
+    "id":17000003, "effect_arg_no":100000, "level":3, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[7000]", "digest":"発動しているスキルの効果時間を7秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を7秒延ばす"
+  },
+  {
+    "id":17000004, "effect_arg_no":100000, "level":4, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[8000]", "digest":"発動しているスキルの効果時間を8秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を8秒延ばす"
+  },
+  {
+    "id":17000005, "effect_arg_no":100000, "level":5, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[9000]", "digest":"発動しているスキルの効果時間を9秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を9秒延ばす"
+  },
+  {
+    "id":17000006, "effect_arg_no":100000, "level":6, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[10000]", "digest":"発動しているスキルの効果時間を10秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を10秒延ばす"
+  },
+  {
+    "id":17000007, "effect_arg_no":100000, "level":7, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[11000]", "digest":"発動しているスキルの効果時間を11秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を11秒延ばす"
+  },
+  {
+    "id":17000008, "effect_arg_no":100000, "level":8, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[12000]", "digest":"発動しているスキルの効果時間を12秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を12秒延ばす"
+  },
+  {
+    "id":17000009, "effect_arg_no":100000, "level":9, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[13000]", "digest":"発動しているスキルの効果時間を13秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を13秒延ばす"
+  },
+  {
+    "id":17000010, "effect_arg_no":100000, "level":10, "interval":10000, "probability":50, "duration":5000, "damage":0, "effect_args":"[14000]", "digest":"発動しているスキルの効果時間を14秒延ばす", "description":"約10秒毎、中確率で約5秒間発動しているスキルの効果時間を14秒延ばす"
   }
 ]

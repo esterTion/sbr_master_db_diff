@@ -468,6 +468,9 @@
     "id":70102, "category":"DeckNo", "name":"Max", "value":"20"
   },
   {
+    "id":70103, "category":"DeckNo", "name":"Tower", "value":"100"
+  },
+  {
     "id":70201, "category":"DeckTarget", "name":"All", "value":"1"
   },
   {
@@ -792,6 +795,9 @@
     "id":150016, "category":"ItemCategory", "name":"PotentialSeal", "value":"16"
   },
   {
+    "id":150017, "category":"ItemCategory", "name":"TowerReuse", "value":"17"
+  },
+  {
     "id":150018, "category":"ItemCategory", "name":"AbilityManure", "value":"18"
   },
   {
@@ -820,6 +826,9 @@
   },
   {
     "id":150109, "category":"ItemId", "name":"PotentialSeal", "value":"160001"
+  },
+  {
+    "id":150110, "category":"ItemId", "name":"TowerReuse", "value":"170001"
   },
   {
     "id":160000, "category":"PresentBox", "name":"PerPage", "value":"20"
@@ -1729,5 +1738,29 @@
   },
   {
     "id":380114, "category":"PotentialEffectType", "name":"DarkResistOverwrite", "value":"13"
+  },
+  {
+    "id":390101, "category":"Tower", "name":"ReuseLimit", "value":"24"
+  },
+  {
+    "id":390201, "category":"TowerPlayStatus", "name":"SelectCourse", "value":"1"
+  },
+  {
+    "id":390202, "category":"TowerPlayStatus", "name":"ChallengeCourse", "value":"2"
+  },
+  {
+    "id":390203, "category":"TowerPlayStatus", "name":"PlayLive", "value":"3"
+  },
+  {
+    "id":390301, "category":"TowerDamageBonus", "name":"Fail", "value":"1"
+  },
+  {
+    "id":390302, "category":"TowerDamageBonus", "name":"Normal", "value":"1.5"
+  },
+  {
+    "id":390303, "category":"TowerDamageBonus", "name":"FullCombo", "value":"1.7"
+  },
+  {
+    "id":390304, "category":"TowerDamageBonus", "name":"FullPerfect", "value":"2"
   }
 ]

@@ -1,3 +1,2048 @@
 [
-  
+  {
+    "id":110100, "ability_id":1101, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":110101, "ability_id":1101, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":110102, "ability_id":1101, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":110103, "ability_id":1101, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":110104, "ability_id":1101, "level":4, "consume_soundle":150000, "ability_recipe_no":14011, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":110105, "ability_id":1101, "level":5, "consume_soundle":300000, "ability_recipe_no":15011, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":110106, "ability_id":1101, "level":6, "consume_soundle":600000, "ability_recipe_no":16011, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":110107, "ability_id":1101, "level":7, "consume_soundle":800000, "ability_recipe_no":17011, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":110108, "ability_id":1101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18011, "ability_effect_type":1, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ましゅましゅ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":110109, "ability_id":1101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19011, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":110110, "ability_id":1101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":120100, "ability_id":1201, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":120101, "ability_id":1201, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":120102, "ability_id":1201, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":120103, "ability_id":1201, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":120104, "ability_id":1201, "level":4, "consume_soundle":150000, "ability_recipe_no":14012, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":120105, "ability_id":1201, "level":5, "consume_soundle":300000, "ability_recipe_no":15012, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":120106, "ability_id":1201, "level":6, "consume_soundle":600000, "ability_recipe_no":16012, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":120107, "ability_id":1201, "level":7, "consume_soundle":800000, "ability_recipe_no":17012, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":120108, "ability_id":1201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18012, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":120109, "ability_id":1201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19012, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":120110, "ability_id":1201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":130100, "ability_id":1301, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":130101, "ability_id":1301, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":130102, "ability_id":1301, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":130103, "ability_id":1301, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":130104, "ability_id":1301, "level":4, "consume_soundle":150000, "ability_recipe_no":14013, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":130105, "ability_id":1301, "level":5, "consume_soundle":300000, "ability_recipe_no":15013, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":130106, "ability_id":1301, "level":6, "consume_soundle":600000, "ability_recipe_no":16013, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":130107, "ability_id":1301, "level":7, "consume_soundle":800000, "ability_recipe_no":17013, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":130108, "ability_id":1301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18013, "ability_effect_type":1, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ましゅましゅ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":130109, "ability_id":1301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19013, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":130110, "ability_id":1301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":140100, "ability_id":1401, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":140101, "ability_id":1401, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":140102, "ability_id":1401, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":140103, "ability_id":1401, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":140104, "ability_id":1401, "level":4, "consume_soundle":150000, "ability_recipe_no":14012, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":140105, "ability_id":1401, "level":5, "consume_soundle":300000, "ability_recipe_no":15012, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":140106, "ability_id":1401, "level":6, "consume_soundle":600000, "ability_recipe_no":16012, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":140107, "ability_id":1401, "level":7, "consume_soundle":800000, "ability_recipe_no":17014, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":140108, "ability_id":1401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18014, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ましゅましゅ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":140109, "ability_id":1401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19014, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":140110, "ability_id":1401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":210100, "ability_id":2101, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":210101, "ability_id":2101, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":210102, "ability_id":2101, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":210103, "ability_id":2101, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":210104, "ability_id":2101, "level":4, "consume_soundle":150000, "ability_recipe_no":14021, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":210105, "ability_id":2101, "level":5, "consume_soundle":300000, "ability_recipe_no":15021, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":210106, "ability_id":2101, "level":6, "consume_soundle":600000, "ability_recipe_no":16021, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":210107, "ability_id":2101, "level":7, "consume_soundle":800000, "ability_recipe_no":17021, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":210108, "ability_id":2101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18021, "ability_effect_type":1, "ability_effect_args":"{\"id\":2,\"combo\":10,\"score\":10}", "description":"プラズマ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":210109, "ability_id":2101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19021, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":210110, "ability_id":2101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":220100, "ability_id":2201, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":220101, "ability_id":2201, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":220102, "ability_id":2201, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":220103, "ability_id":2201, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":220104, "ability_id":2201, "level":4, "consume_soundle":150000, "ability_recipe_no":14023, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":220105, "ability_id":2201, "level":5, "consume_soundle":300000, "ability_recipe_no":15023, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":220106, "ability_id":2201, "level":6, "consume_soundle":600000, "ability_recipe_no":16023, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":220107, "ability_id":2201, "level":7, "consume_soundle":800000, "ability_recipe_no":17022, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":220108, "ability_id":2201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18022, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":220109, "ability_id":2201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19022, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":220110, "ability_id":2201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":230100, "ability_id":2301, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":230101, "ability_id":2301, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":230102, "ability_id":2301, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":230103, "ability_id":2301, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":230104, "ability_id":2301, "level":4, "consume_soundle":150000, "ability_recipe_no":14021, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":230105, "ability_id":2301, "level":5, "consume_soundle":300000, "ability_recipe_no":15021, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":230106, "ability_id":2301, "level":6, "consume_soundle":600000, "ability_recipe_no":16021, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":230107, "ability_id":2301, "level":7, "consume_soundle":800000, "ability_recipe_no":17023, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":230108, "ability_id":2301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18023, "ability_effect_type":1, "ability_effect_args":"{\"id\":2,\"combo\":10,\"score\":10}", "description":"プラズマ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":230109, "ability_id":2301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19023, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":230110, "ability_id":2301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":240100, "ability_id":2401, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":240101, "ability_id":2401, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":240102, "ability_id":2401, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":240103, "ability_id":2401, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":240104, "ability_id":2401, "level":4, "consume_soundle":150000, "ability_recipe_no":14022, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":240105, "ability_id":2401, "level":5, "consume_soundle":300000, "ability_recipe_no":15022, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":240106, "ability_id":2401, "level":6, "consume_soundle":600000, "ability_recipe_no":16022, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":240107, "ability_id":2401, "level":7, "consume_soundle":800000, "ability_recipe_no":17024, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":240108, "ability_id":2401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18024, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":240109, "ability_id":2401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19024, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":240110, "ability_id":2401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":310100, "ability_id":3101, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":310101, "ability_id":3101, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":310102, "ability_id":3101, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":310103, "ability_id":3101, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":310104, "ability_id":3101, "level":4, "consume_soundle":150000, "ability_recipe_no":14033, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":310105, "ability_id":3101, "level":5, "consume_soundle":300000, "ability_recipe_no":15033, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":310106, "ability_id":3101, "level":6, "consume_soundle":600000, "ability_recipe_no":16033, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":310107, "ability_id":3101, "level":7, "consume_soundle":800000, "ability_recipe_no":17031, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":310108, "ability_id":3101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18031, "ability_effect_type":1, "ability_effect_args":"{\"id\":3,\"combo\":10,\"score\":10}", "description":"徒然楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":310109, "ability_id":3101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19031, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":310110, "ability_id":3101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":320100, "ability_id":3201, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":320101, "ability_id":3201, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":320102, "ability_id":3201, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":320103, "ability_id":3201, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":320104, "ability_id":3201, "level":4, "consume_soundle":150000, "ability_recipe_no":14032, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":320105, "ability_id":3201, "level":5, "consume_soundle":300000, "ability_recipe_no":15032, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":320106, "ability_id":3201, "level":6, "consume_soundle":600000, "ability_recipe_no":16032, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":320107, "ability_id":3201, "level":7, "consume_soundle":800000, "ability_recipe_no":17032, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":320108, "ability_id":3201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18032, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":320109, "ability_id":3201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19032, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":320110, "ability_id":3201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":330100, "ability_id":3301, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":330101, "ability_id":3301, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":330102, "ability_id":3301, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":330103, "ability_id":3301, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":330104, "ability_id":3301, "level":4, "consume_soundle":150000, "ability_recipe_no":14031, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":330105, "ability_id":3301, "level":5, "consume_soundle":300000, "ability_recipe_no":15031, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":330106, "ability_id":3301, "level":6, "consume_soundle":600000, "ability_recipe_no":16031, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":330107, "ability_id":3301, "level":7, "consume_soundle":800000, "ability_recipe_no":17033, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":330108, "ability_id":3301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18033, "ability_effect_type":1, "ability_effect_args":"{\"id\":3,\"combo\":10,\"score\":10}", "description":"徒然楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":330109, "ability_id":3301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19033, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":330110, "ability_id":3301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":410100, "ability_id":4101, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":410101, "ability_id":4101, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":410102, "ability_id":4101, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":410103, "ability_id":4101, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":410104, "ability_id":4101, "level":4, "consume_soundle":150000, "ability_recipe_no":14041, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":410105, "ability_id":4101, "level":5, "consume_soundle":300000, "ability_recipe_no":15041, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":410106, "ability_id":4101, "level":6, "consume_soundle":600000, "ability_recipe_no":16041, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":410107, "ability_id":4101, "level":7, "consume_soundle":800000, "ability_recipe_no":17041, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":410108, "ability_id":4101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18041, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":410109, "ability_id":4101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19041, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":410110, "ability_id":4101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":420100, "ability_id":4201, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":420101, "ability_id":4201, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":420102, "ability_id":4201, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":420103, "ability_id":4201, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":420104, "ability_id":4201, "level":4, "consume_soundle":150000, "ability_recipe_no":14043, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":420105, "ability_id":4201, "level":5, "consume_soundle":300000, "ability_recipe_no":15043, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":420106, "ability_id":4201, "level":6, "consume_soundle":600000, "ability_recipe_no":16043, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":420107, "ability_id":4201, "level":7, "consume_soundle":800000, "ability_recipe_no":17042, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":420108, "ability_id":4201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18042, "ability_effect_type":1, "ability_effect_args":"{\"id\":4,\"combo\":10,\"score\":10}", "description":"BVL楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":420109, "ability_id":4201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19042, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":420110, "ability_id":4201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":430100, "ability_id":4301, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":430101, "ability_id":4301, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":430102, "ability_id":4301, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":430103, "ability_id":4301, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":430104, "ability_id":4301, "level":4, "consume_soundle":150000, "ability_recipe_no":14042, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":430105, "ability_id":4301, "level":5, "consume_soundle":300000, "ability_recipe_no":15042, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":430106, "ability_id":4301, "level":6, "consume_soundle":600000, "ability_recipe_no":16042, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":430107, "ability_id":4301, "level":7, "consume_soundle":800000, "ability_recipe_no":17043, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":430108, "ability_id":4301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18043, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":430109, "ability_id":4301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19043, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":430110, "ability_id":4301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":510100, "ability_id":5101, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":510101, "ability_id":5101, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":510102, "ability_id":5101, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":510103, "ability_id":5101, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":510104, "ability_id":5101, "level":4, "consume_soundle":150000, "ability_recipe_no":14052, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":510105, "ability_id":5101, "level":5, "consume_soundle":300000, "ability_recipe_no":15052, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":510106, "ability_id":5101, "level":6, "consume_soundle":600000, "ability_recipe_no":16052, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":510107, "ability_id":5101, "level":7, "consume_soundle":800000, "ability_recipe_no":17051, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":510108, "ability_id":5101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18051, "ability_effect_type":1, "ability_effect_args":"{\"id\":5,\"combo\":10,\"score\":10}", "description":"レイジン楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":510109, "ability_id":5101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19051, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":510110, "ability_id":5101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":520100, "ability_id":5201, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":520101, "ability_id":5201, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":520102, "ability_id":5201, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":520103, "ability_id":5201, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":520104, "ability_id":5201, "level":4, "consume_soundle":150000, "ability_recipe_no":14051, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":520105, "ability_id":5201, "level":5, "consume_soundle":300000, "ability_recipe_no":15051, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":520106, "ability_id":5201, "level":6, "consume_soundle":600000, "ability_recipe_no":16051, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":520107, "ability_id":5201, "level":7, "consume_soundle":800000, "ability_recipe_no":17052, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":520108, "ability_id":5201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18052, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":520109, "ability_id":5201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19052, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":520110, "ability_id":5201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":530100, "ability_id":5301, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":530101, "ability_id":5301, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":530102, "ability_id":5301, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":530103, "ability_id":5301, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":530104, "ability_id":5301, "level":4, "consume_soundle":150000, "ability_recipe_no":14053, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":530105, "ability_id":5301, "level":5, "consume_soundle":300000, "ability_recipe_no":15053, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":530106, "ability_id":5301, "level":6, "consume_soundle":600000, "ability_recipe_no":16053, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":530107, "ability_id":5301, "level":7, "consume_soundle":800000, "ability_recipe_no":17053, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":530108, "ability_id":5301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18053, "ability_effect_type":1, "ability_effect_args":"{\"id\":5,\"combo\":10,\"score\":10}", "description":"レイジン楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":530109, "ability_id":5301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19053, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":530110, "ability_id":5301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":610100, "ability_id":6101, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":610101, "ability_id":6101, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":610102, "ability_id":6101, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":610103, "ability_id":6101, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":610104, "ability_id":6101, "level":4, "consume_soundle":150000, "ability_recipe_no":14063, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":610105, "ability_id":6101, "level":5, "consume_soundle":300000, "ability_recipe_no":15063, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":610106, "ability_id":6101, "level":6, "consume_soundle":600000, "ability_recipe_no":16063, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":610107, "ability_id":6101, "level":7, "consume_soundle":800000, "ability_recipe_no":17061, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":610108, "ability_id":6101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18061, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":610109, "ability_id":6101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19061, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":610110, "ability_id":6101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":620100, "ability_id":6201, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":620101, "ability_id":6201, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":620102, "ability_id":6201, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":620103, "ability_id":6201, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":620104, "ability_id":6201, "level":4, "consume_soundle":150000, "ability_recipe_no":14062, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":620105, "ability_id":6201, "level":5, "consume_soundle":300000, "ability_recipe_no":15062, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":620106, "ability_id":6201, "level":6, "consume_soundle":600000, "ability_recipe_no":16062, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":620107, "ability_id":6201, "level":7, "consume_soundle":800000, "ability_recipe_no":17062, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":620108, "ability_id":6201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18062, "ability_effect_type":1, "ability_effect_args":"{\"id\":6,\"combo\":10,\"score\":10}", "description":"どこゆび楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":620109, "ability_id":6201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19062, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":620110, "ability_id":6201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":630100, "ability_id":6301, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":630101, "ability_id":6301, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":630102, "ability_id":6301, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":630103, "ability_id":6301, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":630104, "ability_id":6301, "level":4, "consume_soundle":150000, "ability_recipe_no":14061, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":630105, "ability_id":6301, "level":5, "consume_soundle":300000, "ability_recipe_no":15061, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":630106, "ability_id":6301, "level":6, "consume_soundle":600000, "ability_recipe_no":16061, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":630107, "ability_id":6301, "level":7, "consume_soundle":800000, "ability_recipe_no":17063, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":630108, "ability_id":6301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18063, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":630109, "ability_id":6301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19063, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":630110, "ability_id":6301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":640100, "ability_id":6401, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":640101, "ability_id":6401, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":640102, "ability_id":6401, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":640103, "ability_id":6401, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":640104, "ability_id":6401, "level":4, "consume_soundle":150000, "ability_recipe_no":14062, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":640105, "ability_id":6401, "level":5, "consume_soundle":300000, "ability_recipe_no":15062, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":640106, "ability_id":6401, "level":6, "consume_soundle":600000, "ability_recipe_no":16062, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":640107, "ability_id":6401, "level":7, "consume_soundle":800000, "ability_recipe_no":17064, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":640108, "ability_id":6401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18064, "ability_effect_type":1, "ability_effect_args":"{\"id\":6,\"combo\":10,\"score\":10}", "description":"どこゆび楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":640109, "ability_id":6401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19064, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":640110, "ability_id":6401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":710100, "ability_id":7101, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":710101, "ability_id":7101, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":710102, "ability_id":7101, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":710103, "ability_id":7101, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":710104, "ability_id":7101, "level":4, "consume_soundle":150000, "ability_recipe_no":14071, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":710105, "ability_id":7101, "level":5, "consume_soundle":300000, "ability_recipe_no":15071, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":710106, "ability_id":7101, "level":6, "consume_soundle":600000, "ability_recipe_no":16071, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":710107, "ability_id":7101, "level":7, "consume_soundle":800000, "ability_recipe_no":17071, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":710108, "ability_id":7101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18071, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":710109, "ability_id":7101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19071, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":710110, "ability_id":7101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":720100, "ability_id":7201, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":720101, "ability_id":7201, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":720102, "ability_id":7201, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":720103, "ability_id":7201, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":720104, "ability_id":7201, "level":4, "consume_soundle":150000, "ability_recipe_no":14073, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":720105, "ability_id":7201, "level":5, "consume_soundle":300000, "ability_recipe_no":15073, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":720106, "ability_id":7201, "level":6, "consume_soundle":600000, "ability_recipe_no":16073, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":720107, "ability_id":7201, "level":7, "consume_soundle":800000, "ability_recipe_no":17072, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":720108, "ability_id":7201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18072, "ability_effect_type":1, "ability_effect_args":"{\"id\":7,\"combo\":10,\"score\":10}", "description":"シンガン楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":720109, "ability_id":7201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19072, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":720110, "ability_id":7201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":730100, "ability_id":7301, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":730101, "ability_id":7301, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":730102, "ability_id":7301, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":730103, "ability_id":7301, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":730104, "ability_id":7301, "level":4, "consume_soundle":150000, "ability_recipe_no":14073, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":730105, "ability_id":7301, "level":5, "consume_soundle":300000, "ability_recipe_no":15073, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":730106, "ability_id":7301, "level":6, "consume_soundle":600000, "ability_recipe_no":16073, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":730107, "ability_id":7301, "level":7, "consume_soundle":800000, "ability_recipe_no":17073, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":730108, "ability_id":7301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18073, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":730109, "ability_id":7301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19073, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":730110, "ability_id":7301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":740100, "ability_id":7401, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":740101, "ability_id":7401, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":740102, "ability_id":7401, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":740103, "ability_id":7401, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":740104, "ability_id":7401, "level":4, "consume_soundle":150000, "ability_recipe_no":14072, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":740105, "ability_id":7401, "level":5, "consume_soundle":300000, "ability_recipe_no":15072, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":740106, "ability_id":7401, "level":6, "consume_soundle":600000, "ability_recipe_no":16072, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":740107, "ability_id":7401, "level":7, "consume_soundle":800000, "ability_recipe_no":17074, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":740108, "ability_id":7401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18074, "ability_effect_type":1, "ability_effect_args":"{\"id\":7,\"combo\":10,\"score\":10}", "description":"シンガン楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":740109, "ability_id":7401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19074, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":740110, "ability_id":7401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":810100, "ability_id":8101, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":810101, "ability_id":8101, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":810102, "ability_id":8101, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":810103, "ability_id":8101, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":810104, "ability_id":8101, "level":4, "consume_soundle":150000, "ability_recipe_no":14083, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":810105, "ability_id":8101, "level":5, "consume_soundle":300000, "ability_recipe_no":15083, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":810106, "ability_id":8101, "level":6, "consume_soundle":600000, "ability_recipe_no":16083, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":810107, "ability_id":8101, "level":7, "consume_soundle":800000, "ability_recipe_no":17081, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":810108, "ability_id":8101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18081, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":810109, "ability_id":8101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19081, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":810110, "ability_id":8101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":820100, "ability_id":8201, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":820101, "ability_id":8201, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":820102, "ability_id":8201, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":820103, "ability_id":8201, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":820104, "ability_id":8201, "level":4, "consume_soundle":150000, "ability_recipe_no":14082, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":820105, "ability_id":8201, "level":5, "consume_soundle":300000, "ability_recipe_no":15082, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":820106, "ability_id":8201, "level":6, "consume_soundle":600000, "ability_recipe_no":16082, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":820107, "ability_id":8201, "level":7, "consume_soundle":800000, "ability_recipe_no":17082, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":820108, "ability_id":8201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18082, "ability_effect_type":1, "ability_effect_args":"{\"id\":8,\"combo\":10,\"score\":10}", "description":"トラクロ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":820109, "ability_id":8201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19082, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":820110, "ability_id":8201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":830100, "ability_id":8301, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":830101, "ability_id":8301, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":830102, "ability_id":8301, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":830103, "ability_id":8301, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":830104, "ability_id":8301, "level":4, "consume_soundle":150000, "ability_recipe_no":14081, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":830105, "ability_id":8301, "level":5, "consume_soundle":300000, "ability_recipe_no":15081, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":830106, "ability_id":8301, "level":6, "consume_soundle":600000, "ability_recipe_no":16081, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":830107, "ability_id":8301, "level":7, "consume_soundle":800000, "ability_recipe_no":17083, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":830108, "ability_id":8301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18083, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":830109, "ability_id":8301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19083, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":830110, "ability_id":8301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":910100, "ability_id":9101, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":910101, "ability_id":9101, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":910102, "ability_id":9101, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":910103, "ability_id":9101, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":910104, "ability_id":9101, "level":4, "consume_soundle":150000, "ability_recipe_no":14093, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":910105, "ability_id":9101, "level":5, "consume_soundle":300000, "ability_recipe_no":15093, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":910106, "ability_id":9101, "level":6, "consume_soundle":600000, "ability_recipe_no":16093, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":910107, "ability_id":9101, "level":7, "consume_soundle":800000, "ability_recipe_no":17091, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":910108, "ability_id":9101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18091, "ability_effect_type":1, "ability_effect_args":"{\"id\":9,\"combo\":10,\"score\":10}", "description":"アルカレ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":910109, "ability_id":9101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19091, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":910110, "ability_id":9101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":920100, "ability_id":9201, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":920101, "ability_id":9201, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":920102, "ability_id":9201, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":920103, "ability_id":9201, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":920104, "ability_id":9201, "level":4, "consume_soundle":150000, "ability_recipe_no":14093, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":920105, "ability_id":9201, "level":5, "consume_soundle":300000, "ability_recipe_no":15093, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":920106, "ability_id":9201, "level":6, "consume_soundle":600000, "ability_recipe_no":16093, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":920107, "ability_id":9201, "level":7, "consume_soundle":800000, "ability_recipe_no":17092, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":920108, "ability_id":9201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18092, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":920109, "ability_id":9201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19092, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":920110, "ability_id":9201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":930100, "ability_id":9301, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":930101, "ability_id":9301, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":930102, "ability_id":9301, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":930103, "ability_id":9301, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":930104, "ability_id":9301, "level":4, "consume_soundle":150000, "ability_recipe_no":14092, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":930105, "ability_id":9301, "level":5, "consume_soundle":300000, "ability_recipe_no":15092, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":930106, "ability_id":9301, "level":6, "consume_soundle":600000, "ability_recipe_no":16092, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":930107, "ability_id":9301, "level":7, "consume_soundle":800000, "ability_recipe_no":17093, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":930108, "ability_id":9301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18093, "ability_effect_type":1, "ability_effect_args":"{\"id\":9,\"combo\":10,\"score\":10}", "description":"アルカレ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":930109, "ability_id":9301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19093, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":930110, "ability_id":9301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":940100, "ability_id":9401, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":940101, "ability_id":9401, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":940102, "ability_id":9401, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":940103, "ability_id":9401, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":940104, "ability_id":9401, "level":4, "consume_soundle":150000, "ability_recipe_no":14092, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":940105, "ability_id":9401, "level":5, "consume_soundle":300000, "ability_recipe_no":15092, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":940106, "ability_id":9401, "level":6, "consume_soundle":600000, "ability_recipe_no":16092, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":940107, "ability_id":9401, "level":7, "consume_soundle":800000, "ability_recipe_no":17094, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":940108, "ability_id":9401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18094, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":940109, "ability_id":9401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19094, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":940110, "ability_id":9401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1010100, "ability_id":10101, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1010101, "ability_id":10101, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1010102, "ability_id":10101, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1010103, "ability_id":10101, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1010104, "ability_id":10101, "level":4, "consume_soundle":150000, "ability_recipe_no":14101, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1010105, "ability_id":10101, "level":5, "consume_soundle":300000, "ability_recipe_no":15101, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1010106, "ability_id":10101, "level":6, "consume_soundle":600000, "ability_recipe_no":16101, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1010107, "ability_id":10101, "level":7, "consume_soundle":800000, "ability_recipe_no":17101, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1010108, "ability_id":10101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18101, "ability_effect_type":1, "ability_effect_args":"{\"id\":10,\"combo\":10,\"score\":10}", "description":"クリクリ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1010109, "ability_id":10101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19101, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1010110, "ability_id":10101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1020100, "ability_id":10201, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1020101, "ability_id":10201, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1020102, "ability_id":10201, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1020103, "ability_id":10201, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1020104, "ability_id":10201, "level":4, "consume_soundle":150000, "ability_recipe_no":14103, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1020105, "ability_id":10201, "level":5, "consume_soundle":300000, "ability_recipe_no":15103, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1020106, "ability_id":10201, "level":6, "consume_soundle":600000, "ability_recipe_no":16103, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1020107, "ability_id":10201, "level":7, "consume_soundle":800000, "ability_recipe_no":17102, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1020108, "ability_id":10201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18102, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1020109, "ability_id":10201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19102, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1020110, "ability_id":10201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1030100, "ability_id":10301, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1030101, "ability_id":10301, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1030102, "ability_id":10301, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1030103, "ability_id":10301, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1030104, "ability_id":10301, "level":4, "consume_soundle":150000, "ability_recipe_no":14101, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1030105, "ability_id":10301, "level":5, "consume_soundle":300000, "ability_recipe_no":15101, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1030106, "ability_id":10301, "level":6, "consume_soundle":600000, "ability_recipe_no":16101, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1030107, "ability_id":10301, "level":7, "consume_soundle":800000, "ability_recipe_no":17103, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1030108, "ability_id":10301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18103, "ability_effect_type":1, "ability_effect_args":"{\"id\":10,\"combo\":10,\"score\":10}", "description":"クリクリ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1030109, "ability_id":10301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19103, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1030110, "ability_id":10301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1040100, "ability_id":10401, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1040101, "ability_id":10401, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1040102, "ability_id":10401, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1040103, "ability_id":10401, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1040104, "ability_id":10401, "level":4, "consume_soundle":150000, "ability_recipe_no":14102, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1040105, "ability_id":10401, "level":5, "consume_soundle":300000, "ability_recipe_no":15102, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1040106, "ability_id":10401, "level":6, "consume_soundle":600000, "ability_recipe_no":16102, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1040107, "ability_id":10401, "level":7, "consume_soundle":800000, "ability_recipe_no":17104, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1040108, "ability_id":10401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18104, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1040109, "ability_id":10401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19104, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1040110, "ability_id":10401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1110100, "ability_id":11101, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1110101, "ability_id":11101, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1110102, "ability_id":11101, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1110103, "ability_id":11101, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1110104, "ability_id":11101, "level":4, "consume_soundle":150000, "ability_recipe_no":14111, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1110105, "ability_id":11101, "level":5, "consume_soundle":300000, "ability_recipe_no":15111, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1110106, "ability_id":11101, "level":6, "consume_soundle":600000, "ability_recipe_no":16111, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1110107, "ability_id":11101, "level":7, "consume_soundle":800000, "ability_recipe_no":17111, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1110108, "ability_id":11101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18111, "ability_effect_type":1, "ability_effect_args":"{\"id\":11,\"combo\":10,\"score\":10}", "description":"ヨカゼ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1110109, "ability_id":11101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19111, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1110110, "ability_id":11101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1120100, "ability_id":11201, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1120101, "ability_id":11201, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1120102, "ability_id":11201, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1120103, "ability_id":11201, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1120104, "ability_id":11201, "level":4, "consume_soundle":150000, "ability_recipe_no":14112, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1120105, "ability_id":11201, "level":5, "consume_soundle":300000, "ability_recipe_no":15112, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1120106, "ability_id":11201, "level":6, "consume_soundle":600000, "ability_recipe_no":16112, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1120107, "ability_id":11201, "level":7, "consume_soundle":800000, "ability_recipe_no":17112, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1120108, "ability_id":11201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18112, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1120109, "ability_id":11201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19112, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1120110, "ability_id":11201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1130100, "ability_id":11301, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1130101, "ability_id":11301, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1130102, "ability_id":11301, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1130103, "ability_id":11301, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1130104, "ability_id":11301, "level":4, "consume_soundle":150000, "ability_recipe_no":14113, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1130105, "ability_id":11301, "level":5, "consume_soundle":300000, "ability_recipe_no":15113, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1130106, "ability_id":11301, "level":6, "consume_soundle":600000, "ability_recipe_no":16113, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1130107, "ability_id":11301, "level":7, "consume_soundle":800000, "ability_recipe_no":17113, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1130108, "ability_id":11301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18113, "ability_effect_type":1, "ability_effect_args":"{\"id\":11,\"combo\":10,\"score\":10}", "description":"ヨカゼ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1130109, "ability_id":11301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19113, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1130110, "ability_id":11301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1140100, "ability_id":11401, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1140101, "ability_id":11401, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1140102, "ability_id":11401, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1140103, "ability_id":11401, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1140104, "ability_id":11401, "level":4, "consume_soundle":150000, "ability_recipe_no":14113, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1140105, "ability_id":11401, "level":5, "consume_soundle":300000, "ability_recipe_no":15113, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1140106, "ability_id":11401, "level":6, "consume_soundle":600000, "ability_recipe_no":16113, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1140107, "ability_id":11401, "level":7, "consume_soundle":800000, "ability_recipe_no":17114, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1140108, "ability_id":11401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18114, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1140109, "ability_id":11401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19114, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1140110, "ability_id":11401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1210100, "ability_id":12101, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1210101, "ability_id":12101, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1210102, "ability_id":12101, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1210103, "ability_id":12101, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1210104, "ability_id":12101, "level":4, "consume_soundle":150000, "ability_recipe_no":14121, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1210105, "ability_id":12101, "level":5, "consume_soundle":300000, "ability_recipe_no":15121, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1210106, "ability_id":12101, "level":6, "consume_soundle":600000, "ability_recipe_no":16121, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1210107, "ability_id":12101, "level":7, "consume_soundle":800000, "ability_recipe_no":17121, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1210108, "ability_id":12101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18121, "ability_effect_type":1, "ability_effect_args":"{\"id\":12,\"combo\":10,\"score\":10}", "description":"しにもの楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1210109, "ability_id":12101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19121, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1210110, "ability_id":12101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1220100, "ability_id":12201, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1220101, "ability_id":12201, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1220102, "ability_id":12201, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1220103, "ability_id":12201, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1220104, "ability_id":12201, "level":4, "consume_soundle":150000, "ability_recipe_no":14123, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1220105, "ability_id":12201, "level":5, "consume_soundle":300000, "ability_recipe_no":15123, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1220106, "ability_id":12201, "level":6, "consume_soundle":600000, "ability_recipe_no":16123, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1220107, "ability_id":12201, "level":7, "consume_soundle":800000, "ability_recipe_no":17122, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1220108, "ability_id":12201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18122, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1220109, "ability_id":12201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19122, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1220110, "ability_id":12201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1230100, "ability_id":12301, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1230101, "ability_id":12301, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1230102, "ability_id":12301, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1230103, "ability_id":12301, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1230104, "ability_id":12301, "level":4, "consume_soundle":150000, "ability_recipe_no":14123, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1230105, "ability_id":12301, "level":5, "consume_soundle":300000, "ability_recipe_no":15123, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1230106, "ability_id":12301, "level":6, "consume_soundle":600000, "ability_recipe_no":16123, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1230107, "ability_id":12301, "level":7, "consume_soundle":800000, "ability_recipe_no":17123, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1230108, "ability_id":12301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18123, "ability_effect_type":1, "ability_effect_args":"{\"id\":12,\"combo\":10,\"score\":10}", "description":"しにもの楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1230109, "ability_id":12301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19123, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1230110, "ability_id":12301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1240100, "ability_id":12401, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1240101, "ability_id":12401, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1240102, "ability_id":12401, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1240103, "ability_id":12401, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1240104, "ability_id":12401, "level":4, "consume_soundle":150000, "ability_recipe_no":14121, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1240105, "ability_id":12401, "level":5, "consume_soundle":300000, "ability_recipe_no":15121, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1240106, "ability_id":12401, "level":6, "consume_soundle":600000, "ability_recipe_no":16121, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1240107, "ability_id":12401, "level":7, "consume_soundle":800000, "ability_recipe_no":17124, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1240108, "ability_id":12401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18124, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1240109, "ability_id":12401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19124, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1240110, "ability_id":12401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1250100, "ability_id":12501, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1250101, "ability_id":12501, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1250102, "ability_id":12501, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1250103, "ability_id":12501, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1250104, "ability_id":12501, "level":4, "consume_soundle":150000, "ability_recipe_no":14124, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1250105, "ability_id":12501, "level":5, "consume_soundle":300000, "ability_recipe_no":15124, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1250106, "ability_id":12501, "level":6, "consume_soundle":600000, "ability_recipe_no":16124, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1250107, "ability_id":12501, "level":7, "consume_soundle":800000, "ability_recipe_no":17125, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1250108, "ability_id":12501, "level":8, "consume_soundle":1000000, "ability_recipe_no":18125, "ability_effect_type":1, "ability_effect_args":"{\"id\":12,\"combo\":10,\"score\":10}", "description":"しにもの楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1250109, "ability_id":12501, "level":9, "consume_soundle":1500000, "ability_recipe_no":19125, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1250110, "ability_id":12501, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1310100, "ability_id":13101, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1310101, "ability_id":13101, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1310102, "ability_id":13101, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1310103, "ability_id":13101, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1310104, "ability_id":13101, "level":4, "consume_soundle":150000, "ability_recipe_no":14131, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1310105, "ability_id":13101, "level":5, "consume_soundle":300000, "ability_recipe_no":15131, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1310106, "ability_id":13101, "level":6, "consume_soundle":600000, "ability_recipe_no":16131, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1310107, "ability_id":13101, "level":7, "consume_soundle":800000, "ability_recipe_no":17131, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1310108, "ability_id":13101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18131, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1310109, "ability_id":13101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19131, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1310110, "ability_id":13101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1320100, "ability_id":13201, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1320101, "ability_id":13201, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1320102, "ability_id":13201, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1320103, "ability_id":13201, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1320104, "ability_id":13201, "level":4, "consume_soundle":150000, "ability_recipe_no":14133, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1320105, "ability_id":13201, "level":5, "consume_soundle":300000, "ability_recipe_no":15133, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1320106, "ability_id":13201, "level":6, "consume_soundle":600000, "ability_recipe_no":16133, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1320107, "ability_id":13201, "level":7, "consume_soundle":800000, "ability_recipe_no":17132, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1320108, "ability_id":13201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18132, "ability_effect_type":1, "ability_effect_args":"{\"id\":13,\"combo\":10,\"score\":10}", "description":"ウワペタ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1320109, "ability_id":13201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19132, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1320110, "ability_id":13201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1330100, "ability_id":13301, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1330101, "ability_id":13301, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1330102, "ability_id":13301, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1330103, "ability_id":13301, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1330104, "ability_id":13301, "level":4, "consume_soundle":150000, "ability_recipe_no":14131, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1330105, "ability_id":13301, "level":5, "consume_soundle":300000, "ability_recipe_no":15131, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1330106, "ability_id":13301, "level":6, "consume_soundle":600000, "ability_recipe_no":16131, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1330107, "ability_id":13301, "level":7, "consume_soundle":800000, "ability_recipe_no":17133, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1330108, "ability_id":13301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18133, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1330109, "ability_id":13301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19133, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1330110, "ability_id":13301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1340100, "ability_id":13401, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1340101, "ability_id":13401, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1340102, "ability_id":13401, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1340103, "ability_id":13401, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1340104, "ability_id":13401, "level":4, "consume_soundle":150000, "ability_recipe_no":14132, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1340105, "ability_id":13401, "level":5, "consume_soundle":300000, "ability_recipe_no":15132, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1340106, "ability_id":13401, "level":6, "consume_soundle":600000, "ability_recipe_no":16132, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1340107, "ability_id":13401, "level":7, "consume_soundle":800000, "ability_recipe_no":17134, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1340108, "ability_id":13401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18134, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1340109, "ability_id":13401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19134, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1340110, "ability_id":13401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1410100, "ability_id":14101, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1410101, "ability_id":14101, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1410102, "ability_id":14101, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1410103, "ability_id":14101, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1410104, "ability_id":14101, "level":4, "consume_soundle":150000, "ability_recipe_no":14142, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1410105, "ability_id":14101, "level":5, "consume_soundle":300000, "ability_recipe_no":15142, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1410106, "ability_id":14101, "level":6, "consume_soundle":600000, "ability_recipe_no":16142, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1410107, "ability_id":14101, "level":7, "consume_soundle":800000, "ability_recipe_no":17141, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1410108, "ability_id":14101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18141, "ability_effect_type":1, "ability_effect_args":"{\"id\":14,\"combo\":10,\"score\":10}", "description":"忍迅雷音楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1410109, "ability_id":14101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19141, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1410110, "ability_id":14101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1420100, "ability_id":14201, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1420101, "ability_id":14201, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1420102, "ability_id":14201, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1420103, "ability_id":14201, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1420104, "ability_id":14201, "level":4, "consume_soundle":150000, "ability_recipe_no":14143, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1420105, "ability_id":14201, "level":5, "consume_soundle":300000, "ability_recipe_no":15143, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1420106, "ability_id":14201, "level":6, "consume_soundle":600000, "ability_recipe_no":16143, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1420107, "ability_id":14201, "level":7, "consume_soundle":800000, "ability_recipe_no":17142, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1420108, "ability_id":14201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18142, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1420109, "ability_id":14201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19142, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1420110, "ability_id":14201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1430100, "ability_id":14301, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1430101, "ability_id":14301, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1430102, "ability_id":14301, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1430103, "ability_id":14301, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1430104, "ability_id":14301, "level":4, "consume_soundle":150000, "ability_recipe_no":14141, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1430105, "ability_id":14301, "level":5, "consume_soundle":300000, "ability_recipe_no":15141, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1430106, "ability_id":14301, "level":6, "consume_soundle":600000, "ability_recipe_no":16141, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1430107, "ability_id":14301, "level":7, "consume_soundle":800000, "ability_recipe_no":17143, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1430108, "ability_id":14301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18143, "ability_effect_type":1, "ability_effect_args":"{\"id\":14,\"combo\":10,\"score\":10}", "description":"忍迅楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1430109, "ability_id":14301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19143, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1430110, "ability_id":14301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1440100, "ability_id":14401, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1440101, "ability_id":14401, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1440102, "ability_id":14401, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1440103, "ability_id":14401, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1440104, "ability_id":14401, "level":4, "consume_soundle":150000, "ability_recipe_no":14142, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1440105, "ability_id":14401, "level":5, "consume_soundle":300000, "ability_recipe_no":15142, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1440106, "ability_id":14401, "level":6, "consume_soundle":600000, "ability_recipe_no":16142, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1440107, "ability_id":14401, "level":7, "consume_soundle":800000, "ability_recipe_no":17144, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1440108, "ability_id":14401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18144, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1440109, "ability_id":14401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19144, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1440110, "ability_id":14401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1510100, "ability_id":15101, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1510101, "ability_id":15101, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1510102, "ability_id":15101, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1510103, "ability_id":15101, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1510104, "ability_id":15101, "level":4, "consume_soundle":150000, "ability_recipe_no":14152, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1510105, "ability_id":15101, "level":5, "consume_soundle":300000, "ability_recipe_no":15152, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1510106, "ability_id":15101, "level":6, "consume_soundle":600000, "ability_recipe_no":16152, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1510107, "ability_id":15101, "level":7, "consume_soundle":800000, "ability_recipe_no":17151, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1510108, "ability_id":15101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18151, "ability_effect_type":1, "ability_effect_args":"{\"id\":15,\"combo\":10,\"score\":10}", "description":"ゼロティク楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1510109, "ability_id":15101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19151, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1510110, "ability_id":15101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1520100, "ability_id":15201, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1520101, "ability_id":15201, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1520102, "ability_id":15201, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1520103, "ability_id":15201, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1520104, "ability_id":15201, "level":4, "consume_soundle":150000, "ability_recipe_no":14153, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1520105, "ability_id":15201, "level":5, "consume_soundle":300000, "ability_recipe_no":15153, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1520106, "ability_id":15201, "level":6, "consume_soundle":600000, "ability_recipe_no":16153, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1520107, "ability_id":15201, "level":7, "consume_soundle":800000, "ability_recipe_no":17152, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1520108, "ability_id":15201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18152, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1520109, "ability_id":15201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19152, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1520110, "ability_id":15201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1530100, "ability_id":15301, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1530101, "ability_id":15301, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1530102, "ability_id":15301, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1530103, "ability_id":15301, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1530104, "ability_id":15301, "level":4, "consume_soundle":150000, "ability_recipe_no":14151, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1530105, "ability_id":15301, "level":5, "consume_soundle":300000, "ability_recipe_no":15151, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1530106, "ability_id":15301, "level":6, "consume_soundle":600000, "ability_recipe_no":16151, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1530107, "ability_id":15301, "level":7, "consume_soundle":800000, "ability_recipe_no":17153, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1530108, "ability_id":15301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18153, "ability_effect_type":1, "ability_effect_args":"{\"id\":15,\"combo\":10,\"score\":10}", "description":"ゼロティク楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1530109, "ability_id":15301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19153, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1530110, "ability_id":15301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1540100, "ability_id":15401, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1540101, "ability_id":15401, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1540102, "ability_id":15401, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1540103, "ability_id":15401, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1540104, "ability_id":15401, "level":4, "consume_soundle":150000, "ability_recipe_no":14153, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1540105, "ability_id":15401, "level":5, "consume_soundle":300000, "ability_recipe_no":15153, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1540106, "ability_id":15401, "level":6, "consume_soundle":600000, "ability_recipe_no":16153, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1540107, "ability_id":15401, "level":7, "consume_soundle":800000, "ability_recipe_no":17154, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1540108, "ability_id":15401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18154, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1540109, "ability_id":15401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19154, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1540110, "ability_id":15401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1810100, "ability_id":18101, "level":0, "consume_soundle":10000, "ability_recipe_no":10001, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1810101, "ability_id":18101, "level":1, "consume_soundle":30000, "ability_recipe_no":11001, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1810102, "ability_id":18101, "level":2, "consume_soundle":50000, "ability_recipe_no":12001, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1810103, "ability_id":18101, "level":3, "consume_soundle":80000, "ability_recipe_no":13001, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1810104, "ability_id":18101, "level":4, "consume_soundle":150000, "ability_recipe_no":14181, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1810105, "ability_id":18101, "level":5, "consume_soundle":300000, "ability_recipe_no":15181, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1810106, "ability_id":18101, "level":6, "consume_soundle":600000, "ability_recipe_no":16181, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1810107, "ability_id":18101, "level":7, "consume_soundle":800000, "ability_recipe_no":17181, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1810108, "ability_id":18101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18181, "ability_effect_type":1, "ability_effect_args":"{\"id\":18,\"combo\":10,\"score\":10}", "description":"クロモス楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1810109, "ability_id":18101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19181, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1810110, "ability_id":18101, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1820100, "ability_id":18201, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1820101, "ability_id":18201, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1820102, "ability_id":18201, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1820103, "ability_id":18201, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1820104, "ability_id":18201, "level":4, "consume_soundle":150000, "ability_recipe_no":14182, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1820105, "ability_id":18201, "level":5, "consume_soundle":300000, "ability_recipe_no":15182, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1820106, "ability_id":18201, "level":6, "consume_soundle":600000, "ability_recipe_no":16182, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1820107, "ability_id":18201, "level":7, "consume_soundle":800000, "ability_recipe_no":17182, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1820108, "ability_id":18201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18182, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1820109, "ability_id":18201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19182, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1820110, "ability_id":18201, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1830100, "ability_id":18301, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1830101, "ability_id":18301, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1830102, "ability_id":18301, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1830103, "ability_id":18301, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1830104, "ability_id":18301, "level":4, "consume_soundle":150000, "ability_recipe_no":14183, "ability_effect_type":5, "ability_effect_args":"1", "description":"スキルの発動率 ほんの少し増加"
+  },
+  {
+    "id":1830105, "ability_id":18301, "level":5, "consume_soundle":300000, "ability_recipe_no":15183, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1830106, "ability_id":18301, "level":6, "consume_soundle":600000, "ability_recipe_no":16183, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1830107, "ability_id":18301, "level":7, "consume_soundle":800000, "ability_recipe_no":17183, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1830108, "ability_id":18301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18183, "ability_effect_type":1, "ability_effect_args":"{\"id\":18,\"combo\":10,\"score\":10}", "description":"クロモス楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1830109, "ability_id":18301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19183, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1830110, "ability_id":18301, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1840100, "ability_id":18401, "level":0, "consume_soundle":10000, "ability_recipe_no":10002, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1840101, "ability_id":18401, "level":1, "consume_soundle":30000, "ability_recipe_no":11002, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1840102, "ability_id":18401, "level":2, "consume_soundle":50000, "ability_recipe_no":12002, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1840103, "ability_id":18401, "level":3, "consume_soundle":80000, "ability_recipe_no":13002, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1840104, "ability_id":18401, "level":4, "consume_soundle":150000, "ability_recipe_no":14182, "ability_effect_type":3, "ability_effect_args":"100", "description":"アクティブスキルの効果時間 ほんの少し延長"
+  },
+  {
+    "id":1840105, "ability_id":18401, "level":5, "consume_soundle":300000, "ability_recipe_no":15182, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1840106, "ability_id":18401, "level":6, "consume_soundle":600000, "ability_recipe_no":16182, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1840107, "ability_id":18401, "level":7, "consume_soundle":800000, "ability_recipe_no":17184, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1840108, "ability_id":18401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18184, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1840109, "ability_id":18401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19184, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1840110, "ability_id":18401, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  },
+  {
+    "id":1850100, "ability_id":18501, "level":0, "consume_soundle":10000, "ability_recipe_no":10003, "ability_effect_type":0, "ability_effect_args":"null", "description":""
+  },
+  {
+    "id":1850101, "ability_id":18501, "level":1, "consume_soundle":30000, "ability_recipe_no":11003, "ability_effect_type":6, "ability_effect_args":"[3,1,0,0]", "description":"ライフ値+3%、リズム値+1% UP"
+  },
+  {
+    "id":1850102, "ability_id":18501, "level":2, "consume_soundle":50000, "ability_recipe_no":12003, "ability_effect_type":6, "ability_effect_args":"[3,0,1,0]", "description":"ライフ値+3%、メロディ値+1% UP"
+  },
+  {
+    "id":1850103, "ability_id":18501, "level":3, "consume_soundle":80000, "ability_recipe_no":13003, "ability_effect_type":6, "ability_effect_args":"[4,0,0,1]", "description":"ライフ値+4%、ハーモニー値+1% UP"
+  },
+  {
+    "id":1850104, "ability_id":18501, "level":4, "consume_soundle":150000, "ability_recipe_no":14183, "ability_effect_type":4, "ability_effect_args":"2", "description":"アクティブスキルのクールダウン時間 ほんの少し短縮"
+  },
+  {
+    "id":1850105, "ability_id":18501, "level":5, "consume_soundle":300000, "ability_recipe_no":15183, "ability_effect_type":6, "ability_effect_args":"[4,2,0,0]", "description":"ライフ値+4%、リズム値+2% UP"
+  },
+  {
+    "id":1850106, "ability_id":18501, "level":6, "consume_soundle":600000, "ability_recipe_no":16183, "ability_effect_type":6, "ability_effect_args":"[4,0,2,0]", "description":"ライフ値+4%、メロディ値+2% UP"
+  },
+  {
+    "id":1850107, "ability_id":18501, "level":7, "consume_soundle":800000, "ability_recipe_no":17185, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
+  },
+  {
+    "id":1850108, "ability_id":18501, "level":8, "consume_soundle":1000000, "ability_recipe_no":18185, "ability_effect_type":1, "ability_effect_args":"{\"id\":18,\"combo\":10,\"score\":10}", "description":"クロモス楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+  },
+  {
+    "id":1850109, "ability_id":18501, "level":9, "consume_soundle":1500000, "ability_recipe_no":19185, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
+  },
+  {
+    "id":1850110, "ability_id":18501, "level":10, "consume_soundle":0, "ability_recipe_no":0, "ability_effect_type":6, "ability_effect_args":"[5,5,5,5]", "description":"全パラメータ値+5% UP\n潜在能力解放"
+  }
 ]

@@ -111,6 +111,9 @@
     "id":40024, "category":4, "name":"【クロモス】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40025, "category":4, "name":"【バレコレ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -267,6 +270,9 @@
     "id":120024, "category":12, "name":"【クロモス】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120025, "category":12, "name":"【バレコレ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -274,6 +280,9 @@
   },
   {
     "id":130003, "category":13, "name":"イヤホイあめちゃん100", "quantity_max":9999, "ex_params":"{\"stamina\":100}", "description":"イヤホイを100回復するアイテムです"
+  },
+  {
+    "id":130004, "category":13, "name":"バレンタインチョコ", "quantity_max":9999, "ex_params":"{\"stamina\":69}", "description":"心のこもった贈り物。\nイヤホイを69回復するアイテムです。"
   },
   {
     "id":140001, "category":14, "name":"めもりあるポイント", "quantity_max":999999, "ex_params":"{}", "description":"各種イベントで獲得するポイントです"
@@ -301,5 +310,248 @@
   },
   {
     "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":4, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"
+  },
+  {
+    "id":160001, "category":16, "name":"やり直しの鍵", "quantity_max":9999, "ex_params":"{}", "description":"潜在解放したブロマイドを別のブロマイドにやり直しできるアイテムです。"
+  },
+  {
+    "id":180001, "category":18, "name":"ソウルのかけら", "quantity_max":9999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮されたかけら。レゾナンスソウルの強化に必要となる素材です。"
+  },
+  {
+    "id":180004, "category":18, "name":"アルマース", "quantity_max":9999, "ex_params":"{}", "description":"音楽エネルギーが凝縮されたメロディシアンストーンの原石。ソウルの最高レベル強化に必要な素材です。"
+  },
+  {
+    "id":181001, "category":18, "name":"ましゅましゅクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。ましゅましゅメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181002, "category":18, "name":"プラズマクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。プラズマメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181003, "category":18, "name":"徒然クリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。徒然メンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181004, "category":18, "name":"BVLクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。BVLメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181005, "category":18, "name":"レイジンクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。レイジンメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181006, "category":18, "name":"どこゆびクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。どこゆびメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181007, "category":18, "name":"シンガンクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。シンガンメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181008, "category":18, "name":"トラクロクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。トラクロメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181009, "category":18, "name":"アルカレクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。アルカレメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181010, "category":18, "name":"クリクリクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。クリクリメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181011, "category":18, "name":"ヨカゼクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。ヨカゼメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181012, "category":18, "name":"しにものクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。しにものメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181013, "category":18, "name":"ウワペタクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。ウワペタメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181014, "category":18, "name":"忍迅クリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。忍迅メンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181015, "category":18, "name":"ゼロティククリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。ゼロティクメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":181018, "category":18, "name":"クロモスクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。クロモスメンバーのレゾナンスソウル強化に必要な素材です"
+  },
+  {
+    "id":182011, "category":18, "name":"ほわんスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ほわんのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182012, "category":18, "name":"マシマヒメコスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。マシマヒメコのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182013, "category":18, "name":"デルミンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。デルミンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182014, "category":18, "name":"ルフユスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ルフユのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182021, "category":18, "name":"シアンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。シアンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182022, "category":18, "name":"チュチュスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。チュチュのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182023, "category":18, "name":"レトリースフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。レトリーのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182024, "category":18, "name":"モアスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。モアのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182031, "category":18, "name":"ダル太夫スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ダル太夫のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182032, "category":18, "name":"阿スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。阿のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182033, "category":18, "name":"吽スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。吽のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182041, "category":18, "name":"アイレーンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。アイレーンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182042, "category":18, "name":"ペイペインスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ペイペインのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182043, "category":18, "name":"ハンドレッコスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ハンドレッコのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182051, "category":18, "name":"ララリンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ララリンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182052, "category":18, "name":"スモモネスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。スモモネのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182053, "category":18, "name":"ういういスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ういういのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182061, "category":18, "name":"ヤススフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ヤスのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182062, "category":18, "name":"ハッチンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ハッチンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182063, "category":18, "name":"ジョウスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ジョウのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182064, "category":18, "name":"双循スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。双循のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182071, "category":18, "name":"クロウスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。クロウのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182072, "category":18, "name":"アイオーンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。アイオーンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182073, "category":18, "name":"ヤイバスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ヤイバのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182074, "category":18, "name":"ロムスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ロムのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182081, "category":18, "name":"シュウ☆ゾースフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。シュウ☆ゾーのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182082, "category":18, "name":"カイスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。カイのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182083, "category":18, "name":"リクスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。リクのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182091, "category":18, "name":"チタンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。チタンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182092, "category":18, "name":"オリオンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。オリオンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182093, "category":18, "name":"セレンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。セレンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182094, "category":18, "name":"アルゴンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。アルゴンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182101, "category":18, "name":"ロージアスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ロージアのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182102, "category":18, "name":"ツキノスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ツキノのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182103, "category":18, "name":"ホルミースフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ホルミーのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182104, "category":18, "name":"ジャクリンスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ジャクリンのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182111, "category":18, "name":"リカオスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。リカオのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182112, "category":18, "name":"ジャロップスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ジャロップのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182113, "category":18, "name":"クースカスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。クースカのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182114, "category":18, "name":"ウララギスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ウララギのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182121, "category":18, "name":"まりまりスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。まりまりのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182122, "category":18, "name":"でゅらでゅらスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。でゅらでゅらのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182123, "category":18, "name":"もんもんスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。もんもんのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182124, "category":18, "name":"つぎはぎスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。つぎはぎのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182125, "category":18, "name":"がしがしスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。がしがしのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182131, "category":18, "name":"しばりんスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。しばりんのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182132, "category":18, "name":"ぽこえスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ぽこえのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182133, "category":18, "name":"きっつんスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。きっつんのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182134, "category":18, "name":"はっくんスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。はっくんのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182141, "category":18, "name":"嵐スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。嵐のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182142, "category":18, "name":"朧スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。朧のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182143, "category":18, "name":"燐スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。燐のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182144, "category":18, "name":"神威スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。神威のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182151, "category":18, "name":"ぎゃらこスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ぎゃらこのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182152, "category":18, "name":"しまっくスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。しまっくのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182153, "category":18, "name":"れっぱにょスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。れっぱにょのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182154, "category":18, "name":"ギリリスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ギリリのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182181, "category":18, "name":"919スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。919のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182182, "category":18, "name":"151スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。151のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182183, "category":18, "name":"661スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。661のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182184, "category":18, "name":"659スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。659のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182185, "category":18, "name":"13スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。13のレゾナンスソウル強化に必要な素材です。"
   }
 ]

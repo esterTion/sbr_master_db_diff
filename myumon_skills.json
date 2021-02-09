@@ -253,5 +253,17 @@
   },
   {
     "id":152002, "name":"キラキラスコアUP++", "myumon_skill_effect_id":800, "effect_arg_no":80002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":160000, "name":"リカバースコアUP", "myumon_skill_effect_id":900, "effect_arg_no":90000, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":160001, "name":"リカバースコアUP+", "myumon_skill_effect_id":900, "effect_arg_no":90001, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":160002, "name":"リカバースコアUP++", "myumon_skill_effect_id":900, "effect_arg_no":90002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":170000, "name":"タイムプラス", "myumon_skill_effect_id":1000, "effect_arg_no":100000, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   }
 ]

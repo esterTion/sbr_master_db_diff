@@ -1,3 +1,167 @@
 [
-  
+  {
+    "id":101000, "name":"ましゅましゅダブルUP+", "digest":"ましゅましゅ楽曲でスコア20%コンボ補正20%UP", "description":"『Mashumairesh!!』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":1,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":101100, "name":"ましゅましゅスコアUP", "digest":"ましゅましゅ楽曲でスコア20%UP", "description":"『Mashumairesh!!』の楽曲プレイ時、常時スコアが20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":1,\"combo\":0,\"score\":200}"
+  },
+  {
+    "id":101200, "name":"ましゅましゅコンボUP", "digest":"ましゅましゅ楽曲でコンボ補正20%UP", "description":"『Mashumairesh!!』の楽曲プレイ時、常時コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":1,\"combo\":200,\"score\":0}"
+  },
+  {
+    "id":102000, "name":"プラズマダブルUP+", "digest":"プラズマ楽曲でスコア20%コンボ補正20%UP", "description":"『プラズマジカ』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":2,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":102100, "name":"プラズマスコアUP", "digest":"プラズマ楽曲でスコア20%UP", "description":"『プラズマジカ』の楽曲プレイ時、常時スコアが20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":2,\"combo\":0,\"score\":200}"
+  },
+  {
+    "id":103000, "name":"徒然ダブルUP+", "digest":"徒然楽曲でスコア20%コンボ補正20%UP", "description":"『徒然なる操り霧幻庵』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":3,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":104000, "name":"BVLダブルUP+", "digest":"BVL楽曲でスコア20%コンボ補正20%UP", "description":"『BUD VIRGIN LOGIC』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":4,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":104100, "name":"BVLスコアUP", "digest":"BVL楽曲プレイ時スコア20%UP", "description":"『BUD VIRGIN LOGIC』の楽曲プレイ時、常時スコアが20%する", "potential_effect_type":1, "potential_effect_args":"{\"id\":4,\"combo\":0,\"score\":200}"
+  },
+  {
+    "id":105000, "name":"レイジンダブルUP+", "digest":"レイジン楽曲でスコア20%コンボ補正20%UP", "description":"『REIJINGSIGNAL』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":5,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":105100, "name":"レイジンスコアUP", "digest":"レイジン楽曲でスコア20%UP", "description":"『REIJINGSIGNAL』の楽曲プレイ時、常時スコアが20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":5,\"combo\":0,\"score\":200}"
+  },
+  {
+    "id":106000, "name":"どこゆびダブルUP+", "digest":"どこゆび楽曲でスコア20%コンボ補正20%UP", "description":"『DOKONJOFINGER』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":6,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":107000, "name":"シンガンダブルUP+", "digest":"シンガン楽曲でスコア20%コンボ補正20%UP", "description":"『シンガンクリムゾンズ』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":7,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":107100, "name":"シンガンスコアUP", "digest":"シンガン楽曲でスコア20%UP", "description":"『シンガンクリムゾンズ』の楽曲プレイ時、常時スコアが20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":7,\"combo\":0,\"score\":200}"
+  },
+  {
+    "id":107200, "name":"シンガンコンボUP", "digest":"シンガン楽曲でコンボ補正20%UP", "description":"『シンガンクリムゾンズ』の楽曲プレイ時、常時コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":7,\"combo\":200,\"score\":0}"
+  },
+  {
+    "id":108000, "name":"トラクロダブルUP+", "digest":"トラクロ楽曲でスコア20%コンボ補正20%UP", "description":"『トライクロニカ』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":8,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":109000, "name":"アルカレダブルUP+", "digest":"アルカレ楽曲でスコア20%コンボ補正20%UP", "description":"『ARCAREAFACT』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":9,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":110000, "name":"クリクリダブルUP+", "digest":"クリクリ楽曲でスコア20%コンボ補正20%UP", "description":"『クリティクリスタ』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":10,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":111000, "name":"ヨカゼダブルUP+", "digest":"ヨカゼ楽曲でスコア20%コンボ補正20%UP", "description":"『Yokazenohorizon』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":11,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":112000, "name":"しにものダブルUP+", "digest":"しにもの楽曲でスコア20%コンボ補正20%UP", "description":"『しにものぐるい』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":12,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":113000, "name":"ウワペタダブルUP+", "digest":"ウワペタ楽曲でスコア20%コンボ補正20%UP", "description":"『ウワサノペタルズ』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":13,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":114000, "name":"忍迅ダブルUP+", "digest":"忍迅楽曲でスコア20%コンボ補正20%UP", "description":"『忍迅雷音』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":14,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":115000, "name":"ゼロティクダブルUP+", "digest":"ゼロティク楽曲でスコア20%コンボ補正20%UP", "description":"『ゼロティックホリック』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":15,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":118000, "name":"クロモスダブルUP+", "digest":"クロモス楽曲でスコア20%コンボ補正20%UP", "description":"『Kuronoatmosphere』の楽曲プレイ時、常時スコアが20%コンボ補正が20%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":18,\"combo\":200,\"score\":200}"
+  },
+  {
+    "id":211000, "name":"ドキドキスコアUP", "digest":"『ドキドキ』タイプ楽曲でスコア20%UP", "description":"『ドキドキ』タイプの楽曲プレイ時、スコアが20%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":200,\"category\":1}"
+  },
+  {
+    "id":213000, "name":"ドキドキダブルUP+", "digest":"『ドキドキ』タイプ楽曲でスコア20%コンボ補正20%UP", "description":"『ドキドキ』タイプの楽曲プレイ時、スコアが20%コンボ補正が20%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":200,\"score\":200,\"category\":1}"
+  },
+  {
+    "id":221000, "name":"ワクワクスコアUP", "digest":"『ワクワク』タイプ楽曲でスコア20%UP", "description":"『ワクワク』タイプの楽曲プレイ時、スコアが20%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":200,\"category\":2}"
+  },
+  {
+    "id":222000, "name":"ワクワクコンボUP", "digest":"『ワクワク』タイプ楽曲でコンボ補正20%UP", "description":"『ワクワク』タイプの楽曲プレイ時、コンボ補正が20%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":200,\"score\":0,\"category\":2}"
+  },
+  {
+    "id":223000, "name":"ワクワクダブルUP+", "digest":"『ワクワク』タイプ楽曲でスコア20%コンボ補正20%UP", "description":"『ワクワク』タイプの楽曲プレイ時、スコアが20%コンボ補正が20%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":200,\"score\":200,\"category\":2}"
+  },
+  {
+    "id":231000, "name":"キラキラスコアUP", "digest":"『キラキラ』タイプ楽曲でスコア20%UP", "description":"『キラキラ』タイプの楽曲プレイ時、スコアが20%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":200,\"category\":3}"
+  },
+  {
+    "id":232000, "name":"キラキラコンボUP", "digest":"『キラキラ』タイプ楽曲でコンボ補正20%UP", "description":"『キラキラ』タイプの楽曲プレイ時、コンボ補正が20%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":200,\"score\":0,\"category\":3}"
+  },
+  {
+    "id":233000, "name":"キラキラダブルUP+", "digest":"『キラキラ』タイプ楽曲でスコア20%コンボ補正20%UP", "description":"『キラキラ』タイプの楽曲プレイ時、スコアが20%コンボ補正が20%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":200,\"score\":200,\"category\":3}"
+  },
+  {
+    "id":300001, "name":"スキルタイムUP", "digest":"スキルの効果時間を約10秒延長する", "description":"自身のアクティブスキル効果時間を約10秒延長する", "potential_effect_type":3, "potential_effect_args":"1000"
+  },
+  {
+    "id":300002, "name":"スキルタイムUP+", "digest":"スキルの効果時間を約20秒延長する", "description":"自身のアクティブスキル効果時間を約20秒延長する", "potential_effect_type":3, "potential_effect_args":"2000"
+  },
+  {
+    "id":400001, "name":"スキルリキャストDOWN", "digest":"スキルの再発動時間を20%短縮", "description":"自身のアクティブスキルが再度発動できるまでの時間を20%短縮する", "potential_effect_type":4, "potential_effect_args":"20"
+  },
+  {
+    "id":400002, "name":"スキルリキャストDOWN+", "digest":"スキルの再発動時間を30%短縮", "description":"自身のアクティブスキルが再度発動できるまでの時間を30%短縮する", "potential_effect_type":4, "potential_effect_args":"30"
+  },
+  {
+    "id":500001, "name":"スキル発動率UP", "digest":"スキルの発動率を10%UP", "description":"自身のアクティブスキル発動率が10%UPする", "potential_effect_type":5, "potential_effect_args":"10"
+  },
+  {
+    "id":610000, "name":"リズムパラメータUP", "digest":"パラメータ『リズム』10%UP", "description":"自身のパラメータ『リズム』を10%UPする", "potential_effect_type":6, "potential_effect_args":"[0,10,0,0]"
+  },
+  {
+    "id":610001, "name":"リズムパラメータUP+", "digest":"パラメータ『リズム』20%UP", "description":"自身のパラメータ『リズム』を20%UPする", "potential_effect_type":6, "potential_effect_args":"[0,20,0,0]"
+  },
+  {
+    "id":620000, "name":"メロディパラメータUP", "digest":"パラメータ『メロディ』を10%UP", "description":"自身のパラメータ『メロディ』を10%UPする", "potential_effect_type":6, "potential_effect_args":"[0,0,10,0]"
+  },
+  {
+    "id":620001, "name":"メロディパラメータUP+", "digest":"パラメータ『メロディ』を20%UP", "description":"自身のパラメータ『メロディ』を20%UPする", "potential_effect_type":6, "potential_effect_args":"[0,0,20,0]"
+  },
+  {
+    "id":630000, "name":"ハーモニーパラメータUP", "digest":"パラメータ『ハーモニー』を10%UP", "description":"自身のパラメータ『ハーモニー』を10%UPする", "potential_effect_type":6, "potential_effect_args":"[0,0,0,10]"
+  },
+  {
+    "id":630001, "name":"ハーモニーパラメータUP+", "digest":"パラメータ『ハーモニー』を20%UP", "description":"自身のパラメータ『ハーモニー』を20%UPする", "potential_effect_type":6, "potential_effect_args":"[0,0,0,20]"
+  },
+  {
+    "id":1014000, "name":"同属性同時編成パラメータUP", "digest":"ドキドキ属性のブロマイドを4枚以上編成した場合、全パラメータ値20%UP", "description":"ドキドキ属性のブロマイドを4枚以上編成した場合、このブロマイドの全パラメータ20%UP", "potential_effect_type":10, "potential_effect_args":"{\"num\":4,\"status\":[20,20,20,20],\"category\":1}"
+  },
+  {
+    "id":1024000, "name":"同属性同時編成パラメータUP", "digest":"ワクワク属性のブロマイドを4枚以上編成した場合、ハーモニー値10%UP", "description":"ワクワク属性のブロマイドを4枚以上編成した場合、このブロマイドのハーモニー値10%UP", "potential_effect_type":10, "potential_effect_args":"{\"num\":4,\"status\":[0,0,0,10],\"category\":2}"
+  },
+  {
+    "id":1024001, "name":"同属性同時編成パラメータUP", "digest":"ワクワク属性のブロマイドを4枚以上編成した場合、パラメータ20%UP", "description":"ワクワク属性のブロマイドを4枚以上編成した場合、このブロマイドのライフ値20%、リズム値20%、メロディ値20%、ハーモニー値20%UP", "potential_effect_type":10, "potential_effect_args":"{\"num\":4,\"status\":[20,20,20,20],\"category\":2}"
+  },
+  {
+    "id":1100001, "name":"アクティブスキルレベルMAXUP", "digest":"アクティブスキル現在レベル、レベル上限+1", "description":"自身のアクティブスキルのレベル上限と現在レベルを+1する", "potential_effect_type":11, "potential_effect_args":"1"
+  },
+  {
+    "id":1201000, "name":"ダークドラグーンキラー", "digest":"ダークドラグーン系にダメージボーナス30%", "description":"ダークドラグーン系のダークモンスターに対して30%のダメージボーナスを獲得する", "potential_effect_type":12, "potential_effect_args":"{\"kind\":1,\"damage\":30}"
+  },
+  {
+    "id":1201001, "name":"ダークドラグーンキラー+", "digest":"ダークドラグーン系にダメージボーナス40%", "description":"ダークドラグーン系のダークモンスターに対して40%のダメージボーナスを獲得する", "potential_effect_type":12, "potential_effect_args":"{\"kind\":1,\"damage\":40}"
+  },
+  {
+    "id":1201002, "name":"ダークドラグーンキラー++", "digest":"ダークドラグーン系にダメージボーナス50%", "description":"ダークドラグーン系のダークモンスターに対して50%のダメージボーナスを獲得する", "potential_effect_type":12, "potential_effect_args":"{\"kind\":1,\"damage\":50}"
+  },
+  {
+    "id":1202000, "name":"ダークリーパーキラー", "digest":"ダークリーパー系にダメージボーナス30%", "description":"ダークリーパー系のダークモンスターに対して30%のダメージボーナスを獲得する", "potential_effect_type":12, "potential_effect_args":"{\"kind\":2,\"damage\":30}"
+  },
+  {
+    "id":1203000, "name":"デモンクイーンキラー", "digest":"デモンクイーン系にダメージボーナス30%", "description":"デモンクイーン系のダークモンスターに対して30%のダメージボーナスを獲得する", "potential_effect_type":12, "potential_effect_args":"{\"kind\":3,\"damage\":30}"
+  },
+  {
+    "id":1204000, "name":"メカメイプルキラー", "digest":"メカメイプル系にダメージボーナス30%", "description":"メカメイプル系のダークモンスターに対して30%のダメージボーナスを獲得する", "potential_effect_type":12, "potential_effect_args":"{\"kind\":4,\"damage\":30}"
+  },
+  {
+    "id":1204001, "name":"メカメイプルキラー+", "digest":"メカメイプル系にダメージボーナス40%", "description":"メカメイプル系のダークモンスターに対して40%のダメージボーナスを獲得する", "potential_effect_type":12, "potential_effect_args":"{\"kind\":4,\"damage\":40}"
+  },
+  {
+    "id":1204002, "name":"メカメイプルキラー++", "digest":"メカメイプル系にダメージボーナス50%", "description":"メカメイプル系のダークモンスターに対して50%のダメージボーナスを獲得する", "potential_effect_type":12, "potential_effect_args":"{\"kind\":4,\"damage\":50}"
+  },
+  {
+    "id":1300001, "name":"ダクモンガードイレイザー", "digest":"ダークモンスターの耐性を消す", "description":"バトル時にダークモンスターの耐性効果によるダメージ減少をなくす", "potential_effect_type":13, "potential_effect_args":"0"
+  }
 ]
