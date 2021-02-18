@@ -114,6 +114,9 @@
     "id":40025, "category":4, "name":"【バレコレ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40026, "category":4, "name":"【バレコレ2】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -273,6 +276,9 @@
     "id":120025, "category":12, "name":"【バレコレ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120026, "category":12, "name":"【バレコレ2】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -307,6 +313,9 @@
   },
   {
     "id":140008, "category":14, "name":"お年玉ポイント", "quantity_max":999999, "ex_params":"{}", "description":"お年玉ポイント交換所で使用できるアイテムです"
+  },
+  {
+    "id":140009, "category":14, "name":"選べるバンドクリスタル.pt", "quantity_max":999999, "ex_params":"{}", "description":"バンドクリスタル交換所で使用できるアイテムです"
   },
   {
     "id":140010, "category":14, "name":"レアアイテムガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":"専用ガチャが実行できるアイテムです"
@@ -556,5 +565,8 @@
   },
   {
     "id":182185, "category":18, "name":"13スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。13のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":190001, "category":19, "name":"ダクモンコイコイ", "quantity_max":9999, "ex_params":"{}", "description":"ダークモンスターを引きよせる匂いがする玉。使用するとダークモンスターを呼ぶことができます。"
   }
 ]
