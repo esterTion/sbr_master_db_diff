@@ -21,6 +21,9 @@
     "id":1006, "layer_type":"Background", "name":"ドルチホームタウン", "description":"ドーリィドルチモチーフのホームタウン。ふわふわクリームと素敵な香りに包まれて、甘い時間を召し上がれ♡", "default_asset_ids":"null"
   },
   {
+    "id":1007, "layer_type":"Background", "name":"1周年ギャラクシータウン", "description":"サウンドプラネットをモチーフにしたホームタウン。サウンドプラネットに住むミューモン全員が1周年をお祝い！", "default_asset_ids":"null"
+  },
+  {
     "id":1100, "layer_type":"Background", "name":"スゴロクタウン", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
   },
   {
@@ -61,6 +64,9 @@
   },
   {
     "id":2010, "layer_type":"Road", "name":"ドルチロード", "description":"ドーリィドルチモチーフの道。綿あめとキャンディに誘われて、ミーとイケメンのドリーミンラ（以下略♪", "default_asset_ids":"null"
+  },
+  {
+    "id":2011, "layer_type":"Road", "name":"ギャラクシーロード", "description":"サウンドプラネットをモチーフにした道。宇宙を歩いているような気分になれるとか。1周年ありがとにゃん！", "default_asset_ids":"null"
   },
   {
     "id":2100, "layer_type":"Road", "name":"スゴロクロード", "description":"スゴロクイベントで使用する道路です。", "default_asset_ids":"null"
@@ -124,6 +130,9 @@
   },
   {
     "id":7010, "layer_type":"Fence", "name":"ドルチフェンス", "description":"ドーリィドルチモチーフのフェンス。飴細工みたいでとってもカワイイ♡", "default_asset_ids":"null"
+  },
+  {
+    "id":7011, "layer_type":"Fence", "name":"ギャラクシーフェンス", "description":"サウンドプラネットをモチーフにしたフェンス。1周年を象徴する代表的なデザイン。1周年ありがとにゃん！", "default_asset_ids":"null"
   },
   {
     "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"

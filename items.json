@@ -120,6 +120,12 @@
     "id":40027, "category":4, "name":"【ホワイト】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40028, "category":4, "name":"【SPコレ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40029, "category":4, "name":"【お師匠様】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -151,6 +157,9 @@
   },
   {
     "id":41011, "category":4, "name":"クロモスR/RR引換券", "quantity_max":9999, "ex_params":"{}", "description":"交換所で対応するブロマイドを交換するのに必要なチケットです"
+  },
+  {
+    "id":41012, "category":4, "name":"【1周年】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -193,6 +202,9 @@
   },
   {
     "id":100007, "category":10, "name":"お正月限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":400}", "description":"突破EXPをかなり与える お正月 ならではのアイテムです"
+  },
+  {
+    "id":100008, "category":10, "name":"1周年限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":400}", "description":"突破EXPをかなり与える 1周年 ならではのアイテムです"
   },
   {
     "id":110001, "category":11, "name":"イベント.pt", "quantity_max":99999999, "ex_params":"{}", "description":""
@@ -285,6 +297,12 @@
     "id":120027, "category":12, "name":"【ホワイト】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120028, "category":12, "name":"【SPコレ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120029, "category":12, "name":"【お師匠様】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -295,6 +313,9 @@
   },
   {
     "id":130004, "category":13, "name":"バレンタインチョコ", "quantity_max":9999, "ex_params":"{\"stamina\":69}", "description":"心のこもった贈り物。\nイヤホイを69回復するアイテムです。"
+  },
+  {
+    "id":130005, "category":13, "name":"ホワイトデークッキー", "quantity_max":9999, "ex_params":"{\"stamina\":69}", "description":"心のこもった贈り物。\nイヤホイを69回復するアイテムです。"
   },
   {
     "id":140001, "category":14, "name":"めもりあるポイント", "quantity_max":999999, "ex_params":"{}", "description":"各種イベントで獲得するポイントです"
@@ -327,10 +348,19 @@
     "id":140010, "category":14, "name":"レアアイテムガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":"専用ガチャが実行できるアイテムです"
   },
   {
+    "id":140011, "category":14, "name":"1周年pt", "quantity_max":999999, "ex_params":"{}", "description":"各種1周年記念アイテムと交換できるポイントです"
+  },
+  {
+    "id":141000, "category":14, "name":"バトル招待券A", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"
+  },
+  {
     "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":4, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"
   },
   {
     "id":160001, "category":16, "name":"やり直しの鍵", "quantity_max":9999, "ex_params":"{}", "description":"潜在解放したブロマイドを別のブロマイドにやり直しできるアイテムです。"
+  },
+  {
+    "id":170001, "category":17, "name":"美味しすぎるエナジードリンク", "quantity_max":9999, "ex_params":"{}", "description":"うまーい！もう一本!! な飲み物。\nタワーで使用したブロマイドを再び使用できるようにするアイテムです。"
   },
   {
     "id":180001, "category":18, "name":"ソウルのかけら", "quantity_max":9999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮されたかけら。レゾナンスソウルの強化に必要となる素材です。"
