@@ -612,6 +612,12 @@
     "id":514011, "myumon_basic_id":51, "name":"[Reijing Splash!!]", "music_category":3, "rarity":5, "costume_id":5103, "life":522, "rhythm":2574, "melody":5359, "harmony":2552, "main_1_skill_id":21002, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":105100, "enable_deck":true, "description":"「REIJINGSIGNAL」に所属する「ララリン」のブロマイドです"
   },
   {
+    "id":514020, "myumon_basic_id":51, "name":"[GoGoしんGoず！イソゲです♪]", "music_category":1, "rarity":4, "costume_id":5104, "life":383, "rhythm":4926, "melody":1871, "harmony":1850, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":514021, "shinka_recipe_no":14, "myumon_potential_id":105000, "enable_deck":true, "description":"「REIJINGSIGNAL」に所属する「ララリン」のブロマイドです"
+  },
+  {
+    "id":514021, "myumon_basic_id":51, "name":"[Happy39GalaxyFes]", "music_category":1, "rarity":5, "costume_id":5104, "life":506, "rhythm":6388, "melody":2419, "harmony":2411, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":105000, "enable_deck":true, "description":"「REIJINGSIGNAL」に所属する「ララリン」のブロマイドです"
+  },
+  {
     "id":521000, "myumon_basic_id":52, "name":"[REIJINGSIGNAL]", "music_category":1, "rarity":1, "costume_id":5200, "life":102, "rhythm":669, "melody":813, "harmony":601, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":521001, "shinka_recipe_no":11, "myumon_potential_id":0, "enable_deck":true, "description":"「REIJINGSIGNAL」に所属する「スモモネ」のブロマイドです"
   },
   {
@@ -1930,5 +1936,11 @@
   },
   {
     "id":1854001, "myumon_basic_id":185, "name":"[黒船襲来！黒ノ覚醒船上Live！]", "music_category":1, "rarity":5, "costume_id":18501, "life":480, "rhythm":2408, "melody":2531, "harmony":6418, "main_1_skill_id":10032, "main_2_skill_id":100002, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":118100, "enable_deck":true, "description":"「Kuronoatmosphere」に所属する「13」のブロマイドです"
+  },
+  {
+    "id":9114000, "myumon_basic_id":911, "name":"[追憶の衝動…！]", "music_category":1, "rarity":4, "costume_id":91100, "life":389, "rhythm":4954, "melody":2018, "harmony":1933, "main_1_skill_id":11003, "main_2_skill_id":82001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":9114001, "shinka_recipe_no":14, "myumon_potential_id":211000, "enable_deck":true, "description":"「Amatelast」に所属する「愁」のブロマイドです"
+  },
+  {
+    "id":9114001, "myumon_basic_id":911, "name":"[お前の夢は幻想なんだよ。]", "music_category":1, "rarity":5, "costume_id":91100, "life":513, "rhythm":6779, "melody":2644, "harmony":2606, "main_1_skill_id":10004, "main_2_skill_id":82002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":211000, "enable_deck":true, "description":"「Amatelast」に所属する「愁」のブロマイドです"
   }
 ]

@@ -513,7 +513,7 @@
     "id":9031, "name":"運命のSocial Distance", "name_hiragana":"うんめいのそーしゃるでぃすたんす", "artist_id":90, "special_artist_id":1500, "jacket_image_id":9031, "sort_order":19003, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/10/05 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"0", "composed":"0", "arranged":"0", "description":"SHOW BY ROCK!! Fes A Live ハーフアニバーサリー記念曲"
   },
   {
-    "id":9032, "name":"ドレミファSTARS!!", "name_hiragana":"どれみふぁすたーず", "artist_id":90, "special_artist_id":1700, "jacket_image_id":9032, "sort_order":19005, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/07 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
+    "id":9032, "name":"ドレミファSTARS!!", "name_hiragana":"どれみふぁすたーず", "artist_id":90, "special_artist_id":1700, "jacket_image_id":9032, "sort_order":19004, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/07 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
     "id":9033, "name":"冬靄", "name_hiragana":"ふゆもや", "artist_id":90, "special_artist_id":300, "jacket_image_id":9003, "sort_order":10203, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/12/04 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":151, "lyrics":"0", "composed":"0", "arranged":"0", "description":"デモンズベノム（楽曲提供：SILHOUETTE FROM THE SKYLIT）"
@@ -543,12 +543,18 @@
     "id":9041, "name":"monolith", "name_hiragana":"ものりす", "artist_id":90, "special_artist_id":1200, "jacket_image_id":9022, "sort_order":11002, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/02/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":225, "lyrics":"0", "composed":"0", "arranged":"0", "description":"04Tobizbits（楽曲提供：04 Limited Sazabys）"
   },
   {
-    "id":9042, "name":"全力 I Love You！", "name_hiragana":"ぜんりょくあいらぶゆー", "artist_id":90, "special_artist_id":1900, "jacket_image_id":9042, "sort_order":19006, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":165, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
+    "id":9042, "name":"全力 I Love You！", "name_hiragana":"ぜんりょくあいらぶゆー", "artist_id":90, "special_artist_id":1900, "jacket_image_id":9042, "sort_order":19005, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":165, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
     "id":9043, "name":"divine intervention", "name_hiragana":"でぃばいんいんたーべんしょん", "artist_id":90, "special_artist_id":1800, "jacket_image_id":9035, "sort_order":11403, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/02 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":176, "lyrics":"0", "composed":"0", "arranged":"0", "description":"ふぁにゃ（楽曲提供：fhána）"
   },
   {
-    "id":9044, "name":"ランナーズハイ!!", "name_hiragana":"らんなーずはい", "artist_id":90, "special_artist_id":1700, "jacket_image_id":9044, "sort_order":19007, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/28 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":230, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
+    "id":9044, "name":"ランナーズハイ!!", "name_hiragana":"らんなーずはい", "artist_id":90, "special_artist_id":1700, "jacket_image_id":9044, "sort_order":19006, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/28 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":230, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
+  },
+  {
+    "id":9045, "name":"カケヒキモード", "name_hiragana":"かけひきもーど", "artist_id":90, "special_artist_id":1400, "jacket_image_id":9027, "sort_order":11202, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/23 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "description":"すたっどばんぎゃっしゅ"
+  },
+  {
+    "id":9046, "name":"Cadenza", "name_hiragana":"かでんつぁ", "artist_id":90, "special_artist_id":2000, "jacket_image_id":9046, "sort_order":19007, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/23 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":193, "lyrics":"0", "composed":"0", "arranged":"0", "description":"Amatelast"
   }
 ]
