@@ -132,6 +132,12 @@
     "id":40031, "category":4, "name":"【Dコレ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40032, "category":4, "name":"【花コレ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40033, "category":4, "name":"【はぴだん】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -315,6 +321,12 @@
     "id":120031, "category":12, "name":"【Dコレ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120032, "category":12, "name":"【花コレ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120033, "category":12, "name":"【はぴだん】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -361,6 +373,9 @@
   },
   {
     "id":140011, "category":14, "name":"1周年pt", "quantity_max":999999, "ex_params":"{}", "description":"各種1周年記念アイテムと交換できるポイントです"
+  },
+  {
+    "id":140012, "category":14, "name":"2021年サンリオキャラクター大賞投票券", "quantity_max":999999, "ex_params":"{}", "description":"アプリから2021年サンリオキャラクター大賞へ投票するのに必要なアイテムです。"
   },
   {
     "id":140013, "category":14, "name":"SPめもりあるポイント", "quantity_max":999999, "ex_params":"{}", "description":"各種イベントで獲得するポイントです"

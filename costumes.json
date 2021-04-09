@@ -159,6 +159,9 @@
     "id":3202, "myumon_basic_id":32, "name":"[くりすますりーす、侮れぬ！] 阿", "description":"阿の特別な衣装です。", "asset_id":0, "mini_asset_id":3202, "icon_asset_id":323010, "parent_id":3200, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
+    "id":3203, "myumon_basic_id":32, "name":"[特訓の成果、とくとご覧あれ！！] 阿", "description":"阿の特別な衣装です。", "asset_id":3202, "mini_asset_id":3203, "icon_asset_id":324010, "parent_id":3200, "started_at":"2021/04/10 12:00:00 +09:00"
+  },
+  {
     "id":3300, "myumon_basic_id":33, "name":"[徒然なる操り霧幻庵] 吽", "description":"吽の衣装です。", "asset_id":3300, "mini_asset_id":3300, "icon_asset_id":331000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -262,6 +265,9 @@
   },
   {
     "id":6105, "myumon_basic_id":61, "name":"[やると決めたら本気です。] ヤス", "description":"ヤスの特別な衣装です。", "asset_id":6105, "mini_asset_id":6105, "icon_asset_id":614040, "parent_id":6100, "started_at":"2021/03/11 12:00:00 +09:00"
+  },
+  {
+    "id":6106, "myumon_basic_id":61, "name":"[対バン相手って…おまえ達なのか？] ヤス", "description":"ヤスの特別な衣装です。", "asset_id":6106, "mini_asset_id":6106, "icon_asset_id":614050, "parent_id":6100, "started_at":"2021/04/09 13:00:00 +09:00"
   },
   {
     "id":6200, "myumon_basic_id":62, "name":"[DOKONJOFINGER] ハッチン", "description":"ハッチンの衣装です。", "asset_id":6200, "mini_asset_id":6200, "icon_asset_id":621000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
@@ -637,6 +643,9 @@
   },
   {
     "id":18101, "myumon_basic_id":181, "name":"[イラつく街だぜ……何もかもな。] 919", "description":"ナイクの特別な衣装です。", "asset_id":18101, "mini_asset_id":18101, "icon_asset_id":1814000, "parent_id":18100, "started_at":"2021/01/29 13:00:00 +09:00"
+  },
+  {
+    "id":18102, "myumon_basic_id":181, "name":"[クソ共が、浮かれやがって…] 919", "description":"ナイクの特別な衣装です。", "asset_id":18102, "mini_asset_id":18102, "icon_asset_id":1814010, "parent_id":18100, "started_at":"2021/04/10 12:00:00 +09:00"
   },
   {
     "id":18200, "myumon_basic_id":182, "name":"[Kuronoatmosphere] 151", "description":"イコイの衣装です。", "asset_id":18200, "mini_asset_id":18200, "icon_asset_id":1821000, "parent_id":0, "started_at":"2021/01/29 13:00:00 +09:00"
