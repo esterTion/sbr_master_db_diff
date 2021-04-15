@@ -57,7 +57,7 @@
     "id":120107, "ability_id":1201, "level":7, "consume_soundle":800000, "ability_recipe_no":17012, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":120108, "ability_id":1201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18012, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":120108, "ability_id":1201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18012, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":120109, "ability_id":1201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19012, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -123,7 +123,7 @@
     "id":140107, "ability_id":1401, "level":7, "consume_soundle":800000, "ability_recipe_no":17014, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":140108, "ability_id":1401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18014, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ましゅましゅ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":140108, "ability_id":1401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18014, "ability_effect_type":1, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ましゅましゅ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":140109, "ability_id":1401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19014, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -189,7 +189,7 @@
     "id":220107, "ability_id":2201, "level":7, "consume_soundle":800000, "ability_recipe_no":17022, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":220108, "ability_id":2201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18022, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":220108, "ability_id":2201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18022, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":220109, "ability_id":2201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19022, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -255,7 +255,7 @@
     "id":240107, "ability_id":2401, "level":7, "consume_soundle":800000, "ability_recipe_no":17024, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":240108, "ability_id":2401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18024, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":240108, "ability_id":2401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18024, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":240109, "ability_id":2401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19024, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -321,7 +321,7 @@
     "id":320107, "ability_id":3201, "level":7, "consume_soundle":800000, "ability_recipe_no":17032, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":320108, "ability_id":3201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18032, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":320108, "ability_id":3201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18032, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":320109, "ability_id":3201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19032, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -387,7 +387,7 @@
     "id":410107, "ability_id":4101, "level":7, "consume_soundle":800000, "ability_recipe_no":17041, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":410108, "ability_id":4101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18041, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":410108, "ability_id":4101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18041, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":410109, "ability_id":4101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19041, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -453,7 +453,7 @@
     "id":430107, "ability_id":4301, "level":7, "consume_soundle":800000, "ability_recipe_no":17043, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":430108, "ability_id":4301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18043, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":430108, "ability_id":4301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18043, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":430109, "ability_id":4301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19043, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -519,7 +519,7 @@
     "id":520107, "ability_id":5201, "level":7, "consume_soundle":800000, "ability_recipe_no":17052, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":520108, "ability_id":5201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18052, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":520108, "ability_id":5201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18052, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":520109, "ability_id":5201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19052, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -585,7 +585,7 @@
     "id":610107, "ability_id":6101, "level":7, "consume_soundle":800000, "ability_recipe_no":17061, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":610108, "ability_id":6101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18061, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":610108, "ability_id":6101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18061, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":610109, "ability_id":6101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19061, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -651,7 +651,7 @@
     "id":630107, "ability_id":6301, "level":7, "consume_soundle":800000, "ability_recipe_no":17063, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":630108, "ability_id":6301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18063, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":630108, "ability_id":6301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18063, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":630109, "ability_id":6301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19063, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -717,7 +717,7 @@
     "id":710107, "ability_id":7101, "level":7, "consume_soundle":800000, "ability_recipe_no":17071, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":710108, "ability_id":7101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18071, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":710108, "ability_id":7101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18071, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":710109, "ability_id":7101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19071, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -783,7 +783,7 @@
     "id":730107, "ability_id":7301, "level":7, "consume_soundle":800000, "ability_recipe_no":17073, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":730108, "ability_id":7301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18073, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":730108, "ability_id":7301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18073, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":730109, "ability_id":7301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19073, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -849,7 +849,7 @@
     "id":810107, "ability_id":8101, "level":7, "consume_soundle":800000, "ability_recipe_no":17081, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":810108, "ability_id":8101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18081, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":810108, "ability_id":8101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18081, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":810109, "ability_id":8101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19081, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -915,7 +915,7 @@
     "id":830107, "ability_id":8301, "level":7, "consume_soundle":800000, "ability_recipe_no":17083, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":830108, "ability_id":8301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18083, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":830108, "ability_id":8301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18083, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":830109, "ability_id":8301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19083, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -981,7 +981,7 @@
     "id":920107, "ability_id":9201, "level":7, "consume_soundle":800000, "ability_recipe_no":17092, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":920108, "ability_id":9201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18092, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":920108, "ability_id":9201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18092, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":920109, "ability_id":9201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19092, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1047,7 +1047,7 @@
     "id":940107, "ability_id":9401, "level":7, "consume_soundle":800000, "ability_recipe_no":17094, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":940108, "ability_id":9401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18094, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":940108, "ability_id":9401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18094, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":940109, "ability_id":9401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19094, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1113,7 +1113,7 @@
     "id":1020107, "ability_id":10201, "level":7, "consume_soundle":800000, "ability_recipe_no":17102, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1020108, "ability_id":10201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18102, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1020108, "ability_id":10201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18102, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1020109, "ability_id":10201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19102, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1179,7 +1179,7 @@
     "id":1040107, "ability_id":10401, "level":7, "consume_soundle":800000, "ability_recipe_no":17104, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1040108, "ability_id":10401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18104, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1040108, "ability_id":10401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18104, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1040109, "ability_id":10401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19104, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1245,7 +1245,7 @@
     "id":1120107, "ability_id":11201, "level":7, "consume_soundle":800000, "ability_recipe_no":17112, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1120108, "ability_id":11201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18112, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1120108, "ability_id":11201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18112, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1120109, "ability_id":11201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19112, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1311,7 +1311,7 @@
     "id":1140107, "ability_id":11401, "level":7, "consume_soundle":800000, "ability_recipe_no":17114, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1140108, "ability_id":11401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18114, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1140108, "ability_id":11401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18114, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1140109, "ability_id":11401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19114, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1377,7 +1377,7 @@
     "id":1220107, "ability_id":12201, "level":7, "consume_soundle":800000, "ability_recipe_no":17122, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1220108, "ability_id":12201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18122, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1220108, "ability_id":12201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18122, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1220109, "ability_id":12201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19122, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1443,7 +1443,7 @@
     "id":1240107, "ability_id":12401, "level":7, "consume_soundle":800000, "ability_recipe_no":17124, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1240108, "ability_id":12401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18124, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1240108, "ability_id":12401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18124, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1240109, "ability_id":12401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19124, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1509,7 +1509,7 @@
     "id":1310107, "ability_id":13101, "level":7, "consume_soundle":800000, "ability_recipe_no":17131, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1310108, "ability_id":13101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18131, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1310108, "ability_id":13101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18131, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1310109, "ability_id":13101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19131, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1575,7 +1575,7 @@
     "id":1330107, "ability_id":13301, "level":7, "consume_soundle":800000, "ability_recipe_no":17133, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1330108, "ability_id":13301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18133, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1330108, "ability_id":13301, "level":8, "consume_soundle":1000000, "ability_recipe_no":18133, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1330109, "ability_id":13301, "level":9, "consume_soundle":1500000, "ability_recipe_no":19133, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1608,7 +1608,7 @@
     "id":1340107, "ability_id":13401, "level":7, "consume_soundle":800000, "ability_recipe_no":17134, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1340108, "ability_id":13401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18134, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1340108, "ability_id":13401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18134, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1340109, "ability_id":13401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19134, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1674,7 +1674,7 @@
     "id":1420107, "ability_id":14201, "level":7, "consume_soundle":800000, "ability_recipe_no":17142, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1420108, "ability_id":14201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18142, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1420108, "ability_id":14201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18142, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1420109, "ability_id":14201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19142, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1740,7 +1740,7 @@
     "id":1440107, "ability_id":14401, "level":7, "consume_soundle":800000, "ability_recipe_no":17144, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1440108, "ability_id":14401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18144, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1440108, "ability_id":14401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18144, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1440109, "ability_id":14401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19144, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1806,7 +1806,7 @@
     "id":1520107, "ability_id":15201, "level":7, "consume_soundle":800000, "ability_recipe_no":17152, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1520108, "ability_id":15201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18152, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1520108, "ability_id":15201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18152, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1520109, "ability_id":15201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19152, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1872,7 +1872,7 @@
     "id":1540107, "ability_id":15401, "level":7, "consume_soundle":800000, "ability_recipe_no":17154, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1540108, "ability_id":15401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18154, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1540108, "ability_id":15401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18154, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1540109, "ability_id":15401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19154, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -1938,7 +1938,7 @@
     "id":1820107, "ability_id":18201, "level":7, "consume_soundle":800000, "ability_recipe_no":17182, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1820108, "ability_id":18201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18182, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1820108, "ability_id":18201, "level":8, "consume_soundle":1000000, "ability_recipe_no":18182, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1820109, "ability_id":18201, "level":9, "consume_soundle":1500000, "ability_recipe_no":19182, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -2004,7 +2004,7 @@
     "id":1840107, "ability_id":18401, "level":7, "consume_soundle":800000, "ability_recipe_no":17184, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":1840108, "ability_id":18401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18184, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":1840108, "ability_id":18401, "level":8, "consume_soundle":1000000, "ability_recipe_no":18184, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":1840109, "ability_id":18401, "level":9, "consume_soundle":1500000, "ability_recipe_no":19184, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"
@@ -2070,7 +2070,7 @@
     "id":9110107, "ability_id":91101, "level":7, "consume_soundle":800000, "ability_recipe_no":17911, "ability_effect_type":6, "ability_effect_args":"[5,0,0,2]", "description":"ライフ値+5%、ハーモニー値+2% UP"
   },
   {
-    "id":9110108, "ability_id":91101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18911, "ability_effect_type":2, "ability_effect_args":"{\"id\":1,\"combo\":10,\"score\":10}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
+    "id":9110108, "ability_id":91101, "level":8, "consume_soundle":1000000, "ability_recipe_no":18911, "ability_effect_type":2, "ability_effect_args":"{\"combo\":10,\"score\":10,\"category\":1}", "description":"ドキドキ楽曲プレイ時、スコア1%UP／コンボ補正1%UP"
   },
   {
     "id":9110109, "ability_id":91101, "level":9, "consume_soundle":1500000, "ability_recipe_no":19911, "ability_effect_type":6, "ability_effect_args":"[2,2,2,2]", "description":"全パラメータ値+2% UP"

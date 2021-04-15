@@ -24,6 +24,9 @@
     "id":1007, "layer_type":"Background", "name":"1周年ギャラクシータウン", "description":"サウンドプラネットをモチーフにしたホームタウン。サウンドプラネットに住むミューモン全員が1周年をお祝い！", "default_asset_ids":"null"
   },
   {
+    "id":1008, "layer_type":"Background", "name":"お花見ホームタウン", "description":"桜が満開のホームタウン。芝生にシートを引いて、お花見を楽しもう！", "default_asset_ids":"null"
+  },
+  {
     "id":1100, "layer_type":"Background", "name":"スゴロクタウン", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
   },
   {
@@ -67,6 +70,9 @@
   },
   {
     "id":2011, "layer_type":"Road", "name":"ギャラクシーロード", "description":"サウンドプラネットをモチーフにした道。宇宙を歩いているような気分になれるとか。1周年ありがとにゃん！", "default_asset_ids":"null"
+  },
+  {
+    "id":2012, "layer_type":"Road", "name":"お花見ロード", "description":"芝生にピクニックシートを敷いて、お花見の準備はばっちり！", "default_asset_ids":"null"
   },
   {
     "id":2100, "layer_type":"Road", "name":"スゴロクロード", "description":"スゴロクイベントで使用する道路です。", "default_asset_ids":"null"
@@ -133,6 +139,9 @@
   },
   {
     "id":7011, "layer_type":"Fence", "name":"ギャラクシーフェンス", "description":"サウンドプラネットをモチーフにしたフェンス。1周年を象徴する代表的なデザイン。1周年ありがとにゃん！", "default_asset_ids":"null"
+  },
+  {
+    "id":7012, "layer_type":"Fence", "name":"お花見フェンス", "description":"桜をモチーフにした、春らしい雰囲気たっぷりのフェンス。花より団子派のミューモンにも好評！", "default_asset_ids":"null"
   },
   {
     "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"
