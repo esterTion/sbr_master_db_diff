@@ -78,6 +78,18 @@
     "id":10140008, "effect":14, "args":"[\"Item\",60003,10]", "is_stop":false, "detail_text":"{0}を{1}個GET！", "activate_text":"{0}を{1}個GET！", "label":"ｘ10", "place_asset_id":5, "icon_asset_id":60001
   },
   {
+    "id":10140009, "effect":14, "args":"[\"Item\",50001,10000]", "is_stop":false, "detail_text":"{1} サウンドルGET！", "activate_text":"{1} サウンドルGET！", "label":"ｘ10000", "place_asset_id":5, "icon_asset_id":50001
+  },
+  {
+    "id":10140010, "effect":14, "args":"[\"Item\",50001,30000]", "is_stop":false, "detail_text":"{1} サウンドルGET！", "activate_text":"{1} サウンドルGET！", "label":"ｘ30000", "place_asset_id":5, "icon_asset_id":50001
+  },
+  {
+    "id":10140011, "effect":14, "args":"[\"Item\",50001,60000]", "is_stop":false, "detail_text":"{1} サウンドルGET！", "activate_text":"{1} サウンドルGET！", "label":"ｘ60000", "place_asset_id":5, "icon_asset_id":50001
+  },
+  {
+    "id":10140012, "effect":14, "args":"[\"Item\",180001,3]", "is_stop":false, "detail_text":"{0}を{1}個GET！", "activate_text":"{0}を{1}個GET！", "label":"ｘ3", "place_asset_id":5, "icon_asset_id":10140012
+  },
+  {
     "id":10200001, "effect":20, "args":"[1]", "is_stop":false, "detail_text":"スペシャルの残り回数が +{0}", "activate_text":"スペシャルの残り回数が +{0}\n※残り回数は次周に持ち越されません", "label":"スペシャル", "place_asset_id":5, "icon_asset_id":5
   },
   {
@@ -154,5 +166,38 @@
   },
   {
     "id":30250004, "effect":25, "args":"[9029]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":6
+  },
+  {
+    "id":30250005, "effect":25, "args":"[120]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10000120
+  },
+  {
+    "id":30250006, "effect":25, "args":"[201]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10000201
+  },
+  {
+    "id":30250007, "effect":25, "args":"[406]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10000406
+  },
+  {
+    "id":30250008, "effect":25, "args":"[609]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10000609
+  },
+  {
+    "id":30250009, "effect":25, "args":"[713]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10000713
+  },
+  {
+    "id":30250010, "effect":25, "args":"[801]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10000801
+  },
+  {
+    "id":30250011, "effect":25, "args":"[1304]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10001304
+  },
+  {
+    "id":30250012, "effect":25, "args":"[1801]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10001801
+  },
+  {
+    "id":30250013, "effect":25, "args":"[9013]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10009002
+  },
+  {
+    "id":30250014, "effect":25, "args":"[9034]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10009011
+  },
+  {
+    "id":30250015, "effect":25, "args":"[9052]", "is_stop":false, "detail_text":"ライブマス_楽曲ID{0}が対象", "activate_text":"", "label":"ライブ", "place_asset_id":4, "icon_asset_id":10009052
   }
 ]

@@ -180,6 +180,12 @@
     "id":144021, "myumon_basic_id":14, "name":"[レッツ・新春・ましゅましゅライブ]", "music_category":3, "rarity":5, "costume_id":1403, "life":513, "rhythm":2460, "melody":2543, "harmony":6149, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":300002, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「ルフユ」のブロマイドです"
   },
   {
+    "id":144030, "myumon_basic_id":14, "name":"[ルナティック至福の極み～♪]", "music_category":1, "rarity":4, "costume_id":1404, "life":394, "rhythm":1815, "melody":1901, "harmony":4855, "main_1_skill_id":22001, "main_2_skill_id":82001, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":144031, "shinka_recipe_no":14, "myumon_potential_id":101100, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「ルフユ」のブロマイドです"
+  },
+  {
+    "id":144031, "myumon_basic_id":14, "name":"[シネマティックメモワール]", "music_category":1, "rarity":5, "costume_id":1404, "life":503, "rhythm":2403, "melody":2436, "harmony":6466, "main_1_skill_id":22002, "main_2_skill_id":82002, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":101100, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「ルフユ」のブロマイドです"
+  },
+  {
     "id":211000, "myumon_basic_id":21, "name":"[Plasmagica]", "music_category":1, "rarity":1, "costume_id":2100, "life":92, "rhythm":614, "melody":889, "harmony":655, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110001, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":211001, "shinka_recipe_no":11, "myumon_potential_id":0, "enable_deck":true, "description":"「プラズマジカ」に所属する「シアン」のブロマイドです"
   },
   {
@@ -1984,5 +1990,11 @@
   },
   {
     "id":9114001, "myumon_basic_id":911, "name":"[お前の夢は幻想なんだよ。]", "music_category":1, "rarity":5, "costume_id":91100, "life":513, "rhythm":6779, "melody":2644, "harmony":2606, "main_1_skill_id":10004, "main_2_skill_id":82002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":211000, "enable_deck":true, "description":"「Amatelast」に所属する「愁」のブロマイドです"
+  },
+  {
+    "id":9124000, "myumon_basic_id":912, "name":"[Tシャツには拘りたいんだ。]", "music_category":1, "rarity":4, "costume_id":91200, "life":405, "rhythm":1949, "melody":2005, "harmony":5065, "main_1_skill_id":11023, "main_2_skill_id":101001, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":9124001, "shinka_recipe_no":14, "myumon_potential_id":190100, "enable_deck":true, "description":"「ガウガストライクス」に所属する「キンタウルス」のブロマイドです"
+  },
+  {
+    "id":9124001, "myumon_basic_id":912, "name":"[ガウガは終わらない…そう思うんだ]", "music_category":1, "rarity":5, "costume_id":91200, "life":535, "rhythm":2612, "melody":2635, "harmony":6789, "main_1_skill_id":10024, "main_2_skill_id":101002, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":190100, "enable_deck":true, "description":"「ガウガストライクス」に所属する「キンタウルス」のブロマイドです"
   }
 ]

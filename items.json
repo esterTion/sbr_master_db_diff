@@ -138,6 +138,9 @@
     "id":40033, "category":4, "name":"【はぴだん】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40034, "category":4, "name":"【ウルフ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -325,6 +328,9 @@
   },
   {
     "id":120033, "category":12, "name":"【はぴだん】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120034, "category":12, "name":"【ウルフ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
@@ -637,6 +643,9 @@
   },
   {
     "id":182911, "category":18, "name":"愁スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。愁のレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182912, "category":18, "name":"キンタウルススフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。キンタウルスのレゾナンスソウル強化に必要な素材です。"
   },
   {
     "id":190001, "category":19, "name":"ダクモンコイコイ", "quantity_max":9999, "ex_params":"{}", "description":"ダークモンスターを引きよせる匂いがする玉。使用するとダークモンスターを呼ぶことができます。"

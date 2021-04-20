@@ -144,6 +144,15 @@
     "id":118200, "name":"クロモスコンボUP+", "digest":"クロモス楽曲でコンボ補正15%UP", "description":"『Kuronoatmosphere』の楽曲プレイ時、常時コンボ補正が15%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":18,\"combo\":150,\"score\":0}"
   },
   {
+    "id":190000, "name":"スペシャルダブルUP+", "digest":"スペシャル楽曲でスコア4%コンボ補正5%UP", "description":"スペシャル楽曲プレイ時、常時スコアが4%コンボ補正が5%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":90,\"combo\":50,\"score\":40}"
+  },
+  {
+    "id":190100, "name":"スペシャルスコアUP+", "digest":"スペシャル楽曲でスコア7%UP", "description":"スペシャル楽曲プレイ時、常時スコアが7%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":90,\"combo\":0,\"score\":70}"
+  },
+  {
+    "id":190200, "name":"スペシャルコンボUP+", "digest":"スペシャル楽曲でコンボ補正15%UP", "description":"スペシャル楽曲プレイ時、常時コンボ補正が15%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":90,\"combo\":150,\"score\":0}"
+  },
+  {
     "id":211000, "name":"ドキドキスコアUP+", "digest":"『ドキドキ』タイプ楽曲でスコア7%UP", "description":"『ドキドキ』タイプの楽曲プレイ時、スコアが7%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":70,\"category\":1}"
   },
   {
