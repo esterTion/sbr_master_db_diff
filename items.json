@@ -141,6 +141,9 @@
     "id":40034, "category":4, "name":"【ウルフ】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40035, "category":4, "name":"【Dコレ2】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -175,6 +178,9 @@
   },
   {
     "id":41012, "category":4, "name":"【1周年】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41013, "category":4, "name":"2021年5月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -333,6 +339,9 @@
     "id":120034, "category":12, "name":"【ウルフ】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120035, "category":12, "name":"【Dコレ2】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -388,6 +397,9 @@
   },
   {
     "id":141000, "category":14, "name":"バトル招待券A", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"
+  },
+  {
+    "id":141001, "category":14, "name":"バトル招待券B", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"
   },
   {
     "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":4, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"
