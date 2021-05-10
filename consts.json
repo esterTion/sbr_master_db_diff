@@ -819,6 +819,9 @@
     "id":150020, "category":"ItemCategory", "name":"SanrioRankingVote", "value":"20"
   },
   {
+    "id":150021, "category":"ItemCategory", "name":"GachaCost", "value":"21"
+  },
+  {
     "id":150101, "category":"ItemId", "name":"Soundle", "value":"50001"
   },
   {
@@ -1144,6 +1147,9 @@
   },
   {
     "id":200402, "category":"GachaCategory", "name":"Item", "value":"2"
+  },
+  {
+    "id":200403, "category":"GachaCategory", "name":"Box", "value":"3"
   },
   {
     "id":210000, "category":"LoginBonus", "name":"LimitDay", "value":"7"
@@ -1768,6 +1774,9 @@
   },
   {
     "id":390101, "category":"Tower", "name":"ReuseLimit", "value":"24"
+  },
+  {
+    "id":390102, "category":"Tower", "name":"SkipRewardLimit", "value":"7"
   },
   {
     "id":390201, "category":"TowerPlayStatus", "name":"SelectCourse", "value":"1"

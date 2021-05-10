@@ -579,6 +579,9 @@
     "id":12500, "myumon_basic_id":125, "name":"[しにものぐるい] がしがし", "description":"がしがしの衣装です。", "asset_id":12500, "mini_asset_id":12500, "icon_asset_id":1251000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
+    "id":12501, "myumon_basic_id":125, "name":"[YokaiEXPOマスコット！！] がしがし", "description":"がしがしの特別な衣装です。", "asset_id":12501, "mini_asset_id":12501, "icon_asset_id":1254000, "parent_id":12500, "started_at":"2021/05/11 12:00:00 +09:00"
+  },
+  {
     "id":13100, "myumon_basic_id":131, "name":"[ウワサノペタルズ] しばりん", "description":"しばりんの衣装です。", "asset_id":13100, "mini_asset_id":13100, "icon_asset_id":1311000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -691,5 +694,8 @@
   },
   {
     "id":91200, "myumon_basic_id":912, "name":"[Tシャツには拘りたいんだ。] キンタウルス", "description":"キンタウルスの衣装です。", "asset_id":91201, "mini_asset_id":91201, "icon_asset_id":9124000, "parent_id":0, "started_at":"2021/04/21 12:00:00 +09:00"
+  },
+  {
+    "id":91300, "myumon_basic_id":913, "name":"[美味しすぎる水、絶賛販売中だよ♪] コリエンテ", "description":"コリエンテの衣装です。", "asset_id":91301, "mini_asset_id":91301, "icon_asset_id":9134000, "parent_id":0, "started_at":"2021/05/11 12:00:00 +09:00"
   }
 ]
