@@ -171,7 +171,7 @@
     "id":223000, "name":"ワクワクダブルUP+", "digest":"『ワクワク』タイプ楽曲でスコア4%コンボ補正5%UP", "description":"『ワクワク』タイプの楽曲プレイ時、スコアが4%コンボ補正が5%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":50,\"score\":40,\"category\":2}"
   },
   {
-    "id":231000, "name":"キラキラスコアUP+", "digest":"『キラキラ』タイプ楽曲でスコア7%UP", "description":"『キラキラ』タイプの楽曲プレイ時、スコアが7%する", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":70,\"category\":3}"
+    "id":231000, "name":"キラキラスコアUP+", "digest":"『キラキラ』タイプ楽曲でスコア7%UP", "description":"『キラキラ』タイプの楽曲プレイ時、スコアが7%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":70,\"category\":3}"
   },
   {
     "id":232000, "name":"キラキラコンボUP+", "digest":"『キラキラ』タイプ楽曲でコンボ補正15%UP", "description":"『キラキラ』タイプの楽曲プレイ時、コンボ補正が15%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":150,\"score\":0,\"category\":3}"

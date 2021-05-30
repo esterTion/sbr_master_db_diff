@@ -786,6 +786,24 @@
     "id":4000177, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"26", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/05/25 12:00:00 +09:00", "ended_at":"2021/05/29 11:59:59 +09:00"
   },
   {
+    "id":4000178, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"27", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2021/06/04 11:59:59 +09:00"
+  },
+  {
+    "id":4000180, "category":4, "reset_cycle":0, "title":"【キャラ大】「キャラ大ありがとう」とつぶやいてみよう", "detail":"-", "add_condition_mission_id":0, "sort_order":101, "clear_condition_type":"unconditional", "clear_condition_args":"0", "goal":1, "reward_no":14036, "button_type":1, "destination_kind":0, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2021/06/14 11:59:59 +09:00"
+  },
+  {
+    "id":4000181, "category":4, "reset_cycle":0, "title":"【キャラ大】「あなたが考える大賞ブロマイド」をプロフィールから投稿しよう", "detail":"-", "add_condition_mission_id":0, "sort_order":102, "clear_condition_type":"unconditional", "clear_condition_args":"0", "goal":1, "reward_no":14036, "button_type":1, "destination_kind":0, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2021/06/14 11:59:59 +09:00"
+  },
+  {
+    "id":4000182, "category":4, "reset_cycle":0, "title":"【キャラ大】フリーライブで【FULL】クロウのショウバイエモいいおぼえうたをプレイしよう", "detail":"フリーライブで楽曲『【FULL】クロウのショウバイエモいいおぼえうた』を累計1回プレイしよう", "add_condition_mission_id":0, "sort_order":103, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9057],\"clear_status\":0}", "goal":1, "reward_no":14036, "button_type":0, "destination_kind":14, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2021/06/14 11:59:59 +09:00"
+  },
+  {
+    "id":4000183, "category":4, "reset_cycle":0, "title":"【キャラ大】キャラ大投票ありがとう！ ガチャを実行しよう", "detail":"ガチャから『キャラ大投票ありがとう！ 2020年オールスターガチャ』を選択してブロマイドを獲得しよう", "add_condition_mission_id":0, "sort_order":104, "clear_condition_type":"gacha_exec", "clear_condition_args":"[2166,2167]", "goal":1, "reward_no":14036, "button_type":0, "destination_kind":5, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2021/06/14 11:59:59 +09:00"
+  },
+  {
+    "id":4000184, "category":4, "reset_cycle":0, "title":"【キャラ大】キャラクター大賞ご協力ありがとうミッションを全てクリアしよう", "detail":"キャラクター大賞ご協力ありがとうございますミッションの内容を全てクリアしよう", "add_condition_mission_id":0, "sort_order":105, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000180,4000181,4000182,4000183]", "goal":4, "reward_no":14036, "button_type":0, "destination_kind":0, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2021/06/14 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
