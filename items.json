@@ -156,6 +156,9 @@
     "id":40039, "category":4, "name":"【Dコレ3】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40040, "category":4, "name":"【RM】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":40042, "category":4, "name":"【投票感謝】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -367,6 +370,9 @@
   },
   {
     "id":120039, "category":12, "name":"【Dコレ3】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120040, "category":12, "name":"【RM】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
@@ -684,6 +690,9 @@
     "id":182185, "category":18, "name":"13スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。13のレゾナンスソウル強化に必要な素材です。"
   },
   {
+    "id":182901, "category":18, "name":"スペシャルスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。バンドに所属しないメンバーのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
     "id":182911, "category":18, "name":"愁スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。愁のレゾナンスソウル強化に必要な素材です。"
   },
   {
@@ -691,6 +700,12 @@
   },
   {
     "id":182913, "category":18, "name":"コリエンテスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。コリエンテのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182914, "category":18, "name":"リックススフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。リックスのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182915, "category":18, "name":"ミックススフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ミックスのレゾナンスソウル強化に必要な素材です。"
   },
   {
     "id":190001, "category":19, "name":"ダクモンコイコイ", "quantity_max":9999, "ex_params":"{}", "description":"ダークモンスターを引きよせる匂いがする玉。使用するとダークモンスターを呼ぶことができます。"

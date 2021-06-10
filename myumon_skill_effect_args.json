@@ -2827,5 +2827,95 @@
   },
   {
     "id":18000210, "effect_arg_no":110002, "level":10, "interval":12400, "probability":41, "duration":6000, "damage":0, "effect_args":"[0,550,0,1750,1,1]", "digest":"発動時にファッ！！BAD以上ならスコア55%UP", "description":"発動時にファッ！！中確率で約6秒間BAD以上ならスコア55%UP"
+  },
+  {
+    "id":19000001, "effect_arg_no":2020100, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0.5]", "digest":"バトルのダメージ0.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×0.5%)が加算される。"
+  },
+  {
+    "id":19000002, "effect_arg_no":2020100, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,1]", "digest":"バトルのダメージ1%UP", "description":"バトルにおいてダメージに(基礎ダメージ×1%)が加算される。"
+  },
+  {
+    "id":19000003, "effect_arg_no":2020100, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,1.5]", "digest":"バトルのダメージ1.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×1.5%)が加算される。"
+  },
+  {
+    "id":19000004, "effect_arg_no":2020100, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,2]", "digest":"バトルのダメージ2%UP", "description":"バトルにおいてダメージに(基礎ダメージ×2%)が加算される。"
+  },
+  {
+    "id":19000005, "effect_arg_no":2020100, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,2.5]", "digest":"バトルのダメージ2.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×2.5%)が加算される。"
+  },
+  {
+    "id":19000006, "effect_arg_no":2020100, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,3]", "digest":"バトルのダメージ3%UP", "description":"バトルにおいてダメージに(基礎ダメージ×3%)が加算される。"
+  },
+  {
+    "id":19000007, "effect_arg_no":2020100, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,3.5]", "digest":"バトルのダメージ3.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×3.5%)が加算される。"
+  },
+  {
+    "id":19000008, "effect_arg_no":2020100, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,4]", "digest":"バトルのダメージ4%UP", "description":"バトルにおいてダメージに(基礎ダメージ×4%)が加算される。"
+  },
+  {
+    "id":19000009, "effect_arg_no":2020100, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,4.5]", "digest":"バトルのダメージ4.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×4.5%)が加算される。"
+  },
+  {
+    "id":19000010, "effect_arg_no":2020100, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,5]", "digest":"バトルのダメージ5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×5%)が加算される。"
+  },
+  {
+    "id":19000101, "effect_arg_no":2020101, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,3]", "digest":"バトルのダメージ3%UP", "description":"バトルにおいてダメージに(基礎ダメージ×3%)が加算される。"
+  },
+  {
+    "id":19000102, "effect_arg_no":2020101, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,3.5]", "digest":"バトルのダメージ3.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×3.5%)が加算される。"
+  },
+  {
+    "id":19000103, "effect_arg_no":2020101, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,4]", "digest":"バトルのダメージ4%UP", "description":"バトルにおいてダメージに(基礎ダメージ×4%)が加算される。"
+  },
+  {
+    "id":19000104, "effect_arg_no":2020101, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,4.5]", "digest":"バトルのダメージ4.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×4.5%)が加算される。"
+  },
+  {
+    "id":19000105, "effect_arg_no":2020101, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,5]", "digest":"バトルのダメージ5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×5%)が加算される。"
+  },
+  {
+    "id":19000106, "effect_arg_no":2020101, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,5.5]", "digest":"バトルのダメージ5.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×5.5%)が加算される。"
+  },
+  {
+    "id":19000107, "effect_arg_no":2020101, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,6]", "digest":"バトルのダメージ6%UP", "description":"バトルにおいてダメージに(基礎ダメージ×6%)が加算される。"
+  },
+  {
+    "id":19000108, "effect_arg_no":2020101, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,6.5]", "digest":"バトルのダメージ6.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×6.5%)が加算される。"
+  },
+  {
+    "id":19000109, "effect_arg_no":2020101, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,7]", "digest":"バトルのダメージ7%UP", "description":"バトルにおいてダメージに(基礎ダメージ×7%)が加算される。"
+  },
+  {
+    "id":19000110, "effect_arg_no":2020101, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,7.5]", "digest":"バトルのダメージ7.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×7.5%)が加算される。"
+  },
+  {
+    "id":19000201, "effect_arg_no":2020102, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,5.5]", "digest":"バトルのダメージ5.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×5.5%)が加算される。"
+  },
+  {
+    "id":19000202, "effect_arg_no":2020102, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,6]", "digest":"バトルのダメージ6%UP", "description":"バトルにおいてダメージに(基礎ダメージ×6%)が加算される。"
+  },
+  {
+    "id":19000203, "effect_arg_no":2020102, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,6.5]", "digest":"バトルのダメージ6.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×6.5%)が加算される。"
+  },
+  {
+    "id":19000204, "effect_arg_no":2020102, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,7]", "digest":"バトルのダメージ7%UP", "description":"バトルにおいてダメージに(基礎ダメージ×7%)が加算される。"
+  },
+  {
+    "id":19000205, "effect_arg_no":2020102, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,7.5]", "digest":"バトルのダメージ7.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×7.5%)が加算される。"
+  },
+  {
+    "id":19000206, "effect_arg_no":2020102, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,8]", "digest":"バトルのダメージ8%UP", "description":"バトルにおいてダメージに(基礎ダメージ×8%)が加算される。"
+  },
+  {
+    "id":19000207, "effect_arg_no":2020102, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,8.5]", "digest":"バトルのダメージ8.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×8.5%)が加算される。"
+  },
+  {
+    "id":19000208, "effect_arg_no":2020102, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,9]", "digest":"バトルのダメージ9%UP", "description":"バトルにおいてダメージに(基礎ダメージ×9%)が加算される。"
+  },
+  {
+    "id":19000209, "effect_arg_no":2020102, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,9.5]", "digest":"バトルのダメージ9.5%UP", "description":"バトルにおいてダメージに(基礎ダメージ×9.5%)が加算される。"
+  },
+  {
+    "id":19000210, "effect_arg_no":2020102, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,10]", "digest":"バトルのダメージ10%UP", "description":"バトルにおいてダメージに(基礎ダメージ×10%)が加算される。"
   }
 ]
