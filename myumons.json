@@ -906,6 +906,12 @@
     "id":634021, "myumon_basic_id":63, "name":"[クリスマスはDO根性です。]", "music_category":3, "rarity":5, "costume_id":6304, "life":500, "rhythm":2573, "melody":6156, "harmony":2463, "main_1_skill_id":10032, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":106100, "enable_deck":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
   },
   {
+    "id":634030, "myumon_basic_id":63, "name":"[同級生の結婚式で経験済みだぜ…。]", "music_category":2, "rarity":4, "costume_id":6305, "life":374, "rhythm":1917, "melody":4969, "harmony":1825, "main_1_skill_id":11003, "main_2_skill_id":82001, "support_skill_id":190001, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":634031, "shinka_recipe_no":24, "myumon_potential_id":1203001, "enable_deck":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
+  },
+  {
+    "id":634031, "myumon_basic_id":63, "name":"[来いよ。お前と一緒に行きたいんだ]", "music_category":2, "rarity":5, "costume_id":6305, "life":497, "rhythm":2449, "melody":6492, "harmony":2442, "main_1_skill_id":10004, "main_2_skill_id":82002, "support_skill_id":190002, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":1203001, "enable_deck":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
+  },
+  {
     "id":641000, "myumon_basic_id":64, "name":"[DOKONJOFINGER]", "music_category":2, "rarity":1, "costume_id":6400, "life":104, "rhythm":797, "melody":675, "harmony":599, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":641001, "shinka_recipe_no":21, "myumon_potential_id":0, "enable_deck":true, "description":"「DOKONJOFINGER」に所属する「双循」のブロマイドです"
   },
   {
@@ -1390,6 +1396,12 @@
   },
   {
     "id":1014031, "myumon_basic_id":101, "name":"[ハッピークリクリ♡ニューイヤー♪]", "music_category":1, "rarity":5, "costume_id":10104, "life":493, "rhythm":6249, "melody":2499, "harmony":2520, "main_1_skill_id":10032, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":110100, "enable_deck":true, "description":"「クリティクリスタ」に所属する「ロージア」のブロマイドです"
+  },
+  {
+    "id":1014040, "myumon_basic_id":101, "name":"[アイドルだって…いつかはきっと♡]", "music_category":2, "rarity":4, "costume_id":10105, "life":356, "rhythm":1918, "melody":5026, "harmony":1897, "main_1_skill_id":21001, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1014041, "shinka_recipe_no":24, "myumon_potential_id":223000, "enable_deck":true, "description":"「クリティクリスタ」に所属する「ロージア」のブロマイドです"
+  },
+  {
+    "id":1014041, "myumon_basic_id":101, "name":"[ねえ…今日から何て呼べばいい？]", "music_category":2, "rarity":5, "costume_id":10105, "life":492, "rhythm":2410, "melody":6479, "harmony":2508, "main_1_skill_id":21002, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":223000, "enable_deck":true, "description":"「クリティクリスタ」に所属する「ロージア」のブロマイドです"
   },
   {
     "id":1021000, "myumon_basic_id":102, "name":"[クリティクリスタ]", "music_category":3, "rarity":1, "costume_id":10200, "life":97, "rhythm":661, "melody":880, "harmony":582, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1021001, "shinka_recipe_no":31, "myumon_potential_id":0, "enable_deck":true, "description":"「クリティクリスタ」に所属する「ツキノ」のブロマイドです"
@@ -2143,5 +2155,20 @@
   },
   {
     "id":9213000, "myumon_basic_id":921, "name":"[ぜろよん！海水浴！！]", "music_category":1, "rarity":3, "costume_id":92100, "life":313, "rhythm":1690, "melody":1747, "harmony":3769, "main_1_skill_id":12002, "main_2_skill_id":0, "support_skill_id":190000, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630001, "enable_deck":true, "description":"「04Tobizbits」に所属する「Kazzed」のブロマイドです"
+  },
+  {
+    "id":9224000, "myumon_basic_id":922, "name":"[雨上がりアフタースクール]", "music_category":2, "rarity":4, "costume_id":92200, "life":413, "rhythm":2000, "melody":5102, "harmony":1958, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110026, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「ドロップアウト先生」に所属する「カブトモアキ」のブロマイドです"
+  },
+  {
+    "id":9234000, "myumon_basic_id":923, "name":"[Sunset-DJ！]", "music_category":2, "rarity":4, "costume_id":92300, "life":417, "rhythm":2006, "melody":5137, "harmony":1990, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「ラペッジオート」に所属する「DJyksビート」のブロマイドです"
+  },
+  {
+    "id":9244000, "myumon_basic_id":924, "name":"[美味しすぎるチョコレートF]", "music_category":2, "rarity":4, "costume_id":92400, "life":422, "rhythm":2000, "melody":5098, "harmony":2002, "main_1_skill_id":160001, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「雫シークレットマインド」に所属する「シャボボン」のブロマイドです"
+  },
+  {
+    "id":9254000, "myumon_basic_id":925, "name":"[夏カワ♡ビーチDolce]", "music_category":2, "rarity":4, "costume_id":92500, "life":402, "rhythm":1981, "melody":5155, "harmony":1988, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「ドーリィドルチ」に所属する「キャンディラパン」のブロマイドです"
+  },
+  {
+    "id":9263000, "myumon_basic_id":926, "name":"[雨上がり裏山DKバトル・DOS！]", "music_category":2, "rarity":3, "costume_id":92600, "life":301, "rhythm":1734, "melody":3719, "harmony":1738, "main_1_skill_id":21001, "main_2_skill_id":0, "support_skill_id":190000, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620001, "enable_deck":true, "description":"「ドロップアウト先生」に所属する「クワガタツヤ」のブロマイドです"
   }
 ]

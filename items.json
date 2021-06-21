@@ -159,6 +159,9 @@
     "id":40040, "category":4, "name":"【RM】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40041, "category":4, "name":"【WED】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":40042, "category":4, "name":"【投票感謝】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -378,6 +381,9 @@
     "id":120040, "category":12, "name":"【RM】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120041, "category":12, "name":"【WED】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -507,7 +513,7 @@
     "id":181018, "category":18, "name":"クロモスクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。クロモスメンバーのレゾナンスソウル強化に必要な素材です"
   },
   {
-    "id":181091, "category":18, "name":"スペシャルクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。バンドに所属しないメンバーのレゾナンスソウル強化に必要な素材です"
+    "id":181091, "category":18, "name":"スペシャルクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。バンドに所属しない（スペシャル）メンバーのレゾナンスソウル強化に必要な素材です"
   },
   {
     "id":182011, "category":18, "name":"ほわんスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ほわんのレゾナンスソウル強化に必要な素材です。"
@@ -696,7 +702,7 @@
     "id":182185, "category":18, "name":"13スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。13のレゾナンスソウル強化に必要な素材です。"
   },
   {
-    "id":182901, "category":18, "name":"スペシャルスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。バンドに所属しないメンバーのレゾナンスソウル強化に必要な素材です。"
+    "id":182901, "category":18, "name":"スペシャルスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。バンドに所属しない（スペシャル）メンバーのレゾナンスソウル強化に必要な素材です。"
   },
   {
     "id":182911, "category":18, "name":"愁スフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。愁のレゾナンスソウル強化に必要な素材です。"
