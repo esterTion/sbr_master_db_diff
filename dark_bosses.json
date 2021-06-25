@@ -330,6 +330,9 @@
     "id":201107, "name":"ダークドラグーン・ピアニッシモ", "stamina_cost":10, "summon_cost":0, "max_hp":3969, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":4, "next_encounter_no":0, "win_reward_no":3497, "win_artist_exp":400, "win_myumon_exp":400, "win_event_point":3969, "kind":1, "sort_order":201107, "asset_id":199, "engaged_asset_id":2
   },
   {
+    "id":201111, "name":"ディクティターシュライエン", "stamina_cost":10, "summon_cost":3, "max_hp":600000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":200, "next_encounter_no":1211, "win_reward_no":3498, "win_artist_exp":40000, "win_myumon_exp":40000, "win_event_point":18000, "kind":7, "sort_order":201111, "asset_id":500, "engaged_asset_id":1
+  },
+  {
     "id":300101, "name":"メカメイプル", "stamina_cost":10, "summon_cost":0, "max_hp":13969, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":10, "next_encounter_no":0, "win_reward_no":3458, "win_artist_exp":900, "win_myumon_exp":900, "win_event_point":0, "kind":4, "sort_order":300101, "asset_id":1001, "engaged_asset_id":1
   },
   {
