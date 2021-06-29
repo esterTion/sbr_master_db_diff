@@ -168,6 +168,9 @@
     "id":40043, "category":4, "name":"【8位記念】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40044, "category":4, "name":"【水コレ3】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -205,6 +208,9 @@
   },
   {
     "id":41013, "category":4, "name":"2021年5月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41014, "category":4, "name":"2021年7月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -384,6 +390,9 @@
     "id":120041, "category":12, "name":"【WED】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120044, "category":12, "name":"【水コレ3】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -460,6 +469,9 @@
   },
   {
     "id":180001, "category":18, "name":"ソウルのかけら", "quantity_max":9999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮されたかけら。レゾナンスソウルの強化に必要となる素材です。"
+  },
+  {
+    "id":180002, "category":18, "name":"ソウルの結晶", "quantity_max":9999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮された結晶。レゾナンスソウルの強化に必要となるレアな素材です。"
   },
   {
     "id":180004, "category":18, "name":"アルマース", "quantity_max":9999, "ex_params":"{}", "description":"音楽エネルギーが凝縮されたメロディシアンストーンの原石。ソウルの最高レベル強化に必要な素材です。"

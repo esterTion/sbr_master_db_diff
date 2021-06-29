@@ -39,6 +39,9 @@
     "id":1205, "myumon_basic_id":12, "name":"[ほんと……何してんだろ、あたし] マシマヒメコ", "description":"マシマヒメコの特別な衣装です。", "asset_id":1204, "mini_asset_id":1205, "icon_asset_id":124030, "parent_id":1200, "started_at":"2021/02/28 12:00:00 +09:00"
   },
   {
+    "id":1206, "myumon_basic_id":12, "name":"[あたし達の必殺技…キメてみせる！] マシマヒメコ", "description":"マシマヒメコの特別な衣装です。", "asset_id":1205, "mini_asset_id":1206, "icon_asset_id":124040, "parent_id":1200, "started_at":"2021/06/30 12:00:00 +09:00"
+  },
+  {
     "id":1300, "myumon_basic_id":13, "name":"[Mashumairesh!!] デルミン", "description":"デルミンの衣装です。", "asset_id":1300, "mini_asset_id":1300, "icon_asset_id":131000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -343,6 +346,9 @@
   },
   {
     "id":6403, "myumon_basic_id":64, "name":"[ワシの弓はモンスターじゃけん。] 双循", "description":"双循の特別な衣装です。", "asset_id":6403, "mini_asset_id":6403, "icon_asset_id":644020, "parent_id":6400, "started_at":"2020/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":6404, "myumon_basic_id":64, "name":"[生徒会番長の夏、体育はプールです] 双循", "description":"双循の特別な衣装です。", "asset_id":6404, "mini_asset_id":6404, "icon_asset_id":644030, "parent_id":6400, "started_at":"2021/06/30 12:00:00 +09:00"
   },
   {
     "id":7100, "myumon_basic_id":71, "name":"[SHINGANCRIMSONZ] クロウ", "description":"クロウの衣装です。", "asset_id":7100, "mini_asset_id":7100, "icon_asset_id":711000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
@@ -678,6 +684,9 @@
     "id":15301, "myumon_basic_id":153, "name":"[頑張りましたね。いい子、いい子♡] れっぱにょ", "description":"れっぱにょの特別な衣装です。", "asset_id":15301, "mini_asset_id":15301, "icon_asset_id":1534000, "parent_id":15300, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
+    "id":15302, "myumon_basic_id":153, "name":"[恥ずかしがらないでいいんですよ♡] れっぱにょ", "description":"れっぱにょの特別な衣装です。", "asset_id":15302, "mini_asset_id":15302, "icon_asset_id":1534010, "parent_id":15300, "started_at":"2021/06/30 12:00:00 +09:00"
+  },
+  {
     "id":15400, "myumon_basic_id":154, "name":"[ゼロティックホリック] ギリリ", "description":"ギリリの衣装です。", "asset_id":15400, "mini_asset_id":15400, "icon_asset_id":1541000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -691,6 +700,9 @@
   },
   {
     "id":18102, "myumon_basic_id":181, "name":"[クソ共が、浮かれやがって…] 919", "description":"919の特別な衣装です。", "asset_id":18102, "mini_asset_id":18102, "icon_asset_id":1814010, "parent_id":18100, "started_at":"2021/04/10 12:00:00 +09:00"
+  },
+  {
+    "id":18103, "myumon_basic_id":181, "name":"[イラつく波だぜ…ねじ伏せる！] 919", "description":"919の特別な衣装です。", "asset_id":18103, "mini_asset_id":18103, "icon_asset_id":1814020, "parent_id":18100, "started_at":"2021/06/30 12:00:00 +09:00"
   },
   {
     "id":18200, "myumon_basic_id":182, "name":"[Kuronoatmosphere] 151", "description":"151の衣装です。", "asset_id":18200, "mini_asset_id":18200, "icon_asset_id":1821000, "parent_id":0, "started_at":"2021/01/29 13:00:00 +09:00"
@@ -760,5 +772,8 @@
   },
   {
     "id":92600, "myumon_basic_id":926, "name":"[雨上がり裏山DKバトル・DOS！] クワガタツヤ", "description":"クワガタツヤの衣装です。", "asset_id":0, "mini_asset_id":92601, "icon_asset_id":9263000, "parent_id":0, "started_at":"2021/06/22 12:00:00 +09:00"
+  },
+  {
+    "id":92700, "myumon_basic_id":927, "name":"[3年雫組波乗り同好会] タートルB・I・G", "description":"タートルB・I・Gの衣装です。", "asset_id":0, "mini_asset_id":92701, "icon_asset_id":9273000, "parent_id":0, "started_at":"2021/06/30 12:00:00 +09:00"
   }
 ]
