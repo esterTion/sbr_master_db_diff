@@ -1,1436 +1,1871 @@
 [
   {
-    "id":101, "reward_no":1, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":101, "reward_no":1, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":102, "reward_no":1, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":102, "reward_no":1, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":103, "reward_no":1, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":103, "reward_no":1, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":104, "reward_no":1, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":104, "reward_no":1, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":105, "reward_no":1, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":105, "reward_no":1, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":201, "reward_no":2, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":201, "reward_no":2, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":202, "reward_no":2, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":202, "reward_no":2, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":203, "reward_no":2, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":203, "reward_no":2, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":204, "reward_no":2, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":204, "reward_no":2, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":205, "reward_no":2, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":205, "reward_no":2, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":301, "reward_no":3, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":301, "reward_no":3, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":302, "reward_no":3, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":302, "reward_no":3, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":303, "reward_no":3, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":303, "reward_no":3, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":304, "reward_no":3, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":304, "reward_no":3, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":401, "reward_no":4, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":401, "reward_no":4, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":402, "reward_no":4, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":402, "reward_no":4, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":403, "reward_no":4, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":403, "reward_no":4, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":404, "reward_no":4, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":404, "reward_no":4, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":501, "reward_no":5, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":501, "reward_no":5, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":502, "reward_no":5, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":502, "reward_no":5, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":503, "reward_no":5, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":503, "reward_no":5, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":504, "reward_no":5, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":504, "reward_no":5, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":505, "reward_no":5, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":505, "reward_no":5, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":601, "reward_no":6, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":601, "reward_no":6, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":602, "reward_no":6, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":602, "reward_no":6, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":603, "reward_no":6, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":603, "reward_no":6, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":604, "reward_no":6, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":604, "reward_no":6, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":605, "reward_no":6, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":605, "reward_no":6, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":701, "reward_no":7, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":701, "reward_no":7, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":702, "reward_no":7, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":702, "reward_no":7, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":703, "reward_no":7, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":703, "reward_no":7, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":704, "reward_no":7, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":704, "reward_no":7, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":705, "reward_no":7, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":705, "reward_no":7, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":801, "reward_no":8, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":801, "reward_no":8, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":802, "reward_no":8, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":802, "reward_no":8, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":803, "reward_no":8, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":803, "reward_no":8, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":804, "reward_no":8, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":804, "reward_no":8, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":901, "reward_no":9, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":901, "reward_no":9, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":902, "reward_no":9, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":902, "reward_no":9, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":903, "reward_no":9, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":903, "reward_no":9, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":904, "reward_no":9, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":904, "reward_no":9, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":1001, "reward_no":10, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":1001, "reward_no":10, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":1002, "reward_no":10, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":1002, "reward_no":10, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":1003, "reward_no":10, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":1003, "reward_no":10, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":1004, "reward_no":10, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":1004, "reward_no":10, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":1101, "reward_no":11, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":1101, "reward_no":11, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":1102, "reward_no":11, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":1102, "reward_no":11, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":1103, "reward_no":11, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":1103, "reward_no":11, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":1104, "reward_no":11, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":1104, "reward_no":11, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":1105, "reward_no":11, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":1105, "reward_no":11, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":1201, "reward_no":12, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":1201, "reward_no":12, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":1202, "reward_no":12, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":1202, "reward_no":12, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":1203, "reward_no":12, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":1203, "reward_no":12, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":1204, "reward_no":12, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":1204, "reward_no":12, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":1301, "reward_no":13, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":1301, "reward_no":13, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":1302, "reward_no":13, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":1302, "reward_no":13, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":1303, "reward_no":13, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":1303, "reward_no":13, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":1304, "reward_no":13, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":1304, "reward_no":13, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":1401, "reward_no":14, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":1401, "reward_no":14, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":1402, "reward_no":14, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":1402, "reward_no":14, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":1403, "reward_no":14, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":1403, "reward_no":14, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":1404, "reward_no":14, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":1404, "reward_no":14, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":1501, "reward_no":15, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":1501, "reward_no":15, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":1502, "reward_no":15, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":1502, "reward_no":15, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":1503, "reward_no":15, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":1503, "reward_no":15, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":1504, "reward_no":15, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":1504, "reward_no":15, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":1801, "reward_no":18, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":1801, "reward_no":18, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":1802, "reward_no":18, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":1802, "reward_no":18, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":1803, "reward_no":18, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":70, "weight_passport":230
+    "id":1803, "reward_no":18, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":70, "weight_passport":230, "is_rare":false
   },
   {
-    "id":1804, "reward_no":18, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":1804, "reward_no":18, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":9001, "reward_no":90, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":9001, "reward_no":90, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":9002, "reward_no":90, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":9002, "reward_no":90, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":9003, "reward_no":90, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":9003, "reward_no":90, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":9004, "reward_no":90, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":9004, "reward_no":90, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":9005, "reward_no":90, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":9005, "reward_no":90, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":9006, "reward_no":90, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":9006, "reward_no":90, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":9007, "reward_no":90, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":9007, "reward_no":90, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":9008, "reward_no":90, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":9008, "reward_no":90, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":9009, "reward_no":90, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":9009, "reward_no":90, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":9010, "reward_no":90, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":9010, "reward_no":90, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":9011, "reward_no":90, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":9011, "reward_no":90, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":9012, "reward_no":90, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":9012, "reward_no":90, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":9013, "reward_no":90, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":655, "weight_passport":500
+    "id":9013, "reward_no":90, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":655, "weight_passport":500, "is_rare":false
   },
   {
-    "id":9014, "reward_no":90, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":260, "weight_passport":250
+    "id":9014, "reward_no":90, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":260, "weight_passport":250, "is_rare":false
   },
   {
-    "id":9015, "reward_no":90, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":9015, "reward_no":90, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":9016, "reward_no":90, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":15, "weight_passport":20
+    "id":9016, "reward_no":90, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":15, "weight_passport":20, "is_rare":false
   },
   {
-    "id":9017, "reward_no":90, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":9017, "reward_no":90, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":9018, "reward_no":90, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":9018, "reward_no":90, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":9019, "reward_no":90, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":9019, "reward_no":90, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":9020, "reward_no":90, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":35, "weight_passport":115
+    "id":9020, "reward_no":90, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":35, "weight_passport":115, "is_rare":false
   },
   {
-    "id":10101, "reward_no":101, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":10101, "reward_no":101, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":10102, "reward_no":101, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":10102, "reward_no":101, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":10103, "reward_no":101, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10103, "reward_no":101, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10104, "reward_no":101, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":10104, "reward_no":101, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":10105, "reward_no":101, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10105, "reward_no":101, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10201, "reward_no":102, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":10201, "reward_no":102, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":10202, "reward_no":102, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":10202, "reward_no":102, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":10203, "reward_no":102, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10203, "reward_no":102, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10204, "reward_no":102, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":10204, "reward_no":102, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":10205, "reward_no":102, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10205, "reward_no":102, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10301, "reward_no":103, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":10301, "reward_no":103, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":10302, "reward_no":103, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":10302, "reward_no":103, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":10303, "reward_no":103, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":10303, "reward_no":103, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":10304, "reward_no":103, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":10304, "reward_no":103, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":10401, "reward_no":104, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":10401, "reward_no":104, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":10402, "reward_no":104, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":10402, "reward_no":104, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":10403, "reward_no":104, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":10403, "reward_no":104, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":10404, "reward_no":104, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":10404, "reward_no":104, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":10501, "reward_no":105, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":10501, "reward_no":105, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":10502, "reward_no":105, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":10502, "reward_no":105, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":10503, "reward_no":105, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10503, "reward_no":105, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10504, "reward_no":105, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":10504, "reward_no":105, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":10505, "reward_no":105, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10505, "reward_no":105, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10601, "reward_no":106, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":10601, "reward_no":106, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":10602, "reward_no":106, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":10602, "reward_no":106, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":10603, "reward_no":106, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10603, "reward_no":106, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10604, "reward_no":106, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":10604, "reward_no":106, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":10605, "reward_no":106, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10605, "reward_no":106, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10701, "reward_no":107, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":10701, "reward_no":107, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":10702, "reward_no":107, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":10702, "reward_no":107, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":10703, "reward_no":107, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10703, "reward_no":107, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10704, "reward_no":107, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":10704, "reward_no":107, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":10705, "reward_no":107, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":10705, "reward_no":107, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":10801, "reward_no":108, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":10801, "reward_no":108, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":10802, "reward_no":108, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":10802, "reward_no":108, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":10803, "reward_no":108, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":10803, "reward_no":108, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":10804, "reward_no":108, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":10804, "reward_no":108, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":10901, "reward_no":109, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":10901, "reward_no":109, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":10902, "reward_no":109, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":10902, "reward_no":109, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":10903, "reward_no":109, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":10903, "reward_no":109, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":10904, "reward_no":109, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":10904, "reward_no":109, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":11001, "reward_no":110, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":11001, "reward_no":110, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":11002, "reward_no":110, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":11002, "reward_no":110, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":11003, "reward_no":110, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":11003, "reward_no":110, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":11004, "reward_no":110, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":11004, "reward_no":110, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":11101, "reward_no":111, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":11101, "reward_no":111, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":11102, "reward_no":111, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":11102, "reward_no":111, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":11103, "reward_no":111, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":11103, "reward_no":111, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":11104, "reward_no":111, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":11104, "reward_no":111, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":11105, "reward_no":111, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":11105, "reward_no":111, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":11201, "reward_no":112, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":11201, "reward_no":112, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":11202, "reward_no":112, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":11202, "reward_no":112, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":11203, "reward_no":112, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":11203, "reward_no":112, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":11204, "reward_no":112, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":11204, "reward_no":112, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":11301, "reward_no":113, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":11301, "reward_no":113, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":11302, "reward_no":113, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":11302, "reward_no":113, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":11303, "reward_no":113, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":11303, "reward_no":113, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":11304, "reward_no":113, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":11304, "reward_no":113, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":11401, "reward_no":114, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":11401, "reward_no":114, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":11402, "reward_no":114, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":11402, "reward_no":114, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":11403, "reward_no":114, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":11403, "reward_no":114, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":11404, "reward_no":114, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":11404, "reward_no":114, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":11501, "reward_no":115, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":11501, "reward_no":115, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":11502, "reward_no":115, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":11502, "reward_no":115, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":11503, "reward_no":115, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":11503, "reward_no":115, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":11504, "reward_no":115, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":11504, "reward_no":115, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":11801, "reward_no":118, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":11801, "reward_no":118, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":11802, "reward_no":118, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":11802, "reward_no":118, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":11803, "reward_no":118, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":90, "weight_passport":290
+    "id":11803, "reward_no":118, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":90, "weight_passport":290, "is_rare":false
   },
   {
-    "id":11804, "reward_no":118, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":11804, "reward_no":118, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":19001, "reward_no":190, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":19001, "reward_no":190, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":19002, "reward_no":190, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":19002, "reward_no":190, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":19003, "reward_no":190, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":19003, "reward_no":190, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":19004, "reward_no":190, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":19004, "reward_no":190, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":19005, "reward_no":190, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":19005, "reward_no":190, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":19006, "reward_no":190, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":19006, "reward_no":190, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":19007, "reward_no":190, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":19007, "reward_no":190, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":19008, "reward_no":190, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":19008, "reward_no":190, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":19009, "reward_no":190, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":19009, "reward_no":190, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":19010, "reward_no":190, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":19010, "reward_no":190, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":19011, "reward_no":190, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":19011, "reward_no":190, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":19012, "reward_no":190, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":19012, "reward_no":190, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":19013, "reward_no":190, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":610, "weight_passport":405
+    "id":19013, "reward_no":190, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":610, "weight_passport":405, "is_rare":false
   },
   {
-    "id":19014, "reward_no":190, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":280, "weight_passport":280
+    "id":19014, "reward_no":190, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":280, "weight_passport":280, "is_rare":false
   },
   {
-    "id":19015, "reward_no":190, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":19015, "reward_no":190, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":19016, "reward_no":190, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":20, "weight_passport":25
+    "id":19016, "reward_no":190, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":20, "weight_passport":25, "is_rare":false
   },
   {
-    "id":19017, "reward_no":190, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":19017, "reward_no":190, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":19018, "reward_no":190, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":19018, "reward_no":190, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":19019, "reward_no":190, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":19019, "reward_no":190, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":19020, "reward_no":190, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":45, "weight_passport":145
+    "id":19020, "reward_no":190, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":45, "weight_passport":145, "is_rare":false
   },
   {
-    "id":20101, "reward_no":201, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":20101, "reward_no":201, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20102, "reward_no":201, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":20102, "reward_no":201, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20103, "reward_no":201, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20103, "reward_no":201, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20104, "reward_no":201, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":20104, "reward_no":201, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":20105, "reward_no":201, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20105, "reward_no":201, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20201, "reward_no":202, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":20201, "reward_no":202, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20202, "reward_no":202, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":20202, "reward_no":202, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20203, "reward_no":202, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20203, "reward_no":202, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20204, "reward_no":202, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":20204, "reward_no":202, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":20205, "reward_no":202, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20205, "reward_no":202, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20301, "reward_no":203, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":20301, "reward_no":203, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20302, "reward_no":203, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":20302, "reward_no":203, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20303, "reward_no":203, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":20303, "reward_no":203, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":20304, "reward_no":203, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":20304, "reward_no":203, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":20401, "reward_no":204, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":20401, "reward_no":204, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20402, "reward_no":204, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":20402, "reward_no":204, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20403, "reward_no":204, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":20403, "reward_no":204, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":20404, "reward_no":204, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":20404, "reward_no":204, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":20501, "reward_no":205, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":20501, "reward_no":205, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20502, "reward_no":205, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":20502, "reward_no":205, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20503, "reward_no":205, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20503, "reward_no":205, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20504, "reward_no":205, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":20504, "reward_no":205, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":20505, "reward_no":205, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20505, "reward_no":205, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20601, "reward_no":206, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":20601, "reward_no":206, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20602, "reward_no":206, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":20602, "reward_no":206, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20603, "reward_no":206, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20603, "reward_no":206, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20604, "reward_no":206, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":20604, "reward_no":206, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":20605, "reward_no":206, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20605, "reward_no":206, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20701, "reward_no":207, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":20701, "reward_no":207, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20702, "reward_no":207, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":20702, "reward_no":207, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20703, "reward_no":207, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20703, "reward_no":207, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20704, "reward_no":207, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":20704, "reward_no":207, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":20705, "reward_no":207, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":20705, "reward_no":207, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":20801, "reward_no":208, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":20801, "reward_no":208, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20802, "reward_no":208, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":20802, "reward_no":208, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20803, "reward_no":208, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":20803, "reward_no":208, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":20804, "reward_no":208, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":20804, "reward_no":208, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":20901, "reward_no":209, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":20901, "reward_no":209, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20902, "reward_no":209, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":20902, "reward_no":209, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":20903, "reward_no":209, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":20903, "reward_no":209, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":20904, "reward_no":209, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":20904, "reward_no":209, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":21001, "reward_no":210, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":21001, "reward_no":210, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21002, "reward_no":210, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":21002, "reward_no":210, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21003, "reward_no":210, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":21003, "reward_no":210, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":21004, "reward_no":210, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":21004, "reward_no":210, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":21101, "reward_no":211, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":21101, "reward_no":211, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21102, "reward_no":211, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":21102, "reward_no":211, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21103, "reward_no":211, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":21103, "reward_no":211, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":21104, "reward_no":211, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":21104, "reward_no":211, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":21105, "reward_no":211, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":21105, "reward_no":211, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":21201, "reward_no":212, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":21201, "reward_no":212, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21202, "reward_no":212, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":21202, "reward_no":212, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21203, "reward_no":212, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":21203, "reward_no":212, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":21204, "reward_no":212, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":21204, "reward_no":212, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":21301, "reward_no":213, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":21301, "reward_no":213, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21302, "reward_no":213, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":21302, "reward_no":213, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21303, "reward_no":213, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":21303, "reward_no":213, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":21304, "reward_no":213, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":21304, "reward_no":213, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":21401, "reward_no":214, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":21401, "reward_no":214, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21402, "reward_no":214, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":21402, "reward_no":214, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21403, "reward_no":214, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":21403, "reward_no":214, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":21404, "reward_no":214, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":21404, "reward_no":214, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":21501, "reward_no":215, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":21501, "reward_no":215, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21502, "reward_no":215, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":21502, "reward_no":215, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21503, "reward_no":215, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":21503, "reward_no":215, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":21504, "reward_no":215, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":21504, "reward_no":215, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":21801, "reward_no":218, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":21801, "reward_no":218, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21802, "reward_no":218, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":21802, "reward_no":218, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":21803, "reward_no":218, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":110, "weight_passport":350
+    "id":21803, "reward_no":218, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":110, "weight_passport":350, "is_rare":false
   },
   {
-    "id":21804, "reward_no":218, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":21804, "reward_no":218, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":29001, "reward_no":290, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":29001, "reward_no":290, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":29002, "reward_no":290, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":29002, "reward_no":290, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":29003, "reward_no":290, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":29003, "reward_no":290, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":29004, "reward_no":290, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":29004, "reward_no":290, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":29005, "reward_no":290, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":29005, "reward_no":290, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":29006, "reward_no":290, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":29006, "reward_no":290, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":29007, "reward_no":290, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":29007, "reward_no":290, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":29008, "reward_no":290, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":29008, "reward_no":290, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":29009, "reward_no":290, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":29009, "reward_no":290, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":29010, "reward_no":290, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":29010, "reward_no":290, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":29011, "reward_no":290, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":29011, "reward_no":290, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":29012, "reward_no":290, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":29012, "reward_no":290, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":29013, "reward_no":290, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":565, "weight_passport":310
+    "id":29013, "reward_no":290, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":565, "weight_passport":310, "is_rare":false
   },
   {
-    "id":29014, "reward_no":290, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":300, "weight_passport":310
+    "id":29014, "reward_no":290, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":300, "weight_passport":310, "is_rare":false
   },
   {
-    "id":29015, "reward_no":290, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":29015, "reward_no":290, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":29016, "reward_no":290, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":25, "weight_passport":30
+    "id":29016, "reward_no":290, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":25, "weight_passport":30, "is_rare":false
   },
   {
-    "id":29017, "reward_no":290, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":29017, "reward_no":290, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":29018, "reward_no":290, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":29018, "reward_no":290, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":29019, "reward_no":290, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":29019, "reward_no":290, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":29020, "reward_no":290, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":55, "weight_passport":175
+    "id":29020, "reward_no":290, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":55, "weight_passport":175, "is_rare":false
   },
   {
-    "id":30101, "reward_no":301, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":30101, "reward_no":301, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":30102, "reward_no":301, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":30102, "reward_no":301, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":30103, "reward_no":301, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30103, "reward_no":301, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30104, "reward_no":301, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":30104, "reward_no":301, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":30105, "reward_no":301, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30105, "reward_no":301, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30201, "reward_no":302, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":30201, "reward_no":302, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":30202, "reward_no":302, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":30202, "reward_no":302, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":30203, "reward_no":302, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30203, "reward_no":302, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30204, "reward_no":302, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":30204, "reward_no":302, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":30205, "reward_no":302, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30205, "reward_no":302, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30301, "reward_no":303, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":30301, "reward_no":303, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":30302, "reward_no":303, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":30302, "reward_no":303, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":30303, "reward_no":303, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":30303, "reward_no":303, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":30304, "reward_no":303, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":30304, "reward_no":303, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":30401, "reward_no":304, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":30401, "reward_no":304, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":30402, "reward_no":304, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":30402, "reward_no":304, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":30403, "reward_no":304, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":30403, "reward_no":304, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":30404, "reward_no":304, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":30404, "reward_no":304, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":30501, "reward_no":305, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":30501, "reward_no":305, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":30502, "reward_no":305, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":30502, "reward_no":305, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":30503, "reward_no":305, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30503, "reward_no":305, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30504, "reward_no":305, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":30504, "reward_no":305, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":30505, "reward_no":305, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30505, "reward_no":305, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30601, "reward_no":306, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":30601, "reward_no":306, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":30602, "reward_no":306, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":30602, "reward_no":306, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":30603, "reward_no":306, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30603, "reward_no":306, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30604, "reward_no":306, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":30604, "reward_no":306, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":30605, "reward_no":306, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30605, "reward_no":306, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30701, "reward_no":307, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":30701, "reward_no":307, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":30702, "reward_no":307, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":30702, "reward_no":307, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":30703, "reward_no":307, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30703, "reward_no":307, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30704, "reward_no":307, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":30704, "reward_no":307, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":30705, "reward_no":307, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":30705, "reward_no":307, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":30801, "reward_no":308, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":30801, "reward_no":308, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":30802, "reward_no":308, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":30802, "reward_no":308, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":30803, "reward_no":308, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":30803, "reward_no":308, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":30804, "reward_no":308, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":30804, "reward_no":308, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":30901, "reward_no":309, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":30901, "reward_no":309, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":30902, "reward_no":309, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":30902, "reward_no":309, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":30903, "reward_no":309, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":30903, "reward_no":309, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":30904, "reward_no":309, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":30904, "reward_no":309, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":31001, "reward_no":310, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":31001, "reward_no":310, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":31002, "reward_no":310, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":31002, "reward_no":310, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":31003, "reward_no":310, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":31003, "reward_no":310, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":31004, "reward_no":310, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":31004, "reward_no":310, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":31101, "reward_no":311, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":31101, "reward_no":311, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":31102, "reward_no":311, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":31102, "reward_no":311, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":31103, "reward_no":311, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":31103, "reward_no":311, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":31104, "reward_no":311, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":31104, "reward_no":311, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":31105, "reward_no":311, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":31105, "reward_no":311, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":31201, "reward_no":312, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":31201, "reward_no":312, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":31202, "reward_no":312, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":31202, "reward_no":312, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":31203, "reward_no":312, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":31203, "reward_no":312, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":31204, "reward_no":312, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":31204, "reward_no":312, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":31301, "reward_no":313, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":31301, "reward_no":313, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":31302, "reward_no":313, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":31302, "reward_no":313, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":31303, "reward_no":313, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":31303, "reward_no":313, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":31304, "reward_no":313, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":31304, "reward_no":313, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":31401, "reward_no":314, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":31401, "reward_no":314, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":31402, "reward_no":314, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":31402, "reward_no":314, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":31403, "reward_no":314, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":31403, "reward_no":314, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":31404, "reward_no":314, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":31404, "reward_no":314, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":31501, "reward_no":315, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":31501, "reward_no":315, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":31502, "reward_no":315, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":31502, "reward_no":315, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":31503, "reward_no":315, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":31503, "reward_no":315, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":31504, "reward_no":315, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":31504, "reward_no":315, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":31801, "reward_no":318, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":31801, "reward_no":318, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":31802, "reward_no":318, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":31802, "reward_no":318, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":31803, "reward_no":318, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":130, "weight_passport":410
+    "id":31803, "reward_no":318, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":130, "weight_passport":410, "is_rare":false
   },
   {
-    "id":31804, "reward_no":318, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":31804, "reward_no":318, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":39001, "reward_no":390, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":39001, "reward_no":390, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":39002, "reward_no":390, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":39002, "reward_no":390, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":39003, "reward_no":390, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":39003, "reward_no":390, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":39004, "reward_no":390, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":39004, "reward_no":390, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":39005, "reward_no":390, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":39005, "reward_no":390, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":39006, "reward_no":390, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":39006, "reward_no":390, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":39007, "reward_no":390, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":39007, "reward_no":390, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":39008, "reward_no":390, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":39008, "reward_no":390, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":39009, "reward_no":390, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":39009, "reward_no":390, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":39010, "reward_no":390, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":39010, "reward_no":390, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":39011, "reward_no":390, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":39011, "reward_no":390, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":39012, "reward_no":390, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":39012, "reward_no":390, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":39013, "reward_no":390, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":520, "weight_passport":215
+    "id":39013, "reward_no":390, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":520, "weight_passport":215, "is_rare":false
   },
   {
-    "id":39014, "reward_no":390, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":320, "weight_passport":340
+    "id":39014, "reward_no":390, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":320, "weight_passport":340, "is_rare":false
   },
   {
-    "id":39015, "reward_no":390, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":39015, "reward_no":390, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":39016, "reward_no":390, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":30, "weight_passport":35
+    "id":39016, "reward_no":390, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":30, "weight_passport":35, "is_rare":false
   },
   {
-    "id":39017, "reward_no":390, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":39017, "reward_no":390, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":39018, "reward_no":390, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":39018, "reward_no":390, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":39019, "reward_no":390, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":39019, "reward_no":390, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":39020, "reward_no":390, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":65, "weight_passport":205
+    "id":39020, "reward_no":390, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":65, "weight_passport":205, "is_rare":false
   },
   {
-    "id":40101, "reward_no":401, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":40101, "reward_no":401, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":40102, "reward_no":401, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":40102, "reward_no":401, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":40103, "reward_no":401, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40103, "reward_no":401, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40104, "reward_no":401, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":40104, "reward_no":401, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":40105, "reward_no":401, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40105, "reward_no":401, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40201, "reward_no":402, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":40201, "reward_no":402, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":40202, "reward_no":402, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":40202, "reward_no":402, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":40203, "reward_no":402, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40203, "reward_no":402, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40204, "reward_no":402, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":40204, "reward_no":402, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":40205, "reward_no":402, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40205, "reward_no":402, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40301, "reward_no":403, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":40301, "reward_no":403, "content_type":"TownProduct", "content_id":3001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":40302, "reward_no":403, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":40302, "reward_no":403, "content_type":"TownProduct", "content_id":3002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":40303, "reward_no":403, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":40303, "reward_no":403, "content_type":"TownProduct", "content_id":3003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":40304, "reward_no":403, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":40304, "reward_no":403, "content_type":"TownProduct", "content_id":3006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":40401, "reward_no":404, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":40401, "reward_no":404, "content_type":"TownProduct", "content_id":4001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":40402, "reward_no":404, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":40402, "reward_no":404, "content_type":"TownProduct", "content_id":4002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":40403, "reward_no":404, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":40403, "reward_no":404, "content_type":"TownProduct", "content_id":4003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":40404, "reward_no":404, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":40404, "reward_no":404, "content_type":"TownProduct", "content_id":4006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":40501, "reward_no":405, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":40501, "reward_no":405, "content_type":"TownProduct", "content_id":5001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":40502, "reward_no":405, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":40502, "reward_no":405, "content_type":"TownProduct", "content_id":5002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":40503, "reward_no":405, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40503, "reward_no":405, "content_type":"TownProduct", "content_id":5003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40504, "reward_no":405, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":40504, "reward_no":405, "content_type":"TownProduct", "content_id":5006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":40505, "reward_no":405, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40505, "reward_no":405, "content_type":"TownProduct", "content_id":5007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40601, "reward_no":406, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":40601, "reward_no":406, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":40602, "reward_no":406, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":40602, "reward_no":406, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":40603, "reward_no":406, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40603, "reward_no":406, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40604, "reward_no":406, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":40604, "reward_no":406, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":40605, "reward_no":406, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40605, "reward_no":406, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40701, "reward_no":407, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":40701, "reward_no":407, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":40702, "reward_no":407, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":40702, "reward_no":407, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":40703, "reward_no":407, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40703, "reward_no":407, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40704, "reward_no":407, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":40704, "reward_no":407, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":40705, "reward_no":407, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":40705, "reward_no":407, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":40801, "reward_no":408, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":40801, "reward_no":408, "content_type":"TownProduct", "content_id":8001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":40802, "reward_no":408, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":40802, "reward_no":408, "content_type":"TownProduct", "content_id":8002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":40803, "reward_no":408, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":40803, "reward_no":408, "content_type":"TownProduct", "content_id":8003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":40804, "reward_no":408, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":40804, "reward_no":408, "content_type":"TownProduct", "content_id":8006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":40901, "reward_no":409, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":40901, "reward_no":409, "content_type":"TownProduct", "content_id":9001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":40902, "reward_no":409, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":40902, "reward_no":409, "content_type":"TownProduct", "content_id":9002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":40903, "reward_no":409, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":40903, "reward_no":409, "content_type":"TownProduct", "content_id":9003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":40904, "reward_no":409, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":40904, "reward_no":409, "content_type":"TownProduct", "content_id":9006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":41001, "reward_no":410, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":41001, "reward_no":410, "content_type":"TownProduct", "content_id":10001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":41002, "reward_no":410, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":41002, "reward_no":410, "content_type":"TownProduct", "content_id":10002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":41003, "reward_no":410, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":41003, "reward_no":410, "content_type":"TownProduct", "content_id":10003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":41004, "reward_no":410, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":41004, "reward_no":410, "content_type":"TownProduct", "content_id":10006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":41101, "reward_no":411, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":41101, "reward_no":411, "content_type":"TownProduct", "content_id":11001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":41102, "reward_no":411, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":41102, "reward_no":411, "content_type":"TownProduct", "content_id":11002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":41103, "reward_no":411, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":41103, "reward_no":411, "content_type":"TownProduct", "content_id":11003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":41104, "reward_no":411, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":41104, "reward_no":411, "content_type":"TownProduct", "content_id":11006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":41105, "reward_no":411, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":41105, "reward_no":411, "content_type":"TownProduct", "content_id":11007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":41201, "reward_no":412, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":41201, "reward_no":412, "content_type":"TownProduct", "content_id":12001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":41202, "reward_no":412, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":41202, "reward_no":412, "content_type":"TownProduct", "content_id":12002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":41203, "reward_no":412, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":41203, "reward_no":412, "content_type":"TownProduct", "content_id":12003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":41204, "reward_no":412, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":41204, "reward_no":412, "content_type":"TownProduct", "content_id":12006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":41301, "reward_no":413, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":41301, "reward_no":413, "content_type":"TownProduct", "content_id":13001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":41302, "reward_no":413, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":41302, "reward_no":413, "content_type":"TownProduct", "content_id":13002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":41303, "reward_no":413, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":41303, "reward_no":413, "content_type":"TownProduct", "content_id":13003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":41304, "reward_no":413, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":41304, "reward_no":413, "content_type":"TownProduct", "content_id":13006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":41401, "reward_no":414, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":41401, "reward_no":414, "content_type":"TownProduct", "content_id":14001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":41402, "reward_no":414, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":41402, "reward_no":414, "content_type":"TownProduct", "content_id":14002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":41403, "reward_no":414, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":41403, "reward_no":414, "content_type":"TownProduct", "content_id":14003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":41404, "reward_no":414, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":41404, "reward_no":414, "content_type":"TownProduct", "content_id":14006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":41501, "reward_no":415, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":41501, "reward_no":415, "content_type":"TownProduct", "content_id":15001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":41502, "reward_no":415, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":41502, "reward_no":415, "content_type":"TownProduct", "content_id":15002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":41503, "reward_no":415, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":41503, "reward_no":415, "content_type":"TownProduct", "content_id":15003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":41504, "reward_no":415, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":41504, "reward_no":415, "content_type":"TownProduct", "content_id":15006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":41801, "reward_no":418, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":41801, "reward_no":418, "content_type":"TownProduct", "content_id":18001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":41802, "reward_no":418, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":41802, "reward_no":418, "content_type":"TownProduct", "content_id":18002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":41803, "reward_no":418, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":150, "weight_passport":470
+    "id":41803, "reward_no":418, "content_type":"TownProduct", "content_id":18003, "content_quantity":1, "weight":150, "weight_passport":470, "is_rare":false
   },
   {
-    "id":41804, "reward_no":418, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":41804, "reward_no":418, "content_type":"TownProduct", "content_id":18006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":49001, "reward_no":490, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":49001, "reward_no":490, "content_type":"TownProduct", "content_id":1001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":49002, "reward_no":490, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":49002, "reward_no":490, "content_type":"TownProduct", "content_id":1002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":49003, "reward_no":490, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":49003, "reward_no":490, "content_type":"TownProduct", "content_id":1003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":49004, "reward_no":490, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":49004, "reward_no":490, "content_type":"TownProduct", "content_id":1006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":49005, "reward_no":490, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":49005, "reward_no":490, "content_type":"TownProduct", "content_id":2001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":49006, "reward_no":490, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":49006, "reward_no":490, "content_type":"TownProduct", "content_id":2002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":49007, "reward_no":490, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":49007, "reward_no":490, "content_type":"TownProduct", "content_id":2003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":49008, "reward_no":490, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":49008, "reward_no":490, "content_type":"TownProduct", "content_id":2006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":49009, "reward_no":490, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":49009, "reward_no":490, "content_type":"TownProduct", "content_id":6001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":49010, "reward_no":490, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":49010, "reward_no":490, "content_type":"TownProduct", "content_id":6002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":49011, "reward_no":490, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":49011, "reward_no":490, "content_type":"TownProduct", "content_id":6003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":49012, "reward_no":490, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":49012, "reward_no":490, "content_type":"TownProduct", "content_id":6006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":49013, "reward_no":490, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":475, "weight_passport":120
+    "id":49013, "reward_no":490, "content_type":"TownProduct", "content_id":7001, "content_quantity":1, "weight":475, "weight_passport":120, "is_rare":false
   },
   {
-    "id":49014, "reward_no":490, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":340, "weight_passport":370
+    "id":49014, "reward_no":490, "content_type":"TownProduct", "content_id":7002, "content_quantity":1, "weight":340, "weight_passport":370, "is_rare":false
   },
   {
-    "id":49015, "reward_no":490, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":49015, "reward_no":490, "content_type":"TownProduct", "content_id":7003, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":49016, "reward_no":490, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":35, "weight_passport":40
+    "id":49016, "reward_no":490, "content_type":"TownProduct", "content_id":7006, "content_quantity":1, "weight":35, "weight_passport":40, "is_rare":false
   },
   {
-    "id":49017, "reward_no":490, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":49017, "reward_no":490, "content_type":"TownProduct", "content_id":1007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":49018, "reward_no":490, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":49018, "reward_no":490, "content_type":"TownProduct", "content_id":2007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":49019, "reward_no":490, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":49019, "reward_no":490, "content_type":"TownProduct", "content_id":6007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":49020, "reward_no":490, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":75, "weight_passport":235
+    "id":49020, "reward_no":490, "content_type":"TownProduct", "content_id":7007, "content_quantity":1, "weight":75, "weight_passport":235, "is_rare":false
   },
   {
-    "id":70000001, "reward_no":700000, "content_type":"Item", "content_id":40001, "content_quantity":1, "weight":5, "weight_passport":5
+    "id":100101, "reward_no":1001, "content_type":"Item", "content_id":60003, "content_quantity":10, "weight":33750, "weight_passport":33750, "is_rare":false
   },
   {
-    "id":70000002, "reward_no":700000, "content_type":"Item", "content_id":10002, "content_quantity":1, "weight":20, "weight_passport":20
+    "id":100102, "reward_no":1001, "content_type":"Item", "content_id":50001, "content_quantity":5000, "weight":33750, "weight_passport":33750, "is_rare":false
   },
   {
-    "id":70000003, "reward_no":700000, "content_type":"Item", "content_id":10003, "content_quantity":1, "weight":15, "weight_passport":15
+    "id":100103, "reward_no":1001, "content_type":"Item", "content_id":60003, "content_quantity":20, "weight":12500, "weight_passport":12500, "is_rare":false
   },
   {
-    "id":70000004, "reward_no":700000, "content_type":"Item", "content_id":50001, "content_quantity":60000, "weight":20, "weight_passport":20
+    "id":100104, "reward_no":1001, "content_type":"Item", "content_id":50001, "content_quantity":10000, "weight":12500, "weight_passport":12500, "is_rare":false
   },
   {
-    "id":70000005, "reward_no":700000, "content_type":"Item", "content_id":100001, "content_quantity":1, "weight":20, "weight_passport":20
+    "id":100105, "reward_no":1001, "content_type":"Item", "content_id":60003, "content_quantity":100, "weight":3000, "weight_passport":3000, "is_rare":true
   },
   {
-    "id":70000006, "reward_no":700000, "content_type":"Item", "content_id":100002, "content_quantity":1, "weight":15, "weight_passport":15
+    "id":100106, "reward_no":1001, "content_type":"Item", "content_id":50001, "content_quantity":390000, "weight":3000, "weight_passport":3000, "is_rare":true
   },
   {
-    "id":70000007, "reward_no":700000, "content_type":"Item", "content_id":100003, "content_quantity":1, "weight":5, "weight_passport":5
+    "id":100107, "reward_no":1001, "content_type":"Item", "content_id":60003, "content_quantity":690, "weight":1500, "weight_passport":1500, "is_rare":true
   },
   {
-    "id":80000001, "reward_no":800000, "content_type":"Item", "content_id":40001, "content_quantity":1, "weight":100, "weight_passport":100
+    "id":100201, "reward_no":1002, "content_type":"Item", "content_id":10001, "content_quantity":5, "weight":13500, "weight_passport":13500, "is_rare":false
   },
   {
-    "id":80000002, "reward_no":800000, "content_type":"Item", "content_id":10001, "content_quantity":5, "weight":1240, "weight_passport":1240
+    "id":100202, "reward_no":1002, "content_type":"Item", "content_id":100001, "content_quantity":3, "weight":13500, "weight_passport":13500, "is_rare":false
   },
   {
-    "id":80000003, "reward_no":800000, "content_type":"Item", "content_id":10002, "content_quantity":5, "weight":500, "weight_passport":500
+    "id":100203, "reward_no":1002, "content_type":"Item", "content_id":180001, "content_quantity":2, "weight":13500, "weight_passport":13500, "is_rare":false
   },
   {
-    "id":80000004, "reward_no":800000, "content_type":"Item", "content_id":10003, "content_quantity":5, "weight":225, "weight_passport":225
+    "id":100204, "reward_no":1002, "content_type":"Item", "content_id":140009, "content_quantity":2, "weight":13500, "weight_passport":13500, "is_rare":false
   },
   {
-    "id":80000005, "reward_no":800000, "content_type":"Item", "content_id":20001, "content_quantity":1, "weight":1240, "weight_passport":1240
+    "id":100205, "reward_no":1002, "content_type":"Item", "content_id":140017, "content_quantity":1, "weight":13500, "weight_passport":13500, "is_rare":false
   },
   {
-    "id":80000006, "reward_no":800000, "content_type":"Item", "content_id":20002, "content_quantity":1, "weight":1240, "weight_passport":1240
+    "id":100206, "reward_no":1002, "content_type":"Item", "content_id":10002, "content_quantity":3, "weight":5000, "weight_passport":5000, "is_rare":false
   },
   {
-    "id":80000007, "reward_no":800000, "content_type":"Item", "content_id":20003, "content_quantity":1, "weight":1240, "weight_passport":1240
+    "id":100207, "reward_no":1002, "content_type":"Item", "content_id":100002, "content_quantity":2, "weight":5000, "weight_passport":5000, "is_rare":false
   },
   {
-    "id":80000008, "reward_no":800000, "content_type":"Item", "content_id":20011, "content_quantity":1, "weight":500, "weight_passport":500
+    "id":100208, "reward_no":1002, "content_type":"Item", "content_id":180001, "content_quantity":5, "weight":5000, "weight_passport":5000, "is_rare":false
   },
   {
-    "id":80000009, "reward_no":800000, "content_type":"Item", "content_id":20012, "content_quantity":1, "weight":500, "weight_passport":500
+    "id":100209, "reward_no":1002, "content_type":"Item", "content_id":140009, "content_quantity":5, "weight":5000, "weight_passport":5000, "is_rare":false
   },
   {
-    "id":80000010, "reward_no":800000, "content_type":"Item", "content_id":20013, "content_quantity":1, "weight":500, "weight_passport":500
+    "id":100210, "reward_no":1002, "content_type":"Item", "content_id":140017, "content_quantity":2, "weight":5000, "weight_passport":5000, "is_rare":false
   },
   {
-    "id":80000011, "reward_no":800000, "content_type":"Item", "content_id":20021, "content_quantity":1, "weight":225, "weight_passport":225
+    "id":100211, "reward_no":1002, "content_type":"Item", "content_id":10003, "content_quantity":2, "weight":857, "weight_passport":857, "is_rare":true
   },
   {
-    "id":80000012, "reward_no":800000, "content_type":"Item", "content_id":20022, "content_quantity":1, "weight":225, "weight_passport":225
+    "id":100212, "reward_no":1002, "content_type":"Item", "content_id":100003, "content_quantity":1, "weight":857, "weight_passport":857, "is_rare":true
   },
   {
-    "id":80000013, "reward_no":800000, "content_type":"Item", "content_id":20023, "content_quantity":1, "weight":225, "weight_passport":225
+    "id":100213, "reward_no":1002, "content_type":"Item", "content_id":180001, "content_quantity":10, "weight":857, "weight_passport":857, "is_rare":true
   },
   {
-    "id":80000014, "reward_no":800000, "content_type":"Item", "content_id":50001, "content_quantity":10000, "weight":1240, "weight_passport":1240
+    "id":100214, "reward_no":1002, "content_type":"Item", "content_id":180002, "content_quantity":2, "weight":857, "weight_passport":857, "is_rare":true
   },
   {
-    "id":80000015, "reward_no":800000, "content_type":"Item", "content_id":30001, "content_quantity":1, "weight":50, "weight_passport":50
+    "id":100215, "reward_no":1002, "content_type":"Item", "content_id":140009, "content_quantity":10, "weight":857, "weight_passport":857, "is_rare":true
   },
   {
-    "id":80000016, "reward_no":800000, "content_type":"Item", "content_id":100001, "content_quantity":1, "weight":500, "weight_passport":500
+    "id":100216, "reward_no":1002, "content_type":"Item", "content_id":140017, "content_quantity":3, "weight":857, "weight_passport":857, "is_rare":true
   },
   {
-    "id":80000017, "reward_no":800000, "content_type":"Item", "content_id":100002, "content_quantity":1, "weight":100, "weight_passport":100
+    "id":100217, "reward_no":1002, "content_type":"Item", "content_id":30001, "content_quantity":1, "weight":857, "weight_passport":857, "is_rare":true
   },
   {
-    "id":80000018, "reward_no":800000, "content_type":"Item", "content_id":100003, "content_quantity":1, "weight":100, "weight_passport":100
+    "id":100218, "reward_no":1002, "content_type":"Item", "content_id":100004, "content_quantity":5, "weight":500, "weight_passport":500, "is_rare":true
   },
   {
-    "id":80000019, "reward_no":800000, "content_type":"Item", "content_id":100004, "content_quantity":1, "weight":50, "weight_passport":50
+    "id":100219, "reward_no":1002, "content_type":"Item", "content_id":180002, "content_quantity":20, "weight":500, "weight_passport":500, "is_rare":true
   },
   {
-    "id":80000101, "reward_no":800001, "content_type":"Item", "content_id":140008, "content_quantity":20, "weight":100, "weight_passport":100
+    "id":100220, "reward_no":1002, "content_type":"Item", "content_id":30001, "content_quantity":5, "weight":500, "weight_passport":500, "is_rare":true
   },
   {
-    "id":80000202, "reward_no":800002, "content_type":"Item", "content_id":140011, "content_quantity":35, "weight":100, "weight_passport":100
+    "id":100301, "reward_no":1003, "content_type":"Item", "content_id":20001, "content_quantity":5, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100302, "reward_no":1003, "content_type":"Item", "content_id":20002, "content_quantity":3, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100303, "reward_no":1003, "content_type":"Item", "content_id":20003, "content_quantity":1, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100304, "reward_no":1003, "content_type":"Item", "content_id":20011, "content_quantity":5, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100305, "reward_no":1003, "content_type":"Item", "content_id":20012, "content_quantity":3, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100306, "reward_no":1003, "content_type":"Item", "content_id":20013, "content_quantity":1, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100307, "reward_no":1003, "content_type":"Item", "content_id":20021, "content_quantity":5, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100308, "reward_no":1003, "content_type":"Item", "content_id":20022, "content_quantity":3, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100309, "reward_no":1003, "content_type":"Item", "content_id":20023, "content_quantity":1, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100310, "reward_no":1003, "content_type":"Item", "content_id":90001, "content_quantity":5, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100311, "reward_no":1003, "content_type":"Item", "content_id":130001, "content_quantity":1, "weight":6136, "weight_passport":6136, "is_rare":false
+  },
+  {
+    "id":100312, "reward_no":1003, "content_type":"Item", "content_id":20001, "content_quantity":15, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100313, "reward_no":1003, "content_type":"Item", "content_id":20002, "content_quantity":8, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100314, "reward_no":1003, "content_type":"Item", "content_id":20003, "content_quantity":4, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100315, "reward_no":1003, "content_type":"Item", "content_id":20011, "content_quantity":15, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100316, "reward_no":1003, "content_type":"Item", "content_id":20012, "content_quantity":8, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100317, "reward_no":1003, "content_type":"Item", "content_id":20013, "content_quantity":4, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100318, "reward_no":1003, "content_type":"Item", "content_id":20021, "content_quantity":15, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100319, "reward_no":1003, "content_type":"Item", "content_id":20022, "content_quantity":8, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100320, "reward_no":1003, "content_type":"Item", "content_id":20023, "content_quantity":4, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100321, "reward_no":1003, "content_type":"Item", "content_id":90001, "content_quantity":10, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100322, "reward_no":1003, "content_type":"Item", "content_id":130002, "content_quantity":1, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100323, "reward_no":1003, "content_type":"Item", "content_id":40001, "content_quantity":1, "weight":2083, "weight_passport":2083, "is_rare":false
+  },
+  {
+    "id":100324, "reward_no":1003, "content_type":"Item", "content_id":20001, "content_quantity":50, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100325, "reward_no":1003, "content_type":"Item", "content_id":20002, "content_quantity":30, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100326, "reward_no":1003, "content_type":"Item", "content_id":20003, "content_quantity":15, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100327, "reward_no":1003, "content_type":"Item", "content_id":20011, "content_quantity":50, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100328, "reward_no":1003, "content_type":"Item", "content_id":20012, "content_quantity":30, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100329, "reward_no":1003, "content_type":"Item", "content_id":20013, "content_quantity":15, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100330, "reward_no":1003, "content_type":"Item", "content_id":20021, "content_quantity":50, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100331, "reward_no":1003, "content_type":"Item", "content_id":20022, "content_quantity":30, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100332, "reward_no":1003, "content_type":"Item", "content_id":20023, "content_quantity":15, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100333, "reward_no":1003, "content_type":"Item", "content_id":130003, "content_quantity":1, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100334, "reward_no":1003, "content_type":"Item", "content_id":40001, "content_quantity":3, "weight":545, "weight_passport":545, "is_rare":true
+  },
+  {
+    "id":100335, "reward_no":1003, "content_type":"Item", "content_id":20001, "content_quantity":300, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100336, "reward_no":1003, "content_type":"Item", "content_id":20002, "content_quantity":150, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100337, "reward_no":1003, "content_type":"Item", "content_id":20003, "content_quantity":75, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100338, "reward_no":1003, "content_type":"Item", "content_id":20011, "content_quantity":300, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100339, "reward_no":1003, "content_type":"Item", "content_id":20012, "content_quantity":150, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100340, "reward_no":1003, "content_type":"Item", "content_id":20013, "content_quantity":75, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100341, "reward_no":1003, "content_type":"Item", "content_id":20021, "content_quantity":300, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100342, "reward_no":1003, "content_type":"Item", "content_id":20022, "content_quantity":150, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100343, "reward_no":1003, "content_type":"Item", "content_id":20023, "content_quantity":75, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100344, "reward_no":1003, "content_type":"Item", "content_id":130003, "content_quantity":10, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100345, "reward_no":1003, "content_type":"Item", "content_id":40001, "content_quantity":10, "weight":136, "weight_passport":136, "is_rare":true
+  },
+  {
+    "id":100401, "reward_no":1004, "content_type":"Item", "content_id":60003, "content_quantity":10, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100402, "reward_no":1004, "content_type":"Item", "content_id":50001, "content_quantity":5000, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100403, "reward_no":1004, "content_type":"Item", "content_id":10001, "content_quantity":5, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100404, "reward_no":1004, "content_type":"Item", "content_id":100001, "content_quantity":3, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100405, "reward_no":1004, "content_type":"Item", "content_id":180001, "content_quantity":2, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100406, "reward_no":1004, "content_type":"Item", "content_id":140009, "content_quantity":2, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100407, "reward_no":1004, "content_type":"Item", "content_id":140017, "content_quantity":1, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100408, "reward_no":1004, "content_type":"Item", "content_id":20001, "content_quantity":5, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100409, "reward_no":1004, "content_type":"Item", "content_id":20002, "content_quantity":3, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100410, "reward_no":1004, "content_type":"Item", "content_id":20003, "content_quantity":1, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100411, "reward_no":1004, "content_type":"Item", "content_id":20011, "content_quantity":5, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100412, "reward_no":1004, "content_type":"Item", "content_id":20012, "content_quantity":3, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100413, "reward_no":1004, "content_type":"Item", "content_id":20013, "content_quantity":1, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100414, "reward_no":1004, "content_type":"Item", "content_id":20021, "content_quantity":5, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100415, "reward_no":1004, "content_type":"Item", "content_id":20022, "content_quantity":3, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100416, "reward_no":1004, "content_type":"Item", "content_id":20023, "content_quantity":1, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100417, "reward_no":1004, "content_type":"Item", "content_id":90001, "content_quantity":5, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100418, "reward_no":1004, "content_type":"Item", "content_id":130001, "content_quantity":1, "weight":3167, "weight_passport":3167, "is_rare":false
+  },
+  {
+    "id":100419, "reward_no":1004, "content_type":"Item", "content_id":60003, "content_quantity":20, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100420, "reward_no":1004, "content_type":"Item", "content_id":50001, "content_quantity":10000, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100421, "reward_no":1004, "content_type":"Item", "content_id":10002, "content_quantity":3, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100422, "reward_no":1004, "content_type":"Item", "content_id":100002, "content_quantity":2, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100423, "reward_no":1004, "content_type":"Item", "content_id":180001, "content_quantity":5, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100424, "reward_no":1004, "content_type":"Item", "content_id":140009, "content_quantity":5, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100425, "reward_no":1004, "content_type":"Item", "content_id":140017, "content_quantity":2, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100426, "reward_no":1004, "content_type":"Item", "content_id":20001, "content_quantity":15, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100427, "reward_no":1004, "content_type":"Item", "content_id":20002, "content_quantity":8, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100428, "reward_no":1004, "content_type":"Item", "content_id":20003, "content_quantity":4, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100429, "reward_no":1004, "content_type":"Item", "content_id":20011, "content_quantity":15, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100430, "reward_no":1004, "content_type":"Item", "content_id":20012, "content_quantity":8, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100431, "reward_no":1004, "content_type":"Item", "content_id":20013, "content_quantity":4, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100432, "reward_no":1004, "content_type":"Item", "content_id":20021, "content_quantity":15, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100433, "reward_no":1004, "content_type":"Item", "content_id":20022, "content_quantity":8, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100434, "reward_no":1004, "content_type":"Item", "content_id":20023, "content_quantity":4, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100435, "reward_no":1004, "content_type":"Item", "content_id":90001, "content_quantity":10, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100436, "reward_no":1004, "content_type":"Item", "content_id":130002, "content_quantity":1, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100437, "reward_no":1004, "content_type":"Item", "content_id":40001, "content_quantity":1, "weight":1579, "weight_passport":1579, "is_rare":false
+  },
+  {
+    "id":100438, "reward_no":1004, "content_type":"Item", "content_id":60003, "content_quantity":100, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100439, "reward_no":1004, "content_type":"Item", "content_id":50001, "content_quantity":390000, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100440, "reward_no":1004, "content_type":"Item", "content_id":10003, "content_quantity":2, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100441, "reward_no":1004, "content_type":"Item", "content_id":100003, "content_quantity":1, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100442, "reward_no":1004, "content_type":"Item", "content_id":180001, "content_quantity":10, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100443, "reward_no":1004, "content_type":"Item", "content_id":180002, "content_quantity":2, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100444, "reward_no":1004, "content_type":"Item", "content_id":140009, "content_quantity":10, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100445, "reward_no":1004, "content_type":"Item", "content_id":140017, "content_quantity":3, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100446, "reward_no":1004, "content_type":"Item", "content_id":30001, "content_quantity":1, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100447, "reward_no":1004, "content_type":"Item", "content_id":20001, "content_quantity":50, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100448, "reward_no":1004, "content_type":"Item", "content_id":20002, "content_quantity":30, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100449, "reward_no":1004, "content_type":"Item", "content_id":20003, "content_quantity":15, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100450, "reward_no":1004, "content_type":"Item", "content_id":20011, "content_quantity":50, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100451, "reward_no":1004, "content_type":"Item", "content_id":20012, "content_quantity":30, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100452, "reward_no":1004, "content_type":"Item", "content_id":20013, "content_quantity":15, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100453, "reward_no":1004, "content_type":"Item", "content_id":20021, "content_quantity":50, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100454, "reward_no":1004, "content_type":"Item", "content_id":20022, "content_quantity":30, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100455, "reward_no":1004, "content_type":"Item", "content_id":20023, "content_quantity":15, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100456, "reward_no":1004, "content_type":"Item", "content_id":130003, "content_quantity":1, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100457, "reward_no":1004, "content_type":"Item", "content_id":40001, "content_quantity":3, "weight":500, "weight_passport":500, "is_rare":true
+  },
+  {
+    "id":100458, "reward_no":1004, "content_type":"Item", "content_id":60003, "content_quantity":690, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100459, "reward_no":1004, "content_type":"Item", "content_id":100004, "content_quantity":5, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100460, "reward_no":1004, "content_type":"Item", "content_id":180002, "content_quantity":20, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100461, "reward_no":1004, "content_type":"Item", "content_id":30001, "content_quantity":5, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100462, "reward_no":1004, "content_type":"Item", "content_id":20001, "content_quantity":300, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100463, "reward_no":1004, "content_type":"Item", "content_id":20002, "content_quantity":150, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100464, "reward_no":1004, "content_type":"Item", "content_id":20003, "content_quantity":75, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100465, "reward_no":1004, "content_type":"Item", "content_id":20011, "content_quantity":300, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100466, "reward_no":1004, "content_type":"Item", "content_id":20012, "content_quantity":150, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100467, "reward_no":1004, "content_type":"Item", "content_id":20013, "content_quantity":75, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100468, "reward_no":1004, "content_type":"Item", "content_id":20021, "content_quantity":300, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100469, "reward_no":1004, "content_type":"Item", "content_id":20022, "content_quantity":150, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100470, "reward_no":1004, "content_type":"Item", "content_id":20023, "content_quantity":75, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100471, "reward_no":1004, "content_type":"Item", "content_id":130003, "content_quantity":10, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100472, "reward_no":1004, "content_type":"Item", "content_id":40001, "content_quantity":10, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":100473, "reward_no":1004, "content_type":"Item", "content_id":180004, "content_quantity":1, "weight":188, "weight_passport":188, "is_rare":true
+  },
+  {
+    "id":70000001, "reward_no":700000, "content_type":"Item", "content_id":40001, "content_quantity":1, "weight":5, "weight_passport":5, "is_rare":false
+  },
+  {
+    "id":70000002, "reward_no":700000, "content_type":"Item", "content_id":10002, "content_quantity":1, "weight":20, "weight_passport":20, "is_rare":false
+  },
+  {
+    "id":70000003, "reward_no":700000, "content_type":"Item", "content_id":10003, "content_quantity":1, "weight":15, "weight_passport":15, "is_rare":false
+  },
+  {
+    "id":70000004, "reward_no":700000, "content_type":"Item", "content_id":50001, "content_quantity":60000, "weight":20, "weight_passport":20, "is_rare":false
+  },
+  {
+    "id":70000005, "reward_no":700000, "content_type":"Item", "content_id":100001, "content_quantity":1, "weight":20, "weight_passport":20, "is_rare":false
+  },
+  {
+    "id":70000006, "reward_no":700000, "content_type":"Item", "content_id":100002, "content_quantity":1, "weight":15, "weight_passport":15, "is_rare":false
+  },
+  {
+    "id":70000007, "reward_no":700000, "content_type":"Item", "content_id":100003, "content_quantity":1, "weight":5, "weight_passport":5, "is_rare":false
+  },
+  {
+    "id":80000001, "reward_no":800000, "content_type":"Item", "content_id":40001, "content_quantity":1, "weight":100, "weight_passport":100, "is_rare":false
+  },
+  {
+    "id":80000002, "reward_no":800000, "content_type":"Item", "content_id":10001, "content_quantity":5, "weight":1240, "weight_passport":1240, "is_rare":false
+  },
+  {
+    "id":80000003, "reward_no":800000, "content_type":"Item", "content_id":10002, "content_quantity":5, "weight":500, "weight_passport":500, "is_rare":false
+  },
+  {
+    "id":80000004, "reward_no":800000, "content_type":"Item", "content_id":10003, "content_quantity":5, "weight":225, "weight_passport":225, "is_rare":false
+  },
+  {
+    "id":80000005, "reward_no":800000, "content_type":"Item", "content_id":20001, "content_quantity":1, "weight":1240, "weight_passport":1240, "is_rare":false
+  },
+  {
+    "id":80000006, "reward_no":800000, "content_type":"Item", "content_id":20002, "content_quantity":1, "weight":1240, "weight_passport":1240, "is_rare":false
+  },
+  {
+    "id":80000007, "reward_no":800000, "content_type":"Item", "content_id":20003, "content_quantity":1, "weight":1240, "weight_passport":1240, "is_rare":false
+  },
+  {
+    "id":80000008, "reward_no":800000, "content_type":"Item", "content_id":20011, "content_quantity":1, "weight":500, "weight_passport":500, "is_rare":false
+  },
+  {
+    "id":80000009, "reward_no":800000, "content_type":"Item", "content_id":20012, "content_quantity":1, "weight":500, "weight_passport":500, "is_rare":false
+  },
+  {
+    "id":80000010, "reward_no":800000, "content_type":"Item", "content_id":20013, "content_quantity":1, "weight":500, "weight_passport":500, "is_rare":false
+  },
+  {
+    "id":80000011, "reward_no":800000, "content_type":"Item", "content_id":20021, "content_quantity":1, "weight":225, "weight_passport":225, "is_rare":false
+  },
+  {
+    "id":80000012, "reward_no":800000, "content_type":"Item", "content_id":20022, "content_quantity":1, "weight":225, "weight_passport":225, "is_rare":false
+  },
+  {
+    "id":80000013, "reward_no":800000, "content_type":"Item", "content_id":20023, "content_quantity":1, "weight":225, "weight_passport":225, "is_rare":false
+  },
+  {
+    "id":80000014, "reward_no":800000, "content_type":"Item", "content_id":50001, "content_quantity":10000, "weight":1240, "weight_passport":1240, "is_rare":false
+  },
+  {
+    "id":80000015, "reward_no":800000, "content_type":"Item", "content_id":30001, "content_quantity":1, "weight":50, "weight_passport":50, "is_rare":false
+  },
+  {
+    "id":80000016, "reward_no":800000, "content_type":"Item", "content_id":100001, "content_quantity":1, "weight":500, "weight_passport":500, "is_rare":false
+  },
+  {
+    "id":80000017, "reward_no":800000, "content_type":"Item", "content_id":100002, "content_quantity":1, "weight":100, "weight_passport":100, "is_rare":false
+  },
+  {
+    "id":80000018, "reward_no":800000, "content_type":"Item", "content_id":100003, "content_quantity":1, "weight":100, "weight_passport":100, "is_rare":false
+  },
+  {
+    "id":80000019, "reward_no":800000, "content_type":"Item", "content_id":100004, "content_quantity":1, "weight":50, "weight_passport":50, "is_rare":false
+  },
+  {
+    "id":80000101, "reward_no":800001, "content_type":"Item", "content_id":140008, "content_quantity":20, "weight":100, "weight_passport":100, "is_rare":false
+  },
+  {
+    "id":80000202, "reward_no":800002, "content_type":"Item", "content_id":140011, "content_quantity":35, "weight":100, "weight_passport":100, "is_rare":false
   }
 ]

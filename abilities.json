@@ -3,234 +3,480 @@
     "id":1101, "myumon_basic_id":11, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":1102, "myumon_basic_id":11, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[501101,300101,201101]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":1201, "myumon_basic_id":12, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":1202, "myumon_basic_id":12, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[501201,300101,201201]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":1301, "myumon_basic_id":13, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":1302, "myumon_basic_id":13, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[501301,300101,201301]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":1401, "myumon_basic_id":14, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":1402, "myumon_basic_id":14, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[501401,300101,201401]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":2101, "myumon_basic_id":21, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":2102, "myumon_basic_id":21, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[502101,300201,202101]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":2201, "myumon_basic_id":22, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":2202, "myumon_basic_id":22, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[502201,300201,202201]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":2301, "myumon_basic_id":23, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":2302, "myumon_basic_id":23, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[502301,300201,202301]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":2401, "myumon_basic_id":24, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":2402, "myumon_basic_id":24, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[502401,300201,202401]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":3101, "myumon_basic_id":31, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":3102, "myumon_basic_id":31, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[503101,300301,203101]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":3201, "myumon_basic_id":32, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":3202, "myumon_basic_id":32, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[503201,300301,203201]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":3301, "myumon_basic_id":33, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":3302, "myumon_basic_id":33, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[503301,300301,203301]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":4101, "myumon_basic_id":41, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":4102, "myumon_basic_id":41, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[504101,300401,204101]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":4201, "myumon_basic_id":42, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":4202, "myumon_basic_id":42, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[504201,300401,204201]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":4301, "myumon_basic_id":43, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":4302, "myumon_basic_id":43, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[504301,300401,204301]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":5101, "myumon_basic_id":51, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":5102, "myumon_basic_id":51, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[505101,300501,205101]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":5201, "myumon_basic_id":52, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":5202, "myumon_basic_id":52, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[505201,300501,205201]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":5301, "myumon_basic_id":53, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":5302, "myumon_basic_id":53, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[505301,300501,205301]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":6101, "myumon_basic_id":61, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":6102, "myumon_basic_id":61, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[506101,300601,206101]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":6201, "myumon_basic_id":62, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":6202, "myumon_basic_id":62, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[506201,300601,206201]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":6301, "myumon_basic_id":63, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":6302, "myumon_basic_id":63, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[506301,300601,206301]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":6401, "myumon_basic_id":64, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":6402, "myumon_basic_id":64, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[506401,300601,206401]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":7101, "myumon_basic_id":71, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":7102, "myumon_basic_id":71, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[507101,300701,207101]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":7201, "myumon_basic_id":72, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":7202, "myumon_basic_id":72, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[507201,300701,207201]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":7301, "myumon_basic_id":73, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":7302, "myumon_basic_id":73, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[507301,300701,207301]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":7401, "myumon_basic_id":74, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":7402, "myumon_basic_id":74, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[507401,300701,207401]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":8101, "myumon_basic_id":81, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":8102, "myumon_basic_id":81, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[508101,300801,208101]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":8201, "myumon_basic_id":82, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":8202, "myumon_basic_id":82, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[508201,300801,208201]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":8301, "myumon_basic_id":83, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":8302, "myumon_basic_id":83, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[508301,300801,208301]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":9101, "myumon_basic_id":91, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":9102, "myumon_basic_id":91, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[509101,300901,209101]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":9201, "myumon_basic_id":92, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":9202, "myumon_basic_id":92, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[509201,300901,209201]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":9301, "myumon_basic_id":93, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":9302, "myumon_basic_id":93, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[509301,300901,209301]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":9401, "myumon_basic_id":94, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":9402, "myumon_basic_id":94, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[509401,300901,209401]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":10101, "myumon_basic_id":101, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":10102, "myumon_basic_id":101, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[510101,301001,210101]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":10201, "myumon_basic_id":102, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":10202, "myumon_basic_id":102, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[510201,301001,210201]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":10301, "myumon_basic_id":103, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":10302, "myumon_basic_id":103, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[510301,301001,210301]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":10401, "myumon_basic_id":104, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":10402, "myumon_basic_id":104, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[510401,301001,210401]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":11101, "myumon_basic_id":111, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":11102, "myumon_basic_id":111, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[511101,301101,211101]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":11201, "myumon_basic_id":112, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":11202, "myumon_basic_id":112, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[511201,301101,211201]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":11301, "myumon_basic_id":113, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":11302, "myumon_basic_id":113, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[511301,301101,211301]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":11401, "myumon_basic_id":114, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":11402, "myumon_basic_id":114, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[511401,301101,211401]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":12101, "myumon_basic_id":121, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":12102, "myumon_basic_id":121, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[512101,301201,212101]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":12201, "myumon_basic_id":122, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":12202, "myumon_basic_id":122, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[512201,301201,212201]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":12301, "myumon_basic_id":123, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":12302, "myumon_basic_id":123, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[512301,301201,212301]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":12401, "myumon_basic_id":124, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":12402, "myumon_basic_id":124, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[512401,301201,212401]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":12501, "myumon_basic_id":125, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":12502, "myumon_basic_id":125, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[512501,301201,212501]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":13101, "myumon_basic_id":131, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":13102, "myumon_basic_id":131, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[513101,301301,213101]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":13201, "myumon_basic_id":132, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":13202, "myumon_basic_id":132, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[513201,301301,213201]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":13301, "myumon_basic_id":133, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":13302, "myumon_basic_id":133, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[513301,301301,213301]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":13401, "myumon_basic_id":134, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":13402, "myumon_basic_id":134, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[513401,301301,213401]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":14101, "myumon_basic_id":141, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":14102, "myumon_basic_id":141, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[514101,301401,214101]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":14201, "myumon_basic_id":142, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":14202, "myumon_basic_id":142, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[514201,301401,214201]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":14301, "myumon_basic_id":143, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":14302, "myumon_basic_id":143, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[514301,301401,214301]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":14401, "myumon_basic_id":144, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":14402, "myumon_basic_id":144, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[514401,301401,214401]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":15101, "myumon_basic_id":151, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":15102, "myumon_basic_id":151, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[515101,301501,215101]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":15201, "myumon_basic_id":152, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":15202, "myumon_basic_id":152, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[515201,301501,215201]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":15301, "myumon_basic_id":153, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":15302, "myumon_basic_id":153, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[515301,301501,215301]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":15401, "myumon_basic_id":154, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":15402, "myumon_basic_id":154, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[515401,301501,215401]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":18101, "myumon_basic_id":181, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":18102, "myumon_basic_id":181, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[518101,301801,218101]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":18201, "myumon_basic_id":182, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":18202, "myumon_basic_id":182, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[518201,301801,218201]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":18301, "myumon_basic_id":183, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":18302, "myumon_basic_id":183, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[518301,301801,218301]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":18401, "myumon_basic_id":184, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
   },
   {
+    "id":18402, "myumon_basic_id":184, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[518401,301801,218401]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":18501, "myumon_basic_id":185, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/02/09 13:00:00 +09:00"
+  },
+  {
+    "id":18502, "myumon_basic_id":185, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[518501,301801,218501]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":91101, "myumon_basic_id":911, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/03/23 12:00:00 +09:00"
   },
   {
+    "id":91102, "myumon_basic_id":911, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[591101,291101]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":91201, "myumon_basic_id":912, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/04/21 12:00:00 +09:00"
+  },
+  {
+    "id":91202, "myumon_basic_id":912, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[591201,291201]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":91301, "myumon_basic_id":913, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/05/11 12:00:00 +09:00"
   },
   {
+    "id":91302, "myumon_basic_id":913, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[591301,291301]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":91401, "myumon_basic_id":914, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/11 12:00:00 +09:00"
+  },
+  {
+    "id":91402, "myumon_basic_id":914, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[591401,291401]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":91501, "myumon_basic_id":915, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/11 12:00:00 +09:00"
   },
   {
+    "id":91502, "myumon_basic_id":915, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[591501,291501]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":91601, "myumon_basic_id":916, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/11 12:00:00 +09:00"
+  },
+  {
+    "id":91602, "myumon_basic_id":916, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[591601,291601]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":91701, "myumon_basic_id":917, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/11 12:00:00 +09:00"
   },
   {
+    "id":91702, "myumon_basic_id":917, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[591701,291701]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":91801, "myumon_basic_id":918, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/11 12:00:00 +09:00"
+  },
+  {
+    "id":91802, "myumon_basic_id":918, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[591801,291801]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":91901, "myumon_basic_id":919, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/11 12:00:00 +09:00"
   },
   {
+    "id":91902, "myumon_basic_id":919, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[591901,291901]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":92101, "myumon_basic_id":921, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/11 12:00:00 +09:00"
+  },
+  {
+    "id":92102, "myumon_basic_id":921, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[592101,292101]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":92201, "myumon_basic_id":922, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/22 12:00:00 +09:00"
   },
   {
+    "id":92202, "myumon_basic_id":922, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[592201,292201]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":92301, "myumon_basic_id":923, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/22 12:00:00 +09:00"
+  },
+  {
+    "id":92302, "myumon_basic_id":923, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[592301,292301]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":92401, "myumon_basic_id":924, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/22 12:00:00 +09:00"
   },
   {
+    "id":92402, "myumon_basic_id":924, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[592401,292401]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":92501, "myumon_basic_id":925, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/22 12:00:00 +09:00"
+  },
+  {
+    "id":92502, "myumon_basic_id":925, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[592501,292501]", "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
     "id":92601, "myumon_basic_id":926, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/22 12:00:00 +09:00"
   },
   {
+    "id":92602, "myumon_basic_id":926, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[592601,292601]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
     "id":92701, "myumon_basic_id":927, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/06/30 12:00:00 +09:00"
+  },
+  {
+    "id":92702, "myumon_basic_id":927, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[592701,292701]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
+    "id":92801, "myumon_basic_id":928, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
+    "id":92802, "myumon_basic_id":928, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[592801,292801]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
+    "id":92901, "myumon_basic_id":929, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
+    "id":92902, "myumon_basic_id":929, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[592901,292901]", "started_at":"2021/07/13 12:00:00 +09:00"
   }
 ]

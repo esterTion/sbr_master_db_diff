@@ -879,6 +879,9 @@
     "id":160102, "category":"PresentBoxStatus", "name":"Opened", "value":"2"
   },
   {
+    "id":160103, "category":"PresentBoxStatus", "name":"Expired", "value":"3"
+  },
+  {
     "id":160200, "category":"PresentBoxFilterLimit", "name":"All", "value":"0"
   },
   {
@@ -964,6 +967,9 @@
   },
   {
     "id":180205, "category":"StoryCategory", "name":"Event", "value":"9"
+  },
+  {
+    "id":180206, "category":"StoryCategory", "name":"Ability", "value":"15"
   },
   {
     "id":180301, "category":"ShortStory", "name":"DailyMaxArtistExp", "value":"500"

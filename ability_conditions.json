@@ -1,3 +1,530 @@
 [
-  
+  {
+    "id":201101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":11}"
+  },
+  {
+    "id":201201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":12}"
+  },
+  {
+    "id":201301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":13}"
+  },
+  {
+    "id":201401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":14}"
+  },
+  {
+    "id":202101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":21}"
+  },
+  {
+    "id":202201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":22}"
+  },
+  {
+    "id":202301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":23}"
+  },
+  {
+    "id":202401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":24}"
+  },
+  {
+    "id":203101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":31}"
+  },
+  {
+    "id":203201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":32}"
+  },
+  {
+    "id":203301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":33}"
+  },
+  {
+    "id":204101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":41}"
+  },
+  {
+    "id":204201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":42}"
+  },
+  {
+    "id":204301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":43}"
+  },
+  {
+    "id":205101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":51}"
+  },
+  {
+    "id":205201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":52}"
+  },
+  {
+    "id":205301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":53}"
+  },
+  {
+    "id":206101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":61}"
+  },
+  {
+    "id":206201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":62}"
+  },
+  {
+    "id":206301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":63}"
+  },
+  {
+    "id":206401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":64}"
+  },
+  {
+    "id":207101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":71}"
+  },
+  {
+    "id":207201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":72}"
+  },
+  {
+    "id":207301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":73}"
+  },
+  {
+    "id":207401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":74}"
+  },
+  {
+    "id":208101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":81}"
+  },
+  {
+    "id":208201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":82}"
+  },
+  {
+    "id":208301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":83}"
+  },
+  {
+    "id":209101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":91}"
+  },
+  {
+    "id":209201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":92}"
+  },
+  {
+    "id":209301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":93}"
+  },
+  {
+    "id":209401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":94}"
+  },
+  {
+    "id":210101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":101}"
+  },
+  {
+    "id":210201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":102}"
+  },
+  {
+    "id":210301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":103}"
+  },
+  {
+    "id":210401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":104}"
+  },
+  {
+    "id":211101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":111}"
+  },
+  {
+    "id":211201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":112}"
+  },
+  {
+    "id":211301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":113}"
+  },
+  {
+    "id":211401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":114}"
+  },
+  {
+    "id":212101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":121}"
+  },
+  {
+    "id":212201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":122}"
+  },
+  {
+    "id":212301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":123}"
+  },
+  {
+    "id":212401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":124}"
+  },
+  {
+    "id":212501, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":125}"
+  },
+  {
+    "id":213101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":131}"
+  },
+  {
+    "id":213201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":132}"
+  },
+  {
+    "id":213301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":133}"
+  },
+  {
+    "id":213401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":134}"
+  },
+  {
+    "id":214101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":141}"
+  },
+  {
+    "id":214201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":142}"
+  },
+  {
+    "id":214301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":143}"
+  },
+  {
+    "id":214401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":144}"
+  },
+  {
+    "id":215101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":151}"
+  },
+  {
+    "id":215201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":152}"
+  },
+  {
+    "id":215301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":153}"
+  },
+  {
+    "id":215401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":154}"
+  },
+  {
+    "id":218101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":181}"
+  },
+  {
+    "id":218201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":182}"
+  },
+  {
+    "id":218301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":183}"
+  },
+  {
+    "id":218401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":184}"
+  },
+  {
+    "id":218501, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":185}"
+  },
+  {
+    "id":291101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":911}"
+  },
+  {
+    "id":291201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":912}"
+  },
+  {
+    "id":291301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":913}"
+  },
+  {
+    "id":291401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":914}"
+  },
+  {
+    "id":291501, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":915}"
+  },
+  {
+    "id":291601, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":916}"
+  },
+  {
+    "id":291701, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":917}"
+  },
+  {
+    "id":291801, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":918}"
+  },
+  {
+    "id":291901, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":919}"
+  },
+  {
+    "id":292101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":921}"
+  },
+  {
+    "id":292201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":922}"
+  },
+  {
+    "id":292301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":923}"
+  },
+  {
+    "id":292401, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":924}"
+  },
+  {
+    "id":292501, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":925}"
+  },
+  {
+    "id":292601, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":926}"
+  },
+  {
+    "id":292701, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":927}"
+  },
+  {
+    "id":292801, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":928}"
+  },
+  {
+    "id":292901, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":929}"
+  },
+  {
+    "id":300101, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":1}"
+  },
+  {
+    "id":300201, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":2}"
+  },
+  {
+    "id":300301, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":3}"
+  },
+  {
+    "id":300401, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":4}"
+  },
+  {
+    "id":300501, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":5}"
+  },
+  {
+    "id":300601, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":6}"
+  },
+  {
+    "id":300701, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":7}"
+  },
+  {
+    "id":300801, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":8}"
+  },
+  {
+    "id":300901, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":9}"
+  },
+  {
+    "id":301001, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":10}"
+  },
+  {
+    "id":301101, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":11}"
+  },
+  {
+    "id":301201, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":12}"
+  },
+  {
+    "id":301301, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":13}"
+  },
+  {
+    "id":301401, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":14}"
+  },
+  {
+    "id":301501, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":15}"
+  },
+  {
+    "id":301801, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":18}"
+  },
+  {
+    "id":501101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":1101}"
+  },
+  {
+    "id":501201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":1201}"
+  },
+  {
+    "id":501301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":1301}"
+  },
+  {
+    "id":501401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":1401}"
+  },
+  {
+    "id":502101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":2101}"
+  },
+  {
+    "id":502201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":2201}"
+  },
+  {
+    "id":502301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":2301}"
+  },
+  {
+    "id":502401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":2401}"
+  },
+  {
+    "id":503101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":3101}"
+  },
+  {
+    "id":503201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":3201}"
+  },
+  {
+    "id":503301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":3301}"
+  },
+  {
+    "id":504101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":4101}"
+  },
+  {
+    "id":504201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":4201}"
+  },
+  {
+    "id":504301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":4301}"
+  },
+  {
+    "id":505101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":5101}"
+  },
+  {
+    "id":505201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":5201}"
+  },
+  {
+    "id":505301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":5301}"
+  },
+  {
+    "id":506101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":6101}"
+  },
+  {
+    "id":506201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":6201}"
+  },
+  {
+    "id":506301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":6301}"
+  },
+  {
+    "id":506401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":6401}"
+  },
+  {
+    "id":507101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":7101}"
+  },
+  {
+    "id":507201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":7201}"
+  },
+  {
+    "id":507301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":7301}"
+  },
+  {
+    "id":507401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":7401}"
+  },
+  {
+    "id":508101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":8101}"
+  },
+  {
+    "id":508201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":8201}"
+  },
+  {
+    "id":508301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":8301}"
+  },
+  {
+    "id":509101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":9101}"
+  },
+  {
+    "id":509201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":9201}"
+  },
+  {
+    "id":509301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":9301}"
+  },
+  {
+    "id":509401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":9401}"
+  },
+  {
+    "id":510101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":10101}"
+  },
+  {
+    "id":510201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":10201}"
+  },
+  {
+    "id":510301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":10301}"
+  },
+  {
+    "id":510401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":10401}"
+  },
+  {
+    "id":511101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":11101}"
+  },
+  {
+    "id":511201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":11201}"
+  },
+  {
+    "id":511301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":11301}"
+  },
+  {
+    "id":511401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":11401}"
+  },
+  {
+    "id":512101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":12101}"
+  },
+  {
+    "id":512201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":12201}"
+  },
+  {
+    "id":512301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":12301}"
+  },
+  {
+    "id":512401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":12401}"
+  },
+  {
+    "id":512501, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":12501}"
+  },
+  {
+    "id":513101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":13101}"
+  },
+  {
+    "id":513201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":13201}"
+  },
+  {
+    "id":513301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":13301}"
+  },
+  {
+    "id":513401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":13401}"
+  },
+  {
+    "id":514101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":14101}"
+  },
+  {
+    "id":514201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":14201}"
+  },
+  {
+    "id":514301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":14301}"
+  },
+  {
+    "id":514401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":14401}"
+  },
+  {
+    "id":515101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":15101}"
+  },
+  {
+    "id":515201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":15201}"
+  },
+  {
+    "id":515301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":15301}"
+  },
+  {
+    "id":515401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":15401}"
+  },
+  {
+    "id":518101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":18101}"
+  },
+  {
+    "id":518201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":18201}"
+  },
+  {
+    "id":518301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":18301}"
+  },
+  {
+    "id":518401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":18401}"
+  },
+  {
+    "id":518501, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":18501}"
+  },
+  {
+    "id":591101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":91101}"
+  },
+  {
+    "id":591201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":91201}"
+  },
+  {
+    "id":591301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":91301}"
+  },
+  {
+    "id":591401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":91401}"
+  },
+  {
+    "id":591501, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":91501}"
+  },
+  {
+    "id":591601, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":91601}"
+  },
+  {
+    "id":591701, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":91701}"
+  },
+  {
+    "id":591801, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":91801}"
+  },
+  {
+    "id":591901, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":91901}"
+  },
+  {
+    "id":592101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":92101}"
+  },
+  {
+    "id":592201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":92201}"
+  },
+  {
+    "id":592301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":92301}"
+  },
+  {
+    "id":592401, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":92401}"
+  },
+  {
+    "id":592501, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":92501}"
+  },
+  {
+    "id":592601, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":92601}"
+  },
+  {
+    "id":592701, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":92701}"
+  },
+  {
+    "id":592801, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":92801}"
+  },
+  {
+    "id":592901, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":92901}"
+  }
 ]

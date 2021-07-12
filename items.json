@@ -171,6 +171,9 @@
     "id":40044, "category":4, "name":"【水コレ3】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40045, "category":4, "name":"【水コレ4】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -393,6 +396,9 @@
     "id":120044, "category":12, "name":"【水コレ3】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120045, "category":12, "name":"【水コレ4】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -451,6 +457,15 @@
   },
   {
     "id":140015, "category":14, "name":"2020年コレ限セレクト.pt", "quantity_max":999999, "ex_params":"{}", "description":"2020年コレ限SSRセレクトポイント交換所で使用できるアイテムです"
+  },
+  {
+    "id":140016, "category":14, "name":"BR記念pt", "quantity_max":999999, "ex_params":"{}", "description":"BR記念pt交換所で使用できるアイテムです"
+  },
+  {
+    "id":140017, "category":14, "name":"選べるキャラスフィア.pt", "quantity_max":999999, "ex_params":"{}", "description":"キャラスフィア交換所で使用できるアイテムです"
+  },
+  {
+    "id":140018, "category":14, "name":"魂系アイテム引換ポイント", "quantity_max":999999, "ex_params":"{}", "description":"魂系アイテム交換所で使用できるアイテムです"
   },
   {
     "id":141000, "category":14, "name":"バトル招待券A", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"

@@ -840,6 +840,39 @@
     "id":4000195, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"30", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/07/06 12:00:00 +09:00", "ended_at":"2021/07/11 11:59:59 +09:00"
   },
   {
+    "id":4000196, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"31", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/16 11:59:59 +09:00"
+  },
+  {
+    "id":4000198, "category":4, "reset_cycle":0, "title":"【BR記念】アニメ『SHOW BY ROCK!!STARS!!』を見よう", "detail":"-", "add_condition_mission_id":0, "sort_order":101, "clear_condition_type":"unconditional", "clear_condition_args":"0", "goal":1, "reward_no":14042, "button_type":1, "destination_kind":0, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000199, "category":4, "reset_cycle":0, "title":"【BR記念】フリーライブでドレミファSTARS!を1回プレイしよう", "detail":"フリーライブで楽曲『ドレミファSTARS!』を累計1回プレイしよう", "add_condition_mission_id":0, "sort_order":102, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9032],\"clear_status\":0}", "goal":1, "reward_no":14042, "button_type":0, "destination_kind":14, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000200, "category":4, "reset_cycle":0, "title":"【BR記念】フリーライブで星空ライトストーリーを1回プレイしよう", "detail":"フリーライブで楽曲『星空ライトストーリー』を累計1回プレイしよう", "add_condition_mission_id":0, "sort_order":103, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[116],\"clear_status\":0}", "goal":1, "reward_no":14042, "button_type":0, "destination_kind":14, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000201, "category":4, "reset_cycle":0, "title":"【BR記念】フリーライブを6回プレイしよう", "detail":"フリーライブで好きな楽曲を6回プレイしよう", "add_condition_mission_id":0, "sort_order":104, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":6, "reward_no":14043, "button_type":0, "destination_kind":14, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000202, "category":4, "reset_cycle":0, "title":"【BR記念】フリーライブを9回プレイしよう", "detail":"フリーライブで好きな楽曲を9回プレイしよう", "add_condition_mission_id":0, "sort_order":105, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":9, "reward_no":14043, "button_type":0, "destination_kind":14, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000203, "category":4, "reset_cycle":0, "title":"【BR記念】イベントポイントを1,000以上獲得しよう", "detail":"イベントポイントを1,000以上獲得しよう", "add_condition_mission_id":0, "sort_order":106, "clear_condition_type":"event_point_count", "clear_condition_args":"[1033,3005]", "goal":1000, "reward_no":14043, "button_type":0, "destination_kind":1, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000204, "category":4, "reset_cycle":0, "title":"【BR記念】イベントポイントを5,000以上獲得しよう", "detail":"イベントポイントを5,000以上獲得しよう", "add_condition_mission_id":0, "sort_order":107, "clear_condition_type":"event_point_count", "clear_condition_args":"[1033,3005]", "goal":5000, "reward_no":14043, "button_type":0, "destination_kind":1, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000205, "category":4, "reset_cycle":0, "title":"【BR記念】マイタウンで収益を10万サウンドル獲得しよう", "detail":"マイタウンから、累計10万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":108, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":100000, "reward_no":14043, "button_type":0, "destination_kind":3, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000206, "category":4, "reset_cycle":0, "title":"【BR記念】シアンのレゾナンスソウルⅠをLv1まで上げよう", "detail":"メンバー ＞ キャラクター強化から、シアンのレゾナンスソウルⅠをLv1まで上げよう", "add_condition_mission_id":0, "sort_order":109, "clear_condition_type":"ability_level", "clear_condition_args":"2101", "goal":1, "reward_no":14043, "button_type":0, "destination_kind":28, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000207, "category":4, "reset_cycle":0, "title":"【BR記念】Blu-ray第1巻購入キャンペーンミッションを全てクリアしよう", "detail":"Blu-ray第1巻購入キャンペーンミッションを全てクリアしよう", "add_condition_mission_id":0, "sort_order":110, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000198,4000199,4000200,4000201,4000202,4000203,4000204,4000205,4000206]", "goal":9, "reward_no":14043, "button_type":0, "destination_kind":0, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/07/31 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
