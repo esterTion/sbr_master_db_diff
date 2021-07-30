@@ -249,6 +249,9 @@
     "id":5104, "myumon_basic_id":51, "name":"[GoGoしんGoず！イソゲです♪] ララリン", "description":"ララリンの特別な衣装です。", "asset_id":5103, "mini_asset_id":5104, "icon_asset_id":514020, "parent_id":5100, "started_at":"2021/03/23 12:00:00 +09:00"
   },
   {
+    "id":5105, "myumon_basic_id":51, "name":"[何も恐れる事はないさ……きゃっ] ララリン", "description":"ララリンの特別な衣装です。", "asset_id":5104, "mini_asset_id":5105, "icon_asset_id":514030, "parent_id":5100, "started_at":"2021/07/31 12:00:00 +09:00"
+  },
+  {
     "id":5200, "myumon_basic_id":52, "name":"[REIJINGSIGNAL] スモモネ", "description":"スモモネの衣装です。", "asset_id":5200, "mini_asset_id":5200, "icon_asset_id":521000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -576,6 +579,9 @@
     "id":11201, "myumon_basic_id":112, "name":"[ワカル～♪イメージ大事だよね] ジャロップ", "description":"ジャロップの特別な衣装です。", "asset_id":11201, "mini_asset_id":11201, "icon_asset_id":1124000, "parent_id":11200, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
+    "id":11202, "myumon_basic_id":112, "name":"[イイかんじに着付けちゃうよ～♪] ジャロップ", "description":"ジャロップの特別な衣装です。", "asset_id":11202, "mini_asset_id":11202, "icon_asset_id":1124010, "parent_id":11200, "started_at":"2021/07/31 12:00:00 +09:00"
+  },
+  {
     "id":11300, "myumon_basic_id":113, "name":"[Yokazenohorizon] クースカ", "description":"クースカの衣装です。", "asset_id":11300, "mini_asset_id":11300, "icon_asset_id":1131000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -693,6 +699,9 @@
     "id":15201, "myumon_basic_id":152, "name":"[何も怖くない。推しの為ならね。] しまっく", "description":"しまっくの特別な衣装です。", "asset_id":15201, "mini_asset_id":15201, "icon_asset_id":1524000, "parent_id":15200, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
+    "id":15202, "myumon_basic_id":152, "name":"[推しの為の労働、最高でしかない] しまっく", "description":"しまっくの特別な衣装です。", "asset_id":15202, "mini_asset_id":15202, "icon_asset_id":1524010, "parent_id":15200, "started_at":"2021/07/31 12:00:00 +09:00"
+  },
+  {
     "id":15300, "myumon_basic_id":153, "name":"[ゼロティックホリック] れっぱにょ", "description":"れっぱにょの衣装です。", "asset_id":15300, "mini_asset_id":15300, "icon_asset_id":1531000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -724,6 +733,9 @@
   },
   {
     "id":18201, "myumon_basic_id":182, "name":"[ハハッ！ハイになってきたぜェ！！] 151", "description":"151の特別な衣装です。", "asset_id":18201, "mini_asset_id":18201, "icon_asset_id":1824000, "parent_id":18200, "started_at":"2021/01/29 13:00:00 +09:00"
+  },
+  {
+    "id":18202, "myumon_basic_id":182, "name":"[滾るねェ、全部奪っていいんだろ？] 151", "description":"151の特別な衣装です。", "asset_id":18202, "mini_asset_id":18202, "icon_asset_id":1824010, "parent_id":18200, "started_at":"2021/07/31 12:00:00 +09:00"
   },
   {
     "id":18300, "myumon_basic_id":183, "name":"[Kuronoatmosphere] 661", "description":"661の衣装です。", "asset_id":18300, "mini_asset_id":18300, "icon_asset_id":1831000, "parent_id":0, "started_at":"2021/01/29 13:00:00 +09:00"
@@ -811,5 +823,11 @@
   },
   {
     "id":93100, "myumon_basic_id":931, "name":"[MIDICIANSスライダー] Heikou", "description":"Heikouの衣装です。", "asset_id":0, "mini_asset_id":93101, "icon_asset_id":9314000, "parent_id":0, "started_at":"2021/07/21 12:00:00 +09:00"
+  },
+  {
+    "id":93200, "myumon_basic_id":932, "name":"[MIDICIANS花火祭] クリームテディ", "description":"クリームテディの衣装です。", "asset_id":0, "mini_asset_id":93201, "icon_asset_id":9324000, "parent_id":0, "started_at":"2021/07/31 12:00:00 +09:00"
+  },
+  {
+    "id":93300, "myumon_basic_id":933, "name":"[土用の丑の宇宙鰻蒲焼き] ウチュウラー", "description":"ウチュウラーの衣装です。", "asset_id":0, "mini_asset_id":93301, "icon_asset_id":9334000, "parent_id":0, "started_at":"2021/07/31 12:00:00 +09:00"
   }
 ]

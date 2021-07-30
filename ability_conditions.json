@@ -243,6 +243,12 @@
     "id":293101, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":931}"
   },
   {
+    "id":293201, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":932}"
+  },
+  {
+    "id":293301, "condition_type":2, "condition_goal":1001, "condition_args":"{\"id\":933}"
+  },
+  {
     "id":300101, "condition_type":3, "condition_goal":10, "condition_args":"{\"id\":1}"
   },
   {
@@ -532,5 +538,11 @@
   },
   {
     "id":593101, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":93101}"
+  },
+  {
+    "id":593201, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":93201}"
+  },
+  {
+    "id":593301, "condition_type":5, "condition_goal":10, "condition_args":"{\"id\":93301}"
   }
 ]

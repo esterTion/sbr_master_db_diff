@@ -186,6 +186,9 @@
     "id":410, "name":"ハカナイトメア", "name_hiragana":"はかないとめあ", "artist_id":4, "special_artist_id":0, "jacket_image_id":410, "sort_order":410, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/06/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
   },
   {
+    "id":411, "name":"Monologue", "name_hiragana":"ものろーぐ", "artist_id":4, "special_artist_id":0, "jacket_image_id":411, "sort_order":411, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/07/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":188, "lyrics":"0", "composed":"0", "arranged":"0", "description":""
+  },
+  {
     "id":501, "name":"Parallelism Crown", "name_hiragana":"ぱられりずむくらうん", "artist_id":5, "special_artist_id":0, "jacket_image_id":501, "sort_order":501, "category":1, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":140, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "description":""
   },
   {
@@ -667,5 +670,8 @@
   },
   {
     "id":9062, "name":"後ろの正面", "name_hiragana":"うしろのしょうめん", "artist_id":90, "special_artist_id":200, "jacket_image_id":9002, "sort_order":10104, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/06/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "description":"フカシギミック（楽曲提供：バンドごっこ）"
+  },
+  {
+    "id":9063, "name":"ヒーローライン", "name_hiragana":"ひーろーらいん", "artist_id":90, "special_artist_id":1600, "jacket_image_id":9029, "sort_order":11304, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/07/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":168, "lyrics":"0", "composed":"0", "arranged":"0", "description":"バイガンバーV"
   }
 ]
