@@ -651,6 +651,9 @@
     "id":13200, "myumon_basic_id":132, "name":"[ウワサノペタルズ] ぽこえ", "description":"ぽこえの衣装です。", "asset_id":13200, "mini_asset_id":13200, "icon_asset_id":1321000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
+    "id":13201, "myumon_basic_id":132, "name":"[み、みんなが応援してくれるなら…] ぽこえ", "description":"ぽこえの特別な衣装です。", "asset_id":13201, "mini_asset_id":13201, "icon_asset_id":1324000, "parent_id":13200, "started_at":"2021/08/12 12:00:00 +09:00"
+  },
+  {
     "id":13300, "myumon_basic_id":133, "name":"[ウワサノペタルズ] きっつん", "description":"きっつんの衣装です。", "asset_id":13300, "mini_asset_id":13300, "icon_asset_id":1331000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -819,7 +822,13 @@
     "id":92800, "myumon_basic_id":928, "name":"[夕焼けデビリッシュライフガード] デーヤン", "description":"デーヤンの衣装です。", "asset_id":0, "mini_asset_id":92801, "icon_asset_id":9284000, "parent_id":0, "started_at":"2021/07/13 12:00:00 +09:00"
   },
   {
-    "id":92901, "myumon_basic_id":929, "name":"[オマエの水着は何色だ！？] デモンバット", "description":"デモンバットの衣装です。", "asset_id":0, "mini_asset_id":92901, "icon_asset_id":9294010, "parent_id":0, "started_at":"2021/07/13 12:00:00 +09:00"
+    "id":92900, "myumon_basic_id":929, "name":"[デモンズベノム]デモンバット", "description":"デモンバットの衣装です。", "asset_id":92900, "mini_asset_id":92901, "icon_asset_id":9291000, "parent_id":0, "started_at":"2021/08/11 13:00:00 +09:00"
+  },
+  {
+    "id":92901, "myumon_basic_id":929, "name":"[オマエの水着は何色だ！？] デモンバット", "description":"デモンバットの衣装です。", "asset_id":0, "mini_asset_id":0, "icon_asset_id":9294010, "parent_id":92900, "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
+    "id":92902, "myumon_basic_id":929, "name":"[コアクマ黒魔術占いの始まりだ！] デモンバット", "description":"デモンバットの特別な衣装です。", "asset_id":92901, "mini_asset_id":92902, "icon_asset_id":9294000, "parent_id":92900, "started_at":"2021/08/12 12:00:00 +09:00"
   },
   {
     "id":93100, "myumon_basic_id":931, "name":"[MIDICIANSスライダー] Heikou", "description":"Heikouの衣装です。", "asset_id":0, "mini_asset_id":93101, "icon_asset_id":9314000, "parent_id":0, "started_at":"2021/07/21 12:00:00 +09:00"

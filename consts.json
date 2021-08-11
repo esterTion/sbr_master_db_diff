@@ -240,6 +240,21 @@
     "id":40403, "category":"UserTargetType", "name":"Comeback", "value":"3"
   },
   {
+    "id":40501, "category":"UserPlayStyleCategory", "name":"PlayType", "value":"play_type"
+  },
+  {
+    "id":40502, "category":"UserPlayStyleCategory", "name":"ActivityTime", "value":"activity_time"
+  },
+  {
+    "id":40601, "category":"UserHonor", "name":"CurrentHonorMax", "value":"2"
+  },
+  {
+    "id":40701, "category":"UserHonorPosition", "name":"Main", "value":"main"
+  },
+  {
+    "id":40702, "category":"UserHonorPosition", "name":"Sub", "value":"sub"
+  },
+  {
     "id":50000, "category":"Music", "name":"DefaultUnlockGrade", "value":"3"
   },
   {
@@ -909,6 +924,9 @@
     "id":170000, "category":"Friend", "name":"FollowMaxSize", "value":"100"
   },
   {
+    "id":170001, "category":"Friend", "name":"SearchMaxSize", "value":"20"
+  },
+  {
     "id":170100, "category":"FriendStatus", "name":"Stranger", "value":"1"
   },
   {
@@ -1470,6 +1488,9 @@
     "id":300202, "category":"EventRankingCategory", "name":"Self", "value":"2"
   },
   {
+    "id":300203, "category":"EventRankingCategory", "name":"Friend", "value":"3"
+  },
+  {
     "id":300301, "category":"EventPlayCategory", "name":"FreeLive", "value":"1"
   },
   {
@@ -1498,6 +1519,15 @@
   },
   {
     "id":310104, "category":"TradeStoreBuyLimitType", "name":"Monthly", "value":"4"
+  },
+  {
+    "id":310201, "category":"TradeStoreCategory", "name":"Normal", "value":"1"
+  },
+  {
+    "id":310202, "category":"TradeStoreCategory", "name":"Gacha", "value":"2"
+  },
+  {
+    "id":310203, "category":"TradeStoreCategory", "name":"Campaign", "value":"3"
   },
   {
     "id":320101, "category":"BeginnerMissionStatus", "name":"Open", "value":"0"
