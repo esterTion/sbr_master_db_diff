@@ -183,6 +183,9 @@
     "id":40048, "category":4, "name":"【美悪魔】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40049, "category":4, "name":"【夏フェス】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -420,6 +423,9 @@
     "id":120048, "category":12, "name":"【美悪魔】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120049, "category":12, "name":"【夏フェス】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -487,6 +493,9 @@
   },
   {
     "id":140018, "category":14, "name":"魂系アイテム引換ポイント", "quantity_max":999999, "ex_params":"{}", "description":"魂系アイテム交換所で使用できるアイテムです"
+  },
+  {
+    "id":140019, "category":14, "name":"2021/08ステージ交換券", "quantity_max":999999, "ex_params":"{}", "description":"2021/08ステージオブジェクト交換所で使用できるアイテムです"
   },
   {
     "id":141000, "category":14, "name":"バトル招待券A", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"

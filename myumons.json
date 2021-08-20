@@ -162,6 +162,12 @@
     "id":134031, "myumon_basic_id":13, "name":"[へのツッパリはしゅびっ、ですよ]", "music_category":1, "rarity":5, "costume_id":1306, "life":502, "rhythm":6450, "melody":2492, "harmony":2371, "main_1_skill_id":10032, "main_2_skill_id":100002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":300002, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「デルミン」のブロマイドです"
   },
   {
+    "id":134040, "myumon_basic_id":13, "name":"[夏フェス、えもえものうずしおです]", "music_category":1, "rarity":4, "costume_id":1307, "life":709, "rhythm":1821, "melody":1852, "harmony":4933, "main_1_skill_id":160001, "main_2_skill_id":82002, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":134041, "shinka_recipe_no":14, "myumon_potential_id":400002, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「デルミン」のブロマイドです"
+  },
+  {
+    "id":134041, "myumon_basic_id":13, "name":"[DJデビルミント鬼龍ぷちょへんざ]", "music_category":1, "rarity":5, "costume_id":1307, "life":823, "rhythm":2363, "melody":2424, "harmony":6631, "main_1_skill_id":160002, "main_2_skill_id":82003, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":400002, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「デルミン」のブロマイドです"
+  },
+  {
     "id":141000, "myumon_basic_id":14, "name":"[Mashumairesh!!]", "music_category":2, "rarity":1, "costume_id":1400, "life":108, "rhythm":868, "melody":574, "harmony":602, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":141001, "shinka_recipe_no":21, "myumon_potential_id":0, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「ルフユ」のブロマイドです"
   },
   {
@@ -1212,6 +1218,12 @@
     "id":814021, "myumon_basic_id":81, "name":"[とっても新春っ☆初夢銀河LIVE]", "music_category":1, "rarity":5, "costume_id":8104, "life":491, "rhythm":6269, "melody":2569, "harmony":2491, "main_1_skill_id":10024, "main_2_skill_id":101002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":400002, "enable_deck":true, "description":"「トライクロニカ」に所属する「シュウ☆ゾー」のブロマイドです"
   },
   {
+    "id":814030, "myumon_basic_id":81, "name":"[後悔？フフッ、無いよ…☆]", "music_category":1, "rarity":4, "costume_id":8105, "life":369, "rhythm":1872, "melody":1864, "harmony":5009, "main_1_skill_id":22001, "main_2_skill_id":0, "support_skill_id":190001, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":814031, "shinka_recipe_no":14, "myumon_potential_id":1202002, "enable_deck":true, "description":"「トライクロニカ」に所属する「シュウ☆ゾー」のブロマイドです"
+  },
+  {
+    "id":814031, "myumon_basic_id":81, "name":"[WAGAMAMAサマー夢銀河っ☆]", "music_category":1, "rarity":5, "costume_id":8105, "life":487, "rhythm":2471, "melody":2398, "harmony":6610, "main_1_skill_id":22002, "main_2_skill_id":0, "support_skill_id":190002, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":1202002, "enable_deck":true, "description":"「トライクロニカ」に所属する「シュウ☆ゾー」のブロマイドです"
+  },
+  {
     "id":821000, "myumon_basic_id":82, "name":"[Trichronika]", "music_category":2, "rarity":1, "costume_id":8200, "life":105, "rhythm":815, "melody":601, "harmony":649, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":821001, "shinka_recipe_no":21, "myumon_potential_id":0, "enable_deck":true, "description":"「トライクロニカ」に所属する「カイ」のブロマイドです"
   },
   {
@@ -1881,6 +1893,9 @@
     "id":1314001, "myumon_basic_id":131, "name":"[いくべ！月里村公民館ライブ！！]", "music_category":2, "rarity":5, "costume_id":13102, "life":470, "rhythm":2505, "melody":2445, "harmony":5300, "main_1_skill_id":22002, "main_2_skill_id":82002, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":113100, "enable_deck":true, "description":"「ウワサノペタルズ」に所属する「しばりん」のブロマイドです"
   },
   {
+    "id":1314020, "myumon_basic_id":131, "name":"[ウワサノラクロスガール！]", "music_category":1, "rarity":4, "costume_id":13100, "life":385, "rhythm":1928, "melody":1900, "harmony":4908, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630000, "enable_deck":true, "description":"「ウワサノペタルズ」に所属する「しばりん」のブロマイドです"
+  },
+  {
     "id":1321000, "myumon_basic_id":132, "name":"[ウワサノペタルズ]", "music_category":3, "rarity":1, "costume_id":13200, "life":102, "rhythm":620, "melody":845, "harmony":619, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1321001, "shinka_recipe_no":31, "myumon_potential_id":0, "enable_deck":true, "description":"「ウワサノペタルズ」に所属する「ぽこえ」のブロマイドです"
   },
   {
@@ -1930,6 +1945,9 @@
   },
   {
     "id":1334001, "myumon_basic_id":133, "name":"[いっくよ！月里村公民館ライブ！！]", "music_category":2, "rarity":5, "costume_id":13302, "life":504, "rhythm":2491, "melody":2560, "harmony":5563, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":221000, "enable_deck":true, "description":"「ウワサノペタルズ」に所属する「きっつん」のブロマイドです"
+  },
+  {
+    "id":1334010, "myumon_basic_id":133, "name":"[ウワサノ球場ライブ！]", "music_category":1, "rarity":4, "costume_id":13300, "life":392, "rhythm":1859, "melody":1941, "harmony":4926, "main_1_skill_id":160001, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630000, "enable_deck":true, "description":"「ウワサノペタルズ」に所属する「きっつん」のブロマイドです"
   },
   {
     "id":1341000, "myumon_basic_id":134, "name":"[ウワサノペタルズ]", "music_category":2, "rarity":1, "costume_id":13400, "life":97, "rhythm":713, "melody":708, "harmony":702, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110041, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1341001, "shinka_recipe_no":21, "myumon_potential_id":0, "enable_deck":true, "description":"「ウワサノペタルズ」に所属する「はっくん」のブロマイドです"
@@ -2271,6 +2289,9 @@
     "id":9144001, "myumon_basic_id":914, "name":"[ラペッジオートTakeOff!!]", "music_category":1, "rarity":5, "costume_id":91400, "life":545, "rhythm":2596, "melody":2642, "harmony":6821, "main_1_skill_id":10004, "main_2_skill_id":82002, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":190000, "enable_deck":true, "description":"「ラペッジオート」に所属する「リックス」のブロマイドです"
   },
   {
+    "id":9153000, "myumon_basic_id":915, "name":"[Dreamy-Ri／Mix-Night！]", "music_category":1, "rarity":3, "costume_id":91501, "life":307, "rhythm":1700, "melody":1758, "harmony":3790, "main_1_skill_id":12022, "main_2_skill_id":0, "support_skill_id":110033, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630001, "enable_deck":true, "description":"「ラペッジオート」に所属する「ミックス」のブロマイドです"
+  },
+  {
     "id":9154000, "myumon_basic_id":915, "name":"[これ、おいしい…一口あげるし]", "music_category":1, "rarity":4, "costume_id":91500, "life":394, "rhythm":1959, "melody":2010, "harmony":5125, "main_1_skill_id":11013, "main_2_skill_id":100001, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":9154001, "shinka_recipe_no":14, "myumon_potential_id":211000, "enable_deck":true, "description":"「ラペッジオート」に所属する「ミックス」のブロマイドです"
   },
   {
@@ -2287,6 +2308,9 @@
   },
   {
     "id":9184000, "myumon_basic_id":918, "name":"[夏Chocolate♡]", "music_category":1, "rarity":4, "costume_id":91800, "life":389, "rhythm":2004, "melody":1980, "harmony":5142, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630000, "enable_deck":true, "description":"「ドーリィドルチ」に所属する「チョキュルイユ」のブロマイドです"
+  },
+  {
+    "id":9184010, "myumon_basic_id":918, "name":"[Sweetな卓球娘！]", "music_category":1, "rarity":4, "costume_id":91800, "life":410, "rhythm":2028, "melody":1969, "harmony":5123, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110036, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630000, "enable_deck":true, "description":"「ドーリィドルチ」に所属する「チョキュルイユ」のブロマイドです"
   },
   {
     "id":9194000, "myumon_basic_id":919, "name":"[サマーシークレット]", "music_category":1, "rarity":4, "costume_id":91900, "life":416, "rhythm":2027, "melody":1961, "harmony":5139, "main_1_skill_id":160001, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630000, "enable_deck":true, "description":"「雫シークレットマインド」に所属する「ウエンディ」のブロマイドです"
@@ -2338,5 +2362,8 @@
   },
   {
     "id":9334000, "myumon_basic_id":933, "name":"[土用の丑の宇宙鰻蒲焼き]", "music_category":3, "rarity":4, "costume_id":93300, "life":408, "rhythm":5137, "melody":2024, "harmony":1983, "main_1_skill_id":20001, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":610000, "enable_deck":true, "description":"「ガウガストライクス」に所属する「ウチュウラー」のブロマイドです"
+  },
+  {
+    "id":9344000, "myumon_basic_id":934, "name":"[04ピョンピョンバスケ部！]", "music_category":1, "rarity":4, "costume_id":93400, "life":420, "rhythm":1983, "melody":2004, "harmony":5140, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630000, "enable_deck":true, "description":"「ガウガストライクス」に所属する「Ryuryu」のブロマイドです"
   }
 ]

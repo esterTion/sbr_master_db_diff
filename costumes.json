@@ -63,6 +63,9 @@
     "id":1306, "myumon_basic_id":13, "name":"[なんということでしょう……] デルミン", "description":"デルミンの特別な衣装です。", "asset_id":1304, "mini_asset_id":1306, "icon_asset_id":134030, "parent_id":1300, "started_at":"2021/04/30 12:00:00 +09:00"
   },
   {
+    "id":1307, "myumon_basic_id":13, "name":"[夏フェス、えもえものうずしおです] デルミン", "description":"デルミンの特別な衣装です。", "asset_id":1305, "mini_asset_id":1307, "icon_asset_id":134040, "parent_id":1300, "started_at":"2021/08/21 12:00:00 +09:00"
+  },
+  {
     "id":1400, "myumon_basic_id":14, "name":"[Mashumairesh!!] ルフユ", "description":"ルフユの衣装です。", "asset_id":1400, "mini_asset_id":1400, "icon_asset_id":141000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -439,6 +442,9 @@
   },
   {
     "id":8104, "myumon_basic_id":81, "name":"[キミにあけおめ☆Shooting] シュウ☆ゾー", "description":"シュウ☆ゾーの特別な衣装です。", "asset_id":8103, "mini_asset_id":8104, "icon_asset_id":814020, "parent_id":8100, "started_at":"2021/01/22 12:00:00 +09:00"
+  },
+  {
+    "id":8105, "myumon_basic_id":81, "name":"[後悔？フフッ、無いよ…☆] シュウ☆ゾー", "description":"シュウ☆ゾーの特別な衣装です。", "asset_id":8104, "mini_asset_id":8105, "icon_asset_id":814030, "parent_id":8100, "started_at":"2021/08/21 12:00:00 +09:00"
   },
   {
     "id":8200, "myumon_basic_id":82, "name":"[Trichronika] カイ", "description":"カイの衣装です。", "asset_id":8200, "mini_asset_id":8200, "icon_asset_id":821000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
@@ -838,5 +844,8 @@
   },
   {
     "id":93300, "myumon_basic_id":933, "name":"[土用の丑の宇宙鰻蒲焼き] ウチュウラー", "description":"ウチュウラーの衣装です。", "asset_id":0, "mini_asset_id":93301, "icon_asset_id":9334000, "parent_id":0, "started_at":"2021/07/31 12:00:00 +09:00"
+  },
+  {
+    "id":93400, "myumon_basic_id":934, "name":"[04ピョンピョンバスケ部！] Ryuryu", "description":"Ryuryuの衣装です。", "asset_id":0, "mini_asset_id":93401, "icon_asset_id":9344000, "parent_id":0, "started_at":"2021/08/21 12:00:00 +09:00"
   }
 ]
