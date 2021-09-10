@@ -546,7 +546,7 @@
     "id":100006, "category":"BattleLive", "name":"DefenceWinRating", "value":"20"
   },
   {
-    "id":100007, "category":"BattleLive", "name":"RandomMatchShowSize", "value":"3"
+    "id":100007, "category":"BattleLive", "name":"RandomMatchShowSize", "value":"20"
   },
   {
     "id":100008, "category":"BattleLive", "name":"MaxChallengeCount", "value":"5"
@@ -1834,5 +1834,29 @@
   },
   {
     "id":390304, "category":"TowerDamageBonus", "name":"FullPerfect", "value":"2"
+  },
+  {
+    "id":400101, "category":"BandBattle", "name":"ReceiveRewardPointLimit", "value":"1"
+  },
+  {
+    "id":400102, "category":"BandBattle", "name":"PointMax", "value":"99999999"
+  },
+  {
+    "id":400103, "category":"BandBattle", "name":"TotalPointMax", "value":"4200000000"
+  },
+  {
+    "id":400201, "category":"BandBattlePointCalc", "name":"BasePoint", "value":"5"
+  },
+  {
+    "id":400202, "category":"BandBattlePointCalc", "name":"WinPoint", "value":"15"
+  },
+  {
+    "id":400203, "category":"BandBattlePointCalc", "name":"RatingCoefficient", "value":"4"
+  },
+  {
+    "id":400204, "category":"BandBattlePointCalc", "name":"RatingCorrectionValue", "value":"150"
+  },
+  {
+    "id":400205, "category":"BandBattlePointCalc", "name":"InferiorBonusMax", "value":"4"
   }
 ]

@@ -189,6 +189,18 @@
     "id":40050, "category":4, "name":"【モアもん】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40051, "category":4, "name":"【SPコレ3】ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40052, "category":4, "name":"未定", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40053, "category":4, "name":"【1.5周年】20ASガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40054, "category":4, "name":"【1.5周年】ワンツースリーガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -237,6 +249,9 @@
     "id":41016, "category":4, "name":"2021年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":41017, "category":4, "name":"対バントロフィー", "quantity_max":9999, "ex_params":"{}", "description":"交換所で対応するアイテムを交換するのに必要なトロフィーです"
+  },
+  {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
   },
   {
@@ -280,6 +295,9 @@
   },
   {
     "id":100008, "category":10, "name":"1周年限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":400}", "description":"突破EXPをかなり与える 1周年 ならではのアイテムです"
+  },
+  {
+    "id":100009, "category":10, "name":"1.5周年限界突破メイプル", "quantity_max":9999, "ex_params":"{\"exp\":400}", "description":"突破EXPをかなり与える 1.5周年 ならではのアイテムです"
   },
   {
     "id":110001, "category":11, "name":"イベント.pt", "quantity_max":999999999, "ex_params":"{}", "description":""
@@ -435,6 +453,18 @@
     "id":120050, "category":12, "name":"【モアもん】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120051, "category":12, "name":"【SPコレ3】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120052, "category":12, "name":"未定", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120053, "category":12, "name":"【20AS】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120054, "category":12, "name":"【123】ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -507,10 +537,16 @@
     "id":140019, "category":14, "name":"2021/08ステージ交換券", "quantity_max":999999, "ex_params":"{}", "description":"2021/08ステージオブジェクト交換所で使用できるアイテムです"
   },
   {
+    "id":140020, "category":14, "name":"1.5周年pt", "quantity_max":999999, "ex_params":"{}", "description":"各種1.5周年記念アイテムと交換できるポイントです"
+  },
+  {
     "id":141000, "category":14, "name":"バトル招待券A", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"
   },
   {
     "id":141001, "category":14, "name":"バトル招待券B", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"
+  },
+  {
+    "id":141002, "category":14, "name":"バトル招待券C", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\n「みんなでバトル」へ参加するために必要なアイテムです。"
   },
   {
     "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":4, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"

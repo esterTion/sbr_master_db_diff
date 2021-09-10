@@ -27,6 +27,9 @@
     "id":10032, "name":"リスキースコアUP++", "myumon_skill_effect_id":200, "effect_arg_no":20032, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   },
   {
+    "id":10042, "name":"リスキーダブルUP++", "myumon_skill_effect_id":200, "effect_arg_no":20432, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
     "id":11003, "name":"スコアUP++", "myumon_skill_effect_id":201, "effect_arg_no":20103, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   },
   {
@@ -37,6 +40,9 @@
   },
   {
     "id":11031, "name":"リスキースコアUP+", "myumon_skill_effect_id":201, "effect_arg_no":20131, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":11041, "name":"リスキーダブルUP+", "myumon_skill_effect_id":201, "effect_arg_no":20531, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   },
   {
     "id":12002, "name":"スコアUP+", "myumon_skill_effect_id":202, "effect_arg_no":20202, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":4, "level_limit_item":3
@@ -55,6 +61,9 @@
   },
   {
     "id":12030, "name":"リスキースコアUP", "myumon_skill_effect_id":202, "effect_arg_no":20230, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":12040, "name":"リスキーダブルUP", "myumon_skill_effect_id":202, "effect_arg_no":20630, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   },
   {
     "id":13001, "name":"スコアUP", "myumon_skill_effect_id":203, "effect_arg_no":20301, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":3, "level_limit_item":2
@@ -109,6 +118,15 @@
   },
   {
     "id":53001, "name":"Pサポート", "myumon_skill_effect_id":403, "effect_arg_no":40301, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":60004, "name":"レアスコアUP++", "myumon_skill_effect_id":200, "effect_arg_no":20742, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":61003, "name":"レアスコアUP+", "myumon_skill_effect_id":201, "effect_arg_no":20841, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":62002, "name":"レアスコアUP", "myumon_skill_effect_id":202, "effect_arg_no":20940, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   },
   {
     "id":82001, "name":"オートP", "myumon_skill_effect_id":10203, "effect_arg_no":1020301, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
@@ -282,6 +300,15 @@
     "id":160002, "name":"リカバースコアUP++", "myumon_skill_effect_id":900, "effect_arg_no":90002, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   },
   {
+    "id":160010, "name":"リカバーコンボUP", "myumon_skill_effect_id":900, "effect_arg_no":90010, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":160011, "name":"リカバーコンボUP+", "myumon_skill_effect_id":900, "effect_arg_no":90011, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":160012, "name":"リカバーコンボUP++", "myumon_skill_effect_id":900, "effect_arg_no":90012, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
     "id":170000, "name":"タイムプラス", "myumon_skill_effect_id":1000, "effect_arg_no":100000, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   },
   {
@@ -301,6 +328,15 @@
   },
   {
     "id":180012, "name":"イラつくぜ…！++", "myumon_skill_effect_id":1100, "effect_arg_no":110012, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":180020, "name":"イエローわんわんキック", "myumon_skill_effect_id":1100, "effect_arg_no":110020, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":180021, "name":"イエローわんわんキック+", "myumon_skill_effect_id":1100, "effect_arg_no":110021, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":180022, "name":"イエローわんわんキック++", "myumon_skill_effect_id":1100, "effect_arg_no":110022, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   },
   {
     "id":190000, "name":"DMダメージUP", "myumon_skill_effect_id":20201, "effect_arg_no":2020100, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4

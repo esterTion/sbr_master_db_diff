@@ -27,6 +27,9 @@
     "id":1008, "layer_type":"Background", "name":"お花見ホームタウン", "description":"桜が満開のホームタウン。芝生にシートを引いて、お花見を楽しもう！", "default_asset_ids":"null"
   },
   {
+    "id":1009, "layer_type":"Background", "name":"徒然なるてぇまぱぁく", "description":"ここは遊んでいるだけで徳が溜まる有り難いてぇまぱぁくです。皆々様、隅から隅まで楽しんでいってください♪", "default_asset_ids":"null"
+  },
+  {
     "id":1100, "layer_type":"Background", "name":"スゴロクタウン", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
   },
   {
@@ -73,6 +76,9 @@
   },
   {
     "id":2012, "layer_type":"Road", "name":"お花見ロード", "description":"芝生にピクニックシートを敷いて、お花見の準備はばっちり！", "default_asset_ids":"null"
+  },
+  {
+    "id":2013, "layer_type":"Road", "name":"徒然なる大通り", "description":"徒然なるてぇまぱぁくの大通りだ。景観を守るため毎日ピカピカに磨いているぞ！", "default_asset_ids":"null"
   },
   {
     "id":2100, "layer_type":"Road", "name":"スゴロクロード", "description":"スゴロクイベントで使用する道路です。", "default_asset_ids":"null"
@@ -142,6 +148,9 @@
   },
   {
     "id":7012, "layer_type":"Fence", "name":"お花見フェンス", "description":"桜をモチーフにした、春らしい雰囲気たっぷりのフェンス。花より団子派のミューモンにも好評！", "default_asset_ids":"null"
+  },
+  {
+    "id":7013, "layer_type":"Fence", "name":"徒然なるふぇんす", "description":"徒然なるてぇまぱぁくのふぇんすです。", "default_asset_ids":"null"
   },
   {
     "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"

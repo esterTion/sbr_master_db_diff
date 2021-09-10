@@ -195,6 +195,9 @@
     "id":500001, "name":"スキル発動率UP", "digest":"スキルの発動率を10%UP", "description":"自身のアクティブスキル発動率が10%UPする", "potential_effect_type":5, "potential_effect_args":"10"
   },
   {
+    "id":500002, "name":"スキル発動率UP+", "digest":"スキルの発動率を20%UP", "description":"自身のアクティブスキル発動率が20%UPする", "potential_effect_type":5, "potential_effect_args":"20"
+  },
+  {
     "id":610000, "name":"リズムパラメータUP", "digest":"パラメータ『リズム』50%UP", "description":"自身のパラメータ『リズム』を50%UPする", "potential_effect_type":6, "potential_effect_args":"[0,50,0,0]"
   },
   {
