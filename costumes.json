@@ -567,6 +567,9 @@
     "id":10203, "myumon_basic_id":102, "name":"[かまくらでお肉まんは無敵なの♪] ツキノ", "description":"ツキノの特別な衣装です。", "asset_id":0, "mini_asset_id":10203, "icon_asset_id":1023010, "parent_id":10200, "started_at":"2021/03/11 12:00:00 +09:00"
   },
   {
+    "id":10204, "myumon_basic_id":102, "name":"[まんまるお月さま美味しそうなの♪] ツキノ", "description":"ツキノの特別な衣装です。", "asset_id":10203, "mini_asset_id":10204, "icon_asset_id":1024020, "parent_id":10200, "started_at":"2021/09/22 12:00:00 +09:00"
+  },
+  {
     "id":10300, "myumon_basic_id":103, "name":"[クリティクリスタ] ホルミー", "description":"ホルミーの衣装です。", "asset_id":10300, "mini_asset_id":10300, "icon_asset_id":1031000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -780,6 +783,9 @@
     "id":18301, "myumon_basic_id":183, "name":"[何見とんねん……スパッといくで？] 661", "description":"661の特別な衣装です。", "asset_id":18301, "mini_asset_id":18301, "icon_asset_id":1834000, "parent_id":18300, "started_at":"2021/01/29 13:00:00 +09:00"
   },
   {
+    "id":18302, "myumon_basic_id":183, "name":"[綺麗なお月さんや、染めがいあるで] 661", "description":"661の特別な衣装です。", "asset_id":18302, "mini_asset_id":18302, "icon_asset_id":1834010, "parent_id":18300, "started_at":"2021/09/22 12:00:00 +09:00"
+  },
+  {
     "id":18400, "myumon_basic_id":184, "name":"[Kuronoatmosphere] 659", "description":"659の衣装です。", "asset_id":18400, "mini_asset_id":18400, "icon_asset_id":1841000, "parent_id":0, "started_at":"2021/01/29 13:00:00 +09:00"
   },
   {
@@ -874,5 +880,8 @@
   },
   {
     "id":93400, "myumon_basic_id":934, "name":"[04ピョンピョンバスケ部！] Ryuryu", "description":"Ryuryuの衣装です。", "asset_id":0, "mini_asset_id":93401, "icon_asset_id":9344000, "parent_id":0, "started_at":"2021/08/21 12:00:00 +09:00"
+  },
+  {
+    "id":93500, "myumon_basic_id":935, "name":"[AUTUMN大恋写♡] ピグマカロン", "description":"ピグマカロンの衣装です。", "asset_id":0, "mini_asset_id":93501, "icon_asset_id":9354000, "parent_id":0, "started_at":"2021/09/22 12:00:00 +09:00"
   }
 ]

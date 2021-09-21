@@ -357,6 +357,27 @@
     "id":201211, "name":"DJサウザンドショック", "stamina_cost":10, "summon_cost":3, "max_hp":600000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":200, "next_encounter_no":1311, "win_reward_no":3507, "win_artist_exp":40000, "win_myumon_exp":40000, "win_event_point":18000, "kind":8, "sort_order":201211, "asset_id":600, "engaged_asset_id":1
   },
   {
+    "id":201301, "name":"ダークドラグーン", "stamina_cost":10, "summon_cost":1, "max_hp":20000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":10, "next_encounter_no":1401, "win_reward_no":3509, "win_artist_exp":1400, "win_myumon_exp":1400, "win_event_point":500, "kind":1, "sort_order":201301, "asset_id":1, "engaged_asset_id":1
+  },
+  {
+    "id":201302, "name":"ダークリーパー", "stamina_cost":10, "summon_cost":1, "max_hp":60000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":20, "next_encounter_no":1402, "win_reward_no":3510, "win_artist_exp":4000, "win_myumon_exp":4000, "win_event_point":1500, "kind":2, "sort_order":201302, "asset_id":3, "engaged_asset_id":1
+  },
+  {
+    "id":201303, "name":"デモンクイーン", "stamina_cost":10, "summon_cost":1, "max_hp":100000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":40, "next_encounter_no":1403, "win_reward_no":3511, "win_artist_exp":7000, "win_myumon_exp":7000, "win_event_point":2500, "kind":3, "sort_order":201303, "asset_id":5, "engaged_asset_id":1
+  },
+  {
+    "id":201304, "name":"ダークドラグーン・フォルテ", "stamina_cost":10, "summon_cost":2, "max_hp":150000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":50, "next_encounter_no":1404, "win_reward_no":3512, "win_artist_exp":10000, "win_myumon_exp":10000, "win_event_point":3900, "kind":1, "sort_order":201304, "asset_id":2, "engaged_asset_id":1
+  },
+  {
+    "id":201305, "name":"ダークリーパー・フォルテシモ", "stamina_cost":10, "summon_cost":2, "max_hp":200000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":70, "next_encounter_no":1405, "win_reward_no":3513, "win_artist_exp":14000, "win_myumon_exp":14000, "win_event_point":5200, "kind":2, "sort_order":201305, "asset_id":4, "engaged_asset_id":1
+  },
+  {
+    "id":201306, "name":"デモンクイーン・クレシェンド", "stamina_cost":10, "summon_cost":2, "max_hp":250000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":90, "next_encounter_no":1406, "win_reward_no":3514, "win_artist_exp":17000, "win_myumon_exp":17000, "win_event_point":6500, "kind":3, "sort_order":201306, "asset_id":6, "engaged_asset_id":1
+  },
+  {
+    "id":201307, "name":"ダークドラグーン・ピアニッシモ", "stamina_cost":10, "summon_cost":0, "max_hp":3969, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":4, "next_encounter_no":0, "win_reward_no":3515, "win_artist_exp":400, "win_myumon_exp":400, "win_event_point":3969, "kind":1, "sort_order":201307, "asset_id":199, "engaged_asset_id":2
+  },
+  {
     "id":300101, "name":"メカメイプル", "stamina_cost":10, "summon_cost":0, "max_hp":13969, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":10, "next_encounter_no":0, "win_reward_no":3458, "win_artist_exp":900, "win_myumon_exp":900, "win_event_point":0, "kind":4, "sort_order":300101, "asset_id":1001, "engaged_asset_id":1
   },
   {
