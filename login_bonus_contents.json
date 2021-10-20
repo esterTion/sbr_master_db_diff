@@ -927,6 +927,21 @@
     "id":370105, "login_bonus_sheet_id":3701, "day_count":5, "reward_no":2087, "scene_type":1, "scene_args":"{\"episode_id\":370105,\"myumon_ids\":[]}"
   },
   {
+    "id":380101, "login_bonus_sheet_id":3801, "day_count":1, "reward_no":2088, "scene_type":1, "scene_args":"{\"episode_id\":380101,\"myumon_ids\":[]}"
+  },
+  {
+    "id":380102, "login_bonus_sheet_id":3801, "day_count":2, "reward_no":2089, "scene_type":1, "scene_args":"{\"episode_id\":380102,\"myumon_ids\":[]}"
+  },
+  {
+    "id":380103, "login_bonus_sheet_id":3801, "day_count":3, "reward_no":2090, "scene_type":1, "scene_args":"{\"episode_id\":380103,\"myumon_ids\":[]}"
+  },
+  {
+    "id":380104, "login_bonus_sheet_id":3801, "day_count":4, "reward_no":2091, "scene_type":1, "scene_args":"{\"episode_id\":380104,\"myumon_ids\":[]}"
+  },
+  {
+    "id":380105, "login_bonus_sheet_id":3801, "day_count":5, "reward_no":2092, "scene_type":1, "scene_args":"{\"episode_id\":380105,\"myumon_ids\":[]}"
+  },
+  {
     "id":10320101, "login_bonus_sheet_id":103201, "day_count":1, "reward_no":4012, "scene_type":2, "scene_args":"{\"episode_id\":10320101,\"myumon_ids\":[12]}"
   },
   {
@@ -1081,5 +1096,17 @@
   },
   {
     "id":30050104, "login_bonus_sheet_id":300501, "day_count":4, "reward_no":5003, "scene_type":2, "scene_args":"{\"episode_id\":30050104,\"myumon_ids\":[91,94]}"
+  },
+  {
+    "id":30060101, "login_bonus_sheet_id":300601, "day_count":1, "reward_no":4014, "scene_type":2, "scene_args":"{\"episode_id\":30060101,\"myumon_ids\":[14]}"
+  },
+  {
+    "id":30060102, "login_bonus_sheet_id":300601, "day_count":2, "reward_no":4071, "scene_type":2, "scene_args":"{\"episode_id\":30060102,\"myumon_ids\":[71]}"
+  },
+  {
+    "id":30060103, "login_bonus_sheet_id":300601, "day_count":3, "reward_no":5028, "scene_type":2, "scene_args":"{\"episode_id\":30060103,\"myumon_ids\":[102,104]}"
+  },
+  {
+    "id":30060104, "login_bonus_sheet_id":300601, "day_count":4, "reward_no":5029, "scene_type":2, "scene_args":"{\"episode_id\":30060104,\"myumon_ids\":[131,134]}"
   }
 ]

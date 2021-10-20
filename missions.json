@@ -999,6 +999,24 @@
     "id":4000248, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"40", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/10/15 12:00:00 +09:00", "ended_at":"2021/10/19 11:59:59 +09:00"
   },
   {
+    "id":4000249, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"41", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/10/25 11:59:59 +09:00"
+  },
+  {
+    "id":4000251, "category":4, "reset_cycle":0, "title":"【ハロウィン】フリーライブでCotton Candy Diaryを5回プレイしよう", "detail":"フリーライブで楽曲『Cotton Candy Diary』を累計5回プレイしよう", "add_condition_mission_id":0, "sort_order":101, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9068],\"clear_status\":0}", "goal":5, "reward_no":14046, "button_type":0, "destination_kind":14, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/10/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000252, "category":4, "reset_cycle":0, "title":"【ハロウィン】すごろくイベントで1,000Pt以上獲得しよう", "detail":"すごろくイベントでイベントポイントを1,000以上獲得しよう", "add_condition_mission_id":0, "sort_order":102, "clear_condition_type":"event_point_count", "clear_condition_args":"[3006]", "goal":1000, "reward_no":14047, "button_type":0, "destination_kind":7, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/10/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000253, "category":4, "reset_cycle":0, "title":"【ハロウィン】フリーライブでラストジャッジを5回プレイしよう", "detail":"フリーライブで楽曲『ラストジャッジ』を累計5回プレイしよう", "add_condition_mission_id":0, "sort_order":103, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[113],\"clear_status\":0}", "goal":5, "reward_no":14048, "button_type":0, "destination_kind":14, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/10/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000254, "category":4, "reset_cycle":0, "title":"【ハロウィン】すごろくイベントで5,000Pt以上獲得しよう", "detail":"すごろくイベントでイベントポイントを5,000以上獲得しよう", "add_condition_mission_id":0, "sort_order":104, "clear_condition_type":"event_point_count", "clear_condition_args":"[3006]", "goal":5000, "reward_no":14049, "button_type":0, "destination_kind":7, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/10/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000255, "category":4, "reset_cycle":0, "title":"【ハロウィン】ハロウィン特別ミッションを全てクリアしよう", "detail":"ハロウィン特別ミッションを全てクリアしよう", "add_condition_mission_id":0, "sort_order":105, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000251,4000252,4000253,4000254]", "goal":4, "reward_no":14050, "button_type":0, "destination_kind":0, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/10/31 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
