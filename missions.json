@@ -1002,6 +1002,9 @@
     "id":4000249, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"41", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/10/25 11:59:59 +09:00"
   },
   {
+    "id":4000250, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"41", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/10/25 12:00:00 +09:00", "ended_at":"2021/10/29 11:59:59 +09:00"
+  },
+  {
     "id":4000251, "category":4, "reset_cycle":0, "title":"【ハロウィン】フリーライブでCotton Candy Diaryを5回プレイしよう", "detail":"フリーライブで楽曲『Cotton Candy Diary』を累計5回プレイしよう", "add_condition_mission_id":0, "sort_order":101, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9068],\"clear_status\":0}", "goal":5, "reward_no":14046, "button_type":0, "destination_kind":14, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/10/31 11:59:59 +09:00"
   },
   {
