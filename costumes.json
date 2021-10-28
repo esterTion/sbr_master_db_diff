@@ -330,6 +330,9 @@
     "id":6108, "myumon_basic_id":61, "name":"[祭といえば甚兵衛です。]ヤス", "description":"ヤスの特別な衣装です。", "asset_id":6108, "mini_asset_id":0, "icon_asset_id":610000, "parent_id":6100, "started_at":"2021/09/11 12:00:00 +09:00"
   },
   {
+    "id":6109, "myumon_basic_id":61, "name":"[なんなんだよこの世界は？うぜえ！] ヤス", "description":"ヤスの特別な衣装です。", "asset_id":6109, "mini_asset_id":6109, "icon_asset_id":614070, "parent_id":6100, "started_at":"2021/10/31 12:00:00 +09:00"
+  },
+  {
     "id":6200, "myumon_basic_id":62, "name":"[DOKONJOFINGER] ハッチン", "description":"ハッチンの衣装です。", "asset_id":6200, "mini_asset_id":6200, "icon_asset_id":621000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -501,6 +504,9 @@
     "id":8302, "myumon_basic_id":83, "name":"[負けたくない！僕だって男だもん！] リク", "description":"リクの特別な衣装です。", "asset_id":8302, "mini_asset_id":8302, "icon_asset_id":834010, "parent_id":8300, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
+    "id":8303, "myumon_basic_id":83, "name":"[おかしな僕らのおかしな星行進☆] リク", "description":"リクの特別な衣装です。", "asset_id":8303, "mini_asset_id":8303, "icon_asset_id":834020, "parent_id":8300, "started_at":"2021/10/31 12:00:00 +09:00"
+  },
+  {
     "id":9100, "myumon_basic_id":91, "name":"[ARCAREAFACT] チタン", "description":"チタンの衣装です。", "asset_id":9100, "mini_asset_id":9100, "icon_asset_id":911000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -568,6 +574,9 @@
   },
   {
     "id":10105, "myumon_basic_id":101, "name":"[アイドルだって…いつかはきっと♡] ロージア", "description":"ロージアの特別な衣装です。", "asset_id":10105, "mini_asset_id":10105, "icon_asset_id":1014040, "parent_id":10100, "started_at":"2021/06/22 12:00:00 +09:00"
+  },
+  {
+    "id":10106, "myumon_basic_id":101, "name":"[あっち？こっち？どっちかな～♡] ロージア", "description":"ロージアの特別な衣装です。", "asset_id":10106, "mini_asset_id":10106, "icon_asset_id":1014050, "parent_id":10100, "started_at":"2021/10/31 12:00:00 +09:00"
   },
   {
     "id":10200, "myumon_basic_id":102, "name":"[クリティクリスタ] ツキノ", "description":"ツキノの衣装です。", "asset_id":10200, "mini_asset_id":10200, "icon_asset_id":1021000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
@@ -777,6 +786,9 @@
     "id":15401, "myumon_basic_id":154, "name":"[ミライ型ミディドォル起動実験…。] ギリリ", "description":"ギリリの特別な衣装です。", "asset_id":15401, "mini_asset_id":15401, "icon_asset_id":1544000, "parent_id":15400, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
+    "id":15402, "myumon_basic_id":154, "name":"[見たまえ！TECH王国の力を！] ギリリ", "description":"ギリリの特別な衣装です。", "asset_id":15402, "mini_asset_id":15402, "icon_asset_id":1544010, "parent_id":15400, "started_at":"2021/10/31 12:00:00 +09:00"
+  },
+  {
     "id":18100, "myumon_basic_id":181, "name":"[Kuronoatmosphere] 919", "description":"919の衣装です。", "asset_id":18100, "mini_asset_id":18100, "icon_asset_id":1811000, "parent_id":0, "started_at":"2021/01/29 13:00:00 +09:00"
   },
   {
@@ -913,5 +925,8 @@
   },
   {
     "id":93700, "myumon_basic_id":937, "name":"[ハロウィンカニカマパーティー] シャッキー", "description":"シャッキーの衣装です。", "asset_id":0, "mini_asset_id":93701, "icon_asset_id":9374000, "parent_id":0, "started_at":"2021/10/21 12:00:00 +09:00"
+  },
+  {
+    "id":93800, "myumon_basic_id":938, "name":"[休日のシャッキー＆] ゲ・フロッチ", "description":"ゲ・フロッチの衣装です。", "asset_id":0, "mini_asset_id":93801, "icon_asset_id":9383000, "parent_id":0, "started_at":"2021/10/31 12:00:00 +09:00"
   }
 ]
