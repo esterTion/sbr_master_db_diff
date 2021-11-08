@@ -1089,6 +1089,9 @@
     "id":4000273, "category":4, "reset_cycle":0, "title":"【RS強化応援】レゾナンスソウル強化応援ミッションを全てクリアしよう", "detail":"レゾナンスソウル強化応援ミッションの内容を全てクリアしよう", "add_condition_mission_id":0, "sort_order":216, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000258,4000259,4000260,4000261,4000262,4000263,4000264,4000265,4000266,4000267,4000268,4000269,4000270,4000271,4000272]", "goal":15, "reward_no":14059, "button_type":0, "destination_kind":0, "started_at":"2021/10/31 12:00:00 +09:00", "ended_at":"2021/11/11 11:59:59 +09:00"
   },
   {
+    "id":4000274, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"43", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/11/08 12:00:00 +09:00", "ended_at":"2021/11/11 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
