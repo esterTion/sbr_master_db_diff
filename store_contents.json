@@ -1584,6 +1584,12 @@
     "id":2290, "category":2, "content_type":"StorePack", "content_id":299, "content_quantity":1, "cost_item_id":60002, "cost_quantity":2100, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":277, "comment":"", "started_at":"2021/11/08 12:00:00 +09:00", "ended_at":"2021/11/11 11:59:59 +09:00", "weeks":""
   },
   {
+    "id":2291, "category":2, "content_type":"StorePack", "content_id":300, "content_quantity":1, "cost_item_id":60002, "cost_quantity":1500, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":280, "comment":"", "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00", "weeks":""
+  },
+  {
+    "id":2292, "category":2, "content_type":"StorePack", "content_id":301, "content_quantity":1, "cost_item_id":60002, "cost_quantity":3000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":281, "comment":"", "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00", "weeks":""
+  },
+  {
     "id":3000, "category":3, "content_type":"AvatarItem", "content_id":10002, "content_quantity":1, "cost_item_id":50001, "cost_quantity":15000, "buy_limit_type":1, "buy_limit":1, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":39, "comment":"", "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":""
   },
   {
@@ -2395,6 +2401,9 @@
   },
   {
     "id":7167, "category":7, "content_type":"Item", "content_id":182915, "content_quantity":1, "cost_item_id":70001, "cost_quantity":100, "buy_limit_type":4, "buy_limit":5, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":133, "comment":"", "started_at":"2021/06/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":""
+  },
+  {
+    "id":7168, "category":7, "content_type":"Item", "content_id":182939, "content_quantity":1, "cost_item_id":70001, "cost_quantity":100, "buy_limit_type":4, "buy_limit":5, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":132, "comment":"", "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":""
   },
   {
     "id":8000, "category":8, "content_type":"Item", "content_id":40001, "content_quantity":1, "cost_item_id":80001, "cost_quantity":500, "buy_limit_type":4, "buy_limit":3, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":6, "comment":"", "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":""
@@ -6319,6 +6328,9 @@
   },
   {
     "id":28167, "category":8, "content_type":"Item", "content_id":182915, "content_quantity":1, "cost_item_id":80001, "cost_quantity":100, "buy_limit_type":2, "buy_limit":10, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":95, "comment":"金曜限定！", "started_at":"2021/06/25 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":"金"
+  },
+  {
+    "id":28168, "category":8, "content_type":"Item", "content_id":182939, "content_quantity":1, "cost_item_id":80001, "cost_quantity":100, "buy_limit_type":2, "buy_limit":10, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":94, "comment":"金曜限定！", "started_at":"2021/11/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":"金"
   },
   {
     "id":901904, "category":1, "content_type":"Item", "content_id":181091, "content_quantity":1, "cost_item_id":50001, "cost_quantity":500, "buy_limit_type":1, "buy_limit":100, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":1499, "comment":"金曜限定！", "started_at":"2021/03/26 12:00:00 +09:00", "ended_at":"2021/03/27 11:59:59 +09:00", "weeks":""

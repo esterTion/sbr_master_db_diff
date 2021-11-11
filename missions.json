@@ -1092,6 +1092,45 @@
     "id":4000274, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"43", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/11/08 12:00:00 +09:00", "ended_at":"2021/11/11 11:59:59 +09:00"
   },
   {
+    "id":4000275, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"44", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/15 11:59:59 +09:00"
+  },
+  {
+    "id":4000277, "category":4, "reset_cycle":0, "title":"【チッティ】フリーライブを100回プレイしよう", "detail":"フリーライブを100回プレイしよう", "add_condition_mission_id":0, "sort_order":301, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":100, "reward_no":14060, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000278, "category":4, "reset_cycle":0, "title":"【チッティ】フリーライブでローテンションボーイを3回プレイしよう", "detail":"フリーライブで楽曲『ローテンションボーイ』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":302, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9027],\"clear_status\":0}", "goal":3, "reward_no":14061, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000279, "category":4, "reset_cycle":0, "title":"【チッティ】フリーライブで線幸花火を3回プレイしよう", "detail":"フリーライブで楽曲『線幸花火』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":303, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9065],\"clear_status\":0}", "goal":3, "reward_no":14062, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000280, "category":4, "reset_cycle":0, "title":"【チッティ】フリーライブでイノセントチューンを3回プレイしよう", "detail":"フリーライブで楽曲『イノセントチューン』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":304, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9056],\"clear_status\":0}", "goal":3, "reward_no":14061, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000281, "category":4, "reset_cycle":0, "title":"【チッティ】フリーライブでカケヒキモードを3回プレイしよう", "detail":"フリーライブで楽曲『カケヒキモード』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":305, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9045],\"clear_status\":0}", "goal":3, "reward_no":14062, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000282, "category":4, "reset_cycle":0, "title":"【チッティ】フリーライブでミスター・キャンディを3回プレイしよう", "detail":"フリーライブで楽曲『ミスター・キャンディ』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":306, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9069],\"clear_status\":0}", "goal":3, "reward_no":14063, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000283, "category":4, "reset_cycle":0, "title":"【チッティ】対バンに1回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":307, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14064, "button_type":0, "destination_kind":1, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000284, "category":4, "reset_cycle":0, "title":"【チッティ】フリーライブで難易度『EXPERT』をクリアしよう", "detail":"ライブ ＞ フリーライブ から難易度『EXPERT』を、どの楽曲でもいいのでクリアしよう", "add_condition_mission_id":0, "sort_order":308, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"grade\":4,\"clear_status\":1}", "goal":1, "reward_no":14064, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000285, "category":4, "reset_cycle":0, "title":"【チッティ】フリーライブで難易度『EXPERT』を5回クリアしよう", "detail":"ライブ ＞ フリーライブ から難易度『EXPERT』を、どの楽曲でもいいので5回クリアしよう", "add_condition_mission_id":0, "sort_order":309, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"grade\":4,\"clear_status\":1}", "goal":5, "reward_no":14064, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000286, "category":4, "reset_cycle":0, "title":"【チッティ】マイタウンから、累計100万サウンドル獲得しよう", "detail":"マイタウンから、累計100万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":310, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":1000000, "reward_no":14065, "button_type":0, "destination_kind":3, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000287, "category":4, "reset_cycle":0, "title":"【チッティ】ミディスタグラムに投稿しよう！", "detail":"-", "add_condition_mission_id":0, "sort_order":311, "clear_condition_type":"unconditional", "clear_condition_args":"0", "goal":1, "reward_no":14062, "button_type":1, "destination_kind":0, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
+    "id":4000288, "category":4, "reset_cycle":0, "title":"【チッティ】チッティ参戦記念ミッションを全てクリアしよう", "detail":"チッティ参戦記念ミッションの内容を全てクリアしよう", "add_condition_mission_id":0, "sort_order":312, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000277,4000278,4000279,4000280,4000281,4000282,4000283,4000284,4000285,4000286,4000287]", "goal":11, "reward_no":14066, "button_type":0, "destination_kind":0, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {

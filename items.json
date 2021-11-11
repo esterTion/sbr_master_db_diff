@@ -216,6 +216,9 @@
     "id":40060, "category":4, "name":"アリリリス2ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40061, "category":4, "name":"チッティガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -268,6 +271,9 @@
   },
   {
     "id":41018, "category":4, "name":"2021年11月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41019, "category":4, "name":"チッティorはっくん確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -502,6 +508,9 @@
   },
   {
     "id":120060, "category":12, "name":"アリリリス2ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120061, "category":12, "name":"チッティガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
@@ -859,6 +868,9 @@
   },
   {
     "id":182915, "category":18, "name":"ミックススフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。ミックスのレゾナンスソウル強化に必要な素材です。"
+  },
+  {
+    "id":182939, "category":18, "name":"チッティスフィア", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたスフィア。チッティのレゾナンスソウル強化に必要な素材です。"
   },
   {
     "id":190001, "category":19, "name":"ダクモンコイコイ", "quantity_max":9999, "ex_params":"{}", "description":"ダークモンスターを引きよせる匂いがする玉。使用するとダークモンスターを呼ぶことができます。"

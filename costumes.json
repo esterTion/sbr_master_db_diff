@@ -729,6 +729,9 @@
     "id":13400, "myumon_basic_id":134, "name":"[ウワサノペタルズ] はっくん", "description":"はっくんの衣装です。", "asset_id":13400, "mini_asset_id":13400, "icon_asset_id":1341000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
+    "id":13401, "myumon_basic_id":134, "name":"[本当のイケメンに、俺はなる!!] はっくん", "description":"はっくんの特別な衣装です。", "asset_id":13401, "mini_asset_id":13401, "icon_asset_id":1344000, "parent_id":13400, "started_at":"2021/11/11 13:00:00 +09:00"
+  },
+  {
     "id":14100, "myumon_basic_id":141, "name":"[忍迅雷音] 嵐", "description":"嵐の衣装です。", "asset_id":14100, "mini_asset_id":14100, "icon_asset_id":1411000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -928,5 +931,11 @@
   },
   {
     "id":93800, "myumon_basic_id":938, "name":"[休日のシャッキー＆] ゲ・フロッチ", "description":"ゲ・フロッチの衣装です。", "asset_id":0, "mini_asset_id":93801, "icon_asset_id":9383000, "parent_id":0, "started_at":"2021/10/31 12:00:00 +09:00"
+  },
+  {
+    "id":93900, "myumon_basic_id":939, "name":"[すたっどばんぎゃっしゅ]チッティ", "description":"チッティの衣装です。", "asset_id":93900, "mini_asset_id":93900, "icon_asset_id":9391000, "parent_id":0, "started_at":"2021/11/11 13:00:00 +09:00"
+  },
+  {
+    "id":93901, "myumon_basic_id":939, "name":"[OVERDRIVEなハプニング？] チッティ", "description":"チッティの特別な衣装です。", "asset_id":93901, "mini_asset_id":93901, "icon_asset_id":9394000, "parent_id":93900, "started_at":"2021/11/11 13:00:00 +09:00"
   }
 ]
