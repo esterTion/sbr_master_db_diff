@@ -1095,6 +1095,9 @@
     "id":4000275, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"44", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/15 11:59:59 +09:00"
   },
   {
+    "id":4000276, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"44", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/11/15 12:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
+  },
+  {
     "id":4000277, "category":4, "reset_cycle":0, "title":"【チッティ】フリーライブを100回プレイしよう", "detail":"フリーライブを100回プレイしよう", "add_condition_mission_id":0, "sort_order":301, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":100, "reward_no":14060, "button_type":0, "destination_kind":14, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/11/19 11:59:59 +09:00"
   },
   {
