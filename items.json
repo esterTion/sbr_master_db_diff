@@ -219,6 +219,9 @@
     "id":40061, "category":4, "name":"チッティガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40062, "category":4, "name":"応援団長ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -511,6 +514,12 @@
   },
   {
     "id":120061, "category":12, "name":"チッティガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120062, "category":12, "name":"応援団長ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120063, "category":12, "name":"復刻ステージ.pt①", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
