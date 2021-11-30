@@ -24,6 +24,9 @@
     "id":1107, "myumon_basic_id":11, "name":"[ましゅっましゅな水着だよ♪]ほわん", "description":"ほわんの特別な衣装です。", "asset_id":1107, "mini_asset_id":0, "icon_asset_id":110000, "parent_id":1100, "started_at":"2021/09/11 12:00:00 +09:00"
   },
   {
+    "id":1108, "myumon_basic_id":11, "name":"[よーし、うちについてきて！] ほわん", "description":"ほわんの特別な衣装です。", "asset_id":1108, "mini_asset_id":1107, "icon_asset_id":114070, "parent_id":1100, "started_at":"2021/11/30 13:00:00 +09:00"
+  },
+  {
     "id":1200, "myumon_basic_id":12, "name":"[Mashumairesh!!] マシマヒメコ", "description":"マシマヒメコの衣装です。", "asset_id":1200, "mini_asset_id":1200, "icon_asset_id":121000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -474,6 +477,9 @@
     "id":7406, "myumon_basic_id":74, "name":"[また……独りになっちまったな。] ロム", "description":"ロムの特別な衣装です。", "asset_id":7405, "mini_asset_id":7406, "icon_asset_id":744040, "parent_id":7400, "started_at":"2021/05/31 12:00:00 +09:00"
   },
   {
+    "id":7407, "myumon_basic_id":74, "name":"[ノンストップ！ソリ乗り社会人・冬] ロム", "description":"ロムの特別な衣装です。", "asset_id":7406, "mini_asset_id":7407, "icon_asset_id":744050, "parent_id":7400, "started_at":"2021/11/30 13:00:00 +09:00"
+  },
+  {
     "id":8100, "myumon_basic_id":81, "name":"[Trichronika] シュウ☆ゾー", "description":"シュウ☆ゾーの衣装です。", "asset_id":8100, "mini_asset_id":8100, "icon_asset_id":811000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -544,6 +550,9 @@
   },
   {
     "id":9203, "myumon_basic_id":92, "name":"[仕上げてみせるぜ。最高に最上に！] オリオン", "description":"オリオンの特別な衣装です。", "asset_id":9202, "mini_asset_id":9203, "icon_asset_id":924010, "parent_id":9200, "started_at":"2020/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":9204, "myumon_basic_id":92, "name":"[俺には判る、庶民の冬鍋体験記] オリオン", "description":"オリオンの特別な衣装です。", "asset_id":9204, "mini_asset_id":9204, "icon_asset_id":924030, "parent_id":9200, "started_at":"2021/11/30 13:00:00 +09:00"
   },
   {
     "id":9300, "myumon_basic_id":93, "name":"[ARCAREAFACT] セレン", "description":"セレンの衣装です。", "asset_id":9300, "mini_asset_id":9300, "icon_asset_id":931000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
@@ -715,6 +724,9 @@
   },
   {
     "id":13103, "myumon_basic_id":131, "name":"[月里みかんとこたつ、最強だべ～♪] しばりん", "description":"しばりんの特別な衣装です。", "asset_id":0, "mini_asset_id":13103, "icon_asset_id":1313010, "parent_id":13100, "started_at":"2021/01/22 12:00:00 +09:00"
+  },
+  {
+    "id":13104, "myumon_basic_id":131, "name":"[ヤッホー！真っ白な朝だべーー！！] しばりん", "description":"しばりんの特別な衣装です。", "asset_id":13102, "mini_asset_id":13104, "icon_asset_id":1314010, "parent_id":13100, "started_at":"2021/11/30 13:00:00 +09:00"
   },
   {
     "id":13200, "myumon_basic_id":132, "name":"[ウワサノペタルズ] ぽこえ", "description":"ぽこえの衣装です。", "asset_id":13200, "mini_asset_id":13200, "icon_asset_id":1321000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
@@ -943,5 +955,17 @@
   },
   {
     "id":93901, "myumon_basic_id":939, "name":"[OVERDRIVEなハプニング？] チッティ", "description":"チッティの特別な衣装です。", "asset_id":93901, "mini_asset_id":93901, "icon_asset_id":9394000, "parent_id":93900, "started_at":"2021/11/11 13:00:00 +09:00"
+  },
+  {
+    "id":94100, "myumon_basic_id":941, "name":"[デモンズベノム・ラース] デモンマングー", "description":"デモンマングーの衣装です。", "asset_id":0, "mini_asset_id":94101, "icon_asset_id":9414000, "parent_id":0, "started_at":"2021/11/30 13:00:00 +09:00"
+  },
+  {
+    "id":94200, "myumon_basic_id":942, "name":"[デモンズベノム・ラース] デモンスモッグ", "description":"デモンスモッグの衣装です。", "asset_id":0, "mini_asset_id":94201, "icon_asset_id":9424000, "parent_id":0, "started_at":"2021/11/30 13:00:00 +09:00"
+  },
+  {
+    "id":94300, "myumon_basic_id":943, "name":"[デモンズベノム・ラース] タスマニアンデモン", "description":"タスマニアンデモンの衣装です。", "asset_id":0, "mini_asset_id":94301, "icon_asset_id":9434000, "parent_id":0, "started_at":"2021/11/30 13:00:00 +09:00"
+  },
+  {
+    "id":94400, "myumon_basic_id":944, "name":"[デモンズベノム・ラース] デモンマミー", "description":"デモンマミーの衣装です。", "asset_id":0, "mini_asset_id":94401, "icon_asset_id":9444000, "parent_id":0, "started_at":"2021/11/30 13:00:00 +09:00"
   }
 ]
