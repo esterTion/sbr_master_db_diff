@@ -393,6 +393,18 @@
     "id":201404, "name":"メカメイプル", "stamina_cost":10, "summon_cost":0, "max_hp":6000000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":24, "limit_attack_count":0, "next_encounter_no":0, "win_reward_no":3522, "win_artist_exp":100000, "win_myumon_exp":100000, "win_event_point":300000, "kind":4, "sort_order":201404, "asset_id":1001, "engaged_asset_id":1
   },
   {
+    "id":201501, "name":"ダークドラグーン", "stamina_cost":10, "summon_cost":1, "max_hp":60000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":0, "next_encounter_no":1601, "win_reward_no":3525, "win_artist_exp":4000, "win_myumon_exp":4000, "win_event_point":1500, "kind":1, "sort_order":201501, "asset_id":1, "engaged_asset_id":1
+  },
+  {
+    "id":201502, "name":"ダークドラグーン", "stamina_cost":10, "summon_cost":2, "max_hp":200000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":0, "next_encounter_no":1602, "win_reward_no":3526, "win_artist_exp":14000, "win_myumon_exp":14000, "win_event_point":6000, "kind":1, "sort_order":201502, "asset_id":1, "engaged_asset_id":1
+  },
+  {
+    "id":201503, "name":"ダークドラグーン", "stamina_cost":10, "summon_cost":3, "max_hp":600000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":0, "next_encounter_no":1603, "win_reward_no":3527, "win_artist_exp":40000, "win_myumon_exp":40000, "win_event_point":18000, "kind":1, "sort_order":201503, "asset_id":1, "engaged_asset_id":1
+  },
+  {
+    "id":201504, "name":"ダークドラグーン・サンタ", "stamina_cost":10, "summon_cost":0, "max_hp":6000000, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":24, "limit_attack_count":0, "next_encounter_no":0, "win_reward_no":3528, "win_artist_exp":100000, "win_myumon_exp":100000, "win_event_point":300000, "kind":1, "sort_order":201504, "asset_id":102, "engaged_asset_id":1
+  },
+  {
     "id":300101, "name":"メカメイプル", "stamina_cost":10, "summon_cost":0, "max_hp":13969, "damage_rate":1000, "can_support":true, "can_publish":true, "limit_hours":3, "limit_attack_count":10, "next_encounter_no":0, "win_reward_no":3458, "win_artist_exp":900, "win_myumon_exp":900, "win_event_point":0, "kind":4, "sort_order":300101, "asset_id":1001, "engaged_asset_id":1
   },
   {
