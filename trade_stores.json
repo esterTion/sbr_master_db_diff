@@ -66,7 +66,7 @@
     "id":22, "name":"【Xマス3】ガチャポイント交換所", "sort_order":21, "description":"【Xマス3】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2093, "event_id":0, "off_time_trade":true, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2021/01/12 11:59:59 +09:00"
   },
   {
-    "id":23, "name":"クリスマスプレゼントポイント交換所", "sort_order":64998, "description":"クリスマスプレゼントポイントをここだけの特別なラインナップと交換できます", "category":3, "gacha_id":3, "event_id":0, "off_time_trade":true, "started_at":"2020/12/24 11:00:00 +09:00", "ended_at":"2021/01/08 11:59:59 +09:00"
+    "id":23, "name":"クリスマスプレゼントポイント交換所", "sort_order":65002, "description":"未使用", "category":3, "gacha_id":3, "event_id":0, "off_time_trade":true, "started_at":"2021/12/13 13:00:00 +09:00", "ended_at":"2022/01/04 11:59:59 +09:00"
   },
   {
     "id":24, "name":"SSRセレクト交換所", "sort_order":64999, "description":"SSRセレクトポイントをここだけの特別なラインナップと交換できます", "category":1, "gacha_id":4, "event_id":0, "off_time_trade":true, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
@@ -241,5 +241,8 @@
   },
   {
     "id":81, "name":"復刻ステージ.pt②交換所", "sort_order":67, "description":"未使用", "category":2, "gacha_id":2245, "event_id":0, "off_time_trade":true, "started_at":"2021/11/30 13:00:00 +09:00", "ended_at":"2021/12/27 11:59:59 +09:00"
+  },
+  {
+    "id":82, "name":"ケーキはいかがガチャポイント交換所", "sort_order":68, "description":"未使用", "category":2, "gacha_id":2250, "event_id":0, "off_time_trade":true, "started_at":"2021/12/13 13:00:00 +09:00", "ended_at":"2022/01/04 11:59:59 +09:00"
   }
 ]

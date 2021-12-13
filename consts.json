@@ -393,6 +393,24 @@
     "id":50905, "category":"MusicTouch", "name":"Perfect", "value":"4"
   },
   {
+    "id":51000, "category":"MusicExpRate", "name":"Divide", "value":"10000"
+  },
+  {
+    "id":51100, "category":"MusicGradeExpRate", "name":"Easy", "value":"10"
+  },
+  {
+    "id":51101, "category":"MusicGradeExpRate", "name":"Normal", "value":"15"
+  },
+  {
+    "id":51102, "category":"MusicGradeExpRate", "name":"Hard", "value":"20"
+  },
+  {
+    "id":51103, "category":"MusicGradeExpRate", "name":"Expert", "value":"40"
+  },
+  {
+    "id":51104, "category":"MusicGradeExpRate", "name":"Lunatic", "value":"50"
+  },
+  {
     "id":60000, "category":"Rarity", "name":"R", "value":"1"
   },
   {
@@ -1885,5 +1903,14 @@
   },
   {
     "id":400205, "category":"BandBattlePointCalc", "name":"InferiorBonusMax", "value":"4"
+  },
+  {
+    "id":410100, "category":"MusicChallengeEffectType", "name":"None", "value":"0"
+  },
+  {
+    "id":410102, "category":"MusicChallengeEffectType", "name":"Reward", "value":"2"
+  },
+  {
+    "id":410103, "category":"MusicChallengeEffectType", "name":"RewardPlus", "value":"3"
   }
 ]
