@@ -1,561 +1,564 @@
 [
   {
-    "id":101, "name":"ヒロメネス", "name_hiragana":"ひろめねす", "artist_id":1, "special_artist_id":0, "jacket_image_id":101, "sort_order":101, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":187, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":101, "name":"ヒロメネス", "name_hiragana":"ひろめねす", "artist_id":1, "special_artist_id":0, "jacket_image_id":101, "sort_order":101, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":187, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":102, "name":"エールアンドレスポンス", "name_hiragana":"えーるあんどれすぽんす", "artist_id":1, "special_artist_id":0, "jacket_image_id":102, "sort_order":102, "category":1, "fever_started_at":30000, "music_requirement_id":102, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":188, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":102, "name":"エールアンドレスポンス", "name_hiragana":"えーるあんどれすぽんす", "artist_id":1, "special_artist_id":0, "jacket_image_id":102, "sort_order":102, "category":1, "fever_started_at":30000, "music_requirement_id":102, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":188, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":103, "name":"プラットホーム", "name_hiragana":"ぷらっとふぉーむ", "artist_id":1, "special_artist_id":0, "jacket_image_id":103, "sort_order":103, "category":1, "fever_started_at":30000, "music_requirement_id":103, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":103, "name":"プラットホーム", "name_hiragana":"ぷらっとふぉーむ", "artist_id":1, "special_artist_id":0, "jacket_image_id":103, "sort_order":103, "category":1, "fever_started_at":30000, "music_requirement_id":103, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":104, "name":"No problem !!", "name_hiragana":"のーぷろぶれむ", "artist_id":1, "special_artist_id":0, "jacket_image_id":104, "sort_order":104, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/08/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":135, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":104, "name":"No problem !!", "name_hiragana":"のーぷろぶれむ", "artist_id":1, "special_artist_id":0, "jacket_image_id":104, "sort_order":104, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/08/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":135, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":105, "name":"キミのラプソディー", "name_hiragana":"きみのらぷそでぃー", "artist_id":1, "special_artist_id":0, "jacket_image_id":105, "sort_order":105, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":105, "name":"キミのラプソディー", "name_hiragana":"きみのらぷそでぃー", "artist_id":1, "special_artist_id":0, "jacket_image_id":105, "sort_order":105, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":106, "name":"グッドバイサンキュー！", "name_hiragana":"ぐっどばいさんきゅー", "artist_id":1, "special_artist_id":0, "jacket_image_id":106, "sort_order":106, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/16 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":106, "name":"グッドバイサンキュー！", "name_hiragana":"ぐっどばいさんきゅー", "artist_id":1, "special_artist_id":0, "jacket_image_id":106, "sort_order":106, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/16 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":107, "name":"Arco Color", "name_hiragana":"あーこーからー", "artist_id":1, "special_artist_id":0, "jacket_image_id":107, "sort_order":107, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/16 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":121, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":107, "name":"Arco Color", "name_hiragana":"あーこーからー", "artist_id":1, "special_artist_id":0, "jacket_image_id":107, "sort_order":107, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/16 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":121, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":108, "name":"惑星のダンスフロア", "name_hiragana":"わくせいのだんすふろあ", "artist_id":1, "special_artist_id":0, "jacket_image_id":108, "sort_order":108, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":108, "name":"惑星のダンスフロア", "name_hiragana":"わくせいのだんすふろあ", "artist_id":1, "special_artist_id":0, "jacket_image_id":108, "sort_order":108, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":109, "name":"シネマティックメモワール", "name_hiragana":"しねまてぃっくめもわーる", "artist_id":1, "special_artist_id":0, "jacket_image_id":109, "sort_order":109, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":130, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":109, "name":"シネマティックメモワール", "name_hiragana":"しねまてぃっくめもわーる", "artist_id":1, "special_artist_id":0, "jacket_image_id":109, "sort_order":109, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":130, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":110, "name":"たからものはきみと", "name_hiragana":"たからものはきみと", "artist_id":1, "special_artist_id":0, "jacket_image_id":110, "sort_order":110, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/04/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":108, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":110, "name":"たからものはきみと", "name_hiragana":"たからものはきみと", "artist_id":1, "special_artist_id":0, "jacket_image_id":110, "sort_order":110, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/04/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":108, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":111, "name":"Rainy Girl", "name_hiragana":"れいにーがーる", "artist_id":1, "special_artist_id":0, "jacket_image_id":111, "sort_order":111, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/04/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":111, "name":"Rainy Girl", "name_hiragana":"れいにーがーる", "artist_id":1, "special_artist_id":0, "jacket_image_id":111, "sort_order":111, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/04/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":112, "name":"シンデレラストーリー", "name_hiragana":"しんでれらすとーりー", "artist_id":1, "special_artist_id":0, "jacket_image_id":112, "sort_order":112, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/05/07 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":112, "name":"シンデレラストーリー", "name_hiragana":"しんでれらすとーりー", "artist_id":1, "special_artist_id":0, "jacket_image_id":112, "sort_order":112, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/05/07 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":113, "name":"ラストジャッジ", "name_hiragana":"らすとじゃっじ", "artist_id":1, "special_artist_id":0, "jacket_image_id":113, "sort_order":113, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/05/07 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":150, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":113, "name":"ラストジャッジ", "name_hiragana":"らすとじゃっじ", "artist_id":1, "special_artist_id":0, "jacket_image_id":113, "sort_order":113, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/05/07 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":150, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":114, "name":"ブライトワールズノベル", "name_hiragana":"ぶらいとわーるずのべる", "artist_id":1, "special_artist_id":0, "jacket_image_id":114, "sort_order":114, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":114, "name":"ブライトワールズノベル", "name_hiragana":"ぶらいとわーるずのべる", "artist_id":1, "special_artist_id":0, "jacket_image_id":114, "sort_order":114, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":115, "name":"まっしろスタートライン", "name_hiragana":"まっしろすたーとらいん", "artist_id":1, "special_artist_id":0, "jacket_image_id":115, "sort_order":115, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":177, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":115, "name":"まっしろスタートライン", "name_hiragana":"まっしろすたーとらいん", "artist_id":1, "special_artist_id":0, "jacket_image_id":115, "sort_order":115, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":177, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":116, "name":"星空ライトストーリー", "name_hiragana":"ほしぞららいとすとーりー", "artist_id":1, "special_artist_id":0, "jacket_image_id":116, "sort_order":116, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/14 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":164, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":116, "name":"星空ライトストーリー", "name_hiragana":"ほしぞららいとすとーりー", "artist_id":1, "special_artist_id":0, "jacket_image_id":116, "sort_order":116, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/14 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":164, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":117, "name":"スピードアップ", "name_hiragana":"すぴーどあっぷ", "artist_id":1, "special_artist_id":0, "jacket_image_id":117, "sort_order":117, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":117, "name":"スピードアップ", "name_hiragana":"すぴーどあっぷ", "artist_id":1, "special_artist_id":0, "jacket_image_id":117, "sort_order":117, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":118, "name":"てのひら", "name_hiragana":"てのひら", "artist_id":1, "special_artist_id":0, "jacket_image_id":118, "sort_order":118, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/02/22 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":118, "name":"てのひら", "name_hiragana":"てのひら", "artist_id":1, "special_artist_id":0, "jacket_image_id":118, "sort_order":118, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/02/22 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":119, "name":"アノカナタリウム", "name_hiragana":"あのかなたりうむ", "artist_id":1, "special_artist_id":0, "jacket_image_id":119, "sort_order":119, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":145, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":119, "name":"アノカナタリウム", "name_hiragana":"あのかなたりうむ", "artist_id":1, "special_artist_id":0, "jacket_image_id":119, "sort_order":119, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":145, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":120, "name":"魔法のアイコトバ", "name_hiragana":"まほうのあいことば", "artist_id":1, "special_artist_id":0, "jacket_image_id":120, "sort_order":120, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/04/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":120, "name":"魔法のアイコトバ", "name_hiragana":"まほうのあいことば", "artist_id":1, "special_artist_id":0, "jacket_image_id":120, "sort_order":120, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/04/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":121, "name":"トリガーロック", "name_hiragana":"とりがーろっく", "artist_id":1, "special_artist_id":0, "jacket_image_id":121, "sort_order":121, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/07/16 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":121, "name":"トリガーロック", "name_hiragana":"とりがーろっく", "artist_id":1, "special_artist_id":0, "jacket_image_id":121, "sort_order":121, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/07/16 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":122, "name":"キミのラプソディー (DJ DEVILMINTKIRYU Remix)", "name_hiragana":"きみのらぷそでぃーでぃーじぇーでびるみんときりゅうりみっくす", "artist_id":1, "special_artist_id":0, "jacket_image_id":122, "sort_order":122, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/08/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":140, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":122, "name":"キミのラプソディー (DJ DEVILMINTKIRYU Remix)", "name_hiragana":"きみのらぷそでぃーでぃーじぇーでびるみんときりゅうりみっくす", "artist_id":1, "special_artist_id":0, "jacket_image_id":122, "sort_order":122, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/08/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":140, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":201, "name":"未来ウォンテッド", "name_hiragana":"みらいうぉんてっど", "artist_id":2, "special_artist_id":0, "jacket_image_id":201, "sort_order":201, "category":1, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":201, "name":"未来ウォンテッド", "name_hiragana":"みらいうぉんてっど", "artist_id":2, "special_artist_id":0, "jacket_image_id":201, "sort_order":201, "category":1, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":202, "name":"Favorite Number", "name_hiragana":"ふぇいばりっとなんばー", "artist_id":2, "special_artist_id":0, "jacket_image_id":202, "sort_order":202, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":202, "name":"Favorite Number", "name_hiragana":"ふぇいばりっとなんばー", "artist_id":2, "special_artist_id":0, "jacket_image_id":202, "sort_order":202, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":203, "name":"青春はNon-Stop!", "name_hiragana":"せいしゅんはのんすとっぷ", "artist_id":2, "special_artist_id":0, "jacket_image_id":203, "sort_order":203, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":203, "name":"青春はNon-Stop!", "name_hiragana":"せいしゅんはのんすとっぷ", "artist_id":2, "special_artist_id":0, "jacket_image_id":203, "sort_order":203, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":204, "name":"流星ドリームライン", "name_hiragana":"りゅうせいどりーむらいん", "artist_id":2, "special_artist_id":0, "jacket_image_id":204, "sort_order":204, "category":3, "fever_started_at":30000, "music_requirement_id":204, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":171, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":204, "name":"流星ドリームライン", "name_hiragana":"りゅうせいどりーむらいん", "artist_id":2, "special_artist_id":0, "jacket_image_id":204, "sort_order":204, "category":3, "fever_started_at":30000, "music_requirement_id":204, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":171, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":205, "name":"My Song is YOU !!", "name_hiragana":"まいそんぐいずゆー", "artist_id":2, "special_artist_id":0, "jacket_image_id":205, "sort_order":205, "category":2, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2021/07/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":205, "name":"My Song is YOU !!", "name_hiragana":"まいそんぐいずゆー", "artist_id":2, "special_artist_id":0, "jacket_image_id":205, "sort_order":205, "category":2, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2021/07/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":206, "name":"檸檬と蜂蜜", "name_hiragana":"れもんとはちみつ", "artist_id":2, "special_artist_id":0, "jacket_image_id":206, "sort_order":206, "category":3, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":206, "name":"檸檬と蜂蜜", "name_hiragana":"れもんとはちみつ", "artist_id":2, "special_artist_id":0, "jacket_image_id":206, "sort_order":206, "category":3, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":207, "name":"弱虫アマノジャク", "name_hiragana":"よわむしあまのじゃく", "artist_id":2, "special_artist_id":0, "jacket_image_id":207, "sort_order":207, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":207, "name":"弱虫アマノジャク", "name_hiragana":"よわむしあまのじゃく", "artist_id":2, "special_artist_id":0, "jacket_image_id":207, "sort_order":207, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":209, "name":"Have a nice MUSIC!!", "name_hiragana":"はぶあーないすみゅーじっく", "artist_id":2, "special_artist_id":0, "jacket_image_id":209, "sort_order":209, "category":2, "fever_started_at":0, "music_requirement_id":209, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":209, "name":"Have a nice MUSIC!!", "name_hiragana":"はぶあーないすみゅーじっく", "artist_id":2, "special_artist_id":0, "jacket_image_id":209, "sort_order":209, "category":2, "fever_started_at":0, "music_requirement_id":209, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":210, "name":"ハートをRock!!", "name_hiragana":"はーとをろっく", "artist_id":2, "special_artist_id":0, "jacket_image_id":210, "sort_order":210, "category":1, "fever_started_at":0, "music_requirement_id":210, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":218, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":210, "name":"ハートをRock!!", "name_hiragana":"はーとをろっく", "artist_id":2, "special_artist_id":0, "jacket_image_id":210, "sort_order":210, "category":1, "fever_started_at":0, "music_requirement_id":210, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":218, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":211, "name":"ドレミファPARTY", "name_hiragana":"どれみふぁぱーてぃー", "artist_id":2, "special_artist_id":0, "jacket_image_id":211, "sort_order":211, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":211, "name":"ドレミファPARTY", "name_hiragana":"どれみふぁぱーてぃー", "artist_id":2, "special_artist_id":0, "jacket_image_id":211, "sort_order":211, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":212, "name":"オモイノシルシ", "name_hiragana":"おもいのしるし", "artist_id":2, "special_artist_id":0, "jacket_image_id":212, "sort_order":212, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":212, "name":"オモイノシルシ", "name_hiragana":"おもいのしるし", "artist_id":2, "special_artist_id":0, "jacket_image_id":212, "sort_order":212, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":213, "name":"ボクらの音色", "name_hiragana":"ぼくらのねいろ", "artist_id":2, "special_artist_id":0, "jacket_image_id":213, "sort_order":213, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":181, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":213, "name":"ボクらの音色", "name_hiragana":"ぼくらのねいろ", "artist_id":2, "special_artist_id":0, "jacket_image_id":213, "sort_order":213, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":181, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":214, "name":"青春はOn-Going！", "name_hiragana":"せいしゅんはおんごーいんぐ", "artist_id":2, "special_artist_id":0, "jacket_image_id":214, "sort_order":214, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":214, "name":"青春はOn-Going！", "name_hiragana":"せいしゅんはおんごーいんぐ", "artist_id":2, "special_artist_id":0, "jacket_image_id":214, "sort_order":214, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":215, "name":"Can't stop DAISUKI !!", "name_hiragana":"きゃんとすとっぷだいすき", "artist_id":2, "special_artist_id":0, "jacket_image_id":215, "sort_order":215, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/10/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":215, "name":"Can't stop DAISUKI !!", "name_hiragana":"きゃんとすとっぷだいすき", "artist_id":2, "special_artist_id":0, "jacket_image_id":215, "sort_order":215, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/10/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":216, "name":"ハマって☆Rockin' Sweet", "name_hiragana":"はまってろっきんすうぃーと", "artist_id":2, "special_artist_id":0, "jacket_image_id":216, "sort_order":216, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/08/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":260, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":216, "name":"ハマって☆Rockin' Sweet", "name_hiragana":"はまってろっきんすうぃーと", "artist_id":2, "special_artist_id":0, "jacket_image_id":216, "sort_order":216, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/08/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":260, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":217, "name":"Do! It! Happy大冒険!", "name_hiragana":"どぅいっとはっぴーだいぼうけん", "artist_id":2, "special_artist_id":0, "jacket_image_id":217, "sort_order":217, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/21 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":232, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":217, "name":"Do! It! Happy大冒険!", "name_hiragana":"どぅいっとはっぴーだいぼうけん", "artist_id":2, "special_artist_id":0, "jacket_image_id":217, "sort_order":217, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/21 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":232, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":218, "name":"SNOW LETTER", "name_hiragana":"すのーれたー", "artist_id":2, "special_artist_id":0, "jacket_image_id":218, "sort_order":218, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":116, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":218, "name":"SNOW LETTER", "name_hiragana":"すのーれたー", "artist_id":2, "special_artist_id":0, "jacket_image_id":218, "sort_order":218, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":116, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":219, "name":"プラズマジカル☆ミュージカル♪", "name_hiragana":"ぷらずまじかるみゅーじかる", "artist_id":2, "special_artist_id":0, "jacket_image_id":219, "sort_order":219, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":219, "name":"プラズマジカル☆ミュージカル♪", "name_hiragana":"ぷらずまじかるみゅーじかる", "artist_id":2, "special_artist_id":0, "jacket_image_id":219, "sort_order":219, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":220, "name":"プラズマism", "name_hiragana":"ぷらずまいずむ", "artist_id":2, "special_artist_id":0, "jacket_image_id":220, "sort_order":220, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":183, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":220, "name":"プラズマism", "name_hiragana":"ぷらずまいずむ", "artist_id":2, "special_artist_id":0, "jacket_image_id":220, "sort_order":220, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":183, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":221, "name":"My Resolution～未来への絆～", "name_hiragana":"まいれぞりゅーしょんみらいへのきずな", "artist_id":2, "special_artist_id":0, "jacket_image_id":221, "sort_order":221, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/05/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":221, "name":"My Resolution～未来への絆～", "name_hiragana":"まいれぞりゅーしょんみらいへのきずな", "artist_id":2, "special_artist_id":0, "jacket_image_id":221, "sort_order":221, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/05/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":222, "name":"Love net Lady", "name_hiragana":"らぶねっとれでぃ", "artist_id":2, "special_artist_id":0, "jacket_image_id":222, "sort_order":222, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":130, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":222, "name":"Love net Lady", "name_hiragana":"らぶねっとれでぃ", "artist_id":2, "special_artist_id":0, "jacket_image_id":222, "sort_order":222, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":130, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":223, "name":"迷宮DESTINY", "name_hiragana":"めいきゅうですてにー", "artist_id":2, "special_artist_id":0, "jacket_image_id":223, "sort_order":223, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":264, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":223, "name":"迷宮DESTINY", "name_hiragana":"めいきゅうですてにー", "artist_id":2, "special_artist_id":0, "jacket_image_id":223, "sort_order":223, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":264, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":224, "name":"ツバサメロディー", "name_hiragana":"つばさめろでぃー", "artist_id":2, "special_artist_id":0, "jacket_image_id":224, "sort_order":224, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":168, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":224, "name":"ツバサメロディー", "name_hiragana":"つばさめろでぃー", "artist_id":2, "special_artist_id":0, "jacket_image_id":224, "sort_order":224, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":168, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":225, "name":"絆エターナル", "name_hiragana":"きずなえたーなる", "artist_id":2, "special_artist_id":0, "jacket_image_id":225, "sort_order":225, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/12/13 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":254, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":225, "name":"絆エターナル", "name_hiragana":"きずなえたーなる", "artist_id":2, "special_artist_id":0, "jacket_image_id":225, "sort_order":225, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/12/13 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":254, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":301, "name":"黎明ニ咲ケ", "name_hiragana":"れいめいにさけ", "artist_id":3, "special_artist_id":0, "jacket_image_id":301, "sort_order":301, "category":3, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":301, "name":"黎明ニ咲ケ", "name_hiragana":"れいめいにさけ", "artist_id":3, "special_artist_id":0, "jacket_image_id":301, "sort_order":301, "category":3, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":302, "name":"旅路宵酔ゐ夢花火", "name_hiragana":"たびみちよいよいゆめはなび", "artist_id":3, "special_artist_id":0, "jacket_image_id":302, "sort_order":302, "category":3, "fever_started_at":30000, "music_requirement_id":302, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":302, "name":"旅路宵酔ゐ夢花火", "name_hiragana":"たびみちよいよいゆめはなび", "artist_id":3, "special_artist_id":0, "jacket_image_id":302, "sort_order":302, "category":3, "fever_started_at":30000, "music_requirement_id":302, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":303, "name":"SADAME", "name_hiragana":"さだめ", "artist_id":3, "special_artist_id":0, "jacket_image_id":303, "sort_order":303, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/04/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":148, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":303, "name":"SADAME", "name_hiragana":"さだめ", "artist_id":3, "special_artist_id":0, "jacket_image_id":303, "sort_order":303, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/04/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":148, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":304, "name":"秋雨純情歌", "name_hiragana":"あきさめじゅんじょうか", "artist_id":3, "special_artist_id":0, "jacket_image_id":304, "sort_order":304, "category":3, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":304, "name":"秋雨純情歌", "name_hiragana":"あきさめじゅんじょうか", "artist_id":3, "special_artist_id":0, "jacket_image_id":304, "sort_order":304, "category":3, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":305, "name":"十六夜ゐ雪洞唄", "name_hiragana":"いざよいぼんぼりうた", "artist_id":3, "special_artist_id":0, "jacket_image_id":305, "sort_order":305, "category":3, "fever_started_at":50225, "music_requirement_id":305, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":305, "name":"十六夜ゐ雪洞唄", "name_hiragana":"いざよいぼんぼりうた", "artist_id":3, "special_artist_id":0, "jacket_image_id":305, "sort_order":305, "category":3, "fever_started_at":50225, "music_requirement_id":305, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":306, "name":"流離～SASURAI～", "name_hiragana":"さすらい", "artist_id":3, "special_artist_id":0, "jacket_image_id":306, "sort_order":306, "category":3, "fever_started_at":0, "music_requirement_id":306, "started_at":"2020/03/30 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":306, "name":"流離～SASURAI～", "name_hiragana":"さすらい", "artist_id":3, "special_artist_id":0, "jacket_image_id":306, "sort_order":306, "category":3, "fever_started_at":0, "music_requirement_id":306, "started_at":"2020/03/30 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":307, "name":"夜咲太鼓輝や打ち", "name_hiragana":"よるざきだいこかぐやうち", "artist_id":3, "special_artist_id":0, "jacket_image_id":307, "sort_order":307, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":144, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":307, "name":"夜咲太鼓輝や打ち", "name_hiragana":"よるざきだいこかぐやうち", "artist_id":3, "special_artist_id":0, "jacket_image_id":307, "sort_order":307, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":144, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":308, "name":"思ひ出咲くや茜空", "name_hiragana":"おもいでさくやあかねぞら", "artist_id":3, "special_artist_id":0, "jacket_image_id":308, "sort_order":308, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/04/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":167, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":308, "name":"思ひ出咲くや茜空", "name_hiragana":"おもいでさくやあかねぞら", "artist_id":3, "special_artist_id":0, "jacket_image_id":308, "sort_order":308, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/04/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":167, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":309, "name":"乙女陽炎", "name_hiragana":"おとめかげろう", "artist_id":3, "special_artist_id":0, "jacket_image_id":309, "sort_order":309, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/11 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":183, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":309, "name":"乙女陽炎", "name_hiragana":"おとめかげろう", "artist_id":3, "special_artist_id":0, "jacket_image_id":309, "sort_order":309, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/11 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":183, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":310, "name":"恋詠ノ蝶", "name_hiragana":"こいよみのちょう", "artist_id":3, "special_artist_id":0, "jacket_image_id":310, "sort_order":310, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":310, "name":"恋詠ノ蝶", "name_hiragana":"こいよみのちょう", "artist_id":3, "special_artist_id":0, "jacket_image_id":310, "sort_order":310, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":311, "name":"時は短し歌えや乙女たち", "name_hiragana":"ときはみじかしうたえやおとめたち", "artist_id":3, "special_artist_id":0, "jacket_image_id":311, "sort_order":311, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":165, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":311, "name":"時は短し歌えや乙女たち", "name_hiragana":"ときはみじかしうたえやおとめたち", "artist_id":3, "special_artist_id":0, "jacket_image_id":311, "sort_order":311, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":165, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":312, "name":"生きとし生けるものへ", "name_hiragana":"いきとしいけるものへ", "artist_id":3, "special_artist_id":0, "jacket_image_id":312, "sort_order":312, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":185, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":312, "name":"生きとし生けるものへ", "name_hiragana":"いきとしいけるものへ", "artist_id":3, "special_artist_id":0, "jacket_image_id":312, "sort_order":312, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":185, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":313, "name":"浮世に舞ふは刹那の華", "name_hiragana":"うきよにまふはせつなのはな", "artist_id":3, "special_artist_id":0, "jacket_image_id":313, "sort_order":313, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":313, "name":"浮世に舞ふは刹那の華", "name_hiragana":"うきよにまふはせつなのはな", "artist_id":3, "special_artist_id":0, "jacket_image_id":313, "sort_order":313, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":401, "name":"ウソの笑顔", "name_hiragana":"うそのえがお", "artist_id":4, "special_artist_id":0, "jacket_image_id":401, "sort_order":401, "category":1, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":314, "name":"幻想よ咲け", "name_hiragana":"ゆめよさけ", "artist_id":3, "special_artist_id":0, "jacket_image_id":314, "sort_order":314, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/12/21 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":152, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":402, "name":"Forbidden", "name_hiragana":"ふおうびでん", "artist_id":4, "special_artist_id":0, "jacket_image_id":402, "sort_order":402, "category":2, "fever_started_at":55400, "music_requirement_id":402, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":401, "name":"ウソの笑顔", "name_hiragana":"うそのえがお", "artist_id":4, "special_artist_id":0, "jacket_image_id":401, "sort_order":401, "category":1, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":403, "name":"オヤスミパラノイア", "name_hiragana":"おやすみぱらのいあ", "artist_id":4, "special_artist_id":0, "jacket_image_id":403, "sort_order":403, "category":1, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":185, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":402, "name":"Forbidden", "name_hiragana":"ふおうびでん", "artist_id":4, "special_artist_id":0, "jacket_image_id":402, "sort_order":402, "category":2, "fever_started_at":55400, "music_requirement_id":402, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":404, "name":"ソラウソ", "name_hiragana":"そらうそ", "artist_id":4, "special_artist_id":0, "jacket_image_id":404, "sort_order":404, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":181, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":403, "name":"オヤスミパラノイア", "name_hiragana":"おやすみぱらのいあ", "artist_id":4, "special_artist_id":0, "jacket_image_id":403, "sort_order":403, "category":1, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":185, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":405, "name":"×旋律-Schlehit Melodie-", "name_hiragana":"せんりつ", "artist_id":4, "special_artist_id":0, "jacket_image_id":405, "sort_order":405, "category":1, "fever_started_at":30000, "music_requirement_id":405, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":404, "name":"ソラウソ", "name_hiragana":"そらうそ", "artist_id":4, "special_artist_id":0, "jacket_image_id":404, "sort_order":404, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":181, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":406, "name":"断罪のソリテュード", "name_hiragana":"だんざいのそりてゅーど", "artist_id":4, "special_artist_id":0, "jacket_image_id":406, "sort_order":406, "category":1, "fever_started_at":0, "music_requirement_id":406, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":210, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":405, "name":"×旋律-Schlehit Melodie-", "name_hiragana":"せんりつ", "artist_id":4, "special_artist_id":0, "jacket_image_id":405, "sort_order":405, "category":1, "fever_started_at":30000, "music_requirement_id":405, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":407, "name":"EMPIRE DOMINATOR", "name_hiragana":"えんぱいあどみねーたー", "artist_id":4, "special_artist_id":0, "jacket_image_id":407, "sort_order":407, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/04 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":406, "name":"断罪のソリテュード", "name_hiragana":"だんざいのそりてゅーど", "artist_id":4, "special_artist_id":0, "jacket_image_id":406, "sort_order":406, "category":1, "fever_started_at":0, "music_requirement_id":406, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":210, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":408, "name":"Please Please Christmas", "name_hiragana":"ぷりーずぷりーずくりすます", "artist_id":4, "special_artist_id":0, "jacket_image_id":408, "sort_order":408, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":137, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"1年に1度だけ良い子になる？天使のアイレーンちゃん様完全プロデュースによるSpecialなクリスマスソング！み～んなハッピー地獄に堕としてやるのだ♡"
+    "id":407, "name":"EMPIRE DOMINATOR", "name_hiragana":"えんぱいあどみねーたー", "artist_id":4, "special_artist_id":0, "jacket_image_id":407, "sort_order":407, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/04 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":409, "name":"Albidus", "name_hiragana":"あるびどぅす", "artist_id":4, "special_artist_id":0, "jacket_image_id":409, "sort_order":409, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":408, "name":"Please Please Christmas", "name_hiragana":"ぷりーずぷりーずくりすます", "artist_id":4, "special_artist_id":0, "jacket_image_id":408, "sort_order":408, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":137, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"1年に1度だけ良い子になる？天使のアイレーンちゃん様完全プロデュースによるSpecialなクリスマスソング！み～んなハッピー地獄に堕としてやるのだ♡"
   },
   {
-    "id":410, "name":"ハカナイトメア", "name_hiragana":"はかないとめあ", "artist_id":4, "special_artist_id":0, "jacket_image_id":410, "sort_order":410, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/06/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":409, "name":"Albidus", "name_hiragana":"あるびどぅす", "artist_id":4, "special_artist_id":0, "jacket_image_id":409, "sort_order":409, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":411, "name":"Monologue", "name_hiragana":"ものろーぐ", "artist_id":4, "special_artist_id":0, "jacket_image_id":411, "sort_order":411, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/07/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":188, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":410, "name":"ハカナイトメア", "name_hiragana":"はかないとめあ", "artist_id":4, "special_artist_id":0, "jacket_image_id":410, "sort_order":410, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/06/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":412, "name":"Evil Ethics", "name_hiragana":"いびるえすぃくす", "artist_id":4, "special_artist_id":0, "jacket_image_id":412, "sort_order":412, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/10/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":185, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":411, "name":"Monologue", "name_hiragana":"ものろーぐ", "artist_id":4, "special_artist_id":0, "jacket_image_id":411, "sort_order":411, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/07/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":188, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":501, "name":"Parallelism Crown", "name_hiragana":"ぱられりずむくらうん", "artist_id":5, "special_artist_id":0, "jacket_image_id":501, "sort_order":501, "category":1, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":140, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":412, "name":"Evil Ethics", "name_hiragana":"いびるえすぃくす", "artist_id":4, "special_artist_id":0, "jacket_image_id":412, "sort_order":412, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/10/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":185, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":502, "name":"ネオンテトラの空", "name_hiragana":"ねおんてとらのそら", "artist_id":5, "special_artist_id":0, "jacket_image_id":502, "sort_order":502, "category":3, "fever_started_at":30000, "music_requirement_id":502, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":164, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":501, "name":"Parallelism Crown", "name_hiragana":"ぱられりずむくらうん", "artist_id":5, "special_artist_id":0, "jacket_image_id":501, "sort_order":501, "category":1, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":140, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":503, "name":"人生は忙しい", "name_hiragana":"じんせいはいそがしい", "artist_id":5, "special_artist_id":0, "jacket_image_id":503, "sort_order":503, "category":3, "fever_started_at":30000, "music_requirement_id":503, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":106, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":502, "name":"ネオンテトラの空", "name_hiragana":"ねおんてとらのそら", "artist_id":5, "special_artist_id":0, "jacket_image_id":502, "sort_order":502, "category":3, "fever_started_at":30000, "music_requirement_id":502, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":164, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":504, "name":"ShootingStar", "name_hiragana":"しゅーてぃんぐすたー", "artist_id":5, "special_artist_id":0, "jacket_image_id":504, "sort_order":504, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":503, "name":"人生は忙しい", "name_hiragana":"じんせいはいそがしい", "artist_id":5, "special_artist_id":0, "jacket_image_id":503, "sort_order":503, "category":3, "fever_started_at":30000, "music_requirement_id":503, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":106, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":505, "name":"VIVID", "name_hiragana":"びびっど", "artist_id":5, "special_artist_id":0, "jacket_image_id":505, "sort_order":505, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":127, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":504, "name":"ShootingStar", "name_hiragana":"しゅーてぃんぐすたー", "artist_id":5, "special_artist_id":0, "jacket_image_id":504, "sort_order":504, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":506, "name":"SSG", "name_hiragana":"えすえすじー", "artist_id":5, "special_artist_id":0, "jacket_image_id":506, "sort_order":506, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":130, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":505, "name":"VIVID", "name_hiragana":"びびっど", "artist_id":5, "special_artist_id":0, "jacket_image_id":505, "sort_order":505, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":127, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":507, "name":"noche blanca", "name_hiragana":"のーちぇぶらんか", "artist_id":5, "special_artist_id":0, "jacket_image_id":507, "sort_order":507, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/06/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":129, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":506, "name":"SSG", "name_hiragana":"えすえすじー", "artist_id":5, "special_artist_id":0, "jacket_image_id":506, "sort_order":506, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":130, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":508, "name":"Dazzling", "name_hiragana":"だずりんぐ", "artist_id":5, "special_artist_id":0, "jacket_image_id":508, "sort_order":508, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":134, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":507, "name":"noche blanca", "name_hiragana":"のーちぇぶらんか", "artist_id":5, "special_artist_id":0, "jacket_image_id":507, "sort_order":507, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/06/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":129, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":509, "name":"ain't nobody STOP", "name_hiragana":"いんとのーばでぃーすとっぷ", "artist_id":5, "special_artist_id":0, "jacket_image_id":509, "sort_order":509, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/04 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":145, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":508, "name":"Dazzling", "name_hiragana":"だずりんぐ", "artist_id":5, "special_artist_id":0, "jacket_image_id":508, "sort_order":508, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":134, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":510, "name":"Plastic / Jewelry Tune", "name_hiragana":"ぷらすてぃっくじゅえりーちゅーん", "artist_id":5, "special_artist_id":0, "jacket_image_id":510, "sort_order":510, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/01/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":509, "name":"ain't nobody STOP", "name_hiragana":"いんとのーばでぃーすとっぷ", "artist_id":5, "special_artist_id":0, "jacket_image_id":509, "sort_order":509, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/04 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":145, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":511, "name":"メイド in わたし♪", "name_hiragana":"めいどいんわたし", "artist_id":5, "special_artist_id":0, "jacket_image_id":511, "sort_order":511, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/02/05 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":153, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"REIJINGSIGNALの原点となる、伝説の楽曲。いつものマモーレ達、ありがとう♪黄色は不安な気持ちを伝えてほしい！イソゲ！　青は心のOK Sign！ススメゼヨ！　赤は立ち止まってあたしを見て！トマレッス～♡　3人合わせて『GOGOしんGOず！』"
+    "id":510, "name":"Plastic / Jewelry Tune", "name_hiragana":"ぷらすてぃっくじゅえりーちゅーん", "artist_id":5, "special_artist_id":0, "jacket_image_id":510, "sort_order":510, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/01/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":512, "name":"はじまりのうた", "name_hiragana":"はじまりのうた", "artist_id":5, "special_artist_id":0, "jacket_image_id":512, "sort_order":512, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":142, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":511, "name":"メイド in わたし♪", "name_hiragana":"めいどいんわたし", "artist_id":5, "special_artist_id":0, "jacket_image_id":511, "sort_order":511, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/02/05 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":153, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"REIJINGSIGNALの原点となる、伝説の楽曲。いつものマモーレ達、ありがとう♪黄色は不安な気持ちを伝えてほしい！イソゲ！　青は心のOK Sign！ススメゼヨ！　赤は立ち止まってあたしを見て！トマレッス～♡　3人合わせて『GOGOしんGOず！』"
   },
   {
-    "id":601, "name":"移動手段はバイクです", "name_hiragana":"いどうしゅだんはばいくで", "artist_id":6, "special_artist_id":0, "jacket_image_id":601, "sort_order":601, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":188, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":512, "name":"はじまりのうた", "name_hiragana":"はじまりのうた", "artist_id":5, "special_artist_id":0, "jacket_image_id":512, "sort_order":512, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":142, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":602, "name":"カバンには鉄板です", "name_hiragana":"かばんにはてっぱんです", "artist_id":6, "special_artist_id":0, "jacket_image_id":602, "sort_order":602, "category":2, "fever_started_at":30000, "music_requirement_id":602, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":601, "name":"移動手段はバイクです", "name_hiragana":"いどうしゅだんはばいくで", "artist_id":6, "special_artist_id":0, "jacket_image_id":601, "sort_order":601, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":188, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":603, "name":"鳴動", "name_hiragana":"めいどう", "artist_id":6, "special_artist_id":0, "jacket_image_id":603, "sort_order":603, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":154, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":602, "name":"カバンには鉄板です", "name_hiragana":"かばんにはてっぱんです", "artist_id":6, "special_artist_id":0, "jacket_image_id":602, "sort_order":602, "category":2, "fever_started_at":30000, "music_requirement_id":602, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":604, "name":"Red Numbers", "name_hiragana":"れっどなんばーず", "artist_id":6, "special_artist_id":0, "jacket_image_id":604, "sort_order":604, "category":3, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":603, "name":"鳴動", "name_hiragana":"めいどう", "artist_id":6, "special_artist_id":0, "jacket_image_id":603, "sort_order":603, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":154, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":605, "name":"裏切りは無しです", "name_hiragana":"うらぎりはなしです", "artist_id":6, "special_artist_id":0, "jacket_image_id":605, "sort_order":605, "category":2, "fever_started_at":0, "music_requirement_id":605, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":207, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":604, "name":"Red Numbers", "name_hiragana":"れっどなんばーず", "artist_id":6, "special_artist_id":0, "jacket_image_id":604, "sort_order":604, "category":3, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":606, "name":"ワールドワールドワールド", "name_hiragana":"わーるどわーるどわーるど", "artist_id":6, "special_artist_id":0, "jacket_image_id":606, "sort_order":606, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/05/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":155, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":605, "name":"裏切りは無しです", "name_hiragana":"うらぎりはなしです", "artist_id":6, "special_artist_id":0, "jacket_image_id":605, "sort_order":605, "category":2, "fever_started_at":0, "music_requirement_id":605, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":207, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":607, "name":"Stinger", "name_hiragana":"すてぃんがー", "artist_id":6, "special_artist_id":0, "jacket_image_id":607, "sort_order":607, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/05/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":606, "name":"ワールドワールドワールド", "name_hiragana":"わーるどわーるどわーるど", "artist_id":6, "special_artist_id":0, "jacket_image_id":606, "sort_order":606, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/05/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":155, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":608, "name":"Knock Knock Down!!!", "name_hiragana":"のっくのっくだうん", "artist_id":6, "special_artist_id":0, "jacket_image_id":608, "sort_order":608, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/07/17 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":607, "name":"Stinger", "name_hiragana":"すてぃんがー", "artist_id":6, "special_artist_id":0, "jacket_image_id":607, "sort_order":607, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/05/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":609, "name":"BORN BORN DANCE", "name_hiragana":"ぼんぼんだんす", "artist_id":6, "special_artist_id":0, "jacket_image_id":609, "sort_order":609, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":608, "name":"Knock Knock Down!!!", "name_hiragana":"のっくのっくだうん", "artist_id":6, "special_artist_id":0, "jacket_image_id":608, "sort_order":608, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/07/17 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":610, "name":"OBENTO MAGNUM", "name_hiragana":"おべんとまぐなむ", "artist_id":6, "special_artist_id":0, "jacket_image_id":610, "sort_order":610, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/28 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":609, "name":"BORN BORN DANCE", "name_hiragana":"ぼんぼんだんす", "artist_id":6, "special_artist_id":0, "jacket_image_id":609, "sort_order":609, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":611, "name":"FIELD HEART", "name_hiragana":"ふぃーるどはーと", "artist_id":6, "special_artist_id":0, "jacket_image_id":611, "sort_order":611, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":610, "name":"OBENTO MAGNUM", "name_hiragana":"おべんとまぐなむ", "artist_id":6, "special_artist_id":0, "jacket_image_id":610, "sort_order":610, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/28 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":612, "name":"メリケンサックに特攻です", "name_hiragana":"めりけんさっくにとっこうです", "artist_id":6, "special_artist_id":0, "jacket_image_id":612, "sort_order":612, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":611, "name":"FIELD HEART", "name_hiragana":"ふぃーるどはーと", "artist_id":6, "special_artist_id":0, "jacket_image_id":611, "sort_order":611, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":613, "name":"TikTokでバズり隊", "name_hiragana":"てぃっくとっくでばずりたい", "artist_id":6, "special_artist_id":0, "jacket_image_id":613, "sort_order":613, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/05/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":128, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":612, "name":"メリケンサックに特攻です", "name_hiragana":"めりけんさっくにとっこうです", "artist_id":6, "special_artist_id":0, "jacket_image_id":612, "sort_order":612, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":614, "name":"信じるのは己です", "name_hiragana":"しんじるのはおのれです", "artist_id":6, "special_artist_id":0, "jacket_image_id":614, "sort_order":614, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/11/19 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":184, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":613, "name":"TikTokでバズり隊", "name_hiragana":"てぃっくとっくでばずりたい", "artist_id":6, "special_artist_id":0, "jacket_image_id":613, "sort_order":613, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/05/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":128, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":701, "name":"MAGMA", "name_hiragana":"まぐま", "artist_id":7, "special_artist_id":0, "jacket_image_id":701, "sort_order":701, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":222, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":614, "name":"信じるのは己です", "name_hiragana":"しんじるのはおのれです", "artist_id":6, "special_artist_id":0, "jacket_image_id":614, "sort_order":614, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/11/19 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":184, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":702, "name":"Last Flower", "name_hiragana":"らすとふらわあ", "artist_id":7, "special_artist_id":0, "jacket_image_id":702, "sort_order":702, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":701, "name":"MAGMA", "name_hiragana":"まぐま", "artist_id":7, "special_artist_id":0, "jacket_image_id":701, "sort_order":701, "category":2, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":222, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":703, "name":"Falling Roses", "name_hiragana":"ふぉーりんぐろーぜず", "artist_id":7, "special_artist_id":0, "jacket_image_id":703, "sort_order":703, "category":2, "fever_started_at":30000, "music_requirement_id":703, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":702, "name":"Last Flower", "name_hiragana":"らすとふらわあ", "artist_id":7, "special_artist_id":0, "jacket_image_id":702, "sort_order":702, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/03/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":704, "name":"Re:Climb", "name_hiragana":"りくらいむ", "artist_id":7, "special_artist_id":0, "jacket_image_id":704, "sort_order":704, "category":3, "fever_started_at":30000, "music_requirement_id":704, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":703, "name":"Falling Roses", "name_hiragana":"ふぉーりんぐろーぜず", "artist_id":7, "special_artist_id":0, "jacket_image_id":703, "sort_order":703, "category":2, "fever_started_at":30000, "music_requirement_id":703, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":705, "name":"knocking' the next-door", "name_hiragana":"のきんぐざねくすとどあ", "artist_id":7, "special_artist_id":0, "jacket_image_id":705, "sort_order":705, "category":2, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":704, "name":"Re:Climb", "name_hiragana":"りくらいむ", "artist_id":7, "special_artist_id":0, "jacket_image_id":704, "sort_order":704, "category":3, "fever_started_at":30000, "music_requirement_id":704, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":706, "name":"Crimson quartet―深紅き四重奏―", "name_hiragana":"くりむずんくぉーてっと", "artist_id":7, "special_artist_id":0, "jacket_image_id":706, "sort_order":706, "category":2, "fever_started_at":30000, "music_requirement_id":706, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":705, "name":"knocking' the next-door", "name_hiragana":"のきんぐざねくすとどあ", "artist_id":7, "special_artist_id":0, "jacket_image_id":705, "sort_order":705, "category":2, "fever_started_at":30000, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":707, "name":"Break up all this World", "name_hiragana":"ぶれーくあっぷおーるでぃすわーるど", "artist_id":7, "special_artist_id":0, "jacket_image_id":707, "sort_order":707, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":706, "name":"Crimson quartet―深紅き四重奏―", "name_hiragana":"くりむずんくぉーてっと", "artist_id":7, "special_artist_id":0, "jacket_image_id":706, "sort_order":706, "category":2, "fever_started_at":30000, "music_requirement_id":706, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":708, "name":"幻影のシュトライヒ", "name_hiragana":"げんえいのしゅとらいひ", "artist_id":7, "special_artist_id":0, "jacket_image_id":708, "sort_order":708, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":707, "name":"Break up all this World", "name_hiragana":"ぶれーくあっぷおーるでぃすわーるど", "artist_id":7, "special_artist_id":0, "jacket_image_id":707, "sort_order":707, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":709, "name":"背徳のカタストロフィ", "name_hiragana":"はいとくのかたすとろふぃ", "artist_id":7, "special_artist_id":0, "jacket_image_id":709, "sort_order":709, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":216, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":708, "name":"幻影のシュトライヒ", "name_hiragana":"げんえいのしゅとらいひ", "artist_id":7, "special_artist_id":0, "jacket_image_id":708, "sort_order":708, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":194, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":710, "name":"Ragnarøk", "name_hiragana":"らぐなろっく", "artist_id":7, "special_artist_id":0, "jacket_image_id":710, "sort_order":710, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/08/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":709, "name":"背徳のカタストロフィ", "name_hiragana":"はいとくのかたすとろふぃ", "artist_id":7, "special_artist_id":0, "jacket_image_id":709, "sort_order":709, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":216, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":711, "name":"I'm JOKER", "name_hiragana":"あいむじょーかー", "artist_id":7, "special_artist_id":0, "jacket_image_id":711, "sort_order":711, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/28 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":236, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":710, "name":"Ragnarøk", "name_hiragana":"らぐなろっく", "artist_id":7, "special_artist_id":0, "jacket_image_id":710, "sort_order":710, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/08/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":712, "name":"TSUBASA", "name_hiragana":"つばさ", "artist_id":7, "special_artist_id":0, "jacket_image_id":712, "sort_order":712, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":168, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":711, "name":"I'm JOKER", "name_hiragana":"あいむじょーかー", "artist_id":7, "special_artist_id":0, "jacket_image_id":711, "sort_order":711, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/28 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":236, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":713, "name":"光ノTSUBASA", "name_hiragana":"ひかりのつばさ", "artist_id":7, "special_artist_id":0, "jacket_image_id":713, "sort_order":713, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":128, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"シンガンクリムゾンズのもうひとつの姿『シンガンホワイティーズ』超安心降臨ッ!!オレ達は、白銀（はくぎん）色の心眼で、この澱んだ汚れを洗い続けル……ッ!!"
+    "id":712, "name":"TSUBASA", "name_hiragana":"つばさ", "artist_id":7, "special_artist_id":0, "jacket_image_id":712, "sort_order":712, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":168, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":714, "name":"Rising high!!", "name_hiragana":"らいじんぐはい", "artist_id":7, "special_artist_id":0, "jacket_image_id":714, "sort_order":714, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":713, "name":"光ノTSUBASA", "name_hiragana":"ひかりのつばさ", "artist_id":7, "special_artist_id":0, "jacket_image_id":713, "sort_order":713, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":128, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"シンガンクリムゾンズのもうひとつの姿『シンガンホワイティーズ』超安心降臨ッ!!オレ達は、白銀（はくぎん）色の心眼で、この澱んだ汚れを洗い続けル……ッ!!"
   },
   {
-    "id":715, "name":"Scarlet Eyes", "name_hiragana":"すかーれっとあいず", "artist_id":7, "special_artist_id":0, "jacket_image_id":715, "sort_order":715, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/28 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":189, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":714, "name":"Rising high!!", "name_hiragana":"らいじんぐはい", "artist_id":7, "special_artist_id":0, "jacket_image_id":714, "sort_order":714, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":716, "name":"New World Order", "name_hiragana":"にゅーわーるどおーだー", "artist_id":7, "special_artist_id":0, "jacket_image_id":716, "sort_order":716, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/05/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":715, "name":"Scarlet Eyes", "name_hiragana":"すかーれっとあいず", "artist_id":7, "special_artist_id":0, "jacket_image_id":715, "sort_order":715, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/28 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":189, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":717, "name":"FLARE", "name_hiragana":"ふれあ", "artist_id":7, "special_artist_id":0, "jacket_image_id":717, "sort_order":717, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/09/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":716, "name":"New World Order", "name_hiragana":"にゅーわーるどおーだー", "artist_id":7, "special_artist_id":0, "jacket_image_id":716, "sort_order":716, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/05/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":718, "name":"シンクリズム-S.C.ISM-", "name_hiragana":"しんくりずむ", "artist_id":7, "special_artist_id":0, "jacket_image_id":718, "sort_order":718, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":165, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":717, "name":"FLARE", "name_hiragana":"ふれあ", "artist_id":7, "special_artist_id":0, "jacket_image_id":717, "sort_order":717, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/09/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":719, "name":"Red Addiction", "name_hiragana":"れっどあでぃくしょん", "artist_id":7, "special_artist_id":0, "jacket_image_id":719, "sort_order":719, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/10/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":718, "name":"シンクリズム-S.C.ISM-", "name_hiragana":"しんくりずむ", "artist_id":7, "special_artist_id":0, "jacket_image_id":718, "sort_order":718, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":165, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":720, "name":"NeoN", "name_hiragana":"ねおん", "artist_id":7, "special_artist_id":0, "jacket_image_id":720, "sort_order":720, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/12/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":719, "name":"Red Addiction", "name_hiragana":"れっどあでぃくしょん", "artist_id":7, "special_artist_id":0, "jacket_image_id":719, "sort_order":719, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/10/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":801, "name":"サイエンス・フィクション", "name_hiragana":"さいえんすふぃくしょん", "artist_id":8, "special_artist_id":0, "jacket_image_id":801, "sort_order":801, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":720, "name":"NeoN", "name_hiragana":"ねおん", "artist_id":7, "special_artist_id":0, "jacket_image_id":720, "sort_order":720, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/12/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":802, "name":"キミと☆Are You Ready？", "name_hiragana":"きみとああゆうれでい", "artist_id":8, "special_artist_id":0, "jacket_image_id":802, "sort_order":802, "category":2, "fever_started_at":40000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":146, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":801, "name":"サイエンス・フィクション", "name_hiragana":"さいえんすふぃくしょん", "artist_id":8, "special_artist_id":0, "jacket_image_id":801, "sort_order":801, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":803, "name":"煌☆Chronicle", "name_hiragana":"きらほしくろにくる", "artist_id":8, "special_artist_id":0, "jacket_image_id":803, "sort_order":803, "category":3, "fever_started_at":30000, "music_requirement_id":803, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":802, "name":"キミと☆Are You Ready？", "name_hiragana":"きみとああゆうれでい", "artist_id":8, "special_artist_id":0, "jacket_image_id":802, "sort_order":802, "category":2, "fever_started_at":40000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":146, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":804, "name":"胸騒ぎJust☆Paradise", "name_hiragana":"むなさわぎじゃすとぱらだいす", "artist_id":8, "special_artist_id":0, "jacket_image_id":804, "sort_order":804, "category":1, "fever_started_at":30000, "music_requirement_id":804, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":150, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":803, "name":"煌☆Chronicle", "name_hiragana":"きらほしくろにくる", "artist_id":8, "special_artist_id":0, "jacket_image_id":803, "sort_order":803, "category":3, "fever_started_at":30000, "music_requirement_id":803, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":805, "name":"今夜は星空ディスコティック☆", "name_hiragana":"こんやはほしぞらでぃすこてぃっく", "artist_id":8, "special_artist_id":0, "jacket_image_id":805, "sort_order":805, "category":2, "fever_started_at":30000, "music_requirement_id":805, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":0, "description":""
+    "id":804, "name":"胸騒ぎJust☆Paradise", "name_hiragana":"むなさわぎじゃすとぱらだいす", "artist_id":8, "special_artist_id":0, "jacket_image_id":804, "sort_order":804, "category":1, "fever_started_at":30000, "music_requirement_id":804, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":150, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":806, "name":"ボクらのShiny Star☆", "name_hiragana":"ぼくらのしゃいにーすたー", "artist_id":8, "special_artist_id":0, "jacket_image_id":806, "sort_order":806, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":130, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":805, "name":"今夜は星空ディスコティック☆", "name_hiragana":"こんやはほしぞらでぃすこてぃっく", "artist_id":8, "special_artist_id":0, "jacket_image_id":805, "sort_order":805, "category":2, "fever_started_at":30000, "music_requirement_id":805, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
-    "id":807, "name":"青春☆サンセット", "name_hiragana":"せいしゅんさんせっと", "artist_id":8, "special_artist_id":0, "jacket_image_id":807, "sort_order":807, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/11/04 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":135, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""
+    "id":806, "name":"ボクらのShiny Star☆", "name_hiragana":"ぼくらのしゃいにーすたー", "artist_id":8, "special_artist_id":0, "jacket_image_id":806, "sort_order":806, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":130, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":808, "name":"Get the sound（夢銀河☆ツインズVer.）", "name_hiragana":"げっとざさうんどゆめぎんがついんずばーじょん", "artist_id":8, "special_artist_id":0, "jacket_image_id":808, "sort_order":808, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":807, "name":"青春☆サンセット", "name_hiragana":"せいしゅんさんせっと", "artist_id":8, "special_artist_id":0, "jacket_image_id":807, "sort_order":807, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/11/04 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":135, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":50, "description":""
   },
   {
-    "id":809, "name":"キミはボクのプリンセス☆", "name_hiragana":"きみはぼくのぷりんせす", "artist_id":8, "special_artist_id":0, "jacket_image_id":809, "sort_order":809, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/11 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":145, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":808, "name":"Get the sound（夢銀河☆ツインズVer.）", "name_hiragana":"げっとざさうんどゆめぎんがついんずばーじょん", "artist_id":8, "special_artist_id":0, "jacket_image_id":808, "sort_order":808, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":810, "name":"My Sunshine", "name_hiragana":"まいさんしゃいん", "artist_id":8, "special_artist_id":0, "jacket_image_id":810, "sort_order":810, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/08/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":134, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":809, "name":"キミはボクのプリンセス☆", "name_hiragana":"きみはぼくのぷりんせす", "artist_id":8, "special_artist_id":0, "jacket_image_id":809, "sort_order":809, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/11 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":145, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":901, "name":"マイラスファイ", "name_hiragana":"まいらすふぁい", "artist_id":9, "special_artist_id":0, "jacket_image_id":901, "sort_order":901, "category":2, "fever_started_at":0, "music_requirement_id":901, "started_at":"2020/04/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":147, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":810, "name":"My Sunshine", "name_hiragana":"まいさんしゃいん", "artist_id":8, "special_artist_id":0, "jacket_image_id":810, "sort_order":810, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/08/25 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":134, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":902, "name":"ジャスタウェイク", "name_hiragana":"じゃすたうぇいく", "artist_id":9, "special_artist_id":0, "jacket_image_id":902, "sort_order":902, "category":3, "fever_started_at":0, "music_requirement_id":902, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":901, "name":"マイラスファイ", "name_hiragana":"まいらすふぁい", "artist_id":9, "special_artist_id":0, "jacket_image_id":901, "sort_order":901, "category":2, "fever_started_at":0, "music_requirement_id":901, "started_at":"2020/04/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":147, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":903, "name":"ユアウィスパー", "name_hiragana":"ゆあうぃすぱー", "artist_id":9, "special_artist_id":0, "jacket_image_id":903, "sort_order":903, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":902, "name":"ジャスタウェイク", "name_hiragana":"じゃすたうぇいく", "artist_id":9, "special_artist_id":0, "jacket_image_id":902, "sort_order":902, "category":3, "fever_started_at":0, "music_requirement_id":902, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":904, "name":"エンブレム", "name_hiragana":"えんぶれむ", "artist_id":9, "special_artist_id":0, "jacket_image_id":904, "sort_order":904, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":903, "name":"ユアウィスパー", "name_hiragana":"ゆあうぃすぱー", "artist_id":9, "special_artist_id":0, "jacket_image_id":903, "sort_order":903, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":905, "name":"パステージ", "name_hiragana":"ぱすてーじ", "artist_id":9, "special_artist_id":0, "jacket_image_id":905, "sort_order":905, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/18 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":185, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":904, "name":"エンブレム", "name_hiragana":"えんぶれむ", "artist_id":9, "special_artist_id":0, "jacket_image_id":904, "sort_order":904, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":906, "name":"ステイリアル", "name_hiragana":"すていりある", "artist_id":9, "special_artist_id":0, "jacket_image_id":906, "sort_order":906, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":135, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":905, "name":"パステージ", "name_hiragana":"ぱすてーじ", "artist_id":9, "special_artist_id":0, "jacket_image_id":905, "sort_order":905, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/18 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":185, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":907, "name":"アドレイション", "name_hiragana":"あどれいしょん", "artist_id":9, "special_artist_id":0, "jacket_image_id":907, "sort_order":907, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/07/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":196, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":906, "name":"ステイリアル", "name_hiragana":"すていりある", "artist_id":9, "special_artist_id":0, "jacket_image_id":906, "sort_order":906, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":135, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":908, "name":"アンノウン", "name_hiragana":"あんのうん", "artist_id":9, "special_artist_id":0, "jacket_image_id":908, "sort_order":908, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/09/16 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":907, "name":"アドレイション", "name_hiragana":"あどれいしょん", "artist_id":9, "special_artist_id":0, "jacket_image_id":907, "sort_order":907, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/07/26 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":196, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":909, "name":"スピンナウト", "name_hiragana":"すぴんなうと", "artist_id":9, "special_artist_id":0, "jacket_image_id":909, "sort_order":909, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/11/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":119, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":908, "name":"アンノウン", "name_hiragana":"あんのうん", "artist_id":9, "special_artist_id":0, "jacket_image_id":908, "sort_order":908, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/09/16 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":910, "name":"ブレイカウェイ", "name_hiragana":"ぶれいかうぇい", "artist_id":9, "special_artist_id":0, "jacket_image_id":910, "sort_order":910, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/11/30 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":909, "name":"スピンナウト", "name_hiragana":"すぴんなうと", "artist_id":9, "special_artist_id":0, "jacket_image_id":909, "sort_order":909, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/11/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":119, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1001, "name":"放て！どどどーん！", "name_hiragana":"はなてどどどーん", "artist_id":10, "special_artist_id":0, "jacket_image_id":1001, "sort_order":1001, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":164, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":910, "name":"ブレイカウェイ", "name_hiragana":"ぶれいかうぇい", "artist_id":9, "special_artist_id":0, "jacket_image_id":910, "sort_order":910, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/11/30 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1002, "name":"Yes!アイドル♡宣言", "name_hiragana":"いえすあいどるせんげん", "artist_id":10, "special_artist_id":0, "jacket_image_id":1002, "sort_order":1002, "category":1, "fever_started_at":0, "music_requirement_id":1002, "started_at":"2020/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1001, "name":"放て！どどどーん！", "name_hiragana":"はなてどどどーん", "artist_id":10, "special_artist_id":0, "jacket_image_id":1001, "sort_order":1001, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":164, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1003, "name":"Mot Mot Mot", "name_hiragana":"もっともっともっと", "artist_id":10, "special_artist_id":0, "jacket_image_id":1003, "sort_order":1003, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1002, "name":"Yes!アイドル♡宣言", "name_hiragana":"いえすあいどるせんげん", "artist_id":10, "special_artist_id":0, "jacket_image_id":1002, "sort_order":1002, "category":1, "fever_started_at":0, "music_requirement_id":1002, "started_at":"2020/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1004, "name":"ループしてる", "name_hiragana":"るーぷしてる", "artist_id":10, "special_artist_id":0, "jacket_image_id":1004, "sort_order":1004, "category":1, "fever_started_at":0, "music_requirement_id":1004, "started_at":"2020/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":137, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1003, "name":"Mot Mot Mot", "name_hiragana":"もっともっともっと", "artist_id":10, "special_artist_id":0, "jacket_image_id":1003, "sort_order":1003, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":182, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1005, "name":"ビビビーチ♡ビビビビーチ！", "name_hiragana":"びびびーちびびびびーち", "artist_id":10, "special_artist_id":0, "jacket_image_id":1005, "sort_order":1005, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/08/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1004, "name":"ループしてる", "name_hiragana":"るーぷしてる", "artist_id":10, "special_artist_id":0, "jacket_image_id":1004, "sort_order":1004, "category":1, "fever_started_at":0, "music_requirement_id":1004, "started_at":"2020/04/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":137, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1006, "name":"あすいろ恋模様", "name_hiragana":"あすいろこいもよう", "artist_id":10, "special_artist_id":0, "jacket_image_id":1006, "sort_order":1006, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/09/04 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1005, "name":"ビビビーチ♡ビビビビーチ！", "name_hiragana":"びびびーちびびびびーち", "artist_id":10, "special_artist_id":0, "jacket_image_id":1005, "sort_order":1005, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/08/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1007, "name":"きゅきゅきゅん♡ハートシェイカー", "name_hiragana":"きゅきゅきゅんはーとしぇいかー", "artist_id":10, "special_artist_id":0, "jacket_image_id":1007, "sort_order":1007, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/04 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1006, "name":"あすいろ恋模様", "name_hiragana":"あすいろこいもよう", "artist_id":10, "special_artist_id":0, "jacket_image_id":1006, "sort_order":1006, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/09/04 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1008, "name":"Attention, Please!!", "name_hiragana":"あてんしょんぷりーず", "artist_id":10, "special_artist_id":0, "jacket_image_id":1008, "sort_order":1008, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/20 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1007, "name":"きゅきゅきゅん♡ハートシェイカー", "name_hiragana":"きゅきゅきゅんはーとしぇいかー", "artist_id":10, "special_artist_id":0, "jacket_image_id":1007, "sort_order":1007, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/04 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":200, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1009, "name":"Colorful Snow Drop", "name_hiragana":"からふるすのーどろっぷ", "artist_id":10, "special_artist_id":0, "jacket_image_id":1009, "sort_order":1009, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":169, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1008, "name":"Attention, Please!!", "name_hiragana":"あてんしょんぷりーず", "artist_id":10, "special_artist_id":0, "jacket_image_id":1008, "sort_order":1008, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/20 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1010, "name":"綿雪グリモワール", "name_hiragana":"わたゆきぐりもわーる", "artist_id":10, "special_artist_id":0, "jacket_image_id":1010, "sort_order":1010, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/24 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1009, "name":"Colorful Snow Drop", "name_hiragana":"からふるすのーどろっぷ", "artist_id":10, "special_artist_id":0, "jacket_image_id":1009, "sort_order":1009, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":169, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1011, "name":"はうあーゆー？", "name_hiragana":"はうあーゆー", "artist_id":10, "special_artist_id":0, "jacket_image_id":1011, "sort_order":1011, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1010, "name":"綿雪グリモワール", "name_hiragana":"わたゆきぐりもわーる", "artist_id":10, "special_artist_id":0, "jacket_image_id":1010, "sort_order":1010, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/24 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1012, "name":"Happy Happy Jump!!", "name_hiragana":"はっぴーはっぴーじゃんぷ", "artist_id":10, "special_artist_id":0, "jacket_image_id":1012, "sort_order":1012, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/06/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1011, "name":"はうあーゆー？", "name_hiragana":"はうあーゆー", "artist_id":10, "special_artist_id":0, "jacket_image_id":1011, "sort_order":1011, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":160, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1013, "name":"My Precious Sign", "name_hiragana":"まいぷれしゃすさいん", "artist_id":10, "special_artist_id":0, "jacket_image_id":1013, "sort_order":1013, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1012, "name":"Happy Happy Jump!!", "name_hiragana":"はっぴーはっぴーじゃんぷ", "artist_id":10, "special_artist_id":0, "jacket_image_id":1012, "sort_order":1012, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/06/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":175, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1014, "name":"はなまるさーくれっと", "name_hiragana":"はなまるさーくれっと", "artist_id":10, "special_artist_id":0, "jacket_image_id":1014, "sort_order":1014, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/11/19 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":143, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1013, "name":"My Precious Sign", "name_hiragana":"まいぷれしゃすさいん", "artist_id":10, "special_artist_id":0, "jacket_image_id":1013, "sort_order":1013, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/09/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1101, "name":"Realistic Interface", "name_hiragana":"りありすてぃっくいんたーふぇーす", "artist_id":11, "special_artist_id":0, "jacket_image_id":1101, "sort_order":1101, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1014, "name":"はなまるさーくれっと", "name_hiragana":"はなまるさーくれっと", "artist_id":10, "special_artist_id":0, "jacket_image_id":1014, "sort_order":1014, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/11/19 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":143, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1102, "name":"Awakening World", "name_hiragana":"あうぇいきんぐわーるど", "artist_id":11, "special_artist_id":0, "jacket_image_id":1102, "sort_order":1102, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":144, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1101, "name":"Realistic Interface", "name_hiragana":"りありすてぃっくいんたーふぇーす", "artist_id":11, "special_artist_id":0, "jacket_image_id":1101, "sort_order":1101, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1103, "name":"イメージノ", "name_hiragana":"いめーじの", "artist_id":11, "special_artist_id":0, "jacket_image_id":1103, "sort_order":1103, "category":2, "fever_started_at":0, "music_requirement_id":1103, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":163, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1102, "name":"Awakening World", "name_hiragana":"あうぇいきんぐわーるど", "artist_id":11, "special_artist_id":0, "jacket_image_id":1102, "sort_order":1102, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":144, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1104, "name":"幻Forest", "name_hiragana":"まぼろしふぉれすと", "artist_id":11, "special_artist_id":0, "jacket_image_id":1104, "sort_order":1104, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":143, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1103, "name":"イメージノ", "name_hiragana":"いめーじの", "artist_id":11, "special_artist_id":0, "jacket_image_id":1103, "sort_order":1103, "category":2, "fever_started_at":0, "music_requirement_id":1103, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":163, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1105, "name":"夜風に揺れて", "name_hiragana":"よかぜにゆれて", "artist_id":11, "special_artist_id":0, "jacket_image_id":1105, "sort_order":1105, "category":2, "fever_started_at":0, "music_requirement_id":1105, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":136, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1104, "name":"幻Forest", "name_hiragana":"まぼろしふぉれすと", "artist_id":11, "special_artist_id":0, "jacket_image_id":1104, "sort_order":1104, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/06/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":143, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1106, "name":"Final Opinion", "name_hiragana":"ふぁいなるおぴにおん", "artist_id":11, "special_artist_id":0, "jacket_image_id":1106, "sort_order":1106, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/14 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":152, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1105, "name":"夜風に揺れて", "name_hiragana":"よかぜにゆれて", "artist_id":11, "special_artist_id":0, "jacket_image_id":1105, "sort_order":1105, "category":2, "fever_started_at":0, "music_requirement_id":1105, "started_at":"2020/05/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":136, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1107, "name":"Answer", "name_hiragana":"あんさー", "artist_id":11, "special_artist_id":0, "jacket_image_id":1107, "sort_order":1107, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/10/05 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":188, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1106, "name":"Final Opinion", "name_hiragana":"ふぁいなるおぴにおん", "artist_id":11, "special_artist_id":0, "jacket_image_id":1106, "sort_order":1106, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/14 22:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":152, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1201, "name":"わかんないのはいやだ", "name_hiragana":"わかんないのはいやだ", "artist_id":12, "special_artist_id":0, "jacket_image_id":1201, "sort_order":1201, "category":2, "fever_started_at":0, "music_requirement_id":1201, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"（楽曲提供：植田真梨恵）"
+    "id":1107, "name":"Answer", "name_hiragana":"あんさー", "artist_id":11, "special_artist_id":0, "jacket_image_id":1107, "sort_order":1107, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/10/05 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":188, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1202, "name":"メリーゴーランド", "name_hiragana":"めりーごーらんど", "artist_id":12, "special_artist_id":0, "jacket_image_id":1202, "sort_order":1202, "category":2, "fever_started_at":0, "music_requirement_id":1202, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":176, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"（楽曲提供：植田真梨恵）"
+    "id":1201, "name":"わかんないのはいやだ", "name_hiragana":"わかんないのはいやだ", "artist_id":12, "special_artist_id":0, "jacket_image_id":1201, "sort_order":1201, "category":2, "fever_started_at":0, "music_requirement_id":1201, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"（楽曲提供：植田真梨恵）"
   },
   {
-    "id":1203, "name":"心と体", "name_hiragana":"こころとからだ", "artist_id":12, "special_artist_id":0, "jacket_image_id":1203, "sort_order":1203, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"（楽曲提供：植田真梨恵）"
+    "id":1202, "name":"メリーゴーランド", "name_hiragana":"めりーごーらんど", "artist_id":12, "special_artist_id":0, "jacket_image_id":1202, "sort_order":1202, "category":2, "fever_started_at":0, "music_requirement_id":1202, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":176, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"（楽曲提供：植田真梨恵）"
   },
   {
-    "id":1204, "name":"heartbreaker", "name_hiragana":"はーとぶれいかー", "artist_id":12, "special_artist_id":0, "jacket_image_id":1204, "sort_order":1204, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/09/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":98, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"（楽曲提供：植田真梨恵）"
+    "id":1203, "name":"心と体", "name_hiragana":"こころとからだ", "artist_id":12, "special_artist_id":0, "jacket_image_id":1203, "sort_order":1203, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"（楽曲提供：植田真梨恵）"
   },
   {
-    "id":1205, "name":"彼に守ってほしい10のこと", "name_hiragana":"かれにまもってほしいじゅうのこと", "artist_id":12, "special_artist_id":0, "jacket_image_id":1205, "sort_order":1205, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":154, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"（楽曲提供：植田真梨恵）"
+    "id":1204, "name":"heartbreaker", "name_hiragana":"はーとぶれいかー", "artist_id":12, "special_artist_id":0, "jacket_image_id":1204, "sort_order":1204, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/09/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":98, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"（楽曲提供：植田真梨恵）"
   },
   {
-    "id":1206, "name":"サファイア！", "name_hiragana":"さふぁいあ", "artist_id":12, "special_artist_id":0, "jacket_image_id":1206, "sort_order":1206, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/07/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":124, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"（楽曲提供：植田真梨恵）"
+    "id":1205, "name":"彼に守ってほしい10のこと", "name_hiragana":"かれにまもってほしいじゅうのこと", "artist_id":12, "special_artist_id":0, "jacket_image_id":1205, "sort_order":1205, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/10 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":154, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"（楽曲提供：植田真梨恵）"
   },
   {
-    "id":1207, "name":"ふれたら消えてしまう", "name_hiragana":"ふれたらきえてしまう", "artist_id":12, "special_artist_id":0, "jacket_image_id":1207, "sort_order":1207, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/08/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":150, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"（楽曲提供：植田真梨恵）"
+    "id":1206, "name":"サファイア！", "name_hiragana":"さふぁいあ", "artist_id":12, "special_artist_id":0, "jacket_image_id":1206, "sort_order":1206, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/07/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":124, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"（楽曲提供：植田真梨恵）"
   },
   {
-    "id":1208, "name":"S・O・S", "name_hiragana":"えすおーえす", "artist_id":12, "special_artist_id":0, "jacket_image_id":1208, "sort_order":1208, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/10/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":168, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"（楽曲提供：植田真梨恵）"
+    "id":1207, "name":"ふれたら消えてしまう", "name_hiragana":"ふれたらきえてしまう", "artist_id":12, "special_artist_id":0, "jacket_image_id":1207, "sort_order":1207, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/08/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":150, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"（楽曲提供：植田真梨恵）"
   },
   {
-    "id":1301, "name":"最終列車", "name_hiragana":"さいしゅうれっしゃ", "artist_id":13, "special_artist_id":0, "jacket_image_id":1301, "sort_order":1301, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1208, "name":"S・O・S", "name_hiragana":"えすおーえす", "artist_id":12, "special_artist_id":0, "jacket_image_id":1208, "sort_order":1208, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/10/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":168, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":"（楽曲提供：植田真梨恵）"
   },
   {
-    "id":1302, "name":"ハツコイノオト", "name_hiragana":"はつこいのおと", "artist_id":13, "special_artist_id":0, "jacket_image_id":1302, "sort_order":1302, "category":2, "fever_started_at":0, "music_requirement_id":1302, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1301, "name":"最終列車", "name_hiragana":"さいしゅうれっしゃ", "artist_id":13, "special_artist_id":0, "jacket_image_id":1301, "sort_order":1301, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1303, "name":"さよなら、僕らのラブソング。", "name_hiragana":"さよならぼくらのらぶそんぐ", "artist_id":13, "special_artist_id":0, "jacket_image_id":1303, "sort_order":1303, "category":2, "fever_started_at":0, "music_requirement_id":1303, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1302, "name":"ハツコイノオト", "name_hiragana":"はつこいのおと", "artist_id":13, "special_artist_id":0, "jacket_image_id":1302, "sort_order":1302, "category":2, "fever_started_at":0, "music_requirement_id":1302, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":192, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1304, "name":"永遠なんて嘘ばかりだった", "name_hiragana":"えいえんなんてうそばかりだった", "artist_id":13, "special_artist_id":0, "jacket_image_id":1304, "sort_order":1304, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":176, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1303, "name":"さよなら、僕らのラブソング。", "name_hiragana":"さよならぼくらのらぶそんぐ", "artist_id":13, "special_artist_id":0, "jacket_image_id":1303, "sort_order":1303, "category":2, "fever_started_at":0, "music_requirement_id":1303, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":178, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1305, "name":"一秒の歌", "name_hiragana":"いちびょうのうた", "artist_id":13, "special_artist_id":0, "jacket_image_id":1305, "sort_order":1305, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/06/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":184, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1304, "name":"永遠なんて嘘ばかりだった", "name_hiragana":"えいえんなんてうそばかりだった", "artist_id":13, "special_artist_id":0, "jacket_image_id":1304, "sort_order":1304, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":176, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1401, "name":"Ninja Fanka", "name_hiragana":"にんじゃふぁんか", "artist_id":14, "special_artist_id":0, "jacket_image_id":1401, "sort_order":1401, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1305, "name":"一秒の歌", "name_hiragana":"いちびょうのうた", "artist_id":13, "special_artist_id":0, "jacket_image_id":1305, "sort_order":1305, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/06/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":184, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1402, "name":"手裏修羅雷", "name_hiragana":"しゅりしゅららい", "artist_id":14, "special_artist_id":0, "jacket_image_id":1402, "sort_order":1402, "category":3, "fever_started_at":0, "music_requirement_id":1402, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":158, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1401, "name":"Ninja Fanka", "name_hiragana":"にんじゃふぁんか", "artist_id":14, "special_artist_id":0, "jacket_image_id":1401, "sort_order":1401, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":138, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1403, "name":"―BAKUEN― Dead or A live!!", "name_hiragana":"ばくえんでっどおああらいぶ", "artist_id":14, "special_artist_id":0, "jacket_image_id":1403, "sort_order":1403, "category":3, "fever_started_at":0, "music_requirement_id":1403, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1402, "name":"手裏修羅雷", "name_hiragana":"しゅりしゅららい", "artist_id":14, "special_artist_id":0, "jacket_image_id":1402, "sort_order":1402, "category":3, "fever_started_at":0, "music_requirement_id":1402, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":158, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1404, "name":"MISSION to the night,FASHION for the fight", "name_hiragana":"みっしょんとぅーざないとふゅーじょんふぉーざふぁいと", "artist_id":14, "special_artist_id":0, "jacket_image_id":1404, "sort_order":1404, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/09/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1403, "name":"―BAKUEN― Dead or A live!!", "name_hiragana":"ばくえんでっどおああらいぶ", "artist_id":14, "special_artist_id":0, "jacket_image_id":1403, "sort_order":1403, "category":3, "fever_started_at":0, "music_requirement_id":1403, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1405, "name":"忍情∞数歌", "name_hiragana":"にんじょうかぞえうた", "artist_id":14, "special_artist_id":0, "jacket_image_id":1405, "sort_order":1405, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1404, "name":"MISSION to the night,FASHION for the fight", "name_hiragana":"みっしょんとぅーざないとふゅーじょんふぉーざふぁいと", "artist_id":14, "special_artist_id":0, "jacket_image_id":1404, "sort_order":1404, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/09/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1406, "name":"Falling into the Light", "name_hiragana":"ふぉーりんぐいんとぅーざらいと", "artist_id":14, "special_artist_id":0, "jacket_image_id":1406, "sort_order":1406, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/06/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1405, "name":"忍情∞数歌", "name_hiragana":"にんじょうかぞえうた", "artist_id":14, "special_artist_id":0, "jacket_image_id":1405, "sort_order":1405, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/22 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1407, "name":"Thunder,Light,Stone,Fire ～電・光・石・火～", "name_hiragana":"さんだーらいとすとーんふぁいやーでんこうせっか", "artist_id":14, "special_artist_id":0, "jacket_image_id":1407, "sort_order":1407, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/10/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1406, "name":"Falling into the Light", "name_hiragana":"ふぉーりんぐいんとぅーざらいと", "artist_id":14, "special_artist_id":0, "jacket_image_id":1406, "sort_order":1406, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/06/15 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":170, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1501, "name":"カクレンボ", "name_hiragana":"かくれんぼ", "artist_id":15, "special_artist_id":0, "jacket_image_id":1501, "sort_order":1501, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":151, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1407, "name":"Thunder,Light,Stone,Fire ～電・光・石・火～", "name_hiragana":"さんだーらいとすとーんふぁいやーでんこうせっか", "artist_id":14, "special_artist_id":0, "jacket_image_id":1407, "sort_order":1407, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/10/12 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1502, "name":"ジェネリックヒロイン", "name_hiragana":"じぇねりっくひろいん", "artist_id":15, "special_artist_id":0, "jacket_image_id":1502, "sort_order":1502, "category":1, "fever_started_at":0, "music_requirement_id":1502, "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":193, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1501, "name":"カクレンボ", "name_hiragana":"かくれんぼ", "artist_id":15, "special_artist_id":0, "jacket_image_id":1501, "sort_order":1501, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":151, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1503, "name":"センチメンタル・バニラ", "name_hiragana":"せんちめんたるばにら", "artist_id":15, "special_artist_id":0, "jacket_image_id":1503, "sort_order":1503, "category":1, "fever_started_at":0, "music_requirement_id":1503, "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":140, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1502, "name":"ジェネリックヒロイン", "name_hiragana":"じぇねりっくひろいん", "artist_id":15, "special_artist_id":0, "jacket_image_id":1502, "sort_order":1502, "category":1, "fever_started_at":0, "music_requirement_id":1502, "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":193, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1504, "name":"人生レシピ", "name_hiragana":"じんせいれしぴ", "artist_id":15, "special_artist_id":0, "jacket_image_id":1504, "sort_order":1504, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/06/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":179, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1503, "name":"センチメンタル・バニラ", "name_hiragana":"せんちめんたるばにら", "artist_id":15, "special_artist_id":0, "jacket_image_id":1503, "sort_order":1503, "category":1, "fever_started_at":0, "music_requirement_id":1503, "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":140, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1801, "name":"EMORITY", "name_hiragana":"えもりてぃ", "artist_id":18, "special_artist_id":0, "jacket_image_id":1801, "sort_order":1801, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":186, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1504, "name":"人生レシピ", "name_hiragana":"じんせいれしぴ", "artist_id":15, "special_artist_id":0, "jacket_image_id":1504, "sort_order":1504, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/06/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":179, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1802, "name":"Indivisible", "name_hiragana":"いんでぃびしぶる", "artist_id":18, "special_artist_id":0, "jacket_image_id":1802, "sort_order":1802, "category":1, "fever_started_at":0, "music_requirement_id":1802, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":131, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1801, "name":"EMORITY", "name_hiragana":"えもりてぃ", "artist_id":18, "special_artist_id":0, "jacket_image_id":1801, "sort_order":1801, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":186, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1803, "name":"Distribute Syndrome", "name_hiragana":"でぃすとりびゅーとしんどろーむ", "artist_id":18, "special_artist_id":0, "jacket_image_id":1803, "sort_order":1803, "category":1, "fever_started_at":0, "music_requirement_id":1803, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":167, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1802, "name":"Indivisible", "name_hiragana":"いんでぃびしぶる", "artist_id":18, "special_artist_id":0, "jacket_image_id":1802, "sort_order":1802, "category":1, "fever_started_at":0, "music_requirement_id":1802, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":131, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
-    "id":1804, "name":"HYBRiD-EMOTION", "name_hiragana":"はいぶりっどえもーしょん", "artist_id":18, "special_artist_id":0, "jacket_image_id":1804, "sort_order":1804, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/06/04 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
+    "id":1803, "name":"Distribute Syndrome", "name_hiragana":"でぃすとりびゅーとしんどろーむ", "artist_id":18, "special_artist_id":0, "jacket_image_id":1803, "sort_order":1803, "category":1, "fever_started_at":0, "music_requirement_id":1803, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":167, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
+  },
+  {
+    "id":1804, "name":"HYBRiD-EMOTION", "name_hiragana":"はいぶりっどえもーしょん", "artist_id":18, "special_artist_id":0, "jacket_image_id":1804, "sort_order":1804, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/06/04 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":190, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
     "id":9001, "name":"How To Fly", "name_hiragana":"はうたーふらい", "artist_id":90, "special_artist_id":100, "jacket_image_id":9001, "sort_order":19001, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":184, "lyrics":"未使用", "composed":"未使用", "arranged":"未使用", "max_level":0, "description":""

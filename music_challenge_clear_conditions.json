@@ -1,3 +1,692 @@
 [
-  
+  {
+    "id":1002, "condition_type":"grade", "condition_goal":1, "condition_args":"2"
+  },
+  {
+    "id":1003, "condition_type":"grade", "condition_goal":1, "condition_args":"3"
+  },
+  {
+    "id":1004, "condition_type":"grade", "condition_goal":1, "condition_args":"4"
+  },
+  {
+    "id":1005, "condition_type":"grade", "condition_goal":1, "condition_args":"5"
+  },
+  {
+    "id":2105, "condition_type":"restriction_rate", "condition_goal":105, "condition_args":"null"
+  },
+  {
+    "id":2110, "condition_type":"restriction_rate", "condition_goal":110, "condition_args":"null"
+  },
+  {
+    "id":2115, "condition_type":"restriction_rate", "condition_goal":115, "condition_args":"null"
+  },
+  {
+    "id":2120, "condition_type":"restriction_rate", "condition_goal":120, "condition_args":"null"
+  },
+  {
+    "id":2125, "condition_type":"restriction_rate", "condition_goal":125, "condition_args":"null"
+  },
+  {
+    "id":2130, "condition_type":"restriction_rate", "condition_goal":130, "condition_args":"null"
+  },
+  {
+    "id":2135, "condition_type":"restriction_rate", "condition_goal":135, "condition_args":"null"
+  },
+  {
+    "id":2140, "condition_type":"restriction_rate", "condition_goal":140, "condition_args":"null"
+  },
+  {
+    "id":2145, "condition_type":"restriction_rate", "condition_goal":145, "condition_args":"null"
+  },
+  {
+    "id":2150, "condition_type":"restriction_rate", "condition_goal":150, "condition_args":"null"
+  },
+  {
+    "id":3001, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[11,12,13,14]"
+  },
+  {
+    "id":3002, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[21,22,23,24]"
+  },
+  {
+    "id":3003, "condition_type":"myumon_basic", "condition_goal":3, "condition_args":"[31,32,33]"
+  },
+  {
+    "id":3004, "condition_type":"myumon_basic", "condition_goal":3, "condition_args":"[41,42,43]"
+  },
+  {
+    "id":3005, "condition_type":"myumon_basic", "condition_goal":3, "condition_args":"[51,52,53]"
+  },
+  {
+    "id":3006, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[61,62,63,64]"
+  },
+  {
+    "id":3007, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[71,72,73,74]"
+  },
+  {
+    "id":3008, "condition_type":"myumon_basic", "condition_goal":3, "condition_args":"[81,82,83]"
+  },
+  {
+    "id":3009, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[91,92,93,94]"
+  },
+  {
+    "id":3010, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[101,102,103,104]"
+  },
+  {
+    "id":3011, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[111,112,113,114]"
+  },
+  {
+    "id":3012, "condition_type":"myumon_basic", "condition_goal":5, "condition_args":"[121,122,123,124,125]"
+  },
+  {
+    "id":3013, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[131,132,133,134]"
+  },
+  {
+    "id":3014, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[141,142,143,144]"
+  },
+  {
+    "id":3015, "condition_type":"myumon_basic", "condition_goal":4, "condition_args":"[151,152,153,154]"
+  },
+  {
+    "id":3018, "condition_type":"myumon_basic", "condition_goal":5, "condition_args":"[181,182,183,184,185]"
+  },
+  {
+    "id":4011, "condition_type":"music_category", "condition_goal":1, "condition_args":"1"
+  },
+  {
+    "id":4012, "condition_type":"music_category", "condition_goal":2, "condition_args":"1"
+  },
+  {
+    "id":4013, "condition_type":"music_category", "condition_goal":3, "condition_args":"1"
+  },
+  {
+    "id":4014, "condition_type":"music_category", "condition_goal":4, "condition_args":"1"
+  },
+  {
+    "id":4015, "condition_type":"music_category", "condition_goal":5, "condition_args":"1"
+  },
+  {
+    "id":4021, "condition_type":"music_category", "condition_goal":1, "condition_args":"2"
+  },
+  {
+    "id":4022, "condition_type":"music_category", "condition_goal":2, "condition_args":"2"
+  },
+  {
+    "id":4023, "condition_type":"music_category", "condition_goal":3, "condition_args":"2"
+  },
+  {
+    "id":4024, "condition_type":"music_category", "condition_goal":4, "condition_args":"2"
+  },
+  {
+    "id":4025, "condition_type":"music_category", "condition_goal":5, "condition_args":"2"
+  },
+  {
+    "id":4031, "condition_type":"music_category", "condition_goal":1, "condition_args":"3"
+  },
+  {
+    "id":4032, "condition_type":"music_category", "condition_goal":2, "condition_args":"3"
+  },
+  {
+    "id":4033, "condition_type":"music_category", "condition_goal":3, "condition_args":"3"
+  },
+  {
+    "id":4034, "condition_type":"music_category", "condition_goal":4, "condition_args":"3"
+  },
+  {
+    "id":4035, "condition_type":"music_category", "condition_goal":5, "condition_args":"3"
+  },
+  {
+    "id":5011, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"11"
+  },
+  {
+    "id":5012, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"12"
+  },
+  {
+    "id":5013, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"13"
+  },
+  {
+    "id":5014, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"14"
+  },
+  {
+    "id":5021, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"21"
+  },
+  {
+    "id":5022, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"22"
+  },
+  {
+    "id":5023, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"23"
+  },
+  {
+    "id":5024, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"24"
+  },
+  {
+    "id":5031, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"31"
+  },
+  {
+    "id":5032, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"32"
+  },
+  {
+    "id":5033, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"33"
+  },
+  {
+    "id":5041, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"41"
+  },
+  {
+    "id":5042, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"42"
+  },
+  {
+    "id":5043, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"43"
+  },
+  {
+    "id":5051, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"51"
+  },
+  {
+    "id":5052, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"52"
+  },
+  {
+    "id":5053, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"53"
+  },
+  {
+    "id":5061, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"61"
+  },
+  {
+    "id":5062, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"62"
+  },
+  {
+    "id":5063, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"63"
+  },
+  {
+    "id":5064, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"64"
+  },
+  {
+    "id":5071, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"71"
+  },
+  {
+    "id":5072, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"72"
+  },
+  {
+    "id":5073, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"73"
+  },
+  {
+    "id":5074, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"74"
+  },
+  {
+    "id":5081, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"81"
+  },
+  {
+    "id":5082, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"82"
+  },
+  {
+    "id":5083, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"83"
+  },
+  {
+    "id":5091, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"91"
+  },
+  {
+    "id":5092, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"92"
+  },
+  {
+    "id":5093, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"93"
+  },
+  {
+    "id":5094, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"94"
+  },
+  {
+    "id":5101, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"101"
+  },
+  {
+    "id":5102, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"102"
+  },
+  {
+    "id":5103, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"103"
+  },
+  {
+    "id":5104, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"104"
+  },
+  {
+    "id":5111, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"111"
+  },
+  {
+    "id":5112, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"112"
+  },
+  {
+    "id":5113, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"113"
+  },
+  {
+    "id":5114, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"114"
+  },
+  {
+    "id":5121, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"121"
+  },
+  {
+    "id":5122, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"122"
+  },
+  {
+    "id":5123, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"123"
+  },
+  {
+    "id":5124, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"124"
+  },
+  {
+    "id":5125, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"125"
+  },
+  {
+    "id":5131, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"131"
+  },
+  {
+    "id":5132, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"132"
+  },
+  {
+    "id":5133, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"133"
+  },
+  {
+    "id":5134, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"134"
+  },
+  {
+    "id":5141, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"141"
+  },
+  {
+    "id":5142, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"142"
+  },
+  {
+    "id":5143, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"143"
+  },
+  {
+    "id":5144, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"144"
+  },
+  {
+    "id":5151, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"151"
+  },
+  {
+    "id":5152, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"152"
+  },
+  {
+    "id":5153, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"153"
+  },
+  {
+    "id":5154, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"154"
+  },
+  {
+    "id":5181, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"181"
+  },
+  {
+    "id":5182, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"182"
+  },
+  {
+    "id":5183, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"183"
+  },
+  {
+    "id":5184, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"184"
+  },
+  {
+    "id":5185, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"185"
+  },
+  {
+    "id":5911, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"911"
+  },
+  {
+    "id":5912, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"912"
+  },
+  {
+    "id":5913, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"913"
+  },
+  {
+    "id":5914, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"914"
+  },
+  {
+    "id":5915, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"915"
+  },
+  {
+    "id":5916, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"916"
+  },
+  {
+    "id":5917, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"917"
+  },
+  {
+    "id":5918, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"918"
+  },
+  {
+    "id":5919, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"919"
+  },
+  {
+    "id":5921, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"921"
+  },
+  {
+    "id":5922, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"922"
+  },
+  {
+    "id":5923, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"923"
+  },
+  {
+    "id":5924, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"924"
+  },
+  {
+    "id":5925, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"925"
+  },
+  {
+    "id":5926, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"926"
+  },
+  {
+    "id":5927, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"927"
+  },
+  {
+    "id":5928, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"928"
+  },
+  {
+    "id":5929, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"929"
+  },
+  {
+    "id":5931, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"931"
+  },
+  {
+    "id":5932, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"932"
+  },
+  {
+    "id":5933, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"933"
+  },
+  {
+    "id":5934, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"934"
+  },
+  {
+    "id":5935, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"935"
+  },
+  {
+    "id":5936, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"936"
+  },
+  {
+    "id":5937, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"937"
+  },
+  {
+    "id":5938, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"938"
+  },
+  {
+    "id":5939, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"939"
+  },
+  {
+    "id":5941, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"941"
+  },
+  {
+    "id":5942, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"942"
+  },
+  {
+    "id":5943, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"943"
+  },
+  {
+    "id":5944, "condition_type":"myumon_basic", "condition_goal":1, "condition_args":"944"
+  },
+  {
+    "id":11002, "condition_type":"clear_status", "condition_goal":1, "condition_args":"2"
+  },
+  {
+    "id":11003, "condition_type":"clear_status", "condition_goal":1, "condition_args":"3"
+  },
+  {
+    "id":100010, "condition_type":"score", "condition_goal":1000000, "condition_args":"null"
+  },
+  {
+    "id":100011, "condition_type":"score", "condition_goal":1100000, "condition_args":"null"
+  },
+  {
+    "id":100012, "condition_type":"score", "condition_goal":1200000, "condition_args":"null"
+  },
+  {
+    "id":100013, "condition_type":"score", "condition_goal":1300000, "condition_args":"null"
+  },
+  {
+    "id":100014, "condition_type":"score", "condition_goal":1400000, "condition_args":"null"
+  },
+  {
+    "id":100015, "condition_type":"score", "condition_goal":1500000, "condition_args":"null"
+  },
+  {
+    "id":100016, "condition_type":"score", "condition_goal":1600000, "condition_args":"null"
+  },
+  {
+    "id":100017, "condition_type":"score", "condition_goal":1700000, "condition_args":"null"
+  },
+  {
+    "id":100018, "condition_type":"score", "condition_goal":1800000, "condition_args":"null"
+  },
+  {
+    "id":100019, "condition_type":"score", "condition_goal":1900000, "condition_args":"null"
+  },
+  {
+    "id":100020, "condition_type":"score", "condition_goal":2000000, "condition_args":"null"
+  },
+  {
+    "id":100021, "condition_type":"score", "condition_goal":2100000, "condition_args":"null"
+  },
+  {
+    "id":100022, "condition_type":"score", "condition_goal":2200000, "condition_args":"null"
+  },
+  {
+    "id":100023, "condition_type":"score", "condition_goal":2300000, "condition_args":"null"
+  },
+  {
+    "id":100024, "condition_type":"score", "condition_goal":2400000, "condition_args":"null"
+  },
+  {
+    "id":100025, "condition_type":"score", "condition_goal":2500000, "condition_args":"null"
+  },
+  {
+    "id":100026, "condition_type":"score", "condition_goal":2600000, "condition_args":"null"
+  },
+  {
+    "id":100027, "condition_type":"score", "condition_goal":2700000, "condition_args":"null"
+  },
+  {
+    "id":100028, "condition_type":"score", "condition_goal":2800000, "condition_args":"null"
+  },
+  {
+    "id":100029, "condition_type":"score", "condition_goal":2900000, "condition_args":"null"
+  },
+  {
+    "id":100030, "condition_type":"score", "condition_goal":3000000, "condition_args":"null"
+  },
+  {
+    "id":100031, "condition_type":"score", "condition_goal":3100000, "condition_args":"null"
+  },
+  {
+    "id":100032, "condition_type":"score", "condition_goal":3200000, "condition_args":"null"
+  },
+  {
+    "id":100033, "condition_type":"score", "condition_goal":3300000, "condition_args":"null"
+  },
+  {
+    "id":100034, "condition_type":"score", "condition_goal":3400000, "condition_args":"null"
+  },
+  {
+    "id":100035, "condition_type":"score", "condition_goal":3500000, "condition_args":"null"
+  },
+  {
+    "id":100036, "condition_type":"score", "condition_goal":3600000, "condition_args":"null"
+  },
+  {
+    "id":100037, "condition_type":"score", "condition_goal":3700000, "condition_args":"null"
+  },
+  {
+    "id":100038, "condition_type":"score", "condition_goal":3800000, "condition_args":"null"
+  },
+  {
+    "id":100039, "condition_type":"score", "condition_goal":3900000, "condition_args":"null"
+  },
+  {
+    "id":100040, "condition_type":"score", "condition_goal":4000000, "condition_args":"null"
+  },
+  {
+    "id":100041, "condition_type":"score", "condition_goal":4100000, "condition_args":"null"
+  },
+  {
+    "id":100042, "condition_type":"score", "condition_goal":4200000, "condition_args":"null"
+  },
+  {
+    "id":100043, "condition_type":"score", "condition_goal":4300000, "condition_args":"null"
+  },
+  {
+    "id":100044, "condition_type":"score", "condition_goal":4400000, "condition_args":"null"
+  },
+  {
+    "id":100045, "condition_type":"score", "condition_goal":4500000, "condition_args":"null"
+  },
+  {
+    "id":100046, "condition_type":"score", "condition_goal":4600000, "condition_args":"null"
+  },
+  {
+    "id":100047, "condition_type":"score", "condition_goal":4700000, "condition_args":"null"
+  },
+  {
+    "id":100048, "condition_type":"score", "condition_goal":4800000, "condition_args":"null"
+  },
+  {
+    "id":100049, "condition_type":"score", "condition_goal":4900000, "condition_args":"null"
+  },
+  {
+    "id":100050, "condition_type":"score", "condition_goal":5000000, "condition_args":"null"
+  },
+  {
+    "id":100051, "condition_type":"score", "condition_goal":5100000, "condition_args":"null"
+  },
+  {
+    "id":100052, "condition_type":"score", "condition_goal":5200000, "condition_args":"null"
+  },
+  {
+    "id":100053, "condition_type":"score", "condition_goal":5300000, "condition_args":"null"
+  },
+  {
+    "id":100054, "condition_type":"score", "condition_goal":5400000, "condition_args":"null"
+  },
+  {
+    "id":100055, "condition_type":"score", "condition_goal":5500000, "condition_args":"null"
+  },
+  {
+    "id":100056, "condition_type":"score", "condition_goal":5600000, "condition_args":"null"
+  },
+  {
+    "id":100057, "condition_type":"score", "condition_goal":5700000, "condition_args":"null"
+  },
+  {
+    "id":100058, "condition_type":"score", "condition_goal":5800000, "condition_args":"null"
+  },
+  {
+    "id":100059, "condition_type":"score", "condition_goal":5900000, "condition_args":"null"
+  },
+  {
+    "id":100060, "condition_type":"score", "condition_goal":6000000, "condition_args":"null"
+  },
+  {
+    "id":100061, "condition_type":"score", "condition_goal":6100000, "condition_args":"null"
+  },
+  {
+    "id":100062, "condition_type":"score", "condition_goal":6200000, "condition_args":"null"
+  },
+  {
+    "id":100063, "condition_type":"score", "condition_goal":6300000, "condition_args":"null"
+  },
+  {
+    "id":100064, "condition_type":"score", "condition_goal":6400000, "condition_args":"null"
+  },
+  {
+    "id":100065, "condition_type":"score", "condition_goal":6500000, "condition_args":"null"
+  },
+  {
+    "id":100066, "condition_type":"score", "condition_goal":6600000, "condition_args":"null"
+  },
+  {
+    "id":100067, "condition_type":"score", "condition_goal":6700000, "condition_args":"null"
+  },
+  {
+    "id":100068, "condition_type":"score", "condition_goal":6800000, "condition_args":"null"
+  },
+  {
+    "id":100069, "condition_type":"score", "condition_goal":6900000, "condition_args":"null"
+  },
+  {
+    "id":100070, "condition_type":"score", "condition_goal":7000000, "condition_args":"null"
+  },
+  {
+    "id":100071, "condition_type":"score", "condition_goal":7100000, "condition_args":"null"
+  },
+  {
+    "id":100072, "condition_type":"score", "condition_goal":7200000, "condition_args":"null"
+  },
+  {
+    "id":100073, "condition_type":"score", "condition_goal":7300000, "condition_args":"null"
+  },
+  {
+    "id":100074, "condition_type":"score", "condition_goal":7400000, "condition_args":"null"
+  },
+  {
+    "id":100075, "condition_type":"score", "condition_goal":7500000, "condition_args":"null"
+  },
+  {
+    "id":100076, "condition_type":"score", "condition_goal":7600000, "condition_args":"null"
+  },
+  {
+    "id":100077, "condition_type":"score", "condition_goal":7700000, "condition_args":"null"
+  },
+  {
+    "id":100078, "condition_type":"score", "condition_goal":7800000, "condition_args":"null"
+  },
+  {
+    "id":100079, "condition_type":"score", "condition_goal":7900000, "condition_args":"null"
+  },
+  {
+    "id":100080, "condition_type":"score", "condition_goal":8000000, "condition_args":"null"
+  },
+  {
+    "id":100081, "condition_type":"score", "condition_goal":8100000, "condition_args":"null"
+  },
+  {
+    "id":100082, "condition_type":"score", "condition_goal":8200000, "condition_args":"null"
+  },
+  {
+    "id":100083, "condition_type":"score", "condition_goal":8300000, "condition_args":"null"
+  },
+  {
+    "id":100084, "condition_type":"score", "condition_goal":8400000, "condition_args":"null"
+  },
+  {
+    "id":100085, "condition_type":"score", "condition_goal":8500000, "condition_args":"null"
+  },
+  {
+    "id":100086, "condition_type":"score", "condition_goal":8600000, "condition_args":"null"
+  },
+  {
+    "id":100087, "condition_type":"score", "condition_goal":8700000, "condition_args":"null"
+  },
+  {
+    "id":100088, "condition_type":"score", "condition_goal":8800000, "condition_args":"null"
+  },
+  {
+    "id":100089, "condition_type":"score", "condition_goal":8900000, "condition_args":"null"
+  },
+  {
+    "id":100090, "condition_type":"score", "condition_goal":9000000, "condition_args":"null"
+  },
+  {
+    "id":100091, "condition_type":"score", "condition_goal":9100000, "condition_args":"null"
+  },
+  {
+    "id":100092, "condition_type":"score", "condition_goal":9200000, "condition_args":"null"
+  },
+  {
+    "id":100093, "condition_type":"score", "condition_goal":9300000, "condition_args":"null"
+  },
+  {
+    "id":100094, "condition_type":"score", "condition_goal":9400000, "condition_args":"null"
+  },
+  {
+    "id":100095, "condition_type":"score", "condition_goal":9500000, "condition_args":"null"
+  },
+  {
+    "id":100096, "condition_type":"score", "condition_goal":9600000, "condition_args":"null"
+  },
+  {
+    "id":100097, "condition_type":"score", "condition_goal":9700000, "condition_args":"null"
+  },
+  {
+    "id":100098, "condition_type":"score", "condition_goal":9800000, "condition_args":"null"
+  },
+  {
+    "id":100099, "condition_type":"score", "condition_goal":9900000, "condition_args":"null"
+  }
 ]
