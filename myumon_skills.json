@@ -349,5 +349,23 @@
   },
   {
     "id":190002, "name":"DMダメージUP++", "myumon_skill_effect_id":20201, "effect_arg_no":2020102, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":200000, "name":"I’ll Be New Dawn", "myumon_skill_effect_id":900, "effect_arg_no":90030, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":200001, "name":"I’ll Be New Dawn+", "myumon_skill_effect_id":900, "effect_arg_no":90031, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
+  },
+  {
+    "id":210000, "name":"3・2・1・GO!", "myumon_skill_effect_id":10400, "effect_arg_no":1040010, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":210001, "name":"3・2・1・GO!+", "myumon_skill_effect_id":10400, "effect_arg_no":1040011, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
+  },
+  {
+    "id":220000, "name":"ボク達がサポートするよ", "myumon_skill_effect_id":20001, "effect_arg_no":2000150, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":220001, "name":"ボク達がサポートするよ+", "myumon_skill_effect_id":20001, "effect_arg_no":2000151, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
   }
 ]

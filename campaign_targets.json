@@ -36,6 +36,9 @@
     "id":112, "category":1, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[333]", "asset_id":0
   },
   {
+    "id":113, "category":1, "user_target_type":3, "user_target_args":"null", "campaign_effect_ids":"[106,209,334,335,336,337,338,339,340,341,342,343,344,345]", "asset_id":2
+  },
+  {
     "id":301, "category":3, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[101,201]", "asset_id":0
   },
   {
@@ -64,6 +67,9 @@
   },
   {
     "id":312, "category":3, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[333]", "asset_id":0
+  },
+  {
+    "id":313, "category":3, "user_target_type":3, "user_target_args":"null", "campaign_effect_ids":"[106,209,334,335,336,337,338,339,340,341,342,343,344,345]", "asset_id":2
   },
   {
     "id":601, "category":6, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[401]", "asset_id":0
@@ -112,5 +118,41 @@
   },
   {
     "id":10015, "category":3, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,12101,12102,12103,12121,12122,12123,12111,12112,12113,12201,12209,12213,12207,13011,13092,13131,13074]", "asset_id":0
+  },
+  {
+    "id":10016, "category":1, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10111,10112,10113,10205,11051]", "asset_id":0
+  },
+  {
+    "id":10017, "category":1, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10111,10112,10113,10204,11043]", "asset_id":0
+  },
+  {
+    "id":10018, "category":1, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10121,10122,10123,10207,11072]", "asset_id":0
+  },
+  {
+    "id":10019, "category":1, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10121,10122,10123,10201,11013]", "asset_id":0
+  },
+  {
+    "id":10020, "category":1, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10101,10102,10103,10211,11111]", "asset_id":0
+  },
+  {
+    "id":10021, "category":1, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,12101,12102,12103,12121,12122,12123,12111,12112,12113,12205,12204,12207,12201,12211,13051,13043,13072,13013,13111]", "asset_id":0
+  },
+  {
+    "id":10022, "category":3, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10111,10112,10113,10205,11051]", "asset_id":0
+  },
+  {
+    "id":10023, "category":3, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10111,10112,10113,10204,11043]", "asset_id":0
+  },
+  {
+    "id":10024, "category":3, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10121,10122,10123,10207,11072]", "asset_id":0
+  },
+  {
+    "id":10025, "category":3, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10121,10122,10123,10201,11013]", "asset_id":0
+  },
+  {
+    "id":10026, "category":3, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,10101,10102,10103,10211,11111]", "asset_id":0
+  },
+  {
+    "id":10027, "category":3, "user_target_type":1, "user_target_args":"null", "campaign_effect_ids":"[10001,10002,10004,12101,12102,12103,12121,12122,12123,12111,12112,12113,12205,12204,12207,12201,12211,13051,13043,13072,13013,13111]", "asset_id":0
   }
 ]

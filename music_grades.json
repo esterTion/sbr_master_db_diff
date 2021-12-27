@@ -576,6 +576,18 @@
     "id":22504, "music_id":225, "grade":4, "movie_id":203, "level":29, "reward_no":302, "basic_stamina":5, "basic_damage":87, "basic_note_score":15, "rank_border_ss":1447298, "rank_border_s":1317041, "rank_border_a":998636, "rank_border_b":665757, "rank_border_c":332879, "fever_border_1":610, "fever_border_2":1210, "fever_border_3":1820, "fever_border_4":2420, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-100, "fever_point_miss":-201
   },
   {
+    "id":22601, "music_id":226, "grade":1, "movie_id":201, "level":2, "reward_no":2, "basic_stamina":5, "basic_damage":89, "basic_note_score":15, "rank_border_ss":229264, "rank_border_s":183411, "rank_border_a":137558, "rank_border_b":91706, "rank_border_c":45853, "fever_border_1":80, "fever_border_2":160, "fever_border_3":240, "fever_border_4":320, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-13, "fever_point_miss":-26
+  },
+  {
+    "id":22602, "music_id":226, "grade":2, "movie_id":201, "level":7, "reward_no":102, "basic_stamina":5, "basic_damage":62, "basic_note_score":15, "rank_border_ss":238915, "rank_border_s":191132, "rank_border_a":143349, "rank_border_b":95566, "rank_border_c":47783, "fever_border_1":170, "fever_border_2":340, "fever_border_3":510, "fever_border_4":680, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-20, "fever_point_miss":-40
+  },
+  {
+    "id":22603, "music_id":226, "grade":3, "movie_id":201, "level":15, "reward_no":202, "basic_stamina":5, "basic_damage":75, "basic_note_score":15, "rank_border_ss":258529, "rank_border_s":206823, "rank_border_a":155117, "rank_border_b":103412, "rank_border_c":51706, "fever_border_1":350, "fever_border_2":700, "fever_border_3":1040, "fever_border_4":1390, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-49, "fever_point_miss":-99
+  },
+  {
+    "id":22604, "music_id":226, "grade":4, "movie_id":201, "level":30, "reward_no":302, "basic_stamina":5, "basic_damage":75, "basic_note_score":15, "rank_border_ss":1502545, "rank_border_s":1367316, "rank_border_a":1036756, "rank_border_b":691171, "rank_border_c":345585, "fever_border_1":700, "fever_border_2":1410, "fever_border_3":2110, "fever_border_4":2820, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-100, "fever_point_miss":-201
+  },
+  {
     "id":30101, "music_id":301, "grade":1, "movie_id":301, "level":2, "reward_no":3, "basic_stamina":5, "basic_damage":93, "basic_note_score":15, "rank_border_ss":228900, "rank_border_s":183120, "rank_border_a":137340, "rank_border_b":91560, "rank_border_c":45780, "fever_border_1":80, "fever_border_2":150, "fever_border_3":230, "fever_border_4":300, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-13, "fever_point_miss":-27
   },
   {
@@ -1045,6 +1057,33 @@
   },
   {
     "id":51204, "music_id":512, "grade":4, "movie_id":503, "level":26, "reward_no":305, "basic_stamina":5, "basic_damage":98, "basic_note_score":15, "rank_border_ss":1407533, "rank_border_s":1280855, "rank_border_a":971198, "rank_border_b":647465, "rank_border_c":323733, "fever_border_1":540, "fever_border_2":1070, "fever_border_3":1610, "fever_border_4":2140, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-97, "fever_point_miss":-194
+  },
+  {
+    "id":51205, "music_id":512, "grade":5, "movie_id":503, "level":36, "reward_no":405, "basic_stamina":5, "basic_damage":155, "basic_note_score":15, "rank_border_ss":2888676, "rank_border_s":2628695, "rank_border_a":2310941, "rank_border_b":1848753, "rank_border_c":1271017, "fever_border_1":680, "fever_border_2":1350, "fever_border_3":2030, "fever_border_4":2700, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-192, "fever_point_miss":-385
+  },
+  {
+    "id":51301, "music_id":513, "grade":1, "movie_id":501, "level":1, "reward_no":5, "basic_stamina":5, "basic_damage":127, "basic_note_score":15, "rank_border_ss":226177, "rank_border_s":180942, "rank_border_a":135706, "rank_border_b":90471, "rank_border_c":45235, "fever_border_1":60, "fever_border_2":110, "fever_border_3":170, "fever_border_4":220, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-13, "fever_point_miss":-27
+  },
+  {
+    "id":51302, "music_id":513, "grade":2, "movie_id":501, "level":6, "reward_no":105, "basic_stamina":5, "basic_damage":91, "basic_note_score":15, "rank_border_ss":233068, "rank_border_s":186454, "rank_border_a":139841, "rank_border_b":93227, "rank_border_c":46614, "fever_border_1":120, "fever_border_2":230, "fever_border_3":350, "fever_border_4":460, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-19, "fever_point_miss":-38
+  },
+  {
+    "id":51303, "music_id":513, "grade":3, "movie_id":501, "level":11, "reward_no":205, "basic_stamina":5, "basic_damage":114, "basic_note_score":15, "rank_border_ss":245674, "rank_border_s":196539, "rank_border_a":147404, "rank_border_b":98270, "rank_border_c":49135, "fever_border_1":230, "fever_border_2":460, "fever_border_3":690, "fever_border_4":920, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-51, "fever_point_miss":-102
+  },
+  {
+    "id":51304, "music_id":513, "grade":4, "movie_id":501, "level":27, "reward_no":305, "basic_stamina":5, "basic_damage":118, "basic_note_score":15, "rank_border_ss":1356436, "rank_border_s":1234357, "rank_border_a":935941, "rank_border_b":623961, "rank_border_c":311980, "fever_border_1":450, "fever_border_2":890, "fever_border_3":1340, "fever_border_4":1780, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-98, "fever_point_miss":-197
+  },
+  {
+    "id":51401, "music_id":514, "grade":1, "movie_id":502, "level":1, "reward_no":5, "basic_stamina":5, "basic_damage":43, "basic_note_score":15, "rank_border_ss":237973, "rank_border_s":190378, "rank_border_a":142784, "rank_border_b":95189, "rank_border_c":47595, "fever_border_1":160, "fever_border_2":320, "fever_border_3":490, "fever_border_4":650, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-13, "fever_point_miss":-27
+  },
+  {
+    "id":51402, "music_id":514, "grade":2, "movie_id":502, "level":6, "reward_no":105, "basic_stamina":5, "basic_damage":32, "basic_note_score":15, "rank_border_ss":256467, "rank_border_s":205174, "rank_border_a":153880, "rank_border_b":102587, "rank_border_c":51293, "fever_border_1":330, "fever_border_2":660, "fever_border_3":990, "fever_border_4":1320, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-20, "fever_point_miss":-40
+  },
+  {
+    "id":51403, "music_id":514, "grade":3, "movie_id":502, "level":12, "reward_no":205, "basic_stamina":5, "basic_damage":38, "basic_note_score":15, "rank_border_ss":297359, "rank_border_s":237887, "rank_border_a":178415, "rank_border_b":118944, "rank_border_c":59472, "fever_border_1":690, "fever_border_2":1380, "fever_border_3":2080, "fever_border_4":2770, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-49, "fever_point_miss":-98
+  },
+  {
+    "id":51404, "music_id":514, "grade":4, "movie_id":502, "level":29, "reward_no":305, "basic_stamina":5, "basic_damage":39, "basic_note_score":15, "rank_border_ss":1869481, "rank_border_s":1701228, "rank_border_a":1289942, "rank_border_b":859961, "rank_border_c":429981, "fever_border_1":1350, "fever_border_2":2700, "fever_border_3":4060, "fever_border_4":5410, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-100, "fever_point_miss":-200
   },
   {
     "id":60101, "music_id":601, "grade":1, "movie_id":601, "level":2, "reward_no":6, "basic_stamina":5, "basic_damage":93, "basic_note_score":15, "rank_border_ss":228900, "rank_border_s":183120, "rank_border_a":137340, "rank_border_b":91560, "rank_border_c":45780, "fever_border_1":80, "fever_border_2":150, "fever_border_3":230, "fever_border_4":300, "fever_point_perfect":15, "fever_point_great":13, "fever_point_good":10, "fever_point_bad":-13, "fever_point_miss":-27

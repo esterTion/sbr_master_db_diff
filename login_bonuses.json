@@ -129,7 +129,25 @@
     "id":43, "title":"毎日ログインでSSRが貰える♪クリスマスプレゼントログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":44
   },
   {
+    "id":44, "title":"カウントダウンログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":45
+  },
+  {
     "id":45, "title":"対バン応援ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":43
+  },
+  {
+    "id":46, "title":"カウントダウンログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":46
+  },
+  {
+    "id":47, "title":"カウントダウンログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":47
+  },
+  {
+    "id":49, "title":"お年玉ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":49
+  },
+  {
+    "id":50, "title":"期間限定カムバックログインボーナス", "campaign":1, "condition_type":2, "condition_params":"{\"condition_ended_at\":\"2021/12/10 11:59:59\"}", "sort_order":50
+  },
+  {
+    "id":51, "title":"おかえりなさいログインボーナス", "campaign":1, "condition_type":3, "condition_params":"{\"limit_day\":14,\"sleep_day\":21}", "sort_order":200
   },
   {
     "id":1032, "title":"イベントログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":9
@@ -183,10 +201,19 @@
     "id":9091, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
+    "id":9092, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
     "id":9114, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
+    "id":9123, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
     "id":9142, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
+    "id":9144, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
     "id":9151, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
@@ -198,10 +225,19 @@
     "id":9153, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
+    "id":9182, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
+    "id":9185, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
     "id":9912, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
     "id":9913, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
+    "id":9929, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
     "id":9991, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
@@ -211,5 +247,8 @@
   },
   {
     "id":10002, "title":"RS強化応援ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":9
+  },
+  {
+    "id":10003, "title":"RS強化応援ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":9
   }
 ]

@@ -33,6 +33,9 @@
     "id":1010, "layer_type":"Background", "name":"クリスマスホームタウン", "description":"聖夜の雰囲気で街はうきうきメリメリクリスマスモード☆大切な仲間達とRockに盛り上がっちゃぉ☆", "default_asset_ids":"null"
   },
   {
+    "id":1011, "layer_type":"Background", "name":"BVL地獄行ホームタウン", "description":"ふっふっふ…この地獄行きホームを通った者はみ～んな地獄に落ちるのだ♪", "default_asset_ids":"null"
+  },
+  {
     "id":1100, "layer_type":"Background", "name":"スゴロクタウン", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
   },
   {
@@ -85,6 +88,9 @@
   },
   {
     "id":2014, "layer_type":"Road", "name":"クリスマスロード", "description":"真っ赤な道に踏み出せば、足が自然に踊り出しちゃう！素敵なダンスをワンツーイヤホイィ♪", "default_asset_ids":"null"
+  },
+  {
+    "id":2015, "layer_type":"Road", "name":"BVL地獄行きロード", "description":"えぇ～、もう説明めんどいのだ。タウンの説明で十分なのだ……はいはい、ロードなのだ、ロード。", "default_asset_ids":"null"
   },
   {
     "id":2100, "layer_type":"Road", "name":"スゴロクロード", "description":"スゴロクイベントで使用する道路です。", "default_asset_ids":"null"
@@ -160,6 +166,9 @@
   },
   {
     "id":7014, "layer_type":"Fence", "name":"クリスマスフェンス", "description":"メリメリクリクリなホワイトクリスマスを予感させる真っ白なフェンスです。イィヤッホィ♪", "default_asset_ids":"null"
+  },
+  {
+    "id":7015, "layer_type":"Fence", "name":"BVL地獄行きフェンス", "description":"フェンスなのだ～……はぁ、ドーナツ食べたいのだ。ペイペイ～～ン！", "default_asset_ids":"null"
   },
   {
     "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"

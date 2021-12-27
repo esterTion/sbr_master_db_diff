@@ -243,34 +243,82 @@
     "id":3000011, "category":3, "reset_cycle":2, "title":"ウイークリーミッションをすべてクリアしよう", "detail":"ウイークリーミッションの内容をすべてクリアしよう", "add_condition_mission_id":0, "sort_order":12, "clear_condition_type":"weekly_mission_all_clear", "clear_condition_args":"[3000001,3000002,3000003,3000004,3000005,3000006,3000007,3000008,3000009,3000010]", "goal":10, "reward_no":13011, "button_type":0, "destination_kind":0, "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2020/11/30 11:59:59 +09:00"
   },
   {
-    "id":3000021, "category":3, "reset_cycle":2, "title":"ダークモンスターを1体倒そう", "detail":"マイタウンやストーリーで出現するダークモンスターを1体倒そう", "add_condition_mission_id":0, "sort_order":21, "clear_condition_type":"dark_destroy_count", "clear_condition_args":"0", "goal":1, "reward_no":13021, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000021, "category":3, "reset_cycle":2, "title":"ダークモンスターを1体倒そう", "detail":"マイタウンやストーリーで出現するダークモンスターを1体倒そう", "add_condition_mission_id":0, "sort_order":21, "clear_condition_type":"dark_destroy_count", "clear_condition_args":"0", "goal":1, "reward_no":13021, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
   },
   {
-    "id":3000022, "category":3, "reset_cycle":2, "title":"ダークモンスターを5体倒そう", "detail":"マイタウンやストーリーで出現するダークモンスターを5体倒そう", "add_condition_mission_id":0, "sort_order":22, "clear_condition_type":"dark_destroy_count", "clear_condition_args":"0", "goal":5, "reward_no":13022, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000022, "category":3, "reset_cycle":2, "title":"ダークモンスターを5体倒そう", "detail":"マイタウンやストーリーで出現するダークモンスターを5体倒そう", "add_condition_mission_id":0, "sort_order":22, "clear_condition_type":"dark_destroy_count", "clear_condition_args":"0", "goal":5, "reward_no":13022, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
   },
   {
-    "id":3000023, "category":3, "reset_cycle":2, "title":"ダークモンスターを10体倒そう", "detail":"マイタウンやストーリーで出現するダークモンスターを10体倒そう", "add_condition_mission_id":0, "sort_order":23, "clear_condition_type":"dark_destroy_count", "clear_condition_args":"0", "goal":10, "reward_no":13023, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000023, "category":3, "reset_cycle":2, "title":"ダークモンスターを10体倒そう", "detail":"マイタウンやストーリーで出現するダークモンスターを10体倒そう", "add_condition_mission_id":0, "sort_order":23, "clear_condition_type":"dark_destroy_count", "clear_condition_args":"0", "goal":10, "reward_no":13023, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
   },
   {
-    "id":3000024, "category":3, "reset_cycle":2, "title":"対バンに1回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":24, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":1, "reward_no":13024, "button_type":0, "destination_kind":1, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000024, "category":3, "reset_cycle":2, "title":"対バンに1回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":24, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":1, "reward_no":13024, "button_type":0, "destination_kind":1, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
   },
   {
-    "id":3000025, "category":3, "reset_cycle":2, "title":"対バンに5回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに5回挑戦しよう", "add_condition_mission_id":0, "sort_order":25, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":5, "reward_no":13025, "button_type":0, "destination_kind":1, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000025, "category":3, "reset_cycle":2, "title":"対バンに5回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに5回挑戦しよう", "add_condition_mission_id":0, "sort_order":25, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":5, "reward_no":13025, "button_type":0, "destination_kind":1, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
   },
   {
-    "id":3000026, "category":3, "reset_cycle":2, "title":"対バンに10回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに10回挑戦しよう", "add_condition_mission_id":0, "sort_order":26, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":10, "reward_no":13026, "button_type":0, "destination_kind":1, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000026, "category":3, "reset_cycle":2, "title":"対バンに10回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに10回挑戦しよう", "add_condition_mission_id":0, "sort_order":26, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":10, "reward_no":13026, "button_type":0, "destination_kind":1, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
   },
   {
-    "id":3000027, "category":3, "reset_cycle":2, "title":"マイタウンで収益を10万サウンドル獲得しよう", "detail":"マイタウンから、累計10万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":27, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":100000, "reward_no":13027, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000027, "category":3, "reset_cycle":2, "title":"マイタウンで収益を10万サウンドル獲得しよう", "detail":"マイタウンから、累計10万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":27, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":100000, "reward_no":13027, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
   },
   {
-    "id":3000028, "category":3, "reset_cycle":2, "title":"マイタウンで収益を20万サウンドル獲得しよう", "detail":"マイタウンから、累計20万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":28, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":200000, "reward_no":13028, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000028, "category":3, "reset_cycle":2, "title":"マイタウンで収益を20万サウンドル獲得しよう", "detail":"マイタウンから、累計20万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":28, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":200000, "reward_no":13028, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
   },
   {
-    "id":3000029, "category":3, "reset_cycle":2, "title":"マイタウンで収益を40万サウンドル獲得しよう", "detail":"マイタウンから、累計40万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":29, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":400000, "reward_no":13029, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000029, "category":3, "reset_cycle":2, "title":"マイタウンで収益を40万サウンドル獲得しよう", "detail":"マイタウンから、累計40万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":29, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":400000, "reward_no":13029, "button_type":0, "destination_kind":3, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
   },
   {
-    "id":3000030, "category":3, "reset_cycle":2, "title":"5日ログインしよう", "detail":"1週間で5日ログインしよう", "add_condition_mission_id":0, "sort_order":30, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":5, "reward_no":13030, "button_type":0, "destination_kind":0, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3000030, "category":3, "reset_cycle":2, "title":"5日ログインしよう", "detail":"1週間で5日ログインしよう", "add_condition_mission_id":0, "sort_order":30, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":5, "reward_no":13030, "button_type":0, "destination_kind":0, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2022/01/03 11:59:59 +09:00"
+  },
+  {
+    "id":3000031, "category":3, "reset_cycle":2, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count", "clear_condition_args":"0", "goal":1, "reward_no":13031, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000032, "category":3, "reset_cycle":2, "title":"フリーライブを5回プレイしよう", "detail":"フリーライブで好きな楽曲を5回プレイしよう", "add_condition_mission_id":0, "sort_order":2, "clear_condition_type":"free_live_play_count", "clear_condition_args":"0", "goal":5, "reward_no":13032, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000033, "category":3, "reset_cycle":2, "title":"フリーライブを10回プレイしよう", "detail":"フリーライブで好きな楽曲を10回プレイしよう", "add_condition_mission_id":0, "sort_order":3, "clear_condition_type":"free_live_play_count", "clear_condition_args":"0", "goal":10, "reward_no":13033, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000034, "category":3, "reset_cycle":2, "title":"フリーライブを15回プレイしよう", "detail":"フリーライブで好きな楽曲を15回プレイしよう", "add_condition_mission_id":0, "sort_order":4, "clear_condition_type":"free_live_play_count", "clear_condition_args":"0", "goal":15, "reward_no":13034, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000035, "category":3, "reset_cycle":2, "title":"フリーライブを20回プレイしよう", "detail":"フリーライブで好きな楽曲を20回プレイしよう", "add_condition_mission_id":0, "sort_order":5, "clear_condition_type":"free_live_play_count", "clear_condition_args":"0", "goal":20, "reward_no":13035, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000036, "category":3, "reset_cycle":2, "title":"フリーライブを25回プレイしよう", "detail":"フリーライブで好きな楽曲を25回プレイしよう", "add_condition_mission_id":0, "sort_order":6, "clear_condition_type":"free_live_play_count", "clear_condition_args":"0", "goal":25, "reward_no":13036, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000037, "category":3, "reset_cycle":2, "title":"フリーライブを30回プレイしよう", "detail":"フリーライブで好きな楽曲を30回プレイしよう", "add_condition_mission_id":0, "sort_order":7, "clear_condition_type":"free_live_play_count", "clear_condition_args":"0", "goal":30, "reward_no":13037, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000038, "category":3, "reset_cycle":2, "title":"フリーライブを35回プレイしよう", "detail":"フリーライブで好きな楽曲を35回プレイしよう", "add_condition_mission_id":0, "sort_order":8, "clear_condition_type":"free_live_play_count", "clear_condition_args":"0", "goal":35, "reward_no":13038, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000039, "category":3, "reset_cycle":2, "title":"対バンに1回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":9, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":1, "reward_no":13039, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000040, "category":3, "reset_cycle":2, "title":"対バンに3回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに3回挑戦しよう", "add_condition_mission_id":0, "sort_order":10, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":3, "reward_no":13040, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000041, "category":3, "reset_cycle":2, "title":"対バンに5回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに5回挑戦しよう", "add_condition_mission_id":0, "sort_order":11, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":5, "reward_no":13041, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000042, "category":3, "reset_cycle":2, "title":"対バンに10回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに10回挑戦しよう", "add_condition_mission_id":0, "sort_order":12, "clear_condition_type":"battle_live_play_count", "clear_condition_args":"0", "goal":10, "reward_no":13042, "button_type":0, "destination_kind":1, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000043, "category":3, "reset_cycle":2, "title":"2日ログインしよう", "detail":"1週間で2日ログインしよう", "add_condition_mission_id":0, "sort_order":13, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":2, "reward_no":13043, "button_type":0, "destination_kind":0, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000044, "category":3, "reset_cycle":2, "title":"3日ログインしよう", "detail":"1週間で3日ログインしよう", "add_condition_mission_id":0, "sort_order":14, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":3, "reward_no":13044, "button_type":0, "destination_kind":0, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000045, "category":3, "reset_cycle":2, "title":"5日ログインしよう", "detail":"1週間で5日ログインしよう", "add_condition_mission_id":0, "sort_order":15, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":5, "reward_no":13045, "button_type":0, "destination_kind":0, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+  },
+  {
+    "id":3000046, "category":3, "reset_cycle":2, "title":"7日ログインしよう", "detail":"1週間で7日ログインしよう", "add_condition_mission_id":0, "sort_order":16, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":7, "reward_no":13046, "button_type":0, "destination_kind":0, "started_at":"2022/01/03 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
     "id":4000001, "category":4, "reset_cycle":0, "title":"フリーライブで ユアウィスパー を5回プレイしよう", "detail":"フリーライブで楽曲 ユアウィスパー を累計5回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count", "clear_condition_args":"903", "goal":5, "reward_no":14001, "button_type":0, "destination_kind":1, "started_at":"2020/03/31 12:00:00 +09:00", "ended_at":"2020/04/14 11:59:59 +09:00"
@@ -1237,6 +1285,162 @@
   },
   {
     "id":4000323, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"49", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/12/21 13:00:00 +09:00", "ended_at":"2021/12/27 11:59:59 +09:00"
+  },
+  {
+    "id":4000324, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"49", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2021/12/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000325, "category":4, "reset_cycle":0, "title":"ワールドエネミーを1回攻撃しよう", "detail":"みんなでバトルから、ワールドエネミーを1回攻撃しよう", "add_condition_mission_id":0, "sort_order":101, "clear_condition_type":"dark_world_count", "clear_condition_args":"0", "goal":1, "reward_no":14070, "button_type":0, "destination_kind":27, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000326, "category":4, "reset_cycle":0, "title":"ワールドエネミーを3回攻撃しよう", "detail":"みんなでバトルから、ワールドエネミーを3回攻撃しよう", "add_condition_mission_id":0, "sort_order":102, "clear_condition_type":"dark_world_count", "clear_condition_args":"0", "goal":3, "reward_no":14070, "button_type":0, "destination_kind":27, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000327, "category":4, "reset_cycle":0, "title":"ワールドエネミーを5回攻撃しよう", "detail":"みんなでバトルから、ワールドエネミーを5回攻撃しよう", "add_condition_mission_id":0, "sort_order":103, "clear_condition_type":"dark_world_count", "clear_condition_args":"0", "goal":5, "reward_no":14070, "button_type":0, "destination_kind":27, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000328, "category":4, "reset_cycle":0, "title":"ワールドエネミーを10回攻撃しよう", "detail":"みんなでバトルから、ワールドエネミーを10回攻撃しよう", "add_condition_mission_id":0, "sort_order":104, "clear_condition_type":"dark_world_count", "clear_condition_args":"0", "goal":10, "reward_no":14070, "button_type":0, "destination_kind":27, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000329, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のノーマルモードに1回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のノーマルモードに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":105, "clear_condition_type":"quiz_count", "clear_condition_args":"51", "goal":1, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000330, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のノーマルモードに3回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のノーマルモードに3回挑戦しよう", "add_condition_mission_id":0, "sort_order":106, "clear_condition_type":"quiz_count", "clear_condition_args":"51", "goal":3, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000331, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のチャレンジモードに1回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":107, "clear_condition_type":"quiz_count", "clear_condition_args":"[52,1]", "goal":1, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000332, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のチャレンジモードで連続3問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続3問正解しよう", "add_condition_mission_id":0, "sort_order":108, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[52,3]", "goal":1, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000333, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のチャレンジモードで連続5問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続5問正解しよう", "add_condition_mission_id":0, "sort_order":109, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[52,5]", "goal":1, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000334, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のチャレンジモードで連続10問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続10問正解しよう", "add_condition_mission_id":0, "sort_order":110, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[52,10]", "goal":1, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000335, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のチャレンジモードで連続15問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続15問正解しよう", "add_condition_mission_id":0, "sort_order":111, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[52,15]", "goal":1, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000336, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のチャレンジモードで連続20問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続20問正解しよう", "add_condition_mission_id":0, "sort_order":112, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[52,20]", "goal":1, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000337, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のチャレンジモードで連続25問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続25問正解しよう", "add_condition_mission_id":0, "sort_order":113, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[52,25]", "goal":1, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000338, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のチャレンジモードで連続30問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続30問正解しよう", "add_condition_mission_id":0, "sort_order":114, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[52,30]", "goal":1, "reward_no":14071, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000339, "category":4, "reset_cycle":0, "title":"イントロック当てまSHOW!!のチャレンジモードで連続35問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続35問正解しよう", "add_condition_mission_id":0, "sort_order":115, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[52,35]", "goal":1, "reward_no":14072, "button_type":0, "destination_kind":13, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000340, "category":4, "reset_cycle":0, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":116, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14073, "button_type":0, "destination_kind":14, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000341, "category":4, "reset_cycle":0, "title":"フリーライブを5回プレイしよう", "detail":"フリーライブで好きな楽曲を5回プレイしよう", "add_condition_mission_id":0, "sort_order":117, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14074, "button_type":0, "destination_kind":14, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000342, "category":4, "reset_cycle":0, "title":"フリーライブを10回プレイしよう", "detail":"フリーライブで好きな楽曲を10回プレイしよう", "add_condition_mission_id":0, "sort_order":118, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14075, "button_type":0, "destination_kind":14, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000343, "category":4, "reset_cycle":0, "title":"対バンに1回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":119, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14073, "button_type":0, "destination_kind":1, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000344, "category":4, "reset_cycle":0, "title":"対バンに5回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに5回挑戦しよう", "add_condition_mission_id":0, "sort_order":120, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14074, "button_type":0, "destination_kind":1, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000345, "category":4, "reset_cycle":0, "title":"対バンに10回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに10回挑戦しよう", "add_condition_mission_id":0, "sort_order":121, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14075, "button_type":0, "destination_kind":1, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000346, "category":4, "reset_cycle":0, "title":"フリーライブで難易度『NORMAL』以上をクリアしよう", "detail":"ライブ ＞ フリーライブ から難易度『NORMAL』以上を、どの楽曲でもいいのでクリアしよう", "add_condition_mission_id":0, "sort_order":122, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"grade\":2,\"clear_status\":1}", "goal":1, "reward_no":14073, "button_type":0, "destination_kind":14, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000347, "category":4, "reset_cycle":0, "title":"フリーライブで難易度『HARD』以上をクリアしよう", "detail":"ライブ ＞ フリーライブ から難易度『HARD』以上を、どの楽曲でもいいのでクリアしよう", "add_condition_mission_id":0, "sort_order":123, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"grade\":3,\"clear_status\":1}", "goal":1, "reward_no":14074, "button_type":0, "destination_kind":14, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000348, "category":4, "reset_cycle":0, "title":"フリーライブで難易度『EXPERT』以上をクリアしよう", "detail":"ライブ ＞ フリーライブ から難易度『EXPERT』以上を、どの楽曲でもいいのでクリアしよう", "add_condition_mission_id":0, "sort_order":124, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"grade\":4,\"clear_status\":1}", "goal":1, "reward_no":14075, "button_type":0, "destination_kind":14, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000349, "category":4, "reset_cycle":0, "title":"マイタウンで収益を10万サウンドル獲得しよう", "detail":"マイタウンから、累計10万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":125, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":100000, "reward_no":14073, "button_type":0, "destination_kind":3, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000350, "category":4, "reset_cycle":0, "title":"マイタウンで収益を30万サウンドル獲得しよう", "detail":"マイタウンから、累計30万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":126, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":300000, "reward_no":14074, "button_type":0, "destination_kind":3, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000351, "category":4, "reset_cycle":0, "title":"マイタウンで収益を50万サウンドル獲得しよう", "detail":"マイタウンから、累計50万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":127, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":500000, "reward_no":14075, "button_type":0, "destination_kind":3, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+  },
+  {
+    "id":4000352, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"50", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/06 11:59:59 +09:00"
+  },
+  {
+    "id":4000354, "category":4, "reset_cycle":0, "title":"【RS強化応援】フリーライブを5回プレイしよう", "detail":"フリーライブで好きな楽曲を5回プレイしよう", "add_condition_mission_id":0, "sort_order":201, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14053, "button_type":0, "destination_kind":14, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000355, "category":4, "reset_cycle":0, "title":"【RS強化応援】フリーライブを15回プレイしよう", "detail":"フリーライブで好きな楽曲を15回プレイしよう", "add_condition_mission_id":0, "sort_order":202, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":15, "reward_no":14055, "button_type":0, "destination_kind":14, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000356, "category":4, "reset_cycle":0, "title":"【RS強化応援】フリーライブを30回プレイしよう", "detail":"フリーライブで好きな楽曲を30回プレイしよう", "add_condition_mission_id":0, "sort_order":203, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":30, "reward_no":14057, "button_type":0, "destination_kind":14, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000357, "category":4, "reset_cycle":0, "title":"【RS強化応援】ララリンのレゾナンスソウルⅠをLv1まで上げよう", "detail":"メンバー ＞ キャラクター強化から、ララリンのレゾナンスソウルⅠをLv1まで上げよう", "add_condition_mission_id":0, "sort_order":204, "clear_condition_type":"ability_level", "clear_condition_args":"5101", "goal":1, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000358, "category":4, "reset_cycle":0, "title":"【RS強化応援】ララリンのレゾナンスソウルⅠをLv3まで上げよう", "detail":"メンバー ＞ キャラクター強化から、ララリンのレゾナンスソウルⅠをLv3まで上げよう", "add_condition_mission_id":0, "sort_order":205, "clear_condition_type":"ability_level", "clear_condition_args":"5101", "goal":3, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000359, "category":4, "reset_cycle":0, "title":"【RS強化応援】ララリンのレゾナンスソウルⅠをLv5まで上げよう", "detail":"メンバー ＞ キャラクター強化から、ララリンのレゾナンスソウルⅠをLv5まで上げよう", "add_condition_mission_id":0, "sort_order":206, "clear_condition_type":"ability_level", "clear_condition_args":"5101", "goal":5, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000360, "category":4, "reset_cycle":0, "title":"【RS強化応援】ララリンのレゾナンスソウルⅠをLv7まで上げよう", "detail":"メンバー ＞ キャラクター強化から、ララリンのレゾナンスソウルⅠをLv7まで上げよう", "add_condition_mission_id":0, "sort_order":207, "clear_condition_type":"ability_level", "clear_condition_args":"5101", "goal":7, "reward_no":14069, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000361, "category":4, "reset_cycle":0, "title":"【RS強化応援】ハンドレッコのレゾナンスソウルⅠをLv1まで上げよう", "detail":"メンバー ＞ キャラクター強化から、ハンドレッコのレゾナンスソウルⅠをLv1まで上げよう", "add_condition_mission_id":0, "sort_order":208, "clear_condition_type":"ability_level", "clear_condition_args":"4301", "goal":1, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000362, "category":4, "reset_cycle":0, "title":"【RS強化応援】ハンドレッコのレゾナンスソウルⅠをLv3まで上げよう", "detail":"メンバー ＞ キャラクター強化から、ハンドレッコのレゾナンスソウルⅠをLv3まで上げよう", "add_condition_mission_id":0, "sort_order":209, "clear_condition_type":"ability_level", "clear_condition_args":"4301", "goal":3, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000363, "category":4, "reset_cycle":0, "title":"【RS強化応援】ハンドレッコのレゾナンスソウルⅠをLv5まで上げよう", "detail":"メンバー ＞ キャラクター強化から、ハンドレッコのレゾナンスソウルⅠをLv5まで上げよう", "add_condition_mission_id":0, "sort_order":210, "clear_condition_type":"ability_level", "clear_condition_args":"4301", "goal":5, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000364, "category":4, "reset_cycle":0, "title":"【RS強化応援】ハンドレッコのレゾナンスソウルⅠをLv7まで上げよう", "detail":"メンバー ＞ キャラクター強化から、ハンドレッコのレゾナンスソウルⅠをLv7まで上げよう", "add_condition_mission_id":0, "sort_order":211, "clear_condition_type":"ability_level", "clear_condition_args":"4301", "goal":7, "reward_no":14069, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000365, "category":4, "reset_cycle":0, "title":"【RS強化応援】アイオーンのレゾナンスソウルⅠをLv1まで上げよう", "detail":"メンバー ＞ キャラクター強化から、アイオーンのレゾナンスソウルⅠをLv1まで上げよう", "add_condition_mission_id":0, "sort_order":212, "clear_condition_type":"ability_level", "clear_condition_args":"7201", "goal":1, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000366, "category":4, "reset_cycle":0, "title":"【RS強化応援】アイオーンのレゾナンスソウルⅠをLv3まで上げよう", "detail":"メンバー ＞ キャラクター強化から、アイオーンのレゾナンスソウルⅠをLv3まで上げよう", "add_condition_mission_id":0, "sort_order":213, "clear_condition_type":"ability_level", "clear_condition_args":"7201", "goal":3, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000367, "category":4, "reset_cycle":0, "title":"【RS強化応援】アイオーンのレゾナンスソウルⅠをLv5まで上げよう", "detail":"メンバー ＞ キャラクター強化から、アイオーンのレゾナンスソウルⅠをLv5まで上げよう", "add_condition_mission_id":0, "sort_order":214, "clear_condition_type":"ability_level", "clear_condition_args":"7201", "goal":5, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000368, "category":4, "reset_cycle":0, "title":"【RS強化応援】アイオーンのレゾナンスソウルⅠをLv7まで上げよう", "detail":"メンバー ＞ キャラクター強化から、アイオーンのレゾナンスソウルⅠをLv7まで上げよう", "add_condition_mission_id":0, "sort_order":215, "clear_condition_type":"ability_level", "clear_condition_args":"7201", "goal":7, "reward_no":14069, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000369, "category":4, "reset_cycle":0, "title":"【RS強化応援】デルミンのレゾナンスソウルⅠをLv1まで上げよう", "detail":"メンバー ＞ キャラクター強化から、デルミンのレゾナンスソウルⅠをLv1まで上げよう", "add_condition_mission_id":0, "sort_order":216, "clear_condition_type":"ability_level", "clear_condition_args":"1301", "goal":1, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000370, "category":4, "reset_cycle":0, "title":"【RS強化応援】デルミンのレゾナンスソウルⅠをLv3まで上げよう", "detail":"メンバー ＞ キャラクター強化から、デルミンのレゾナンスソウルⅠをLv3まで上げよう", "add_condition_mission_id":0, "sort_order":217, "clear_condition_type":"ability_level", "clear_condition_args":"1301", "goal":3, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000371, "category":4, "reset_cycle":0, "title":"【RS強化応援】デルミンのレゾナンスソウルⅠをLv5まで上げよう", "detail":"メンバー ＞ キャラクター強化から、デルミンのレゾナンスソウルⅠをLv5まで上げよう", "add_condition_mission_id":0, "sort_order":218, "clear_condition_type":"ability_level", "clear_condition_args":"1301", "goal":5, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000372, "category":4, "reset_cycle":0, "title":"【RS強化応援】デルミンのレゾナンスソウルⅠをLv7まで上げよう", "detail":"メンバー ＞ キャラクター強化から、デルミンのレゾナンスソウルⅠをLv7まで上げよう", "add_condition_mission_id":0, "sort_order":219, "clear_condition_type":"ability_level", "clear_condition_args":"1301", "goal":7, "reward_no":14069, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000373, "category":4, "reset_cycle":0, "title":"【RS強化応援】リカオのレゾナンスソウルⅠをLv1まで上げよう", "detail":"メンバー ＞ キャラクター強化から、リカオのレゾナンスソウルⅠをLv1まで上げよう", "add_condition_mission_id":0, "sort_order":220, "clear_condition_type":"ability_level", "clear_condition_args":"11101", "goal":1, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000374, "category":4, "reset_cycle":0, "title":"【RS強化応援】リカオのレゾナンスソウルⅠをLv3まで上げよう", "detail":"メンバー ＞ キャラクター強化から、リカオのレゾナンスソウルⅠをLv3まで上げよう", "add_condition_mission_id":0, "sort_order":221, "clear_condition_type":"ability_level", "clear_condition_args":"11101", "goal":3, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000375, "category":4, "reset_cycle":0, "title":"【RS強化応援】リカオのレゾナンスソウルⅠをLv5まで上げよう", "detail":"メンバー ＞ キャラクター強化から、リカオのレゾナンスソウルⅠをLv5まで上げよう", "add_condition_mission_id":0, "sort_order":222, "clear_condition_type":"ability_level", "clear_condition_args":"11101", "goal":5, "reward_no":14068, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+  },
+  {
+    "id":4000376, "category":4, "reset_cycle":0, "title":"【RS強化応援】リカオのレゾナンスソウルⅠをLv7まで上げよう", "detail":"メンバー ＞ キャラクター強化から、リカオのレゾナンスソウルⅠをLv7まで上げよう", "add_condition_mission_id":0, "sort_order":223, "clear_condition_type":"ability_level", "clear_condition_args":"11101", "goal":7, "reward_no":14069, "button_type":0, "destination_kind":28, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
   },
   {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"

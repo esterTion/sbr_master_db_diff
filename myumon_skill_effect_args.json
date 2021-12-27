@@ -3427,5 +3427,275 @@
   },
   {
     "id":19000210, "effect_arg_no":2020102, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,10]", "digest":"バトルのダメージ10%UP", "description":"バトルにおいてダメージに(基礎ダメージ×10%)が加算される。"
+  },
+  {
+    "id":20000001, "effect_arg_no":90030, "level":1, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,190,0,0]", "digest":"GOOD以上でスコア19%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを19%UPするよ"
+  },
+  {
+    "id":20000002, "effect_arg_no":90030, "level":2, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,200,0,0]", "digest":"GOOD以上でスコア20%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを20%UPするよ"
+  },
+  {
+    "id":20000003, "effect_arg_no":90030, "level":3, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,210,0,0]", "digest":"GOOD以上でスコア21%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを21%UPするよ"
+  },
+  {
+    "id":20000004, "effect_arg_no":90030, "level":4, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,220,0,0]", "digest":"GOOD以上でスコア22%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを22%UPするよ"
+  },
+  {
+    "id":20000005, "effect_arg_no":90030, "level":5, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,230,0,0]", "digest":"GOOD以上でスコア23%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを23%UPするよ"
+  },
+  {
+    "id":20000006, "effect_arg_no":90030, "level":6, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,240,0,0]", "digest":"GOOD以上でスコア24%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを24%UPするよ"
+  },
+  {
+    "id":20000007, "effect_arg_no":90030, "level":7, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,250,0,0]", "digest":"GOOD以上でスコア25%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを25%UPするよ"
+  },
+  {
+    "id":20000008, "effect_arg_no":90030, "level":8, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,260,0,0]", "digest":"GOOD以上でスコア26%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを26%UPするよ"
+  },
+  {
+    "id":20000009, "effect_arg_no":90030, "level":9, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,270,0,0]", "digest":"GOOD以上でスコア27%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを27%UPするよ"
+  },
+  {
+    "id":20000010, "effect_arg_no":90030, "level":10, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,280,0,0]", "digest":"GOOD以上でスコア28%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でスコアを28%UPするよ"
+  },
+  {
+    "id":20000101, "effect_arg_no":90031, "level":1, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,190,0,0]", "digest":"BAD以上でスコア19%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを19%UPするよ"
+  },
+  {
+    "id":20000102, "effect_arg_no":90031, "level":2, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,210,0,0]", "digest":"BAD以上でスコア21%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを21%UPするよ"
+  },
+  {
+    "id":20000103, "effect_arg_no":90031, "level":3, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,230,0,0]", "digest":"BAD以上でスコア23%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを23%UPするよ"
+  },
+  {
+    "id":20000104, "effect_arg_no":90031, "level":4, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,250,0,0]", "digest":"BAD以上でスコア25%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを25%UPするよ"
+  },
+  {
+    "id":20000105, "effect_arg_no":90031, "level":5, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,270,0,0]", "digest":"BAD以上でスコア27%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを27%UPするよ"
+  },
+  {
+    "id":20000106, "effect_arg_no":90031, "level":6, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,290,0,0]", "digest":"BAD以上でスコア29%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを29%UPするよ"
+  },
+  {
+    "id":20000107, "effect_arg_no":90031, "level":7, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,310,0,0]", "digest":"BAD以上でスコア31%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを31%UPするよ"
+  },
+  {
+    "id":20000108, "effect_arg_no":90031, "level":8, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,330,0,0]", "digest":"BAD以上でスコア33%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを33%UPするよ"
+  },
+  {
+    "id":20000109, "effect_arg_no":90031, "level":9, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,350,0,0]", "digest":"BAD以上でスコア35%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを35%UPするよ"
+  },
+  {
+    "id":20000110, "effect_arg_no":90031, "level":10, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,370,0,0]", "digest":"BAD以上でスコア37%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを37%UPするよ"
+  },
+  {
+    "id":20000111, "effect_arg_no":90031, "level":11, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,390,0,0]", "digest":"BAD以上でスコア39%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを39%UPするよ"
+  },
+  {
+    "id":20000112, "effect_arg_no":90031, "level":12, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,410,0,0]", "digest":"BAD以上でスコア41%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを41%UPするよ"
+  },
+  {
+    "id":20000113, "effect_arg_no":90031, "level":13, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,430,0,0]", "digest":"BAD以上でスコア43%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを43%UPするよ"
+  },
+  {
+    "id":20000114, "effect_arg_no":90031, "level":14, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,450,0,0]", "digest":"BAD以上でスコア45%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを45%UPするよ"
+  },
+  {
+    "id":20000115, "effect_arg_no":90031, "level":15, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,470,0,0]", "digest":"BAD以上でスコア47%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを47%UPするよ"
+  },
+  {
+    "id":20000116, "effect_arg_no":90031, "level":16, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,490,0,0]", "digest":"BAD以上でスコア49%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを49%UPするよ"
+  },
+  {
+    "id":20000117, "effect_arg_no":90031, "level":17, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,530,60,5]", "digest":"BAD以上でスコア53%UPコンボ補正6%UPライフ5回復", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを53%UPコンボ補正を6%UPライフを5回復するよ"
+  },
+  {
+    "id":20000118, "effect_arg_no":90031, "level":18, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,570,120,10]", "digest":"BAD以上でスコア57%UPコンボ補正12%UPライフ10回復", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを57%UPコンボ補正を12%UPライフを10回復するよ"
+  },
+  {
+    "id":20000119, "effect_arg_no":90031, "level":19, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,610,180,15]", "digest":"BAD以上でスコア61%UPコンボ補正18%UPライフ15回復", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを61%UPコンボ補正を18%UPライフを15回復するよ"
+  },
+  {
+    "id":20000120, "effect_arg_no":90031, "level":20, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,660,240,20]", "digest":"BAD以上でスコア66%UPコンボ補正24%UPライフ20回復", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを66%UPコンボ補正を24%UPライフを20回復するよ"
+  },
+  {
+    "id":21000001, "effect_arg_no":1040010, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,2,0,0]", "digest":"ホールド除くMISS判定を1回GREAT", "description":"ホールドノーツを除くMISS判定を1回GREATにするよ"
+  },
+  {
+    "id":21000002, "effect_arg_no":1040010, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,2,0,0]", "digest":"ホールド除くMISS判定を1回GREAT", "description":"ホールドノーツを除くMISS判定を1回GREATにするよ"
+  },
+  {
+    "id":21000003, "effect_arg_no":1040010, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,2,0,0]", "digest":"ホールド除くMISS判定を1回GREAT", "description":"ホールドノーツを除くMISS判定を1回GREATにするよ"
+  },
+  {
+    "id":21000004, "effect_arg_no":1040010, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,2,0,0]", "digest":"ホールド除くMISS判定を1回GREAT", "description":"ホールドノーツを除くMISS判定を1回GREATにするよ"
+  },
+  {
+    "id":21000005, "effect_arg_no":1040010, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,2,0,0]", "digest":"ホールド除くMISS判定を1回GREAT", "description":"ホールドノーツを除くMISS判定を1回GREATにするよ"
+  },
+  {
+    "id":21000006, "effect_arg_no":1040010, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,2,0,0]", "digest":"ホールド除くMISS判定を2回GREAT", "description":"ホールドノーツを除くMISS判定を2回GREATにするよ"
+  },
+  {
+    "id":21000007, "effect_arg_no":1040010, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,2,0,0]", "digest":"ホールド除くMISS判定を2回GREAT", "description":"ホールドノーツを除くMISS判定を2回GREATにするよ"
+  },
+  {
+    "id":21000008, "effect_arg_no":1040010, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,2,0,0]", "digest":"ホールド除くMISS判定を2回GREAT", "description":"ホールドノーツを除くMISS判定を2回GREATにするよ"
+  },
+  {
+    "id":21000009, "effect_arg_no":1040010, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,2,0,0]", "digest":"ホールド除くMISS判定を2回GREAT", "description":"ホールドノーツを除くMISS判定を2回GREATにするよ"
+  },
+  {
+    "id":21000010, "effect_arg_no":1040010, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,2,0,0]", "digest":"ホールド除くMISS判定を3回GREAT", "description":"ホールドノーツを除くMISS判定を3回GREATにするよ"
+  },
+  {
+    "id":21000101, "effect_arg_no":1040011, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,3,0,0]", "digest":"ホールド除くMISS判定を1回PERFECT", "description":"ホールドノーツを除くMISS判定を1回PERFECTにするよ"
+  },
+  {
+    "id":21000102, "effect_arg_no":1040011, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,3,0,0]", "digest":"ホールド除くMISS判定を1回PERFECT", "description":"ホールドノーツを除くMISS判定を1回PERFECTにするよ"
+  },
+  {
+    "id":21000103, "effect_arg_no":1040011, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,3,0,0]", "digest":"ホールド除くMISS判定を1回PERFECT", "description":"ホールドノーツを除くMISS判定を1回PERFECTにするよ"
+  },
+  {
+    "id":21000104, "effect_arg_no":1040011, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,3,0,0]", "digest":"ホールド除くMISS判定を1回PERFECT", "description":"ホールドノーツを除くMISS判定を1回PERFECTにするよ"
+  },
+  {
+    "id":21000105, "effect_arg_no":1040011, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,3,0,0]", "digest":"ホールド除くMISS判定を1回PERFECT", "description":"ホールドノーツを除くMISS判定を1回PERFECTにするよ"
+  },
+  {
+    "id":21000106, "effect_arg_no":1040011, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,3,0,0]", "digest":"ホールド除くMISS判定を2回PERFECT", "description":"ホールドノーツを除くMISS判定を2回PERFECTにするよ"
+  },
+  {
+    "id":21000107, "effect_arg_no":1040011, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,3,0,0]", "digest":"ホールド除くMISS判定を2回PERFECT", "description":"ホールドノーツを除くMISS判定を2回PERFECTにするよ"
+  },
+  {
+    "id":21000108, "effect_arg_no":1040011, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,3,0,0]", "digest":"ホールド除くMISS判定を2回PERFECT", "description":"ホールドノーツを除くMISS判定を2回PERFECTにするよ"
+  },
+  {
+    "id":21000109, "effect_arg_no":1040011, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,3,0,0]", "digest":"ホールド除くMISS判定を2回PERFECT", "description":"ホールドノーツを除くMISS判定を2回PERFECTにするよ"
+  },
+  {
+    "id":21000110, "effect_arg_no":1040011, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,0,0]", "digest":"ホールド除くMISS判定を3回PERFECT", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ"
+  },
+  {
+    "id":21000111, "effect_arg_no":1040011, "level":11, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,0,0]", "digest":"ホールド除くMISS判定を3回PERFECT", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ"
+  },
+  {
+    "id":21000112, "effect_arg_no":1040011, "level":12, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,0,0]", "digest":"ホールド除くMISS判定を3回PERFECT", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ"
+  },
+  {
+    "id":21000113, "effect_arg_no":1040011, "level":13, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,0,0]", "digest":"ホールド除くMISS判定を3回PERFECT", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ"
+  },
+  {
+    "id":21000114, "effect_arg_no":1040011, "level":14, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,0,0]", "digest":"ホールド除くMISS判定を3回PERFECT", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ"
+  },
+  {
+    "id":21000115, "effect_arg_no":1040011, "level":15, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,0,0]", "digest":"ホールド除くMISS判定を3回PERFECT", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ"
+  },
+  {
+    "id":21000116, "effect_arg_no":1040011, "level":16, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,0,0]", "digest":"ホールド除くMISS判定を3回PERFECT", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ"
+  },
+  {
+    "id":21000117, "effect_arg_no":1040011, "level":17, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,15,0]", "digest":"ホールド除くMISS判定を3回PERFECT&MISSまでスコア1.5%UP", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ。さらにMISS判定になるまでのスコアを1.5%UPするんだ。"
+  },
+  {
+    "id":21000118, "effect_arg_no":1040011, "level":18, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,30,0]", "digest":"ホールド除くMISS判定を3回PERFECT&MISSまでスコア3%UP", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ。さらにMISS判定になるまでのスコアを3%UPするんだ。"
+  },
+  {
+    "id":21000119, "effect_arg_no":1040011, "level":19, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,45,0]", "digest":"ホールド除くMISS判定を3回PERFECT&MISSまでスコア4.5%UP", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ。さらにMISS判定になるまでのスコアを4.5%UPするんだ。"
+  },
+  {
+    "id":21000120, "effect_arg_no":1040011, "level":20, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,3,60,0]", "digest":"ホールド除くMISS判定を3回PERFECT&MISSまでスコア6%UP", "description":"ホールドノーツを除くMISS判定を3回PERFECTにするよ。さらにMISS判定になるまでのスコアを6%UPするんだ。"
+  },
+  {
+    "id":22000001, "effect_arg_no":2000150, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,350]", "digest":"自身のハーモニー値を35%付与", "description":"ボクが持つハーモニー値の35%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000002, "effect_arg_no":2000150, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,370]", "digest":"自身のハーモニー値を37%付与", "description":"ボクが持つハーモニー値の37%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000003, "effect_arg_no":2000150, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,390]", "digest":"自身のハーモニー値を39%付与", "description":"ボクが持つハーモニー値の39%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000004, "effect_arg_no":2000150, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,410]", "digest":"自身のハーモニー値を41%付与", "description":"ボクが持つハーモニー値の41%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000005, "effect_arg_no":2000150, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,430]", "digest":"自身のハーモニー値を43%付与", "description":"ボクが持つハーモニー値の43%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000006, "effect_arg_no":2000150, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,450]", "digest":"自身のハーモニー値を45%付与", "description":"ボクが持つハーモニー値の45%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000007, "effect_arg_no":2000150, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,470]", "digest":"自身のハーモニー値を47%付与", "description":"ボクが持つハーモニー値の47%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000008, "effect_arg_no":2000150, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,490]", "digest":"自身のハーモニー値を49%付与", "description":"ボクが持つハーモニー値の49%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000009, "effect_arg_no":2000150, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,510]", "digest":"自身のハーモニー値を51%付与", "description":"ボクが持つハーモニー値の51%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000010, "effect_arg_no":2000150, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,530]", "digest":"自身のハーモニー値を53%付与", "description":"ボクが持つハーモニー値の53%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000101, "effect_arg_no":2000151, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,240]", "digest":"自身のハーモニー値を24%付与", "description":"ボクが持つハーモニー値の24%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000102, "effect_arg_no":2000151, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,260]", "digest":"自身のハーモニー値を26%付与", "description":"ボクが持つハーモニー値の26%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000103, "effect_arg_no":2000151, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,280]", "digest":"自身のハーモニー値を28%付与", "description":"ボクが持つハーモニー値の28%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000104, "effect_arg_no":2000151, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,300]", "digest":"自身のハーモニー値を30%付与", "description":"ボクが持つハーモニー値の30%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000105, "effect_arg_no":2000151, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,320]", "digest":"自身のハーモニー値を32%付与", "description":"ボクが持つハーモニー値の32%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000106, "effect_arg_no":2000151, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,340]", "digest":"自身のハーモニー値を34%付与", "description":"ボクが持つハーモニー値の34%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000107, "effect_arg_no":2000151, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,360]", "digest":"自身のハーモニー値を36%付与", "description":"ボクが持つハーモニー値の36%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000108, "effect_arg_no":2000151, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,380]", "digest":"自身のハーモニー値を38%付与", "description":"ボクが持つハーモニー値の38%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000109, "effect_arg_no":2000151, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,400]", "digest":"自身のハーモニー値を40%付与", "description":"ボクが持つハーモニー値の40%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000110, "effect_arg_no":2000151, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,420]", "digest":"自身のハーモニー値を42%付与", "description":"ボクが持つハーモニー値の42%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000111, "effect_arg_no":2000151, "level":11, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,440]", "digest":"自身のハーモニー値を44%付与", "description":"ボクが持つハーモニー値の44%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000112, "effect_arg_no":2000151, "level":12, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,460]", "digest":"自身のハーモニー値を46%付与", "description":"ボクが持つハーモニー値の46%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000113, "effect_arg_no":2000151, "level":13, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,480]", "digest":"自身のハーモニー値を48%付与", "description":"ボクが持つハーモニー値の48%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000114, "effect_arg_no":2000151, "level":14, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,500]", "digest":"自身のハーモニー値を50%付与", "description":"ボクが持つハーモニー値の50%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000115, "effect_arg_no":2000151, "level":15, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,520]", "digest":"自身のハーモニー値を52%付与", "description":"ボクが持つハーモニー値の52%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000116, "effect_arg_no":2000151, "level":16, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,540]", "digest":"自身のハーモニー値を54%付与", "description":"ボクが持つハーモニー値の54%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000117, "effect_arg_no":2000151, "level":17, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,90,90,540]", "digest":"自身のハーモニー値を54%リズム＆メロディ値を9%付与", "description":"ボクが持つハーモニー値の54%、リズム＆メロディ値の9%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000118, "effect_arg_no":2000151, "level":18, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,180,180,540]", "digest":"自身のハーモニー値を54%リズム＆メロディ値を18%付与", "description":"ボクが持つハーモニー値の54%、リズム＆メロディ値の18%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000119, "effect_arg_no":2000151, "level":19, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,270,270,540]", "digest":"自身のハーモニー値を54%リズム＆メロディ値を27%付与", "description":"ボクが持つハーモニー値の54%、リズム＆メロディ値の27%を装備したメンバーに付与するよ"
+  },
+  {
+    "id":22000120, "effect_arg_no":2000151, "level":20, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,360,360,540]", "digest":"自身のハーモニー値を54%リズム＆メロディ値を36%付与", "description":"ボクが持つハーモニー値の54%、リズム＆メロディ値の36%を装備したメンバーに付与するよ"
   }
 ]

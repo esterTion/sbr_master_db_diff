@@ -79,5 +79,23 @@
   },
   {
     "id":27, "genkai_no":5, "level":5, "exp_start":2000, "exp_end":2001, "myumon_level_limit":60
+  },
+  {
+    "id":28, "genkai_no":6, "level":0, "exp_start":0, "exp_end":1999, "myumon_level_limit":55
+  },
+  {
+    "id":29, "genkai_no":6, "level":1, "exp_start":2000, "exp_end":9999, "myumon_level_limit":60
+  },
+  {
+    "id":30, "genkai_no":6, "level":2, "exp_start":10000, "exp_end":17999, "myumon_level_limit":65
+  },
+  {
+    "id":31, "genkai_no":6, "level":3, "exp_start":18000, "exp_end":26999, "myumon_level_limit":70
+  },
+  {
+    "id":32, "genkai_no":6, "level":4, "exp_start":27000, "exp_end":35999, "myumon_level_limit":75
+  },
+  {
+    "id":33, "genkai_no":6, "level":5, "exp_start":36000, "exp_end":36001, "myumon_level_limit":80
   }
 ]

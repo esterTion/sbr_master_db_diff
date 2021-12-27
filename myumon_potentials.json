@@ -225,6 +225,9 @@
     "id":630002, "name":"ハーモニーパラメータUP++", "digest":"パラメータ『ハーモニー』を100%UP", "description":"自身のパラメータ『ハーモニー』を100%UPする", "potential_effect_type":6, "potential_effect_args":"[0,0,0,100]"
   },
   {
+    "id":640000, "name":"今年も始めよう、ボク達のライブを！", "digest":"パラメータ『リズム』『メロディ』を50%UPするよ", "description":"ボクのパラメータ『リズム』『メロディ』を50%UPするよ。", "potential_effect_type":6, "potential_effect_args":"[0,50,50,0]"
+  },
+  {
     "id":1014000, "name":"同属性同時編成パラメータUP", "digest":"ドキドキ属性のブロマイドを4枚以上編成した場合、全パラメータ値20%UP", "description":"ドキドキ属性のブロマイドを4枚以上編成した場合、このブロマイドの全パラメータ20%UP", "potential_effect_type":10, "potential_effect_args":"{\"num\":4,\"status\":[20,20,20,20],\"category\":1}"
   },
   {
