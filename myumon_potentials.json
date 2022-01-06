@@ -6,6 +6,9 @@
     "id":101100, "name":"ましゅましゅスコアUP+", "digest":"ましゅましゅ楽曲でスコア7%UP", "description":"『Mashumairesh!!』の楽曲プレイ時、常時スコアが7%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":1,\"combo\":0,\"score\":70}"
   },
   {
+    "id":101101, "name":"ましゅましゅスコアUP++", "digest":"ましゅましゅ楽曲でスコア15%UP", "description":"『Mashumairesh!!』の楽曲プレイ時、常時スコアが15%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":1,\"combo\":0,\"score\":150}"
+  },
+  {
     "id":101200, "name":"ましゅましゅコンボUP+", "digest":"ましゅましゅ楽曲でコンボ補正15%UP", "description":"『Mashumairesh!!』の楽曲プレイ時、常時コンボ補正が15%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":1,\"combo\":150,\"score\":0}"
   },
   {
@@ -94,6 +97,9 @@
   },
   {
     "id":111100, "name":"ヨカゼスコアUP+", "digest":"ヨカゼ楽曲でスコア7%UP", "description":"『Yokazenohorizon』の楽曲プレイ時、常時スコアが7%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":11,\"combo\":0,\"score\":70}"
+  },
+  {
+    "id":111101, "name":"ヨカゼスコアUP++", "digest":"ヨカゼ楽曲でスコア15%UP", "description":"『Yokazenohorizon』の楽曲プレイ時、常時スコアが15%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":11,\"combo\":0,\"score\":150}"
   },
   {
     "id":111200, "name":"ヨカゼコンボUP+", "digest":"ヨカゼ楽曲でコンボ補正15%UP", "description":"『Yokazenohorizon』の楽曲プレイ時、常時コンボ補正が15%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":11,\"combo\":150,\"score\":0}"
