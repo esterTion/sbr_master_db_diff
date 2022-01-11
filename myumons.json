@@ -885,6 +885,12 @@
     "id":534031, "myumon_basic_id":53, "name":"[GoGoしんGOず！ススメゼヨ♪]", "music_category":3, "rarity":5, "costume_id":5304, "life":489, "rhythm":2417, "melody":2470, "harmony":6710, "main_1_skill_id":10042, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":300002, "enable_deck":true, "description":"「REIJINGSIGNAL」に所属する「ういうい」のブロマイドです"
   },
   {
+    "id":534040, "myumon_basic_id":53, "name":"[NewYearの抱負、ゼヨ。]", "music_category":3, "rarity":4, "costume_id":5305, "life":410, "rhythm":5078, "melody":1913, "harmony":1990, "main_1_skill_id":20001, "main_2_skill_id":82001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":534041, "shinka_recipe_no":34, "myumon_potential_id":105200, "enable_deck":true, "description":"「REIJINGSIGNAL」に所属する「ういうい」のブロマイドです"
+  },
+  {
+    "id":534041, "myumon_basic_id":53, "name":"[新春Liveはミーのもの、ゼヨ]", "music_category":3, "rarity":5, "costume_id":5305, "life":537, "rhythm":6800, "melody":2593, "harmony":2526, "main_1_skill_id":20002, "main_2_skill_id":82002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":105200, "enable_deck":true, "description":"「REIJINGSIGNAL」に所属する「ういうい」のブロマイドです"
+  },
+  {
     "id":611000, "myumon_basic_id":61, "name":"[DOKONJOFINGER]", "music_category":3, "rarity":1, "costume_id":6100, "life":104, "rhythm":626, "melody":825, "harmony":619, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":611001, "shinka_recipe_no":31, "myumon_potential_id":0, "enable_deck":true, "description":"「DOKONJOFINGER」に所属する「ヤス」のブロマイドです"
   },
   {
@@ -1267,6 +1273,12 @@
   },
   {
     "id":734031, "myumon_basic_id":73, "name":"[今宵ハロウィンは拙者色に（以下略]", "music_category":2, "rarity":5, "costume_id":7304, "life":488, "rhythm":2413, "melody":6713, "harmony":2468, "main_1_skill_id":21002, "main_2_skill_id":82002, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":107200, "enable_deck":true, "description":"「シンガンクリムゾンズ」に所属する「ヤイバ」のブロマイドです"
+  },
+  {
+    "id":734040, "myumon_basic_id":73, "name":"[龍狐無想神威流奥義裏表返し!!]", "music_category":3, "rarity":4, "costume_id":7305, "life":505, "rhythm":4667, "melody":2941, "harmony":2955, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110044, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":734041, "shinka_recipe_no":34, "myumon_potential_id":232000, "enable_deck":true, "description":"「シンガンクリムゾンズ」に所属する「ヤイバ」のブロマイドです"
+  },
+  {
+    "id":734041, "myumon_basic_id":73, "name":"[故にハッピーニュー龍剣伝、参る！]", "music_category":3, "rarity":5, "costume_id":7305, "life":717, "rhythm":6770, "melody":4203, "harmony":4291, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110045, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":232000, "enable_deck":true, "description":"「シンガンクリムゾンズ」に所属する「ヤイバ」のブロマイドです"
   },
   {
     "id":741000, "myumon_basic_id":74, "name":"[SHINGANCRIMSONZ]", "music_category":2, "rarity":1, "costume_id":7400, "life":114, "rhythm":828, "melody":587, "harmony":586, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":741001, "shinka_recipe_no":21, "myumon_potential_id":0, "enable_deck":true, "description":"「シンガンクリムゾンズ」に所属する「ロム」のブロマイドです"
@@ -2674,6 +2686,9 @@
   },
   {
     "id":9293000, "myumon_basic_id":929, "name":"[悪魔の墓標ライブ♪]", "music_category":1, "rarity":3, "costume_id":92900, "life":318, "rhythm":1689, "melody":2984, "harmony":1704, "main_1_skill_id":12012, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620001, "enable_deck":true, "description":"「デモンズベノム」に所属する「デモンバット」のブロマイドです"
+  },
+  {
+    "id":9293010, "myumon_basic_id":929, "name":"[見せてやる！デモンズ獅子の舞]", "music_category":3, "rarity":3, "costume_id":92900, "life":344, "rhythm":3763, "melody":1724, "harmony":1758, "main_1_skill_id":12002, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":610001, "enable_deck":true, "description":"「デモンズベノム」に所属する「デモンバット」のブロマイドです"
   },
   {
     "id":9294000, "myumon_basic_id":929, "name":"[コアクマ黒魔術占いの始まりだ！]", "music_category":2, "rarity":4, "costume_id":92902, "life":404, "rhythm":1906, "melody":5103, "harmony":2012, "main_1_skill_id":11031, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":9294001, "shinka_recipe_no":24, "myumon_potential_id":300002, "enable_deck":true, "description":"「デモンズベノム」に所属する「デモンバット」のブロマイドです"

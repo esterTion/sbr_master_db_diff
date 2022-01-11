@@ -366,6 +366,9 @@
     "id":720, "name":"NeoN", "name_hiragana":"ねおん", "artist_id":7, "special_artist_id":0, "jacket_image_id":720, "sort_order":720, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/12/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
+    "id":721, "name":"紅きRevolution", "name_hiragana":"あかきれぼりゅーしょん", "artist_id":7, "special_artist_id":0, "jacket_image_id":721, "sort_order":721, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2022/01/11 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":168, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
+  },
+  {
     "id":801, "name":"サイエンス・フィクション", "name_hiragana":"さいえんすふぃくしょん", "artist_id":8, "special_artist_id":0, "jacket_image_id":801, "sort_order":801, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/04/21 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":162, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
@@ -675,10 +678,10 @@
     "id":9034, "name":"Inside of Snowdome", "name_hiragana":"いんさいどおぶすのーどーむ", "artist_id":90, "special_artist_id":900, "jacket_image_id":9011, "sort_order":10804, "category":1, "fever_started_at":0, "music_requirement_id":1, "started_at":"2020/12/14 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":122, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ガウガストライクス（楽曲提供：カフカ）"
   },
   {
-    "id":9035, "name":"青空のラプソディ", "name_hiragana":"あおぞらのらぷそでぃ", "artist_id":90, "special_artist_id":1800, "jacket_image_id":9035, "sort_order":11403, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/24 11:00:00 +09:00", "ended_at":"2021/12/27 14:00:00 +09:00", "bpm":135, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ふぁにゃ（楽曲提供：fhána）"
+    "id":9035, "name":"青空のラプソディ", "name_hiragana":"あおぞらのらぷそでぃ", "artist_id":90, "special_artist_id":1800, "jacket_image_id":9035, "sort_order":11401, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/24 11:00:00 +09:00", "ended_at":"2021/12/27 14:00:00 +09:00", "bpm":135, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ふぁにゃ（楽曲提供：fhána）"
   },
   {
-    "id":9036, "name":"nameless color", "name_hiragana":"ねーむれすからー", "artist_id":90, "special_artist_id":1800, "jacket_image_id":9035, "sort_order":11404, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/24 11:00:00 +09:00", "ended_at":"2021/12/27 14:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ふぁにゃ（楽曲提供：fhána）"
+    "id":9036, "name":"nameless color", "name_hiragana":"ねーむれすからー", "artist_id":90, "special_artist_id":1800, "jacket_image_id":9035, "sort_order":11402, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2020/12/24 11:00:00 +09:00", "ended_at":"2021/12/27 14:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ふぁにゃ（楽曲提供：fhána）"
   },
   {
     "id":9037, "name":"Unicorn in the blue（re:works）", "name_hiragana":"ゆにこーんいんざぶるー", "artist_id":90, "special_artist_id":700, "jacket_image_id":9037, "sort_order":10604, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/01/05 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":184, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"雫シークレットマインド"
@@ -699,7 +702,7 @@
     "id":9042, "name":"全力 I Love You！", "name_hiragana":"ぜんりょくあいらぶゆー", "artist_id":90, "special_artist_id":1900, "jacket_image_id":9042, "sort_order":19005, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/11 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":165, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
   },
   {
-    "id":9043, "name":"divine intervention", "name_hiragana":"でぃばいんいんたーべんしょん", "artist_id":90, "special_artist_id":1800, "jacket_image_id":9035, "sort_order":11405, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/02 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":176, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ふぁにゃ（楽曲提供：fhána）"
+    "id":9043, "name":"divine intervention", "name_hiragana":"でぃばいんいんたーべんしょん", "artist_id":90, "special_artist_id":1800, "jacket_image_id":9035, "sort_order":11403, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/03/02 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":176, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ふぁにゃ（楽曲提供：fhána）"
   },
   {
     "id":9044, "name":"ランナーズハイ!!", "name_hiragana":"らんなーずはい", "artist_id":90, "special_artist_id":1700, "jacket_image_id":9044, "sort_order":19006, "category":2, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/02/28 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":230, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":""
@@ -762,7 +765,7 @@
     "id":9063, "name":"ヒーローライン", "name_hiragana":"ひーろーらいん", "artist_id":90, "special_artist_id":1600, "jacket_image_id":9029, "sort_order":11304, "category":3, "fever_started_at":0, "music_requirement_id":0, "started_at":"2021/07/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":168, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"バイガンバーV"
   },
   {
-    "id":9064, "name":"愛のシュプリーム！", "name_hiragana":"あいのしゅぷりーむ", "artist_id":90, "special_artist_id":1800, "jacket_image_id":9035, "sort_order":11406, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/08/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":135, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ふぁにゃ（楽曲提供：fhána）"
+    "id":9064, "name":"愛のシュプリーム！", "name_hiragana":"あいのしゅぷりーむ", "artist_id":90, "special_artist_id":1800, "jacket_image_id":9035, "sort_order":11404, "category":3, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/08/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":135, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ふぁにゃ（楽曲提供：fhána）"
   },
   {
     "id":9065, "name":"線幸花火", "name_hiragana":"せんこうはなび", "artist_id":90, "special_artist_id":1400, "jacket_image_id":9027, "sort_order":11204, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2021/08/16 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":167, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"すたっどばんぎゃっしゅ"

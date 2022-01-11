@@ -1528,5 +1528,338 @@
   },
   {
     "id":3002109006, "box_gacha_id":3002109, "content_type":"Item", "content_id":100004, "content_quantity":1, "weight":1, "lot_count":1, "key_flag":true
+  },
+  {
+    "id":3002201001, "box_gacha_id":3002201, "content_type":"Item", "content_id":20011, "content_quantity":5, "weight":20, "lot_count":6, "key_flag":false
+  },
+  {
+    "id":3002201002, "box_gacha_id":3002201, "content_type":"Item", "content_id":20001, "content_quantity":5, "weight":20, "lot_count":6, "key_flag":false
+  },
+  {
+    "id":3002201003, "box_gacha_id":3002201, "content_type":"Item", "content_id":20021, "content_quantity":5, "weight":20, "lot_count":6, "key_flag":false
+  },
+  {
+    "id":3002201004, "box_gacha_id":3002201, "content_type":"Item", "content_id":20012, "content_quantity":5, "weight":5, "lot_count":3, "key_flag":false
+  },
+  {
+    "id":3002201005, "box_gacha_id":3002201, "content_type":"Item", "content_id":20002, "content_quantity":5, "weight":5, "lot_count":3, "key_flag":false
+  },
+  {
+    "id":3002201006, "box_gacha_id":3002201, "content_type":"Item", "content_id":20022, "content_quantity":5, "weight":5, "lot_count":3, "key_flag":false
+  },
+  {
+    "id":3002201007, "box_gacha_id":3002201, "content_type":"Item", "content_id":10001, "content_quantity":10, "weight":10, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002201008, "box_gacha_id":3002201, "content_type":"Item", "content_id":50001, "content_quantity":10000, "weight":10, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002201009, "box_gacha_id":3002201, "content_type":"Item", "content_id":100001, "content_quantity":1, "weight":2, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002201010, "box_gacha_id":3002201, "content_type":"Item", "content_id":100002, "content_quantity":1, "weight":1, "lot_count":1, "key_flag":false
+  },
+  {
+    "id":3002201011, "box_gacha_id":3002201, "content_type":"Item", "content_id":40001, "content_quantity":1, "weight":1, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002201012, "box_gacha_id":3002201, "content_type":"Item", "content_id":60003, "content_quantity":50, "weight":1, "lot_count":2, "key_flag":true
+  },
+  {
+    "id":3002202001, "box_gacha_id":3002202, "content_type":"Item", "content_id":20011, "content_quantity":5, "weight":8, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002202002, "box_gacha_id":3002202, "content_type":"Item", "content_id":20001, "content_quantity":5, "weight":8, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002202003, "box_gacha_id":3002202, "content_type":"Item", "content_id":20021, "content_quantity":5, "weight":8, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002202004, "box_gacha_id":3002202, "content_type":"Item", "content_id":20012, "content_quantity":5, "weight":8, "lot_count":9, "key_flag":false
+  },
+  {
+    "id":3002202005, "box_gacha_id":3002202, "content_type":"Item", "content_id":20002, "content_quantity":5, "weight":8, "lot_count":9, "key_flag":false
+  },
+  {
+    "id":3002202006, "box_gacha_id":3002202, "content_type":"Item", "content_id":20022, "content_quantity":5, "weight":8, "lot_count":9, "key_flag":false
+  },
+  {
+    "id":3002202007, "box_gacha_id":3002202, "content_type":"Item", "content_id":10001, "content_quantity":10, "weight":10, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002202008, "box_gacha_id":3002202, "content_type":"Item", "content_id":10002, "content_quantity":10, "weight":10, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002202009, "box_gacha_id":3002202, "content_type":"Item", "content_id":50001, "content_quantity":10000, "weight":5, "lot_count":25, "key_flag":false
+  },
+  {
+    "id":3002202010, "box_gacha_id":3002202, "content_type":"Item", "content_id":100002, "content_quantity":1, "weight":6, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002202011, "box_gacha_id":3002202, "content_type":"Myumon", "content_id":9293010, "content_quantity":1, "weight":5, "lot_count":1, "key_flag":false
+  },
+  {
+    "id":3002202012, "box_gacha_id":3002202, "content_type":"Item", "content_id":40001, "content_quantity":1, "weight":7, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002202013, "box_gacha_id":3002202, "content_type":"Item", "content_id":60003, "content_quantity":100, "weight":4, "lot_count":2, "key_flag":true
+  },
+  {
+    "id":3002203001, "box_gacha_id":3002203, "content_type":"Item", "content_id":20011, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002203002, "box_gacha_id":3002203, "content_type":"Item", "content_id":20001, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002203003, "box_gacha_id":3002203, "content_type":"Item", "content_id":20021, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002203004, "box_gacha_id":3002203, "content_type":"Item", "content_id":20012, "content_quantity":5, "weight":7, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002203005, "box_gacha_id":3002203, "content_type":"Item", "content_id":20002, "content_quantity":5, "weight":7, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002203006, "box_gacha_id":3002203, "content_type":"Item", "content_id":20022, "content_quantity":5, "weight":7, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002203007, "box_gacha_id":3002203, "content_type":"Item", "content_id":10001, "content_quantity":20, "weight":5, "lot_count":20, "key_flag":false
+  },
+  {
+    "id":3002203008, "box_gacha_id":3002203, "content_type":"Item", "content_id":10002, "content_quantity":10, "weight":10, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002203009, "box_gacha_id":3002203, "content_type":"Item", "content_id":50001, "content_quantity":10000, "weight":10, "lot_count":25, "key_flag":false
+  },
+  {
+    "id":3002203010, "box_gacha_id":3002203, "content_type":"Item", "content_id":180001, "content_quantity":5, "weight":10, "lot_count":4, "key_flag":false
+  },
+  {
+    "id":3002203011, "box_gacha_id":3002203, "content_type":"Item", "content_id":100003, "content_quantity":1, "weight":4, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002203012, "box_gacha_id":3002203, "content_type":"Item", "content_id":180002, "content_quantity":1, "weight":10, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002203013, "box_gacha_id":3002203, "content_type":"Item", "content_id":30001, "content_quantity":1, "weight":5, "lot_count":2, "key_flag":false
+  },
+  {
+    "id":3002203014, "box_gacha_id":3002203, "content_type":"Myumon", "content_id":9293010, "content_quantity":1, "weight":5, "lot_count":1, "key_flag":false
+  },
+  {
+    "id":3002203015, "box_gacha_id":3002203, "content_type":"Item", "content_id":60003, "content_quantity":100, "weight":5, "lot_count":3, "key_flag":true
+  },
+  {
+    "id":3002204001, "box_gacha_id":3002204, "content_type":"Item", "content_id":20011, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204002, "box_gacha_id":3002204, "content_type":"Item", "content_id":20001, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204003, "box_gacha_id":3002204, "content_type":"Item", "content_id":20021, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204004, "box_gacha_id":3002204, "content_type":"Item", "content_id":20012, "content_quantity":5, "weight":5, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002204005, "box_gacha_id":3002204, "content_type":"Item", "content_id":20002, "content_quantity":5, "weight":5, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002204006, "box_gacha_id":3002204, "content_type":"Item", "content_id":20022, "content_quantity":5, "weight":5, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002204007, "box_gacha_id":3002204, "content_type":"Item", "content_id":20013, "content_quantity":5, "weight":5, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002204008, "box_gacha_id":3002204, "content_type":"Item", "content_id":20003, "content_quantity":5, "weight":5, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002204009, "box_gacha_id":3002204, "content_type":"Item", "content_id":20023, "content_quantity":5, "weight":5, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002204010, "box_gacha_id":3002204, "content_type":"Item", "content_id":10001, "content_quantity":20, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204011, "box_gacha_id":3002204, "content_type":"Item", "content_id":10002, "content_quantity":10, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204012, "box_gacha_id":3002204, "content_type":"Item", "content_id":10003, "content_quantity":10, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204013, "box_gacha_id":3002204, "content_type":"Item", "content_id":50001, "content_quantity":10000, "weight":5, "lot_count":50, "key_flag":false
+  },
+  {
+    "id":3002204014, "box_gacha_id":3002204, "content_type":"Item", "content_id":180001, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204015, "box_gacha_id":3002204, "content_type":"Item", "content_id":180002, "content_quantity":1, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204016, "box_gacha_id":3002204, "content_type":"Item", "content_id":100001, "content_quantity":1, "weight":5, "lot_count":15, "key_flag":false
+  },
+  {
+    "id":3002204017, "box_gacha_id":3002204, "content_type":"Item", "content_id":100002, "content_quantity":1, "weight":5, "lot_count":15, "key_flag":false
+  },
+  {
+    "id":3002204018, "box_gacha_id":3002204, "content_type":"Item", "content_id":100003, "content_quantity":1, "weight":3, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204019, "box_gacha_id":3002204, "content_type":"Item", "content_id":100004, "content_quantity":1, "weight":3, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002204020, "box_gacha_id":3002204, "content_type":"Item", "content_id":30001, "content_quantity":1, "weight":3, "lot_count":2, "key_flag":false
+  },
+  {
+    "id":3002204021, "box_gacha_id":3002204, "content_type":"Myumon", "content_id":9293010, "content_quantity":1, "weight":3, "lot_count":1, "key_flag":false
+  },
+  {
+    "id":3002204022, "box_gacha_id":3002204, "content_type":"Item", "content_id":60003, "content_quantity":100, "weight":2, "lot_count":6, "key_flag":false
+  },
+  {
+    "id":3002204023, "box_gacha_id":3002204, "content_type":"AvatarItem", "content_id":21293, "content_quantity":1, "weight":1, "lot_count":1, "key_flag":true
+  },
+  {
+    "id":3002205001, "box_gacha_id":3002205, "content_type":"Item", "content_id":20012, "content_quantity":5, "weight":5, "lot_count":9, "key_flag":false
+  },
+  {
+    "id":3002205002, "box_gacha_id":3002205, "content_type":"Item", "content_id":20002, "content_quantity":5, "weight":5, "lot_count":9, "key_flag":false
+  },
+  {
+    "id":3002205003, "box_gacha_id":3002205, "content_type":"Item", "content_id":20022, "content_quantity":5, "weight":5, "lot_count":9, "key_flag":false
+  },
+  {
+    "id":3002205004, "box_gacha_id":3002205, "content_type":"Item", "content_id":20013, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002205005, "box_gacha_id":3002205, "content_type":"Item", "content_id":20003, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002205006, "box_gacha_id":3002205, "content_type":"Item", "content_id":20023, "content_quantity":5, "weight":5, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002205007, "box_gacha_id":3002205, "content_type":"Item", "content_id":10001, "content_quantity":20, "weight":8, "lot_count":20, "key_flag":false
+  },
+  {
+    "id":3002205008, "box_gacha_id":3002205, "content_type":"Item", "content_id":10002, "content_quantity":20, "weight":8, "lot_count":15, "key_flag":false
+  },
+  {
+    "id":3002205009, "box_gacha_id":3002205, "content_type":"Item", "content_id":10003, "content_quantity":10, "weight":8, "lot_count":15, "key_flag":false
+  },
+  {
+    "id":3002205010, "box_gacha_id":3002205, "content_type":"Item", "content_id":50001, "content_quantity":50000, "weight":10, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002205011, "box_gacha_id":3002205, "content_type":"Item", "content_id":180001, "content_quantity":5, "weight":8, "lot_count":15, "key_flag":false
+  },
+  {
+    "id":3002205012, "box_gacha_id":3002205, "content_type":"Item", "content_id":180002, "content_quantity":1, "weight":5, "lot_count":25, "key_flag":false
+  },
+  {
+    "id":3002205013, "box_gacha_id":3002205, "content_type":"Item", "content_id":100001, "content_quantity":1, "weight":5, "lot_count":20, "key_flag":false
+  },
+  {
+    "id":3002205014, "box_gacha_id":3002205, "content_type":"Item", "content_id":100002, "content_quantity":1, "weight":5, "lot_count":15, "key_flag":false
+  },
+  {
+    "id":3002205015, "box_gacha_id":3002205, "content_type":"Item", "content_id":100003, "content_quantity":1, "weight":3, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002205016, "box_gacha_id":3002205, "content_type":"Item", "content_id":100004, "content_quantity":1, "weight":1, "lot_count":5, "key_flag":false
+  },
+  {
+    "id":3002205017, "box_gacha_id":3002205, "content_type":"Item", "content_id":100005, "content_quantity":1, "weight":1, "lot_count":1, "key_flag":false
+  },
+  {
+    "id":3002205018, "box_gacha_id":3002205, "content_type":"Item", "content_id":30001, "content_quantity":1, "weight":2, "lot_count":3, "key_flag":false
+  },
+  {
+    "id":3002205019, "box_gacha_id":3002205, "content_type":"Myumon", "content_id":9293010, "content_quantity":1, "weight":4, "lot_count":2, "key_flag":false
+  },
+  {
+    "id":3002205020, "box_gacha_id":3002205, "content_type":"Item", "content_id":60003, "content_quantity":100, "weight":1, "lot_count":1, "key_flag":false
+  },
+  {
+    "id":3002205021, "box_gacha_id":3002205, "content_type":"AvatarItem", "content_id":31293, "content_quantity":1, "weight":1, "lot_count":1, "key_flag":true
+  },
+  {
+    "id":3002206001, "box_gacha_id":3002206, "content_type":"Item", "content_id":20011, "content_quantity":1, "weight":14, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002206002, "box_gacha_id":3002206, "content_type":"Item", "content_id":20001, "content_quantity":1, "weight":14, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002206003, "box_gacha_id":3002206, "content_type":"Item", "content_id":20021, "content_quantity":1, "weight":14, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002206004, "box_gacha_id":3002206, "content_type":"Item", "content_id":10001, "content_quantity":1, "weight":19, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002206005, "box_gacha_id":3002206, "content_type":"Item", "content_id":50001, "content_quantity":300, "weight":38, "lot_count":300, "key_flag":false
+  },
+  {
+    "id":3002206006, "box_gacha_id":3002206, "content_type":"AvatarItem", "content_id":11294, "content_quantity":1, "weight":1, "lot_count":1, "key_flag":true
+  },
+  {
+    "id":3002207001, "box_gacha_id":3002207, "content_type":"Item", "content_id":20012, "content_quantity":1, "weight":14, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002207002, "box_gacha_id":3002207, "content_type":"Item", "content_id":20002, "content_quantity":1, "weight":14, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002207003, "box_gacha_id":3002207, "content_type":"Item", "content_id":20022, "content_quantity":1, "weight":14, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002207004, "box_gacha_id":3002207, "content_type":"Item", "content_id":10002, "content_quantity":1, "weight":18, "lot_count":10, "key_flag":false
+  },
+  {
+    "id":3002207005, "box_gacha_id":3002207, "content_type":"Item", "content_id":50001, "content_quantity":300, "weight":38, "lot_count":300, "key_flag":false
+  },
+  {
+    "id":3002207006, "box_gacha_id":3002207, "content_type":"Item", "content_id":100004, "content_quantity":1, "weight":1, "lot_count":3, "key_flag":false
+  },
+  {
+    "id":3002207007, "box_gacha_id":3002207, "content_type":"TownBuilding", "content_id":40405, "content_quantity":1, "weight":1, "lot_count":1, "key_flag":true
+  },
+  {
+    "id":3002208001, "box_gacha_id":3002208, "content_type":"Item", "content_id":20011, "content_quantity":3, "weight":20, "lot_count":50, "key_flag":false
+  },
+  {
+    "id":3002208002, "box_gacha_id":3002208, "content_type":"Item", "content_id":20001, "content_quantity":3, "weight":20, "lot_count":50, "key_flag":false
+  },
+  {
+    "id":3002208003, "box_gacha_id":3002208, "content_type":"Item", "content_id":20021, "content_quantity":3, "weight":20, "lot_count":50, "key_flag":false
+  },
+  {
+    "id":3002208004, "box_gacha_id":3002208, "content_type":"Item", "content_id":10001, "content_quantity":3, "weight":19, "lot_count":50, "key_flag":false
+  },
+  {
+    "id":3002208005, "box_gacha_id":3002208, "content_type":"Item", "content_id":50001, "content_quantity":500, "weight":19, "lot_count":150, "key_flag":false
+  },
+  {
+    "id":3002208006, "box_gacha_id":3002208, "content_type":"Item", "content_id":210001, "content_quantity":30, "weight":1, "lot_count":1, "key_flag":false
+  },
+  {
+    "id":3002208007, "box_gacha_id":3002208, "content_type":"Item", "content_id":100004, "content_quantity":1, "weight":1, "lot_count":1, "key_flag":false
+  },
+  {
+    "id":3002208008, "box_gacha_id":3002208, "content_type":"Item", "content_id":100005, "content_quantity":1, "weight":1, "lot_count":2, "key_flag":true
+  },
+  {
+    "id":3002209001, "box_gacha_id":3002209, "content_type":"Item", "content_id":20012, "content_quantity":3, "weight":20, "lot_count":50, "key_flag":false
+  },
+  {
+    "id":3002209002, "box_gacha_id":3002209, "content_type":"Item", "content_id":20002, "content_quantity":3, "weight":20, "lot_count":50, "key_flag":false
+  },
+  {
+    "id":3002209003, "box_gacha_id":3002209, "content_type":"Item", "content_id":20022, "content_quantity":3, "weight":20, "lot_count":50, "key_flag":false
+  },
+  {
+    "id":3002209004, "box_gacha_id":3002209, "content_type":"Item", "content_id":10002, "content_quantity":3, "weight":19, "lot_count":50, "key_flag":false
+  },
+  {
+    "id":3002209005, "box_gacha_id":3002209, "content_type":"Item", "content_id":50001, "content_quantity":500, "weight":20, "lot_count":150, "key_flag":false
+  },
+  {
+    "id":3002209006, "box_gacha_id":3002209, "content_type":"Item", "content_id":100004, "content_quantity":1, "weight":1, "lot_count":1, "key_flag":true
   }
 ]
