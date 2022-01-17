@@ -2880,6 +2880,18 @@
     "id":22600401, "gacha_id":2260, "button_no":4, "sort_order":50, "cycle_type":1, "cycle_start":1, "cycle_end":0, "cost_type":"Item", "cost_id":40073, "cost_quantity":1, "output_count":1, "bonus_no":942, "point_item_id":120073, "point_item_quantity":10, "button_description":"チケットガチャ", "tips_description":""
   },
   {
+    "id":22610101, "gacha_id":2261, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":0, "cost_type":"Item", "cost_id":60002, "cost_quantity":1500, "output_count":11, "bonus_no":0, "point_item_id":120076, "point_item_quantity":2, "button_description":"11回ガチャ", "tips_description":"SR1枚以上確定"
+  },
+  {
+    "id":22620101, "gacha_id":2262, "button_no":1, "sort_order":100, "cycle_type":2, "cycle_start":1, "cycle_end":1, "cost_type":"Item", "cost_id":60001, "cost_quantity":0, "output_count":3, "bonus_no":0, "point_item_id":null, "point_item_quantity":0, "button_description":"3回ガチャ", "tips_description":"1日1回無料"
+  },
+  {
+    "id":22630101, "gacha_id":2263, "button_no":1, "sort_order":100, "cycle_type":2, "cycle_start":1, "cycle_end":1, "cost_type":"Item", "cost_id":60001, "cost_quantity":0, "output_count":6, "bonus_no":0, "point_item_id":null, "point_item_quantity":0, "button_description":"6回ガチャ", "tips_description":"1日1回無料"
+  },
+  {
+    "id":22640101, "gacha_id":2264, "button_no":1, "sort_order":100, "cycle_type":2, "cycle_start":1, "cycle_end":1, "cost_type":"Item", "cost_id":60001, "cost_quantity":0, "output_count":9, "bonus_no":0, "point_item_id":null, "point_item_quantity":0, "button_description":"9回ガチャ", "tips_description":"1日1回無料"
+  },
+  {
     "id":300040101, "gacha_id":30004, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":300, "cost_type":"Item", "cost_id":110001, "cost_quantity":900, "output_count":5, "bonus_no":0, "point_item_id":null, "point_item_quantity":0, "button_description":"5連ガチャ", "tips_description":"合計300回まで"
   },
   {

@@ -150,6 +150,9 @@
     "id":51, "title":"おかえりなさいログインボーナス", "campaign":1, "condition_type":3, "condition_params":"{\"limit_day\":14,\"sleep_day\":21}", "sort_order":200
   },
   {
+    "id":52, "title":"リリース690日カウントダウンログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":52
+  },
+  {
     "id":1032, "title":"イベントログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":9
   },
   {
