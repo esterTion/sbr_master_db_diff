@@ -1455,6 +1455,63 @@
     "id":4000379, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"52", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/01/21 13:00:00 +09:00", "ended_at":"2022/01/26 11:59:59 +09:00"
   },
   {
+    "id":4000380, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"52", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/01/26 12:00:00 +09:00", "ended_at":"2022/01/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000381, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブを5回プレイしよう", "detail":"フリーライブを5回プレイしよう", "add_condition_mission_id":0, "sort_order":101, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14076, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000382, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブを10回プレイしよう", "detail":"フリーライブを10回プレイしよう", "add_condition_mission_id":0, "sort_order":102, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14076, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000383, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブを25回プレイしよう", "detail":"フリーライブを25回プレイしよう", "add_condition_mission_id":0, "sort_order":103, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":25, "reward_no":14076, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000384, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブを50回プレイしよう", "detail":"フリーライブを50回プレイしよう", "add_condition_mission_id":0, "sort_order":104, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":50, "reward_no":14077, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000385, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブを100回プレイしよう", "detail":"フリーライブを100回プレイしよう", "add_condition_mission_id":0, "sort_order":105, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":100, "reward_no":14078, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000386, "category":4, "reset_cycle":0, "title":"【690日記念】対バンに1回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":106, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14076, "button_type":0, "destination_kind":1, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000387, "category":4, "reset_cycle":0, "title":"【690日記念】対バンに3回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに3回挑戦しよう", "add_condition_mission_id":0, "sort_order":107, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":3, "reward_no":14076, "button_type":0, "destination_kind":1, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000388, "category":4, "reset_cycle":0, "title":"【690日記念】対バンに5回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに5回挑戦しよう", "add_condition_mission_id":0, "sort_order":108, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14077, "button_type":0, "destination_kind":1, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000389, "category":4, "reset_cycle":0, "title":"【690日記念】マイタウンから、累計100万サウンドル獲得しよう", "detail":"マイタウンから、累計100万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":109, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":1000000, "reward_no":14077, "button_type":0, "destination_kind":3, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000390, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブでMy pace!!を3回プレイしよう", "detail":"フリーライブで楽曲『My pace!!』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":110, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[226],\"clear_status\":0}", "goal":3, "reward_no":14076, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000391, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブでI'll Be New Dawnを3回プレイしよう", "detail":"フリーライブで楽曲『I'll Be New Dawn』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":111, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[513],\"clear_status\":0}", "goal":3, "reward_no":14076, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000392, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブでRe:Climbを3回プレイしよう", "detail":"フリーライブで楽曲『Re:Climb』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":112, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[704],\"clear_status\":0}", "goal":3, "reward_no":14076, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000393, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブで紅きRevolutionを3回プレイしよう", "detail":"フリーライブで楽曲『紅きRevolution』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":113, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[721],\"clear_status\":0}", "goal":3, "reward_no":14076, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000394, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブでCLOUD9を3回プレイしよう", "detail":"フリーライブで楽曲『CLOUD9』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":114, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9071],\"clear_status\":0}", "goal":3, "reward_no":14076, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000395, "category":4, "reset_cycle":0, "title":"【690日記念】フリーライブで掻き鳴らせよ旋律を3回プレイしよう", "detail":"フリーライブで楽曲『掻き鳴らせよ旋律』を累計3回プレイしよう", "add_condition_mission_id":0, "sort_order":115, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[315],\"clear_status\":0}", "goal":3, "reward_no":14076, "button_type":0, "destination_kind":14, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000396, "category":4, "reset_cycle":0, "title":"【690日記念】3日ログインしよう", "detail":"期間中に3日ログインしよう", "add_condition_mission_id":0, "sort_order":116, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":3, "reward_no":14076, "button_type":0, "destination_kind":0, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000397, "category":4, "reset_cycle":0, "title":"【690日記念】5日ログインしよう", "detail":"期間中に5日ログインしよう", "add_condition_mission_id":0, "sort_order":117, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":5, "reward_no":14076, "button_type":0, "destination_kind":0, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
+    "id":4000398, "category":4, "reset_cycle":0, "title":"【690日記念】7日ログインしよう", "detail":"期間中に7日ログインしよう", "add_condition_mission_id":0, "sort_order":118, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":7, "reward_no":14078, "button_type":0, "destination_kind":0, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
