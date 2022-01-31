@@ -1362,7 +1362,16 @@
     "id":90410101, "login_bonus_sheet_id":904101, "day_count":1, "reward_no":4041, "scene_type":2, "scene_args":"{\"episode_id\":90410101,\"myumon_ids\":[41]}"
   },
   {
+    "id":90420101, "login_bonus_sheet_id":904201, "day_count":1, "reward_no":4042, "scene_type":2, "scene_args":"{\"episode_id\":90420101,\"myumon_ids\":[42]}"
+  },
+  {
+    "id":90530101, "login_bonus_sheet_id":905301, "day_count":1, "reward_no":4053, "scene_type":2, "scene_args":"{\"episode_id\":90530101,\"myumon_ids\":[53]}"
+  },
+  {
     "id":90640101, "login_bonus_sheet_id":906401, "day_count":1, "reward_no":4064, "scene_type":2, "scene_args":"{\"episode_id\":90640101,\"myumon_ids\":[64]}"
+  },
+  {
+    "id":90720101, "login_bonus_sheet_id":907201, "day_count":1, "reward_no":4072, "scene_type":2, "scene_args":"{\"episode_id\":90720101,\"myumon_ids\":[72]}"
   },
   {
     "id":90910101, "login_bonus_sheet_id":909101, "day_count":1, "reward_no":4091, "scene_type":2, "scene_args":"{\"episode_id\":90910101,\"myumon_ids\":[91]}"
@@ -1435,5 +1444,17 @@
   },
   {
     "id":100030104, "login_bonus_sheet_id":1000301, "day_count":4, "reward_no":2107, "scene_type":1, "scene_args":"{\"episode_id\":100030104,\"myumon_ids\":[]}"
+  },
+  {
+    "id":100040101, "login_bonus_sheet_id":1000401, "day_count":1, "reward_no":2104, "scene_type":1, "scene_args":"{\"episode_id\":100040101,\"myumon_ids\":[]}"
+  },
+  {
+    "id":100040102, "login_bonus_sheet_id":1000401, "day_count":2, "reward_no":2105, "scene_type":1, "scene_args":"{\"episode_id\":100040102,\"myumon_ids\":[]}"
+  },
+  {
+    "id":100040103, "login_bonus_sheet_id":1000401, "day_count":3, "reward_no":2106, "scene_type":1, "scene_args":"{\"episode_id\":100040103,\"myumon_ids\":[]}"
+  },
+  {
+    "id":100040104, "login_bonus_sheet_id":1000401, "day_count":4, "reward_no":2107, "scene_type":1, "scene_args":"{\"episode_id\":100040104,\"myumon_ids\":[]}"
   }
 ]
