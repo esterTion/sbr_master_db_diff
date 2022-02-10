@@ -60,6 +60,12 @@
     "id":114071, "myumon_basic_id":11, "name":"[ほわわ！まっしろクリスマスライブ]", "music_category":1, "rarity":5, "costume_id":1108, "life":140, "rhythm":2302, "melody":8236, "harmony":2357, "main_1_skill_id":10032, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":211000, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
   },
   {
+    "id":114080, "myumon_basic_id":11, "name":"[都会のバレンタインってすごい！]", "music_category":1, "rarity":4, "costume_id":1109, "life":396, "rhythm":5214, "melody":1945, "harmony":1919, "main_1_skill_id":160001, "main_2_skill_id":101001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":114081, "shinka_recipe_no":14, "myumon_potential_id":212000, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
+  },
+  {
+    "id":114081, "myumon_basic_id":11, "name":"[れっつチョコっしゅましゅライブ！]", "music_category":1, "rarity":5, "costume_id":1109, "life":533, "rhythm":6869, "melody":2566, "harmony":2561, "main_1_skill_id":160002, "main_2_skill_id":101002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":212000, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「ほわん」のブロマイドです"
+  },
+  {
     "id":121000, "myumon_basic_id":12, "name":"[Mashumairesh!!]", "music_category":2, "rarity":1, "costume_id":1200, "life":102, "rhythm":591, "melody":808, "harmony":685, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":121001, "shinka_recipe_no":21, "myumon_potential_id":0, "enable_deck":true, "description":"「Mashumairesh!!」に所属する「マシマヒメコ」のブロマイドです"
   },
   {
@@ -2004,6 +2010,12 @@
     "id":1144001, "myumon_basic_id":114, "name":"[夜風に揺れる四人のB]", "music_category":2, "rarity":5, "costume_id":11401, "life":347, "rhythm":2011, "melody":1971, "harmony":3408, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630001, "enable_deck":true, "description":"「Yokazenohorizon」に所属する「ウララギ」のブロマイドです"
   },
   {
+    "id":1144010, "myumon_basic_id":114, "name":"[ありますよ。ビターな香りの大人味]", "music_category":1, "rarity":4, "costume_id":11403, "life":28, "rhythm":6364, "melody":1605, "harmony":1583, "main_1_skill_id":11031, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1144011, "shinka_recipe_no":14, "myumon_potential_id":211000, "enable_deck":true, "description":"「Yokazenohorizon」に所属する「ウララギ」のブロマイドです"
+  },
+  {
+    "id":1144011, "myumon_basic_id":114, "name":"[いらっしゃいませ。ビターな夜に。]", "music_category":1, "rarity":5, "costume_id":11403, "life":137, "rhythm":8372, "melody":2083, "harmony":2062, "main_1_skill_id":10032, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":211000, "enable_deck":true, "description":"「Yokazenohorizon」に所属する「ウララギ」のブロマイドです"
+  },
+  {
     "id":1211000, "myumon_basic_id":121, "name":"[しにものぐるい]", "music_category":1, "rarity":1, "costume_id":12100, "life":97, "rhythm":624, "melody":641, "harmony":853, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1211001, "shinka_recipe_no":11, "myumon_potential_id":0, "enable_deck":true, "description":"「しにものぐるい」に所属する「まりまり」のブロマイドです"
   },
   {
@@ -2731,6 +2743,9 @@
   },
   {
     "id":9274000, "myumon_basic_id":927, "name":"[SSマインド]", "music_category":2, "rarity":4, "costume_id":92700, "life":404, "rhythm":2008, "melody":1938, "harmony":5273, "main_1_skill_id":22001, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630000, "enable_deck":true, "description":"「雫シークレットマインド」に所属する「タートルB・I・G」のブロマイドです"
+  },
+  {
+    "id":9283000, "myumon_basic_id":928, "name":"[ドキドキ！？バレンタイン]", "music_category":1, "rarity":3, "costume_id":92800, "life":340, "rhythm":3761, "melody":1783, "harmony":1729, "main_1_skill_id":12012, "main_2_skill_id":0, "support_skill_id":110013, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":610001, "enable_deck":true, "description":"「ガウガストライクス」に所属する「デーヤン」のブロマイドです"
   },
   {
     "id":9284000, "myumon_basic_id":928, "name":"[夕焼けデビリッシュライフガード]", "music_category":1, "rarity":4, "costume_id":92800, "life":410, "rhythm":5111, "melody":1997, "harmony":1955, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110016, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":610000, "enable_deck":true, "description":"「ガウガストライクス」に所属する「デーヤン」のブロマイドです"

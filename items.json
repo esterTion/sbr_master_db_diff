@@ -252,6 +252,9 @@
     "id":40080, "category":4, "name":"チョコっと♡2ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40081, "category":4, "name":"チョコっと♡3ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -612,6 +615,9 @@
     "id":120080, "category":12, "name":"チョコっと♡2ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120081, "category":12, "name":"チョコっと♡3ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -625,6 +631,9 @@
   },
   {
     "id":130005, "category":13, "name":"ホワイトデークッキー", "quantity_max":9999, "ex_params":"{\"stamina\":69}", "description":"心のこもった贈り物。\nイヤホイを69回復するアイテムです。"
+  },
+  {
+    "id":130006, "category":13, "name":"スイートチョコ", "quantity_max":9999, "ex_params":"{\"stamina\":1}", "description":"心のこもった贈り物。\nイヤホイを1回復するアイテムです。"
   },
   {
     "id":140001, "category":14, "name":"めもりあるポイント", "quantity_max":999999, "ex_params":"{}", "description":"各種イベントで獲得するポイントです"
@@ -705,7 +714,7 @@
     "id":141003, "category":14, "name":"バトル招待券D", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\n「みんなでバトル」へ参加するために必要なアイテムです。"
   },
   {
-    "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":4, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"
+    "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":20, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"
   },
   {
     "id":160001, "category":16, "name":"やり直しの鍵", "quantity_max":9999, "ex_params":"{}", "description":"潜在解放したブロマイドを別のブロマイドにやり直しできるアイテムです。"

@@ -117,7 +117,7 @@
     "id":1104, "category":1, "content_type":"TownStaff", "content_id":5001, "content_quantity":1, "cost_item_id":50001, "cost_quantity":2000, "buy_limit_type":2, "buy_limit":1, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":201, "comment":"", "started_at":"2019/04/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":""
   },
   {
-    "id":1200, "category":1, "content_type":"Item", "content_id":150001, "content_quantity":1, "cost_item_id":60002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":4, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":1000, "comment":"所持上限数+25", "started_at":"2020/10/30 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":""
+    "id":1200, "category":1, "content_type":"Item", "content_id":150001, "content_quantity":1, "cost_item_id":60002, "cost_quantity":100, "buy_limit_type":1, "buy_limit":20, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":1000, "comment":"所持上限数+25", "started_at":"2020/10/30 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":""
   },
   {
     "id":1300, "category":1, "content_type":"Item", "content_id":181001, "content_quantity":1, "cost_item_id":60003, "cost_quantity":25, "buy_limit_type":4, "buy_limit":200, "store_condition_ids":"[]", "game_start_after_hour":0, "sort_order":150, "comment":"", "started_at":"2021/02/09 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "weeks":""
