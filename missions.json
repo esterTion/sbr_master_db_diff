@@ -1629,6 +1629,33 @@
     "id":4000437, "category":4, "reset_cycle":0, "title":"【アニメストア】ミッションを全てクリアしよう", "detail":"【アニメストア】ミッションを全てクリアしよう", "add_condition_mission_id":0, "sort_order":116, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000422,4000423,4000424,4000425,4000426,4000427,4000428,4000429,4000430,4000431,4000432,4000433,4000434,4000435,4000436]", "goal":15, "reward_no":14083, "button_type":0, "destination_kind":0, "started_at":"2022/02/14 11:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
   },
   {
+    "id":4000438, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"55", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/02/22 11:59:59 +09:00"
+  },
+  {
+    "id":4000440, "category":4, "reset_cycle":0, "title":"【ジグジグ参戦】フリーライブで移動手段はバイクですをプレイしよう", "detail":"フリーライブで楽曲『移動手段はバイクです』を1回プレイしよう", "add_condition_mission_id":0, "sort_order":201, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[601],\"clear_status\":0}", "goal":1, "reward_no":14084, "button_type":0, "destination_kind":14, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000441, "category":4, "reset_cycle":0, "title":"【ジグジグ参戦】フリーライブでMAGMAをプレイしよう", "detail":"フリーライブで楽曲『MAGMA』を1回プレイしよう", "add_condition_mission_id":0, "sort_order":202, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[701],\"clear_status\":0}", "goal":1, "reward_no":14084, "button_type":0, "destination_kind":14, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000442, "category":4, "reset_cycle":0, "title":"【ジグジグ参戦】フリーライブでAwakening Worldをプレイしよう", "detail":"フリーライブで楽曲『Awakening World』を1回プレイしよう", "add_condition_mission_id":0, "sort_order":203, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[1102],\"clear_status\":0}", "goal":1, "reward_no":14084, "button_type":0, "destination_kind":14, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000443, "category":4, "reset_cycle":0, "title":"【ジグジグ参戦】フリーライブでEMORITYをプレイしよう", "detail":"フリーライブで楽曲『EMORITY』を1回プレイしよう", "add_condition_mission_id":0, "sort_order":204, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[1801],\"clear_status\":0}", "goal":1, "reward_no":14084, "button_type":0, "destination_kind":14, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000444, "category":4, "reset_cycle":0, "title":"【ジグジグ参戦】フリーライブで燦然世界をプレイしよう", "detail":"フリーライブで楽曲『燦然世界』を1回プレイしよう", "add_condition_mission_id":0, "sort_order":205, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9074],\"clear_status\":0}", "goal":1, "reward_no":14084, "button_type":0, "destination_kind":14, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000445, "category":4, "reset_cycle":0, "title":"【ジグジグ参戦】フリーライブで好きな曲を10曲プレイしよう", "detail":"フリーライブで好きな楽曲を10回プレイしよう", "add_condition_mission_id":0, "sort_order":206, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14084, "button_type":0, "destination_kind":14, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000446, "category":4, "reset_cycle":0, "title":"【ジグジグ参戦】マイタウンで収益を10万サウンドル獲得しよう", "detail":"マイタウンから、累計10万サウンドル獲得しよう", "add_condition_mission_id":0, "sort_order":207, "clear_condition_type":"custom_shop_soundle_count", "clear_condition_args":"0", "goal":100000, "reward_no":14084, "button_type":0, "destination_kind":3, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+  },
+  {
+    "id":4000447, "category":4, "reset_cycle":0, "title":"【ジグジグ参戦】ミッションを全てクリアしよう", "detail":"【ジグジグ参戦】ミッションを全てクリアしよう", "add_condition_mission_id":0, "sort_order":208, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000440,4000441,4000442,4000443,4000444,4000445,4000446]", "goal":7, "reward_no":14085, "button_type":0, "destination_kind":0, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
