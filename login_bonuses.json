@@ -168,6 +168,15 @@
     "id":57, "title":"真天地海賊幽霊ジグジグ参戦記念♪ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":57
   },
   {
+    "id":58, "title":"スタートダッシュログインボーナス", "campaign":1, "condition_type":1, "condition_params":"{\"condition_started_at\":\"2022/02/28 13:00:00\"}", "sort_order":201
+  },
+  {
+    "id":59, "title":"期間限定カムバックログインボーナス", "campaign":1, "condition_type":2, "condition_params":"{\"condition_ended_at\":\"2022/02/07 11:59:59\"}", "sort_order":60
+  },
+  {
+    "id":60, "title":"2周年直前♪ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":59
+  },
+  {
     "id":1032, "title":"イベントログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":9
   },
   {
@@ -204,6 +213,9 @@
     "id":3006, "title":"イベントログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":9
   },
   {
+    "id":9013, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
     "id":9014, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
@@ -231,10 +243,22 @@
     "id":9092, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
+    "id":9094, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
+    "id":9112, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
+    "id":9113, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":7
+  },
+  {
     "id":9114, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
     "id":9123, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
+  },
+  {
+    "id":9125, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8
   },
   {
     "id":9142, "title":"誕生日ログインボーナス", "campaign":1, "condition_type":0, "condition_params":"null", "sort_order":8

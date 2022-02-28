@@ -258,6 +258,9 @@
     "id":40082, "category":4, "name":"雪まつりガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40084, "category":4, "name":"メロフラガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -322,6 +325,9 @@
   },
   {
     "id":41022, "category":4, "name":"2022年2月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41023, "category":4, "name":"2022年3月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -627,6 +633,9 @@
     "id":120083, "category":12, "name":"バレ雪特別ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120084, "category":12, "name":"メロフラガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -736,6 +745,9 @@
   },
   {
     "id":180002, "category":18, "name":"ソウルの結晶", "quantity_max":9999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮された結晶。レゾナンスソウルの強化に必要となるレアな素材です。"
+  },
+  {
+    "id":180003, "category":18, "name":"ソウルオーブ", "quantity_max":9999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮されたオーブ。レゾナンスソウルの強化に必要となるすごくレアな素材です。"
   },
   {
     "id":180004, "category":18, "name":"アルマース", "quantity_max":9999, "ex_params":"{}", "description":"音楽エネルギーが凝縮されたメロディシアンストーンの原石。ソウルの最高レベル強化に必要な素材です。"
