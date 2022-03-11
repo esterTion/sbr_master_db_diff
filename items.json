@@ -261,6 +261,9 @@
     "id":40084, "category":4, "name":"メロフラガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40085, "category":4, "name":"フェスin2周年ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -636,6 +639,12 @@
     "id":120084, "category":12, "name":"メロフラガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120085, "category":12, "name":"フェスin2周年ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120086, "category":12, "name":"周年セレクトガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -720,6 +729,9 @@
     "id":140022, "category":14, "name":"ダークミューモンセレクト.pt", "quantity_max":999999, "ex_params":"{}", "description":"ダークミューモン交換所で使用できるアイテムです"
   },
   {
+    "id":140023, "category":14, "name":"2周年記念ポイント", "quantity_max":999999, "ex_params":"{}", "description":"各種2周年記念アイテムと交換できるポイントです"
+  },
+  {
     "id":141000, "category":14, "name":"バトル招待券A", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"
   },
   {
@@ -751,6 +763,9 @@
   },
   {
     "id":180004, "category":18, "name":"アルマース", "quantity_max":9999, "ex_params":"{}", "description":"音楽エネルギーが凝縮されたメロディシアンストーンの原石。ソウルの最高レベル強化に必要な素材です。"
+  },
+  {
+    "id":180005, "category":18, "name":"エクセレントアルマース", "quantity_max":9999, "ex_params":"{}", "description":"音符の形の加工により音楽エネルギーが更に増したメロディシアンストーン。レゾナンスソウルⅢの強化に必要な素材です。"
   },
   {
     "id":181001, "category":18, "name":"ましゅましゅクリスタル", "quantity_max":9999, "ex_params":"{}", "description":"ソウルエネルギーが凝縮されたクリスタル。ましゅましゅメンバーのレゾナンスソウル強化に必要な素材です"

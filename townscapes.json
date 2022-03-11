@@ -36,6 +36,9 @@
     "id":1011, "layer_type":"Background", "name":"BVL地獄行ホームタウン", "description":"ふっふっふ…この地獄行きホームを通った者はみ～んな地獄に落ちるのだ♪", "default_asset_ids":"null"
   },
   {
+    "id":1012, "layer_type":"Background", "name":"カラフルホームタウン", "description":"カラフルでにぎやかな街並み。みんながハッピーヤッピッピになれる楽しいタウン♪", "default_asset_ids":"null"
+  },
+  {
     "id":1100, "layer_type":"Background", "name":"スゴロクタウン", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
   },
   {
@@ -91,6 +94,9 @@
   },
   {
     "id":2015, "layer_type":"Road", "name":"BVL地獄行きロード", "description":"えぇ～、もう説明めんどいのだ。タウンの説明で十分なのだ……はいはい、ロードなのだ、ロード。", "default_asset_ids":"null"
+  },
+  {
+    "id":2016, "layer_type":"Road", "name":"カラフルロード", "description":"カラフルなタイルがモザイクアートを刻むロード。足が自然に踊り出しそう♪", "default_asset_ids":"null"
   },
   {
     "id":2100, "layer_type":"Road", "name":"スゴロクロード", "description":"スゴロクイベントで使用する道路です。", "default_asset_ids":"null"
@@ -169,6 +175,9 @@
   },
   {
     "id":7015, "layer_type":"Fence", "name":"BVL地獄行きフェンス", "description":"フェンスなのだ～……はぁ、ドーナツ食べたいのだ。ペイペイ～～ン！", "default_asset_ids":"null"
+  },
+  {
+    "id":7016, "layer_type":"Fence", "name":"カラフルフェンス", "description":"カラフルな音符が踊る楽しいフェンス♪まるで音が聞こえてくるみたい！", "default_asset_ids":"null"
   },
   {
     "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"

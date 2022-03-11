@@ -367,5 +367,23 @@
   },
   {
     "id":220001, "name":"ボク達がサポートするよ+", "myumon_skill_effect_id":20001, "effect_arg_no":2000151, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
+  },
+  {
+    "id":230000, "name":"よーし、やるぞ！", "myumon_skill_effect_id":201, "effect_arg_no":20731, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":230001, "name":"よーし、やるぞ！+", "myumon_skill_effect_id":200, "effect_arg_no":20830, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
+  },
+  {
+    "id":240000, "name":"まだまだいけるよ！", "myumon_skill_effect_id":10900, "effect_arg_no":1090010, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":240001, "name":"まだまだいけるよ！+", "myumon_skill_effect_id":10900, "effect_arg_no":1090011, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
+  },
+  {
+    "id":250000, "name":"ヒメコちゃんと一緒に！", "myumon_skill_effect_id":20001, "effect_arg_no":2000160, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":250001, "name":"ヒメコちゃんと一緒に！+", "myumon_skill_effect_id":20001, "effect_arg_no":2000161, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
   }
 ]

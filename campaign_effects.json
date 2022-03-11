@@ -48,6 +48,9 @@
     "id":210, "effect_type":2, "effect_args":"[999,1,1]", "detail":"【690日記念】ライブ報酬の獲得量が  {1}個 UP !"
   },
   {
+    "id":211, "effect_type":2, "effect_args":"[999,5,5]", "detail":"【2周年記念】ライブ報酬の獲得量が  {1}個 UP !"
+  },
+  {
     "id":301, "effect_type":3, "effect_args":"[50,2400]", "detail":"【火曜日】{0}%で『ドキドキ魂S』1個 追加獲得 !"
   },
   {
@@ -330,10 +333,19 @@
     "id":394, "effect_type":3, "effect_args":"[0.1,20004]", "detail":"【2周年直前】{0}%で『アルマース』1個 追加獲得 !"
   },
   {
+    "id":395, "effect_type":3, "effect_args":"[100,2435]", "detail":"【2周年記念】{0}%で『2周年記念ポイント』5ポイント 獲得 !"
+  },
+  {
+    "id":396, "effect_type":3, "effect_args":"[0.5,2413]", "detail":"【2周年記念】{0}%で『69ガチャチケット×10』 追加獲得 !"
+  },
+  {
     "id":401, "effect_type":4, "effect_args":"10", "detail":"【勤労感謝だぜッ！】ブロマイド強化の大成功確率2倍！"
   },
   {
     "id":402, "effect_type":4, "effect_args":"10", "detail":"【強化応援】ブロマイド強化の大成功確率2倍！"
+  },
+  {
+    "id":403, "effect_type":4, "effect_args":"40", "detail":"【2周年記念】ブロマイド強化の大成功確率5倍！"
   },
   {
     "id":10001, "effect_type":3, "effect_args":"[100,20001]", "detail":"【RS強化応援】{0}%で『ソウルのかけら』1個 追加獲得 !"

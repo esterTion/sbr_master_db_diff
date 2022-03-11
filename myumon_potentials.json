@@ -186,6 +186,9 @@
     "id":233000, "name":"キラキラダブルUP+", "digest":"『キラキラ』タイプ楽曲でスコア4%コンボ補正5%UP", "description":"『キラキラ』タイプの楽曲プレイ時、スコアが4%コンボ補正が5%UPする", "potential_effect_type":2, "potential_effect_args":"{\"combo\":50,\"score\":40,\"category\":3}"
   },
   {
+    "id":240010, "name":"きらきらライブはうちに任せて♪", "digest":"『キラキラ』タイプ楽曲でスコアが18%UPするよ！", "description":"『キラキラ』タイプの楽曲プレイ時、スコアが18%UPするよ！", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":180,\"category\":3}"
+  },
+  {
     "id":300001, "name":"スキルタイムUP", "digest":"スキルの効果時間を約5秒延長する", "description":"自身のアクティブスキル効果時間を約5秒延長する", "potential_effect_type":3, "potential_effect_args":"5000"
   },
   {
