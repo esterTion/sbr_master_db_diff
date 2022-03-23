@@ -189,6 +189,9 @@
     "id":240010, "name":"きらきらライブはうちに任せて♪", "digest":"『キラキラ』タイプ楽曲でスコアが18%UPするよ！", "description":"『キラキラ』タイプの楽曲プレイ時、スコアが18%UPするよ！", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":180,\"category\":3}"
   },
   {
+    "id":240020, "name":"どきどきのうずしおです", "digest":"『ドキドキ』タイプ楽曲でスコアが18%UPします", "description":"『ドキドキ』タイプの楽曲プレイ時、スコアが18%UPします", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":180,\"category\":1}"
+  },
+  {
     "id":300001, "name":"スキルタイムUP", "digest":"スキルの効果時間を約5秒延長する", "description":"自身のアクティブスキル効果時間を約5秒延長する", "potential_effect_type":3, "potential_effect_args":"5000"
   },
   {

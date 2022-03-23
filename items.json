@@ -264,6 +264,9 @@
     "id":40085, "category":4, "name":"フェスin2周年ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40087, "category":4, "name":"フェス2周年②ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -643,6 +646,12 @@
   },
   {
     "id":120086, "category":12, "name":"周年セレクトガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120087, "category":12, "name":"フェス2周年②ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120088, "category":12, "name":"復刻ステージ.pt④", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"

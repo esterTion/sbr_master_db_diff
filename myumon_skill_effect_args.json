@@ -3967,5 +3967,275 @@
   },
   {
     "id":25000120, "effect_arg_no":2000161, "level":20, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,540,540,0]", "digest":"自身のリズム値を54%メロディ値を54%付与", "description":"うちが持つリズム値の54%、メロディ値の54%を装備したメンバーに付与するよ！"
+  },
+  {
+    "id":26000001, "effect_arg_no":20931, "level":1, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[450,0]", "digest":"ライフ600消費後、GOOD以上でスコア45%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが45%UPします。しゅびっ！"
+  },
+  {
+    "id":26000002, "effect_arg_no":20931, "level":2, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[470,0]", "digest":"ライフ600消費後、GOOD以上でスコア47%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが47%UPします。しゅびっ！"
+  },
+  {
+    "id":26000003, "effect_arg_no":20931, "level":3, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[490,0]", "digest":"ライフ600消費後、GOOD以上でスコア49%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが49%UPします。しゅびっ！"
+  },
+  {
+    "id":26000004, "effect_arg_no":20931, "level":4, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[510,0]", "digest":"ライフ600消費後、GOOD以上でスコア51%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが51%UPします。しゅびっ！"
+  },
+  {
+    "id":26000005, "effect_arg_no":20931, "level":5, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[530,0]", "digest":"ライフ600消費後、GOOD以上でスコア53%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが53%UPします。しゅびっ！"
+  },
+  {
+    "id":26000006, "effect_arg_no":20931, "level":6, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[550,0]", "digest":"ライフ600消費後、GOOD以上でスコア55%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが55%UPします。しゅびっ！"
+  },
+  {
+    "id":26000007, "effect_arg_no":20931, "level":7, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[570,0]", "digest":"ライフ600消費後、GOOD以上でスコア57%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが57%UPします。しゅびっ！"
+  },
+  {
+    "id":26000008, "effect_arg_no":20931, "level":8, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[590,0]", "digest":"ライフ600消費後、GOOD以上でスコア59%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが59%UPします。しゅびっ！"
+  },
+  {
+    "id":26000009, "effect_arg_no":20931, "level":9, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[610,0]", "digest":"ライフ600消費後、GOOD以上でスコア61%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが61%UPします。しゅびっ！"
+  },
+  {
+    "id":26000010, "effect_arg_no":20931, "level":10, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[630,0]", "digest":"ライフ600消費後、GOOD以上でスコア63%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、GOOD以上ならスコアが63%UPします。しゅびっ！"
+  },
+  {
+    "id":26000101, "effect_arg_no":21030, "level":1, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[450,0]", "digest":"ライフ600消費後、BAD以上でスコア45%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが45%UPします。しゅびっ！"
+  },
+  {
+    "id":26000102, "effect_arg_no":21030, "level":2, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[470,0]", "digest":"ライフ600消費後、BAD以上でスコア47%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが47%UPします。しゅびっ！"
+  },
+  {
+    "id":26000103, "effect_arg_no":21030, "level":3, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[490,0]", "digest":"ライフ600消費後、BAD以上でスコア49%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが49%UPします。しゅびっ！"
+  },
+  {
+    "id":26000104, "effect_arg_no":21030, "level":4, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[510,0]", "digest":"ライフ600消費後、BAD以上でスコア51%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが51%UPします。しゅびっ！"
+  },
+  {
+    "id":26000105, "effect_arg_no":21030, "level":5, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[530,0]", "digest":"ライフ600消費後、BAD以上でスコア53%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが53%UPします。しゅびっ！"
+  },
+  {
+    "id":26000106, "effect_arg_no":21030, "level":6, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[550,0]", "digest":"ライフ600消費後、BAD以上でスコア55%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが55%UPします。しゅびっ！"
+  },
+  {
+    "id":26000107, "effect_arg_no":21030, "level":7, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[570,0]", "digest":"ライフ600消費後、BAD以上でスコア57%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが57%UPします。しゅびっ！"
+  },
+  {
+    "id":26000108, "effect_arg_no":21030, "level":8, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[590,0]", "digest":"ライフ600消費後、BAD以上でスコア59%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが59%UPします。しゅびっ！"
+  },
+  {
+    "id":26000109, "effect_arg_no":21030, "level":9, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[610,0]", "digest":"ライフ600消費後、BAD以上でスコア61%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが61%UPします。しゅびっ！"
+  },
+  {
+    "id":26000110, "effect_arg_no":21030, "level":10, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[630,0]", "digest":"ライフ600消費後、BAD以上でスコア63%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが63%UPします。しゅびっ！"
+  },
+  {
+    "id":26000111, "effect_arg_no":21030, "level":11, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[650,0]", "digest":"ライフ600消費後、BAD以上でスコア65%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが65%UPします。しゅびっ！"
+  },
+  {
+    "id":26000112, "effect_arg_no":21030, "level":12, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[670,0]", "digest":"ライフ600消費後、BAD以上でスコア67%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが67%UPします。しゅびっ！"
+  },
+  {
+    "id":26000113, "effect_arg_no":21030, "level":13, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[690,0]", "digest":"ライフ600消費後、BAD以上でスコア69%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが69%UPします。しゅびっ！"
+  },
+  {
+    "id":26000114, "effect_arg_no":21030, "level":14, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[710,0]", "digest":"ライフ600消費後、BAD以上でスコア71%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが71%UPします。しゅびっ！"
+  },
+  {
+    "id":26000115, "effect_arg_no":21030, "level":15, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[730,0]", "digest":"ライフ600消費後、BAD以上でスコア73%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが73%UPします。しゅびっ！"
+  },
+  {
+    "id":26000116, "effect_arg_no":21030, "level":16, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[750,0]", "digest":"ライフ600消費後、BAD以上でスコア75%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが75%UPします。しゅびっ！"
+  },
+  {
+    "id":26000117, "effect_arg_no":21030, "level":17, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[900,0]", "digest":"ライフ600消費後、BAD以上でスコア90%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが90%UPします。しゅびっ！"
+  },
+  {
+    "id":26000118, "effect_arg_no":21030, "level":18, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[1050,0]", "digest":"ライフ600消費後、BAD以上でスコア105%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが105%UPします。しゅびっ！"
+  },
+  {
+    "id":26000119, "effect_arg_no":21030, "level":19, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[1200,0]", "digest":"ライフ600消費後、BAD以上でスコア120%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが120%UPします。しゅびっ！"
+  },
+  {
+    "id":26000120, "effect_arg_no":21030, "level":20, "interval":11500, "probability":43, "duration":6000, "damage":600, "effect_args":"[1350,0]", "digest":"ライフ600消費後、BAD以上でスコア135%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを600消費しますが、BAD以上ならスコアが135%UPします。しゅびっ！"
+  },
+  {
+    "id":27000001, "effect_arg_no":1090020, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,100]", "digest":"ライフ0時に1回だけライフを100回復", "description":"ライフが0になった時、1回だけライフを100回復します"
+  },
+  {
+    "id":27000002, "effect_arg_no":1090020, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,110]", "digest":"ライフ0時に1回だけライフを110回復", "description":"ライフが0になった時、1回だけライフを110回復します"
+  },
+  {
+    "id":27000003, "effect_arg_no":1090020, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,120]", "digest":"ライフ0時に1回だけライフを120回復", "description":"ライフが0になった時、1回だけライフを120回復します"
+  },
+  {
+    "id":27000004, "effect_arg_no":1090020, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,150]", "digest":"ライフ0時に1回だけライフを150回復", "description":"ライフが0になった時、1回だけライフを150回復します"
+  },
+  {
+    "id":27000005, "effect_arg_no":1090020, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,180]", "digest":"ライフ0時に1回だけライフを180回復", "description":"ライフが0になった時、1回だけライフを180回復します"
+  },
+  {
+    "id":27000006, "effect_arg_no":1090020, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,210]", "digest":"ライフ0時に1回だけライフを210回復", "description":"ライフが0になった時、1回だけライフを210回復します"
+  },
+  {
+    "id":27000007, "effect_arg_no":1090020, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,240]", "digest":"ライフ0時に1回だけライフを240回復", "description":"ライフが0になった時、1回だけライフを240回復します"
+  },
+  {
+    "id":27000008, "effect_arg_no":1090020, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,270]", "digest":"ライフ0時に1回だけライフを270回復", "description":"ライフが0になった時、1回だけライフを270回復します"
+  },
+  {
+    "id":27000009, "effect_arg_no":1090020, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,300]", "digest":"ライフ0時に1回だけライフを300回復", "description":"ライフが0になった時、1回だけライフを300回復します"
+  },
+  {
+    "id":27000010, "effect_arg_no":1090020, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,330]", "digest":"ライフ0時に1回だけライフを330回復", "description":"ライフが0になった時、1回だけライフを330回復します"
+  },
+  {
+    "id":27000101, "effect_arg_no":1090021, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,100]", "digest":"ライフ0時に1回だけライフを100回復", "description":"ライフが0になった時、1回だけライフを100回復します"
+  },
+  {
+    "id":27000102, "effect_arg_no":1090021, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,110]", "digest":"ライフ0時に1回だけライフを110回復", "description":"ライフが0になった時、1回だけライフを110回復します"
+  },
+  {
+    "id":27000103, "effect_arg_no":1090021, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,120]", "digest":"ライフ0時に1回だけライフを120回復", "description":"ライフが0になった時、1回だけライフを120回復します"
+  },
+  {
+    "id":27000104, "effect_arg_no":1090021, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,150]", "digest":"ライフ0時に1回だけライフを150回復", "description":"ライフが0になった時、1回だけライフを150回復します"
+  },
+  {
+    "id":27000105, "effect_arg_no":1090021, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,180]", "digest":"ライフ0時に1回だけライフを180回復", "description":"ライフが0になった時、1回だけライフを180回復します"
+  },
+  {
+    "id":27000106, "effect_arg_no":1090021, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,210]", "digest":"ライフ0時に1回だけライフを210回復", "description":"ライフが0になった時、1回だけライフを210回復します"
+  },
+  {
+    "id":27000107, "effect_arg_no":1090021, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,240]", "digest":"ライフ0時に1回だけライフを240回復", "description":"ライフが0になった時、1回だけライフを240回復します"
+  },
+  {
+    "id":27000108, "effect_arg_no":1090021, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,270]", "digest":"ライフ0時に1回だけライフを270回復", "description":"ライフが0になった時、1回だけライフを270回復します"
+  },
+  {
+    "id":27000109, "effect_arg_no":1090021, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,300]", "digest":"ライフ0時に1回だけライフを300回復", "description":"ライフが0になった時、1回だけライフを300回復します"
+  },
+  {
+    "id":27000110, "effect_arg_no":1090021, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,330]", "digest":"ライフ0時に1回だけライフを330回復", "description":"ライフが0になった時、1回だけライフを330回復します"
+  },
+  {
+    "id":27000111, "effect_arg_no":1090021, "level":11, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,360]", "digest":"ライフ0時に1回だけライフを360回復", "description":"ライフが0になった時、1回だけライフを360回復します"
+  },
+  {
+    "id":27000112, "effect_arg_no":1090021, "level":12, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,390]", "digest":"ライフ0時に1回だけライフを390回復", "description":"ライフが0になった時、1回だけライフを390回復します"
+  },
+  {
+    "id":27000113, "effect_arg_no":1090021, "level":13, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,420]", "digest":"ライフ0時に1回だけライフを420回復", "description":"ライフが0になった時、1回だけライフを420回復します"
+  },
+  {
+    "id":27000114, "effect_arg_no":1090021, "level":14, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,450]", "digest":"ライフ0時に1回だけライフを450回復", "description":"ライフが0になった時、1回だけライフを450回復します"
+  },
+  {
+    "id":27000115, "effect_arg_no":1090021, "level":15, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,480]", "digest":"ライフ0時に1回だけライフを480回復", "description":"ライフが0になった時、1回だけライフを480回復します"
+  },
+  {
+    "id":27000116, "effect_arg_no":1090021, "level":16, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,510]", "digest":"ライフ0時に1回だけライフを510回復", "description":"ライフが0になった時、1回だけライフを510回復します"
+  },
+  {
+    "id":27000117, "effect_arg_no":1090021, "level":17, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,510]", "digest":"ライフ0時に2回だけライフを510回復", "description":"ライフが0になった時、2回だけライフを510回復します"
+  },
+  {
+    "id":27000118, "effect_arg_no":1090021, "level":18, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,515]", "digest":"ライフ0時に2回だけライフを515回復", "description":"ライフが0になった時、2回だけライフを515回復します"
+  },
+  {
+    "id":27000119, "effect_arg_no":1090021, "level":19, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,520]", "digest":"ライフ0時に2回だけライフを520回復", "description":"ライフが0になった時、2回だけライフを520回復します"
+  },
+  {
+    "id":27000120, "effect_arg_no":1090021, "level":20, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,520]", "digest":"ライフ0時に3回だけライフを520回復", "description":"ライフが0になった時、3回だけライフを520回復します"
+  },
+  {
+    "id":28000001, "effect_arg_no":2000170, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,350,0]", "digest":"自身のメロディ値を35%付与", "description":"デルミンが持つメロディ値の35%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000002, "effect_arg_no":2000170, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,370,0]", "digest":"自身のメロディ値を37%付与", "description":"デルミンが持つメロディ値の37%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000003, "effect_arg_no":2000170, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,390,0]", "digest":"自身のメロディ値を39%付与", "description":"デルミンが持つメロディ値の39%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000004, "effect_arg_no":2000170, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,410,0]", "digest":"自身のメロディ値を41%付与", "description":"デルミンが持つメロディ値の41%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000005, "effect_arg_no":2000170, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,430,0]", "digest":"自身のメロディ値を43%付与", "description":"デルミンが持つメロディ値の43%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000006, "effect_arg_no":2000170, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,450,0]", "digest":"自身のメロディ値を45%付与", "description":"デルミンが持つメロディ値の45%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000007, "effect_arg_no":2000170, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,470,0]", "digest":"自身のメロディ値を47%付与", "description":"デルミンが持つメロディ値の47%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000008, "effect_arg_no":2000170, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,490,0]", "digest":"自身のメロディ値を49%付与", "description":"デルミンが持つメロディ値の49%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000009, "effect_arg_no":2000170, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,510,0]", "digest":"自身のメロディ値を51%付与", "description":"デルミンが持つメロディ値の51%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000010, "effect_arg_no":2000170, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,530,0]", "digest":"自身のメロディ値を53%付与", "description":"デルミンが持つメロディ値の53%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000101, "effect_arg_no":2000171, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,240,0]", "digest":"自身のメロディ値を24%付与", "description":"デルミンが持つメロディ値の24%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000102, "effect_arg_no":2000171, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,260,0]", "digest":"自身のメロディ値を26%付与", "description":"デルミンが持つメロディ値の26%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000103, "effect_arg_no":2000171, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,280,0]", "digest":"自身のメロディ値を28%付与", "description":"デルミンが持つメロディ値の28%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000104, "effect_arg_no":2000171, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,300,0]", "digest":"自身のメロディ値を30%付与", "description":"デルミンが持つメロディ値の30%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000105, "effect_arg_no":2000171, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,320,0]", "digest":"自身のメロディ値を32%付与", "description":"デルミンが持つメロディ値の32%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000106, "effect_arg_no":2000171, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,340,0]", "digest":"自身のメロディ値を34%付与", "description":"デルミンが持つメロディ値の34%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000107, "effect_arg_no":2000171, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,360,0]", "digest":"自身のメロディ値を36%付与", "description":"デルミンが持つメロディ値の36%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000108, "effect_arg_no":2000171, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,380,0]", "digest":"自身のメロディ値を38%付与", "description":"デルミンが持つメロディ値の38%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000109, "effect_arg_no":2000171, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,400,0]", "digest":"自身のメロディ値を40%付与", "description":"デルミンが持つメロディ値の40%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000110, "effect_arg_no":2000171, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,420,0]", "digest":"自身のメロディ値を42%付与", "description":"デルミンが持つメロディ値の42%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000111, "effect_arg_no":2000171, "level":11, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,440,0]", "digest":"自身のメロディ値を44%付与", "description":"デルミンが持つメロディ値の44%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000112, "effect_arg_no":2000171, "level":12, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,460,0]", "digest":"自身のメロディ値を46%付与", "description":"デルミンが持つメロディ値の46%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000113, "effect_arg_no":2000171, "level":13, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,480,0]", "digest":"自身のメロディ値を48%付与", "description":"デルミンが持つメロディ値の48%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000114, "effect_arg_no":2000171, "level":14, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,500,0]", "digest":"自身のメロディ値を50%付与", "description":"デルミンが持つメロディ値の50%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000115, "effect_arg_no":2000171, "level":15, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,520,0]", "digest":"自身のメロディ値を52%付与", "description":"デルミンが持つメロディ値の52%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000116, "effect_arg_no":2000171, "level":16, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,540,0]", "digest":"自身のメロディ値を54%付与", "description":"デルミンが持つメロディ値の54%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000117, "effect_arg_no":2000171, "level":17, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,540,130]", "digest":"自身のメロディ値を54%ハーモニー値を13%付与", "description":"デルミンが持つメロディ値の54%、ハーモニー値の13%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000118, "effect_arg_no":2000171, "level":18, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,540,260]", "digest":"自身のメロディ値を54%ハーモニー値を26%付与", "description":"デルミンが持つメロディ値の54%、ハーモニー値の26%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000119, "effect_arg_no":2000171, "level":19, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,540,400]", "digest":"自身のメロディ値を54%ハーモニー値を40%付与", "description":"デルミンが持つメロディ値の54%、ハーモニー値の40%を装備したメンバーに付与します"
+  },
+  {
+    "id":28000120, "effect_arg_no":2000171, "level":20, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,540,540]", "digest":"自身のメロディ値を54%ハーモニー値を54%付与", "description":"デルミンが持つメロディ値の54%、ハーモニー値の54%を装備したメンバーに付与します"
   }
 ]
