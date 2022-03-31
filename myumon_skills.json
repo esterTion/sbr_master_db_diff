@@ -403,5 +403,11 @@
   },
   {
     "id":280001, "name":"ルフユさんと一緒です+", "myumon_skill_effect_id":20001, "effect_arg_no":2000171, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
+  },
+  {
+    "id":290000, "name":"GスコアUP", "myumon_skill_effect_id":202, "effect_arg_no":20240, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":290001, "name":"GスコアUP+", "myumon_skill_effect_id":202, "effect_arg_no":20241, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
   }
 ]

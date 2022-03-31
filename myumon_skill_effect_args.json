@@ -4237,5 +4237,65 @@
   },
   {
     "id":28000120, "effect_arg_no":2000171, "level":20, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,540,540]", "digest":"自身のメロディ値を54%ハーモニー値を54%付与", "description":"デルミンが持つメロディ値の54%、ハーモニー値の54%を装備したメンバーに付与します"
+  },
+  {
+    "id":29000001, "effect_arg_no":20240, "level":1, "interval":10400, "probability":47, "duration":6000, "damage":0, "effect_args":"[520,0]", "digest":"GREAT以上ならスコア52%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア52%UP"
+  },
+  {
+    "id":29000002, "effect_arg_no":20240, "level":2, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[540,0]", "digest":"GREAT以上ならスコア54%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア54%UP"
+  },
+  {
+    "id":29000003, "effect_arg_no":20240, "level":3, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[560,0]", "digest":"GREAT以上ならスコア56%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア56%UP"
+  },
+  {
+    "id":29000004, "effect_arg_no":20240, "level":4, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[580,0]", "digest":"GREAT以上ならスコア58%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア58%UP"
+  },
+  {
+    "id":29000005, "effect_arg_no":20240, "level":5, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[600,0]", "digest":"GREAT以上ならスコア60%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア60%UP"
+  },
+  {
+    "id":29000006, "effect_arg_no":20240, "level":6, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[620,0]", "digest":"GREAT以上ならスコア62%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア62%UP"
+  },
+  {
+    "id":29000007, "effect_arg_no":20240, "level":7, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[640,0]", "digest":"GREAT以上ならスコア64%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア64%UP"
+  },
+  {
+    "id":29000008, "effect_arg_no":20240, "level":8, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[660,0]", "digest":"GREAT以上ならスコア66%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア66%UP"
+  },
+  {
+    "id":29000009, "effect_arg_no":20240, "level":9, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[680,0]", "digest":"GREAT以上ならスコア68%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア68%UP"
+  },
+  {
+    "id":29000010, "effect_arg_no":20240, "level":10, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[700,0]", "digest":"GREAT以上ならスコア70%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア70%UP"
+  },
+  {
+    "id":29000101, "effect_arg_no":20241, "level":1, "interval":10400, "probability":47, "duration":6000, "damage":0, "effect_args":"[620,0]", "digest":"GREAT以上ならスコア62%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア62%UP"
+  },
+  {
+    "id":29000102, "effect_arg_no":20241, "level":2, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[640,0]", "digest":"GREAT以上ならスコア64%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア64%UP"
+  },
+  {
+    "id":29000103, "effect_arg_no":20241, "level":3, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[660,0]", "digest":"GREAT以上ならスコア66%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア66%UP"
+  },
+  {
+    "id":29000104, "effect_arg_no":20241, "level":4, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[680,0]", "digest":"GREAT以上ならスコア68%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア68%UP"
+  },
+  {
+    "id":29000105, "effect_arg_no":20241, "level":5, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[700,0]", "digest":"GREAT以上ならスコア70%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア70%UP"
+  },
+  {
+    "id":29000106, "effect_arg_no":20241, "level":6, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[720,0]", "digest":"GREAT以上ならスコア72%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア72%UP"
+  },
+  {
+    "id":29000107, "effect_arg_no":20241, "level":7, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[740,0]", "digest":"GREAT以上ならスコア74%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア74%UP"
+  },
+  {
+    "id":29000108, "effect_arg_no":20241, "level":8, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[760,0]", "digest":"GREAT以上ならスコア76%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア76%UP"
+  },
+  {
+    "id":29000109, "effect_arg_no":20241, "level":9, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[780,0]", "digest":"GREAT以上ならスコア78%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア78%UP"
+  },
+  {
+    "id":29000110, "effect_arg_no":20241, "level":10, "interval":10400, "probability":48, "duration":6000, "damage":0, "effect_args":"[800,0]", "digest":"GREAT以上ならスコア80%UP", "description":"約10秒毎、中確率で約6秒間GREAT以上ならスコア80%UP"
   }
 ]

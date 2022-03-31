@@ -9,31 +9,31 @@
     "id":10003, "category":1, "name":"トレーニングチケットL", "quantity_max":9999, "ex_params":"{\"exp\":5000}", "description":"ブロマイドにEXPをかなり与えるチケットです"
   },
   {
-    "id":20001, "category":2, "name":"ドキドキ魂S", "quantity_max":9999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させる素材です"
+    "id":20001, "category":2, "name":"ドキドキ魂S", "quantity_max":99999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させる素材です"
   },
   {
-    "id":20002, "category":2, "name":"ドキドキ魂M", "quantity_max":9999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させるレアな素材です"
+    "id":20002, "category":2, "name":"ドキドキ魂M", "quantity_max":99999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させるレアな素材です"
   },
   {
-    "id":20003, "category":2, "name":"ドキドキ魂L", "quantity_max":9999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させるすごくレアな素材です"
+    "id":20003, "category":2, "name":"ドキドキ魂L", "quantity_max":99999, "ex_params":"{}", "description":"ドキドキタイプを覚醒させるすごくレアな素材です"
   },
   {
-    "id":20011, "category":2, "name":"ワクワク魂S", "quantity_max":9999, "ex_params":"{}", "description":"ワクワクタイプを覚醒させる素材です"
+    "id":20011, "category":2, "name":"ワクワク魂S", "quantity_max":99999, "ex_params":"{}", "description":"ワクワクタイプを覚醒させる素材です"
   },
   {
-    "id":20012, "category":2, "name":"ワクワク魂M", "quantity_max":9999, "ex_params":"{}", "description":"ワクワクタイプを覚醒させるレアな素材です"
+    "id":20012, "category":2, "name":"ワクワク魂M", "quantity_max":99999, "ex_params":"{}", "description":"ワクワクタイプを覚醒させるレアな素材です"
   },
   {
-    "id":20013, "category":2, "name":"ワクワク魂L", "quantity_max":9999, "ex_params":"{}", "description":"ワクワクタイプを覚醒させるすごくレアな素材です"
+    "id":20013, "category":2, "name":"ワクワク魂L", "quantity_max":99999, "ex_params":"{}", "description":"ワクワクタイプを覚醒させるすごくレアな素材です"
   },
   {
-    "id":20021, "category":2, "name":"キラキラ魂S", "quantity_max":9999, "ex_params":"{}", "description":"キラキラタイプを覚醒させる素材です"
+    "id":20021, "category":2, "name":"キラキラ魂S", "quantity_max":99999, "ex_params":"{}", "description":"キラキラタイプを覚醒させる素材です"
   },
   {
-    "id":20022, "category":2, "name":"キラキラ魂M", "quantity_max":9999, "ex_params":"{}", "description":"キラキラタイプを覚醒させるレアな素材です"
+    "id":20022, "category":2, "name":"キラキラ魂M", "quantity_max":99999, "ex_params":"{}", "description":"キラキラタイプを覚醒させるレアな素材です"
   },
   {
-    "id":20023, "category":2, "name":"キラキラ魂L", "quantity_max":9999, "ex_params":"{}", "description":"キラキラタイプを覚醒させるすごくレアな素材です"
+    "id":20023, "category":2, "name":"キラキラ魂L", "quantity_max":99999, "ex_params":"{}", "description":"キラキラタイプを覚醒させるすごくレアな素材です"
   },
   {
     "id":30001, "category":3, "name":"スキルの極意", "quantity_max":9999, "ex_params":"{\"level\":1}", "description":"ブロマイドが持つスキルをレベルアップさせる秘伝書です"
@@ -265,6 +265,9 @@
   },
   {
     "id":40087, "category":4, "name":"フェス2周年②ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40089, "category":4, "name":"あの日のガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
@@ -654,6 +657,9 @@
     "id":120088, "category":12, "name":"復刻ステージ.pt④", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120089, "category":12, "name":"あの日のガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -762,13 +768,13 @@
     "id":170001, "category":17, "name":"美味しすぎるエナジードリンク", "quantity_max":9999, "ex_params":"{}", "description":"うまーい！もう一本!! な飲み物。\nタワーで使用したブロマイドを再び使用できるようにするアイテムです。"
   },
   {
-    "id":180001, "category":18, "name":"ソウルのかけら", "quantity_max":9999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮されたかけら。レゾナンスソウルの強化に必要となる素材です。"
+    "id":180001, "category":18, "name":"ソウルのかけら", "quantity_max":99999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮されたかけら。レゾナンスソウルの強化に必要となる素材です。"
   },
   {
-    "id":180002, "category":18, "name":"ソウルの結晶", "quantity_max":9999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮された結晶。レゾナンスソウルの強化に必要となるレアな素材です。"
+    "id":180002, "category":18, "name":"ソウルの結晶", "quantity_max":99999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮された結晶。レゾナンスソウルの強化に必要となるレアな素材です。"
   },
   {
-    "id":180003, "category":18, "name":"ソウルオーブ", "quantity_max":9999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮されたオーブ。レゾナンスソウルの強化に必要となるすごくレアな素材です。"
+    "id":180003, "category":18, "name":"ソウルオーブ", "quantity_max":99999, "ex_params":"{}", "description":"ソウルのエネルギーが凝縮されたオーブ。レゾナンスソウルの強化に必要となるすごくレアな素材です。"
   },
   {
     "id":180004, "category":18, "name":"アルマース", "quantity_max":9999, "ex_params":"{}", "description":"音楽エネルギーが凝縮されたメロディシアンストーンの原石。ソウルの最高レベル強化に必要な素材です。"
