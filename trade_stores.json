@@ -1,326 +1,335 @@
 [
   {
-    "id":1, "name":"【狛犬白虎】ガチャポイント交換所", "sort_order":1, "description":"【狛犬白虎】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2021, "event_id":0, "off_time_trade":true, "started_at":"2020/06/10 12:00:00 +09:00", "ended_at":"2020/07/01 11:59:59 +09:00"
+    "id":1, "name":"【狛犬白虎】ガチャポイント交換所", "sort_order":1, "description":"【狛犬白虎】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2021, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/06/10 12:00:00 +09:00", "ended_at":"2020/07/01 11:59:59 +09:00"
   },
   {
-    "id":2, "name":"【ましウェイ】ガチャポイント交換所", "sort_order":2, "description":"【ましウェイ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2026, "event_id":0, "off_time_trade":true, "started_at":"2020/06/19 12:00:00 +09:00", "ended_at":"2020/07/12 11:59:59 +09:00"
+    "id":2, "name":"【ましウェイ】ガチャポイント交換所", "sort_order":2, "description":"【ましウェイ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2026, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/06/19 12:00:00 +09:00", "ended_at":"2020/07/12 11:59:59 +09:00"
   },
   {
-    "id":3, "name":"めもりあるポイント交換所", "sort_order":65000, "description":"各種イベントで獲得した『めもりあるポイント』を色々なものと交換できます", "category":1, "gacha_id":1, "event_id":0, "off_time_trade":true, "started_at":"2020/06/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":3, "name":"めもりあるポイント交換所", "sort_order":65000, "description":"各種イベントで獲得した『めもりあるポイント』を色々なものと交換できます", "category":1, "gacha_id":1, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/06/30 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":4, "name":"【水コレ】ガチャポイント交換所", "sort_order":3, "description":"【水コレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2029, "event_id":0, "off_time_trade":true, "started_at":"2020/06/30 12:00:00 +09:00", "ended_at":"2020/07/23 11:59:59 +09:00"
+    "id":4, "name":"【水コレ】ガチャポイント交換所", "sort_order":3, "description":"【水コレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2029, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/06/30 12:00:00 +09:00", "ended_at":"2020/07/23 11:59:59 +09:00"
   },
   {
-    "id":5, "name":"【しにもの】ガチャポイント交換所", "sort_order":4, "description":"【しにもの】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2032, "event_id":0, "off_time_trade":true, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2020/08/03 11:59:59 +09:00"
+    "id":5, "name":"【しにもの】ガチャポイント交換所", "sort_order":4, "description":"【しにもの】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2032, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/07/11 12:00:00 +09:00", "ended_at":"2020/08/03 11:59:59 +09:00"
   },
   {
-    "id":6, "name":"【夜DOKI】ガチャポイント交換所", "sort_order":5, "description":"【夜DOKI】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2035, "event_id":0, "off_time_trade":true, "started_at":"2020/07/22 12:00:00 +09:00", "ended_at":"2020/08/12 11:59:59 +09:00"
+    "id":6, "name":"【夜DOKI】ガチャポイント交換所", "sort_order":5, "description":"【夜DOKI】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2035, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/07/22 12:00:00 +09:00", "ended_at":"2020/08/12 11:59:59 +09:00"
   },
   {
-    "id":7, "name":"【ゆかコレ】ガチャポイント交換所", "sort_order":6, "description":"【ゆかコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2038, "event_id":0, "off_time_trade":true, "started_at":"2020/07/31 12:00:00 +09:00", "ended_at":"2020/08/23 11:59:59 +09:00"
+    "id":7, "name":"【ゆかコレ】ガチャポイント交換所", "sort_order":6, "description":"【ゆかコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2038, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/07/31 12:00:00 +09:00", "ended_at":"2020/08/23 11:59:59 +09:00"
   },
   {
-    "id":8, "name":"【水コレ2】ガチャポイント交換所", "sort_order":7, "description":"【水コレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2041, "event_id":0, "off_time_trade":true, "started_at":"2020/08/11 12:00:00 +09:00", "ended_at":"2020/09/03 11:59:59 +09:00"
+    "id":8, "name":"【水コレ2】ガチャポイント交換所", "sort_order":7, "description":"【水コレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2041, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/08/11 12:00:00 +09:00", "ended_at":"2020/09/03 11:59:59 +09:00"
   },
   {
-    "id":9, "name":"【ウワペタ】ガチャポイント交換所", "sort_order":8, "description":"【ウワペタ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2044, "event_id":0, "off_time_trade":true, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2020/09/12 11:59:59 +09:00"
+    "id":9, "name":"【ウワペタ】ガチャポイント交換所", "sort_order":8, "description":"【ウワペタ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2044, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/08/22 12:00:00 +09:00", "ended_at":"2020/09/12 11:59:59 +09:00"
   },
   {
-    "id":10, "name":"【しゅびっと】ガチャポイント交換所", "sort_order":9, "description":"【しゅびっと】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2047, "event_id":0, "off_time_trade":true, "started_at":"2020/08/31 12:00:00 +09:00", "ended_at":"2020/09/24 11:59:59 +09:00"
+    "id":10, "name":"【しゅびっと】ガチャポイント交換所", "sort_order":9, "description":"【しゅびっと】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2047, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/08/31 12:00:00 +09:00", "ended_at":"2020/09/24 11:59:59 +09:00"
   },
   {
-    "id":11, "name":"【忍迅雷音】ガチャポイント交換所", "sort_order":10, "description":"【忍迅雷音】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2051, "event_id":0, "off_time_trade":true, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2020/10/04 11:59:59 +09:00"
+    "id":11, "name":"【忍迅雷音】ガチャポイント交換所", "sort_order":10, "description":"【忍迅雷音】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2051, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2020/10/04 11:59:59 +09:00"
   },
   {
-    "id":12, "name":"ハーフアニバーサリーポイント交換所", "sort_order":11, "description":"ハーフアニバーサリーキャンペーンで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":3, "gacha_id":2, "event_id":0, "off_time_trade":true, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2020/10/11 11:59:59 +09:00"
+    "id":12, "name":"ハーフアニバーサリーポイント交換所", "sort_order":11, "description":"ハーフアニバーサリーキャンペーンで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":3, "gacha_id":2, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/09/12 12:00:00 +09:00", "ended_at":"2020/10/11 11:59:59 +09:00"
   },
   {
-    "id":13, "name":"【ダルでゅら】ガチャポイント交換所", "sort_order":12, "description":"【ダルでゅら】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2056, "event_id":0, "off_time_trade":true, "started_at":"2020/09/22 12:00:00 +09:00", "ended_at":"2020/10/12 11:59:59 +09:00"
+    "id":13, "name":"【ダルでゅら】ガチャポイント交換所", "sort_order":12, "description":"【ダルでゅら】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2056, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/09/22 12:00:00 +09:00", "ended_at":"2020/10/12 11:59:59 +09:00"
   },
   {
-    "id":14, "name":"【ハロコレ】ガチャポイント交換所", "sort_order":13, "description":"【ハロコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2060, "event_id":0, "off_time_trade":true, "started_at":"2020/09/30 12:00:00 +09:00", "ended_at":"2020/10/22 11:59:59 +09:00"
+    "id":14, "name":"【ハロコレ】ガチャポイント交換所", "sort_order":13, "description":"【ハロコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2060, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/09/30 12:00:00 +09:00", "ended_at":"2020/10/22 11:59:59 +09:00"
   },
   {
-    "id":15, "name":"【ハロコレ2】ガチャポイント交換所", "sort_order":14, "description":"【ハロコレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2064, "event_id":0, "off_time_trade":true, "started_at":"2020/10/10 12:00:00 +09:00", "ended_at":"2020/11/02 11:59:59 +09:00"
+    "id":15, "name":"【ハロコレ2】ガチャポイント交換所", "sort_order":14, "description":"【ハロコレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2064, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/10/10 12:00:00 +09:00", "ended_at":"2020/11/02 11:59:59 +09:00"
   },
   {
-    "id":16, "name":"【ハロコレ3】ガチャポイント交換所", "sort_order":15, "description":"【ハロコレ3】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2073, "event_id":0, "off_time_trade":true, "started_at":"2020/10/21 12:00:00 +09:00", "ended_at":"2020/11/12 11:59:59 +09:00"
+    "id":16, "name":"【ハロコレ3】ガチャポイント交換所", "sort_order":15, "description":"【ハロコレ3】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2073, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/10/21 12:00:00 +09:00", "ended_at":"2020/11/12 11:59:59 +09:00"
   },
   {
-    "id":17, "name":"【ゼロティク】ガチャポイント交換所", "sort_order":16, "description":"【ゼロティク】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2076, "event_id":0, "off_time_trade":true, "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2020/11/22 11:59:59 +09:00"
+    "id":17, "name":"【ゼロティク】ガチャポイント交換所", "sort_order":16, "description":"【ゼロティク】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2076, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/10/31 12:00:00 +09:00", "ended_at":"2020/11/22 11:59:59 +09:00"
   },
   {
-    "id":18, "name":"【芸秋】ガチャポイント交換所", "sort_order":17, "description":"【芸秋】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2079, "event_id":0, "off_time_trade":true, "started_at":"2020/11/10 12:00:00 +09:00", "ended_at":"2020/12/02 11:59:59 +09:00"
+    "id":18, "name":"【芸秋】ガチャポイント交換所", "sort_order":17, "description":"【芸秋】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2079, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/11/10 12:00:00 +09:00", "ended_at":"2020/12/02 11:59:59 +09:00"
   },
   {
-    "id":19, "name":"【食秋】ガチャポイント交換所", "sort_order":18, "description":"【食秋】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2082, "event_id":0, "off_time_trade":true, "started_at":"2020/11/20 12:00:00 +09:00", "ended_at":"2020/12/12 11:59:59 +09:00"
+    "id":19, "name":"【食秋】ガチャポイント交換所", "sort_order":18, "description":"【食秋】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2082, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/11/20 12:00:00 +09:00", "ended_at":"2020/12/12 11:59:59 +09:00"
   },
   {
-    "id":20, "name":"【Xマスコレ】ガチャポイント交換所", "sort_order":19, "description":"【Xマスコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2085, "event_id":0, "off_time_trade":true, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2020/12/22 11:59:59 +09:00"
+    "id":20, "name":"【Xマスコレ】ガチャポイント交換所", "sort_order":19, "description":"【Xマスコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2085, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/11/30 12:00:00 +09:00", "ended_at":"2020/12/22 11:59:59 +09:00"
   },
   {
-    "id":21, "name":"【Xマス2】ガチャポイント交換所", "sort_order":20, "description":"【Xマス2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2090, "event_id":0, "off_time_trade":true, "started_at":"2020/12/10 12:00:00 +09:00", "ended_at":"2020/12/31 11:59:59 +09:00"
+    "id":21, "name":"【Xマス2】ガチャポイント交換所", "sort_order":20, "description":"【Xマス2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2090, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/12/10 12:00:00 +09:00", "ended_at":"2020/12/31 11:59:59 +09:00"
   },
   {
-    "id":22, "name":"【Xマス3】ガチャポイント交換所", "sort_order":21, "description":"【Xマス3】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2093, "event_id":0, "off_time_trade":true, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2021/01/12 11:59:59 +09:00"
+    "id":22, "name":"【Xマス3】ガチャポイント交換所", "sort_order":21, "description":"【Xマス3】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2093, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2021/01/12 11:59:59 +09:00"
   },
   {
-    "id":23, "name":"クリスマスプレゼントポイント交換所", "sort_order":65002, "description":"未使用", "category":3, "gacha_id":3, "event_id":0, "off_time_trade":true, "started_at":"2021/12/13 13:00:00 +09:00", "ended_at":"2022/01/04 11:59:59 +09:00"
+    "id":23, "name":"クリスマスプレゼントポイント交換所", "sort_order":65002, "description":"未使用", "category":3, "gacha_id":3, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/12/13 13:00:00 +09:00", "ended_at":"2022/01/04 11:59:59 +09:00"
   },
   {
-    "id":24, "name":"SSRセレクト交換所", "sort_order":64999, "description":"SSRセレクトポイントをここだけの特別なラインナップと交換できます", "category":1, "gacha_id":4, "event_id":0, "off_time_trade":false, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":24, "name":"SSRセレクト交換所", "sort_order":64999, "description":"SSRセレクトポイントをここだけの特別なラインナップと交換できます", "category":1, "gacha_id":4, "event_id":0, "off_time_trade":false, "multi_cost_flag":false, "started_at":"2020/12/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":25, "name":"【正月】ガチャポイント交換所", "sort_order":22, "description":"【正月】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2095, "event_id":0, "off_time_trade":true, "started_at":"2020/12/31 12:00:00 +09:00", "ended_at":"2021/01/24 11:59:59 +09:00"
+    "id":25, "name":"【正月】ガチャポイント交換所", "sort_order":22, "description":"【正月】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2095, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/12/31 12:00:00 +09:00", "ended_at":"2021/01/24 11:59:59 +09:00"
   },
   {
-    "id":26, "name":"お年玉ポイント交換所", "sort_order":64997, "description":"お年玉ポイントをここだけの特別なラインナップと交換できます", "category":3, "gacha_id":5, "event_id":0, "off_time_trade":true, "started_at":"2020/12/31 12:00:00 +09:00", "ended_at":"2021/02/03 11:59:59 +09:00"
+    "id":26, "name":"お年玉ポイント交換所", "sort_order":64997, "description":"お年玉ポイントをここだけの特別なラインナップと交換できます", "category":3, "gacha_id":5, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2020/12/31 12:00:00 +09:00", "ended_at":"2021/02/03 11:59:59 +09:00"
   },
   {
-    "id":27, "name":"【正月2】ガチャポイント交換所", "sort_order":23, "description":"【正月2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2104, "event_id":0, "off_time_trade":true, "started_at":"2021/01/12 12:00:00 +09:00", "ended_at":"2021/02/03 11:59:59 +09:00"
+    "id":27, "name":"【正月2】ガチャポイント交換所", "sort_order":23, "description":"【正月2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2104, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/01/12 12:00:00 +09:00", "ended_at":"2021/02/03 11:59:59 +09:00"
   },
   {
-    "id":28, "name":"【正月3】ガチャポイント交換所", "sort_order":24, "description":"【正月3】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2109, "event_id":0, "off_time_trade":true, "started_at":"2021/01/22 12:00:00 +09:00", "ended_at":"2021/02/12 11:59:59 +09:00"
+    "id":28, "name":"【正月3】ガチャポイント交換所", "sort_order":24, "description":"【正月3】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2109, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/01/22 12:00:00 +09:00", "ended_at":"2021/02/12 11:59:59 +09:00"
   },
   {
-    "id":29, "name":"【クロモス】ガチャポイント交換所", "sort_order":25, "description":"【クロモス】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2112, "event_id":0, "off_time_trade":true, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2021/02/22 11:59:59 +09:00"
+    "id":29, "name":"【クロモス】ガチャポイント交換所", "sort_order":25, "description":"【クロモス】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2112, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2021/02/22 11:59:59 +09:00"
   },
   {
-    "id":30, "name":"クロモスR/RR交換所", "sort_order":64996, "description":"クロモスR/RR引換券をここだけの特別なラインナップと交換できます", "category":3, "gacha_id":6, "event_id":0, "off_time_trade":true, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2021/02/22 11:59:59 +09:00"
+    "id":30, "name":"クロモスR/RR交換所", "sort_order":64996, "description":"クロモスR/RR引換券をここだけの特別なラインナップと交換できます", "category":3, "gacha_id":6, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/01/31 12:00:00 +09:00", "ended_at":"2021/02/22 11:59:59 +09:00"
   },
   {
-    "id":31, "name":"バンドクリスタル交換所", "sort_order":64995, "description":"選べるバンドクリスタル.ptをここだけの特別なラインナップと交換できます", "category":1, "gacha_id":7, "event_id":0, "off_time_trade":true, "started_at":"2021/02/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":31, "name":"バンドクリスタル交換所", "sort_order":64995, "description":"選べるバンドクリスタル.ptをここだけの特別なラインナップと交換できます", "category":1, "gacha_id":7, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/02/19 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":32, "name":"【バレコレ】ガチャポイント交換所", "sort_order":26, "description":"【バレコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2116, "event_id":0, "off_time_trade":true, "started_at":"2021/02/10 12:00:00 +09:00", "ended_at":"2021/03/03 11:59:59 +09:00"
+    "id":32, "name":"【バレコレ】ガチャポイント交換所", "sort_order":26, "description":"【バレコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2116, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/02/10 12:00:00 +09:00", "ended_at":"2021/03/03 11:59:59 +09:00"
   },
   {
-    "id":33, "name":"【バレコレ2】ガチャポイント交換所", "sort_order":27, "description":"【バレコレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2119, "event_id":0, "off_time_trade":true, "started_at":"2021/02/19 12:00:00 +09:00", "ended_at":"2021/03/12 11:59:59 +09:00"
+    "id":33, "name":"【バレコレ2】ガチャポイント交換所", "sort_order":27, "description":"【バレコレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2119, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/02/19 12:00:00 +09:00", "ended_at":"2021/03/12 11:59:59 +09:00"
   },
   {
-    "id":34, "name":"【ホワイト】ガチャポイント交換所", "sort_order":28, "description":"【ホワイト】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2122, "event_id":0, "off_time_trade":true, "started_at":"2021/02/28 12:00:00 +09:00", "ended_at":"2021/03/23 11:59:59 +09:00"
+    "id":34, "name":"【ホワイト】ガチャポイント交換所", "sort_order":28, "description":"【ホワイト】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2122, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/02/28 12:00:00 +09:00", "ended_at":"2021/03/23 11:59:59 +09:00"
   },
   {
-    "id":35, "name":"【SPコレ】ガチャポイント交換所", "sort_order":29, "description":"【SPコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2125, "event_id":0, "off_time_trade":true, "started_at":"2021/03/11 12:00:00 +09:00", "ended_at":"2021/04/04 11:59:59 +09:00"
+    "id":35, "name":"【SPコレ】ガチャポイント交換所", "sort_order":29, "description":"【SPコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2125, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/03/11 12:00:00 +09:00", "ended_at":"2021/04/04 11:59:59 +09:00"
   },
   {
-    "id":36, "name":"【お師匠様】ガチャポイント交換所", "sort_order":30, "description":"【お師匠様】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2127, "event_id":0, "off_time_trade":true, "started_at":"2021/03/12 12:00:00 +09:00", "ended_at":"2021/04/04 11:59:59 +09:00"
+    "id":36, "name":"【お師匠様】ガチャポイント交換所", "sort_order":30, "description":"【お師匠様】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2127, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/03/12 12:00:00 +09:00", "ended_at":"2021/04/04 11:59:59 +09:00"
   },
   {
-    "id":37, "name":"1周年ポイント交換所", "sort_order":64994, "description":"1周年ポイントをここだけの特別なラインナップと交換できます", "category":3, "gacha_id":8, "event_id":0, "off_time_trade":true, "started_at":"2021/03/12 12:00:00 +09:00", "ended_at":"2021/04/04 11:59:59 +09:00"
+    "id":37, "name":"1周年ポイント交換所", "sort_order":64994, "description":"1周年ポイントをここだけの特別なラインナップと交換できます", "category":3, "gacha_id":8, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/03/12 12:00:00 +09:00", "ended_at":"2021/04/04 11:59:59 +09:00"
   },
   {
-    "id":38, "name":"【SPコレ2】ガチャポイント交換所", "sort_order":31, "description":"【SPコレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2130, "event_id":0, "off_time_trade":true, "started_at":"2021/03/23 12:00:00 +09:00", "ended_at":"2021/04/12 11:59:59 +09:00"
+    "id":38, "name":"【SPコレ2】ガチャポイント交換所", "sort_order":31, "description":"【SPコレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2130, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/03/23 12:00:00 +09:00", "ended_at":"2021/04/12 11:59:59 +09:00"
   },
   {
-    "id":39, "name":"【Dコレ】ガチャポイント交換所", "sort_order":32, "description":"【Dコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2132, "event_id":0, "off_time_trade":true, "started_at":"2021/03/31 12:00:00 +09:00", "ended_at":"2021/04/22 11:59:59 +09:00"
+    "id":39, "name":"【Dコレ】ガチャポイント交換所", "sort_order":32, "description":"【Dコレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2132, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/03/31 12:00:00 +09:00", "ended_at":"2021/04/22 11:59:59 +09:00"
   },
   {
-    "id":40, "name":"SPめもりあるポイント交換所", "sort_order":64993, "description":"各種イベントで獲得した『SPめもりあるポイント』を色々なものと交換できます", "category":1, "gacha_id":9, "event_id":0, "off_time_trade":true, "started_at":"2021/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":40, "name":"SPめもりあるポイント交換所", "sort_order":64993, "description":"各種イベントで獲得した『SPめもりあるポイント』を色々なものと交換できます", "category":1, "gacha_id":9, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/03/31 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":41, "name":"【はぴだん】ガチャポイント交換所", "sort_order":33, "description":"【はぴだん】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2137, "event_id":0, "off_time_trade":true, "started_at":"2021/04/09 13:00:00 +09:00", "ended_at":"2021/05/05 11:59:59 +09:00"
+    "id":41, "name":"【はぴだん】ガチャポイント交換所", "sort_order":33, "description":"【はぴだん】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2137, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/04/09 13:00:00 +09:00", "ended_at":"2021/05/05 11:59:59 +09:00"
   },
   {
-    "id":42, "name":"【花コレ】ガチャポイント交換所", "sort_order":34, "description":"【花コレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2135, "event_id":0, "off_time_trade":true, "started_at":"2021/04/10 12:00:00 +09:00", "ended_at":"2021/05/03 11:59:59 +09:00"
+    "id":42, "name":"【花コレ】ガチャポイント交換所", "sort_order":34, "description":"【花コレ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2135, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/04/10 12:00:00 +09:00", "ended_at":"2021/05/03 11:59:59 +09:00"
   },
   {
-    "id":43, "name":"【ウルフ】ガチャポイント交換所", "sort_order":35, "description":"【ウルフ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2139, "event_id":0, "off_time_trade":true, "started_at":"2021/04/21 12:00:00 +09:00", "ended_at":"2021/05/12 11:59:59 +09:00"
+    "id":43, "name":"【ウルフ】ガチャポイント交換所", "sort_order":35, "description":"【ウルフ】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2139, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/04/21 12:00:00 +09:00", "ended_at":"2021/05/12 11:59:59 +09:00"
   },
   {
-    "id":44, "name":"【Dコレ2】ガチャポイント交換所", "sort_order":36, "description":"【Dコレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2142, "event_id":0, "off_time_trade":true, "started_at":"2021/04/30 12:00:00 +09:00", "ended_at":"2021/05/23 11:59:59 +09:00"
+    "id":44, "name":"【Dコレ2】ガチャポイント交換所", "sort_order":36, "description":"【Dコレ2】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2142, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/04/30 12:00:00 +09:00", "ended_at":"2021/05/23 11:59:59 +09:00"
   },
   {
-    "id":45, "name":"【コリがし】ガチャポイント交換所", "sort_order":37, "description":"【コリがし】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2145, "event_id":0, "off_time_trade":true, "started_at":"2021/05/11 12:00:00 +09:00", "ended_at":"2021/06/03 11:59:59 +09:00"
+    "id":45, "name":"【コリがし】ガチャポイント交換所", "sort_order":37, "description":"【コリがし】ガチャで入手したポイントを、ここだけの特別なラインナップと交換できます", "category":2, "gacha_id":2145, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/05/11 12:00:00 +09:00", "ended_at":"2021/06/03 11:59:59 +09:00"
   },
   {
-    "id":46, "name":"【はぴだん2】ガチャポイント交換所", "sort_order":38, "description":"未使用", "category":2, "gacha_id":2147, "event_id":0, "off_time_trade":true, "started_at":"2021/05/14 11:00:00 +09:00", "ended_at":"2021/06/05 11:59:59 +09:00"
+    "id":46, "name":"【はぴだん2】ガチャポイント交換所", "sort_order":38, "description":"未使用", "category":2, "gacha_id":2147, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/05/14 11:00:00 +09:00", "ended_at":"2021/06/05 11:59:59 +09:00"
   },
   {
-    "id":47, "name":"2021年5月SSRセレクト交換所", "sort_order":64992, "description":"未使用", "category":3, "gacha_id":10, "event_id":0, "off_time_trade":true, "started_at":"2021/05/14 11:00:00 +09:00", "ended_at":"2021/05/22 11:59:59 +09:00"
+    "id":47, "name":"2021年5月SSRセレクト交換所", "sort_order":64992, "description":"未使用", "category":3, "gacha_id":10, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/05/14 11:00:00 +09:00", "ended_at":"2021/05/22 11:59:59 +09:00"
   },
   {
-    "id":48, "name":"【CC】ガチャポイント交換所", "sort_order":39, "description":"未使用", "category":2, "gacha_id":2148, "event_id":0, "off_time_trade":true, "started_at":"2021/05/22 12:00:00 +09:00", "ended_at":"2021/06/12 11:59:59 +09:00"
+    "id":48, "name":"【CC】ガチャポイント交換所", "sort_order":39, "description":"未使用", "category":2, "gacha_id":2148, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/05/22 12:00:00 +09:00", "ended_at":"2021/06/12 11:59:59 +09:00"
   },
   {
-    "id":49, "name":"【Dコレ3】ガチャポイント交換所", "sort_order":40, "description":"未使用", "category":2, "gacha_id":2154, "event_id":0, "off_time_trade":true, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2021/06/23 11:59:59 +09:00"
+    "id":49, "name":"【Dコレ3】ガチャポイント交換所", "sort_order":40, "description":"未使用", "category":2, "gacha_id":2154, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/05/31 12:00:00 +09:00", "ended_at":"2021/06/23 11:59:59 +09:00"
   },
   {
-    "id":50, "name":"【RM】ガチャポイント交換所", "sort_order":41, "description":"未使用", "category":2, "gacha_id":2158, "event_id":0, "off_time_trade":true, "started_at":"2021/06/11 12:00:00 +09:00", "ended_at":"2021/07/04 11:59:59 +09:00"
+    "id":50, "name":"【RM】ガチャポイント交換所", "sort_order":41, "description":"未使用", "category":2, "gacha_id":2158, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/06/11 12:00:00 +09:00", "ended_at":"2021/07/04 11:59:59 +09:00"
   },
   {
-    "id":51, "name":"2020年コレ限SSRセレクト交換所", "sort_order":64991, "description":"未使用", "category":3, "gacha_id":11, "event_id":0, "off_time_trade":true, "started_at":"2021/06/15 11:00:00 +09:00", "ended_at":"2021/07/20 11:59:59 +09:00"
+    "id":51, "name":"2020年コレ限SSRセレクト交換所", "sort_order":64991, "description":"未使用", "category":3, "gacha_id":11, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/06/15 11:00:00 +09:00", "ended_at":"2021/07/20 11:59:59 +09:00"
   },
   {
-    "id":52, "name":"【WED】ガチャポイント交換所", "sort_order":42, "description":"未使用", "category":2, "gacha_id":2162, "event_id":0, "off_time_trade":true, "started_at":"2021/06/22 12:00:00 +09:00", "ended_at":"2021/07/12 11:59:59 +09:00"
+    "id":52, "name":"【WED】ガチャポイント交換所", "sort_order":42, "description":"未使用", "category":2, "gacha_id":2162, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/06/22 12:00:00 +09:00", "ended_at":"2021/07/12 11:59:59 +09:00"
   },
   {
-    "id":53, "name":"【水コレ3】ガチャポイント交換所", "sort_order":43, "description":"未使用", "category":2, "gacha_id":2168, "event_id":0, "off_time_trade":true, "started_at":"2021/06/30 12:00:00 +09:00", "ended_at":"2021/07/25 11:59:59 +09:00"
+    "id":53, "name":"【水コレ3】ガチャポイント交換所", "sort_order":43, "description":"未使用", "category":2, "gacha_id":2168, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/06/30 12:00:00 +09:00", "ended_at":"2021/07/25 11:59:59 +09:00"
   },
   {
-    "id":54, "name":"BR記念pt交換所", "sort_order":64990, "description":"未使用", "category":3, "gacha_id":12, "event_id":0, "off_time_trade":true, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/08/14 11:59:59 +09:00"
+    "id":54, "name":"BR記念pt交換所", "sort_order":64990, "description":"未使用", "category":3, "gacha_id":12, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/08/14 11:59:59 +09:00"
   },
   {
-    "id":55, "name":"【水コレ4】ガチャポイント交換所", "sort_order":44, "description":"未使用", "category":2, "gacha_id":2172, "event_id":0, "off_time_trade":true, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/08/02 11:59:59 +09:00"
+    "id":55, "name":"【水コレ4】ガチャポイント交換所", "sort_order":44, "description":"未使用", "category":2, "gacha_id":2172, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2021/08/02 11:59:59 +09:00"
   },
   {
-    "id":56, "name":"キャラスフィア交換所", "sort_order":64989, "description":"未使用", "category":1, "gacha_id":13, "event_id":0, "off_time_trade":true, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":56, "name":"キャラスフィア交換所", "sort_order":64989, "description":"未使用", "category":1, "gacha_id":13, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":57, "name":"魂系アイテム交換所", "sort_order":64988, "description":"未使用", "category":1, "gacha_id":14, "event_id":0, "off_time_trade":true, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":57, "name":"魂系アイテム交換所", "sort_order":64988, "description":"未使用", "category":1, "gacha_id":14, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/07/13 12:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":58, "name":"【水コレ5】ガチャポイント交換所", "sort_order":45, "description":"未使用", "category":2, "gacha_id":2176, "event_id":0, "off_time_trade":true, "started_at":"2021/07/21 12:00:00 +09:00", "ended_at":"2021/08/12 11:59:59 +09:00"
+    "id":58, "name":"【水コレ5】ガチャポイント交換所", "sort_order":45, "description":"未使用", "category":2, "gacha_id":2176, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/07/21 12:00:00 +09:00", "ended_at":"2021/08/12 11:59:59 +09:00"
   },
   {
-    "id":59, "name":"【ゆかコレ2】ガチャポイント交換所", "sort_order":46, "description":"未使用", "category":2, "gacha_id":2182, "event_id":0, "off_time_trade":true, "started_at":"2021/07/31 12:00:00 +09:00", "ended_at":"2021/08/24 11:59:59 +09:00"
+    "id":59, "name":"【ゆかコレ2】ガチャポイント交換所", "sort_order":46, "description":"未使用", "category":2, "gacha_id":2182, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/07/31 12:00:00 +09:00", "ended_at":"2021/08/24 11:59:59 +09:00"
   },
   {
-    "id":60, "name":"【美悪魔】ガチャポイント交換所", "sort_order":47, "description":"未使用", "category":2, "gacha_id":2187, "event_id":0, "off_time_trade":true, "started_at":"2021/08/12 12:00:00 +09:00", "ended_at":"2021/09/02 11:59:59 +09:00"
+    "id":60, "name":"【美悪魔】ガチャポイント交換所", "sort_order":47, "description":"未使用", "category":2, "gacha_id":2187, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/08/12 12:00:00 +09:00", "ended_at":"2021/09/02 11:59:59 +09:00"
   },
   {
-    "id":61, "name":"【夏フェス】ガチャポイント交換所", "sort_order":48, "description":"未使用", "category":2, "gacha_id":2191, "event_id":0, "off_time_trade":true, "started_at":"2021/08/21 12:00:00 +09:00", "ended_at":"2021/09/12 11:59:59 +09:00"
+    "id":61, "name":"【夏フェス】ガチャポイント交換所", "sort_order":48, "description":"未使用", "category":2, "gacha_id":2191, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/08/21 12:00:00 +09:00", "ended_at":"2021/09/12 11:59:59 +09:00"
   },
   {
-    "id":62, "name":"2021/08ステージオブジェクト交換所", "sort_order":49, "description":"未使用", "category":3, "gacha_id":15, "event_id":0, "off_time_trade":true, "started_at":"2021/08/21 12:00:00 +09:00", "ended_at":"2021/08/29 11:59:59 +09:00"
+    "id":62, "name":"2021/08ステージオブジェクト交換所", "sort_order":49, "description":"未使用", "category":3, "gacha_id":15, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/08/21 12:00:00 +09:00", "ended_at":"2021/08/29 11:59:59 +09:00"
   },
   {
-    "id":63, "name":"【モアもん】ガチャポイント交換所", "sort_order":50, "description":"未使用", "category":2, "gacha_id":2195, "event_id":0, "off_time_trade":true, "started_at":"2021/08/31 12:00:00 +09:00", "ended_at":"2021/09/23 11:59:59 +09:00"
+    "id":63, "name":"【モアもん】ガチャポイント交換所", "sort_order":50, "description":"未使用", "category":2, "gacha_id":2195, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/08/31 12:00:00 +09:00", "ended_at":"2021/09/23 11:59:59 +09:00"
   },
   {
-    "id":64, "name":"1.5周年ポイント交換所", "sort_order":65001, "description":"未使用", "category":3, "gacha_id":16, "event_id":0, "off_time_trade":true, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2021/09/30 11:59:59 +09:00"
+    "id":64, "name":"1.5周年ポイント交換所", "sort_order":65001, "description":"未使用", "category":3, "gacha_id":16, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2021/09/30 11:59:59 +09:00"
   },
   {
-    "id":65, "name":"【SPコレ3】ガチャポイント交換所", "sort_order":52, "description":"未使用", "category":2, "gacha_id":2201, "event_id":0, "off_time_trade":true, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2021/10/04 11:59:59 +09:00"
+    "id":65, "name":"【SPコレ3】ガチャポイント交換所", "sort_order":52, "description":"未使用", "category":2, "gacha_id":2201, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2021/10/04 11:59:59 +09:00"
   },
   {
-    "id":66, "name":"【20AS】ガチャポイント交換所", "sort_order":53, "description":"未使用", "category":2, "gacha_id":2204, "event_id":0, "off_time_trade":true, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2021/10/14 11:59:59 +09:00"
+    "id":66, "name":"【20AS】ガチャポイント交換所", "sort_order":53, "description":"未使用", "category":2, "gacha_id":2204, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2021/10/14 11:59:59 +09:00"
   },
   {
-    "id":67, "name":"【123】ガチャポイント交換所", "sort_order":54, "description":"未使用", "category":2, "gacha_id":2206, "event_id":0, "off_time_trade":true, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2021/10/14 11:59:59 +09:00"
+    "id":67, "name":"【123】ガチャポイント交換所", "sort_order":54, "description":"未使用", "category":2, "gacha_id":2206, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/09/11 12:00:00 +09:00", "ended_at":"2021/10/14 11:59:59 +09:00"
   },
   {
-    "id":68, "name":"対バントロフィー交換所", "sort_order":64987, "description":"未使用", "category":1, "gacha_id":17, "event_id":0, "off_time_trade":true, "started_at":"2021/09/10 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
+    "id":68, "name":"対バントロフィー交換所", "sort_order":64987, "description":"未使用", "category":1, "gacha_id":17, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/09/10 13:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {
-    "id":69, "name":"【月コレ】ガチャポイント交換所", "sort_order":55, "description":"未使用", "category":2, "gacha_id":2210, "event_id":0, "off_time_trade":true, "started_at":"2021/09/22 12:00:00 +09:00", "ended_at":"2021/10/12 11:59:59 +09:00"
+    "id":69, "name":"【月コレ】ガチャポイント交換所", "sort_order":55, "description":"未使用", "category":2, "gacha_id":2210, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/09/22 12:00:00 +09:00", "ended_at":"2021/10/12 11:59:59 +09:00"
   },
   {
-    "id":70, "name":"【はぴだん3】ガチャポイント交換所", "sort_order":56, "description":"未使用", "category":2, "gacha_id":2230, "event_id":0, "off_time_trade":true, "started_at":"2021/09/24 11:00:00 +09:00", "ended_at":"2021/10/19 11:59:59 +09:00"
+    "id":70, "name":"【はぴだん3】ガチャポイント交換所", "sort_order":56, "description":"未使用", "category":2, "gacha_id":2230, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/09/24 11:00:00 +09:00", "ended_at":"2021/10/19 11:59:59 +09:00"
   },
   {
-    "id":71, "name":"【ハロコレ4】ガチャポイント交換所", "sort_order":57, "description":"未使用", "category":2, "gacha_id":2214, "event_id":0, "off_time_trade":true, "started_at":"2021/09/30 12:00:00 +09:00", "ended_at":"2021/10/24 11:59:59 +09:00"
+    "id":71, "name":"【ハロコレ4】ガチャポイント交換所", "sort_order":57, "description":"未使用", "category":2, "gacha_id":2214, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/09/30 12:00:00 +09:00", "ended_at":"2021/10/24 11:59:59 +09:00"
   },
   {
-    "id":72, "name":"【ハロコレ5】ガチャポイント交換所", "sort_order":58, "description":"未使用", "category":2, "gacha_id":2219, "event_id":0, "off_time_trade":true, "started_at":"2021/10/12 12:00:00 +09:00", "ended_at":"2021/11/02 11:59:59 +09:00"
+    "id":72, "name":"【ハロコレ5】ガチャポイント交換所", "sort_order":58, "description":"未使用", "category":2, "gacha_id":2219, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/10/12 12:00:00 +09:00", "ended_at":"2021/11/02 11:59:59 +09:00"
   },
   {
-    "id":73, "name":"【ハロコレ6】ガチャポイント交換所", "sort_order":59, "description":"未使用", "category":2, "gacha_id":2223, "event_id":0, "off_time_trade":true, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/11/12 11:59:59 +09:00"
+    "id":73, "name":"【ハロコレ6】ガチャポイント交換所", "sort_order":59, "description":"未使用", "category":2, "gacha_id":2223, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/10/21 12:00:00 +09:00", "ended_at":"2021/11/12 11:59:59 +09:00"
   },
   {
-    "id":74, "name":"アリリリス1ガチャポイント交換所", "sort_order":60, "description":"未使用", "category":2, "gacha_id":2235, "event_id":0, "off_time_trade":true, "started_at":"2021/10/31 12:00:00 +09:00", "ended_at":"2021/11/25 11:59:59 +09:00"
+    "id":74, "name":"アリリリス1ガチャポイント交換所", "sort_order":60, "description":"未使用", "category":2, "gacha_id":2235, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/10/31 12:00:00 +09:00", "ended_at":"2021/11/25 11:59:59 +09:00"
   },
   {
-    "id":75, "name":"アリリリス2ガチャポイント交換所", "sort_order":61, "description":"未使用", "category":2, "gacha_id":2231, "event_id":0, "off_time_trade":true, "started_at":"2021/10/31 12:00:00 +09:00", "ended_at":"2021/11/25 11:59:59 +09:00"
+    "id":75, "name":"アリリリス2ガチャポイント交換所", "sort_order":61, "description":"未使用", "category":2, "gacha_id":2231, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/10/31 12:00:00 +09:00", "ended_at":"2021/11/25 11:59:59 +09:00"
   },
   {
-    "id":76, "name":"チッティガチャポイント交換所", "sort_order":62, "description":"未使用", "category":2, "gacha_id":2238, "event_id":0, "off_time_trade":true, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/12/03 11:59:59 +09:00"
+    "id":76, "name":"チッティガチャポイント交換所", "sort_order":62, "description":"未使用", "category":2, "gacha_id":2238, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/11/11 13:00:00 +09:00", "ended_at":"2021/12/03 11:59:59 +09:00"
   },
   {
-    "id":77, "name":"応援団長ガチャポイント交換所", "sort_order":63, "description":"未使用", "category":2, "gacha_id":2239, "event_id":0, "off_time_trade":true, "started_at":"2021/11/19 13:00:00 +09:00", "ended_at":"2021/12/14 11:59:59 +09:00"
+    "id":77, "name":"応援団長ガチャポイント交換所", "sort_order":63, "description":"未使用", "category":2, "gacha_id":2239, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/11/19 13:00:00 +09:00", "ended_at":"2021/12/14 11:59:59 +09:00"
   },
   {
-    "id":78, "name":"復刻ステージ.pt①交換所", "sort_order":64, "description":"未使用", "category":2, "gacha_id":2241, "event_id":0, "off_time_trade":true, "started_at":"2021/11/20 12:00:00 +09:00", "ended_at":"2021/12/08 11:59:59 +09:00"
+    "id":78, "name":"復刻ステージ.pt①交換所", "sort_order":64, "description":"未使用", "category":2, "gacha_id":2241, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/11/20 12:00:00 +09:00", "ended_at":"2021/12/08 11:59:59 +09:00"
   },
   {
-    "id":79, "name":"ウィンター1ガチャポイント交換所", "sort_order":65, "description":"未使用", "category":2, "gacha_id":2243, "event_id":0, "off_time_trade":true, "started_at":"2021/11/30 13:00:00 +09:00", "ended_at":"2021/12/27 11:59:59 +09:00"
+    "id":79, "name":"ウィンター1ガチャポイント交換所", "sort_order":65, "description":"未使用", "category":2, "gacha_id":2243, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/11/30 13:00:00 +09:00", "ended_at":"2021/12/27 11:59:59 +09:00"
   },
   {
-    "id":80, "name":"ウィンター2ガチャポイント交換所", "sort_order":66, "description":"未使用", "category":2, "gacha_id":2244, "event_id":0, "off_time_trade":true, "started_at":"2021/11/30 13:00:00 +09:00", "ended_at":"2021/12/27 11:59:59 +09:00"
+    "id":80, "name":"ウィンター2ガチャポイント交換所", "sort_order":66, "description":"未使用", "category":2, "gacha_id":2244, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/11/30 13:00:00 +09:00", "ended_at":"2021/12/27 11:59:59 +09:00"
   },
   {
-    "id":81, "name":"復刻ステージ.pt②交換所", "sort_order":67, "description":"未使用", "category":2, "gacha_id":2245, "event_id":0, "off_time_trade":true, "started_at":"2021/11/30 13:00:00 +09:00", "ended_at":"2021/12/27 11:59:59 +09:00"
+    "id":81, "name":"復刻ステージ.pt②交換所", "sort_order":67, "description":"未使用", "category":2, "gacha_id":2245, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/11/30 13:00:00 +09:00", "ended_at":"2021/12/27 11:59:59 +09:00"
   },
   {
-    "id":82, "name":"ケーキはいかがガチャポイント交換所", "sort_order":68, "description":"未使用", "category":2, "gacha_id":2250, "event_id":0, "off_time_trade":true, "started_at":"2021/12/13 13:00:00 +09:00", "ended_at":"2022/01/04 11:59:59 +09:00"
+    "id":82, "name":"ケーキはいかがガチャポイント交換所", "sort_order":68, "description":"未使用", "category":2, "gacha_id":2250, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/12/13 13:00:00 +09:00", "ended_at":"2022/01/04 11:59:59 +09:00"
   },
   {
-    "id":83, "name":"Xマスナイトガチャポイント交換所", "sort_order":69, "description":"未使用", "category":2, "gacha_id":2252, "event_id":0, "off_time_trade":true, "started_at":"2021/12/21 13:00:00 +09:00", "ended_at":"2022/01/14 11:59:59 +09:00"
+    "id":83, "name":"Xマスナイトガチャポイント交換所", "sort_order":69, "description":"未使用", "category":2, "gacha_id":2252, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/12/21 13:00:00 +09:00", "ended_at":"2022/01/14 11:59:59 +09:00"
   },
   {
-    "id":84, "name":"フェスガチャポイント①交換所", "sort_order":71, "description":"未使用", "category":2, "gacha_id":2253, "event_id":0, "off_time_trade":true, "started_at":"2021/12/24 12:00:00 +09:00", "ended_at":"2022/01/14 11:59:59 +09:00"
+    "id":84, "name":"フェスガチャポイント①交換所", "sort_order":71, "description":"未使用", "category":2, "gacha_id":2253, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/12/24 12:00:00 +09:00", "ended_at":"2022/01/14 11:59:59 +09:00"
   },
   {
-    "id":85, "name":"クリスマス特別ガチャポイント交換所", "sort_order":70, "description":"未使用", "category":2, "gacha_id":2254, "event_id":0, "off_time_trade":true, "started_at":"2021/12/24 12:00:00 +09:00", "ended_at":"2022/01/14 11:59:59 +09:00"
+    "id":85, "name":"クリスマス特別ガチャポイント交換所", "sort_order":70, "description":"未使用", "category":2, "gacha_id":2254, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/12/24 12:00:00 +09:00", "ended_at":"2022/01/14 11:59:59 +09:00"
   },
   {
-    "id":86, "name":"年末年始ポイント交換所", "sort_order":65004, "description":"未使用", "category":3, "gacha_id":18, "event_id":0, "off_time_trade":true, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
+    "id":86, "name":"年末年始ポイント交換所", "sort_order":65004, "description":"未使用", "category":3, "gacha_id":18, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/12/27 13:00:00 +09:00", "ended_at":"2022/01/05 11:59:59 +09:00"
   },
   {
-    "id":87, "name":"フェスin正月ガチャポイント交換所", "sort_order":72, "description":"未使用", "category":2, "gacha_id":2255, "event_id":0, "off_time_trade":true, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/06 11:59:59 +09:00"
+    "id":87, "name":"フェスin正月ガチャポイント交換所", "sort_order":72, "description":"未使用", "category":2, "gacha_id":2255, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/06 11:59:59 +09:00"
   },
   {
-    "id":88, "name":"ダークミューモンポイント交換所", "sort_order":65003, "description":"未使用", "category":3, "gacha_id":19, "event_id":0, "off_time_trade":true, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/21 11:59:59 +09:00"
+    "id":88, "name":"ダークミューモンポイント交換所", "sort_order":65003, "description":"未使用", "category":3, "gacha_id":19, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2021/12/31 12:00:00 +09:00", "ended_at":"2022/01/21 11:59:59 +09:00"
   },
   {
-    "id":89, "name":"正月セレクトガチャポイント交換所", "sort_order":73, "description":"未使用", "category":2, "gacha_id":2259, "event_id":0, "off_time_trade":true, "started_at":"2022/01/06 11:00:00 +09:00", "ended_at":"2022/01/17 11:59:59 +09:00"
+    "id":89, "name":"正月セレクトガチャポイント交換所", "sort_order":73, "description":"未使用", "category":2, "gacha_id":2259, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/01/06 11:00:00 +09:00", "ended_at":"2022/01/17 11:59:59 +09:00"
   },
   {
-    "id":90, "name":"ニューイヤーガチャポイント交換所", "sort_order":74, "description":"未使用", "category":2, "gacha_id":2258, "event_id":0, "off_time_trade":true, "started_at":"2022/01/06 11:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
+    "id":90, "name":"ニューイヤーガチャポイント交換所", "sort_order":74, "description":"未使用", "category":2, "gacha_id":2258, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/01/06 11:00:00 +09:00", "ended_at":"2022/01/11 11:59:59 +09:00"
   },
   {
-    "id":91, "name":"故に新春ゼヨガチャポイント交換所", "sort_order":75, "description":"未使用", "category":2, "gacha_id":2260, "event_id":0, "off_time_trade":true, "started_at":"2022/01/11 13:00:00 +09:00", "ended_at":"2022/01/21 11:59:59 +09:00"
+    "id":91, "name":"故に新春ゼヨガチャポイント交換所", "sort_order":75, "description":"未使用", "category":2, "gacha_id":2260, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/01/11 13:00:00 +09:00", "ended_at":"2022/01/21 11:59:59 +09:00"
   },
   {
-    "id":92, "name":"復刻ステージ.pt③交換所", "sort_order":76, "description":"未使用", "category":2, "gacha_id":2261, "event_id":0, "off_time_trade":true, "started_at":"2022/01/17 11:00:00 +09:00", "ended_at":"2022/01/26 11:59:59 +09:00"
+    "id":92, "name":"復刻ステージ.pt③交換所", "sort_order":76, "description":"未使用", "category":2, "gacha_id":2261, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/01/17 11:00:00 +09:00", "ended_at":"2022/01/26 11:59:59 +09:00"
   },
   {
-    "id":93, "name":"福袋＆大吉ガチャポイント交換所", "sort_order":77, "description":"未使用", "category":2, "gacha_id":2265, "event_id":0, "off_time_trade":true, "started_at":"2022/01/21 13:00:00 +09:00", "ended_at":"2022/01/31 11:59:59 +09:00"
+    "id":93, "name":"福袋＆大吉ガチャポイント交換所", "sort_order":77, "description":"未使用", "category":2, "gacha_id":2265, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/01/21 13:00:00 +09:00", "ended_at":"2022/01/31 11:59:59 +09:00"
   },
   {
-    "id":94, "name":"正月特別ガチャポイント交換所", "sort_order":78, "description":"未使用", "category":2, "gacha_id":2266, "event_id":0, "off_time_trade":true, "started_at":"2022/01/26 11:00:00 +09:00", "ended_at":"2022/01/31 11:59:59 +09:00"
+    "id":94, "name":"正月特別ガチャポイント交換所", "sort_order":78, "description":"未使用", "category":2, "gacha_id":2266, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/01/26 11:00:00 +09:00", "ended_at":"2022/01/31 11:59:59 +09:00"
   },
   {
-    "id":95, "name":"フェスガチャポイント②交換所", "sort_order":79, "description":"未使用", "category":2, "gacha_id":2267, "event_id":0, "off_time_trade":true, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+    "id":95, "name":"フェスガチャポイント②交換所", "sort_order":79, "description":"未使用", "category":2, "gacha_id":2267, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/01/30 12:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
   },
   {
-    "id":96, "name":"チョコっと♡ガチャポイント交換所", "sort_order":80, "description":"未使用", "category":2, "gacha_id":2268, "event_id":0, "off_time_trade":true, "started_at":"2022/01/31 13:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+    "id":96, "name":"チョコっと♡ガチャポイント交換所", "sort_order":80, "description":"未使用", "category":2, "gacha_id":2268, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/01/31 13:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
   },
   {
-    "id":97, "name":"チョコっと♡2ガチャポイント交換所", "sort_order":81, "description":"未使用", "category":2, "gacha_id":2271, "event_id":0, "off_time_trade":true, "started_at":"2022/02/04 11:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
+    "id":97, "name":"チョコっと♡2ガチャポイント交換所", "sort_order":81, "description":"未使用", "category":2, "gacha_id":2271, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/02/04 11:00:00 +09:00", "ended_at":"2022/02/10 11:59:59 +09:00"
   },
   {
-    "id":98, "name":"チョコっと♡3ガチャポイント交換所", "sort_order":82, "description":"未使用", "category":2, "gacha_id":2272, "event_id":0, "off_time_trade":true, "started_at":"2022/02/10 13:00:00 +09:00", "ended_at":"2022/02/18 11:59:59 +09:00"
+    "id":98, "name":"チョコっと♡3ガチャポイント交換所", "sort_order":82, "description":"未使用", "category":2, "gacha_id":2272, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/02/10 13:00:00 +09:00", "ended_at":"2022/02/18 11:59:59 +09:00"
   },
   {
-    "id":99, "name":"雪まつりガチャポイント交換所", "sort_order":83, "description":"未使用", "category":2, "gacha_id":2274, "event_id":0, "off_time_trade":true, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/02/28 11:59:59 +09:00"
+    "id":99, "name":"雪まつりガチャポイント交換所", "sort_order":83, "description":"未使用", "category":2, "gacha_id":2274, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/02/18 13:00:00 +09:00", "ended_at":"2022/02/28 11:59:59 +09:00"
   },
   {
-    "id":100, "name":"バレ雪特別ガチャポイント交換所", "sort_order":84, "description":"未使用", "category":2, "gacha_id":2276, "event_id":0, "off_time_trade":true, "started_at":"2022/02/22 11:00:00 +09:00", "ended_at":"2022/02/28 11:59:59 +09:00"
+    "id":100, "name":"バレ雪特別ガチャポイント交換所", "sort_order":84, "description":"未使用", "category":2, "gacha_id":2276, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/02/22 11:00:00 +09:00", "ended_at":"2022/02/28 11:59:59 +09:00"
   },
   {
-    "id":101, "name":"メロフラガチャポイント交換所", "sort_order":86, "description":"未使用", "category":2, "gacha_id":2277, "event_id":0, "off_time_trade":true, "started_at":"2022/02/28 13:00:00 +09:00", "ended_at":"2022/03/11 11:59:59 +09:00"
+    "id":101, "name":"メロフラガチャポイント交換所", "sort_order":86, "description":"未使用", "category":2, "gacha_id":2277, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/02/28 13:00:00 +09:00", "ended_at":"2022/03/11 11:59:59 +09:00"
   },
   {
-    "id":102, "name":"フェスin2周年ガチャポイント交換所", "sort_order":88, "description":"未使用", "category":2, "gacha_id":2280, "event_id":0, "off_time_trade":true, "started_at":"2022/03/11 13:00:00 +09:00", "ended_at":"2022/03/23 11:59:59 +09:00"
+    "id":102, "name":"フェスin2周年ガチャポイント交換所", "sort_order":88, "description":"未使用", "category":2, "gacha_id":2280, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/03/11 13:00:00 +09:00", "ended_at":"2022/03/23 11:59:59 +09:00"
   },
   {
-    "id":103, "name":"周年セレクトガチャポイント交換所", "sort_order":87, "description":"未使用", "category":2, "gacha_id":2281, "event_id":0, "off_time_trade":true, "started_at":"2022/03/11 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+    "id":103, "name":"周年セレクトガチャポイント交換所", "sort_order":87, "description":"未使用", "category":2, "gacha_id":2281, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/03/11 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
   },
   {
-    "id":104, "name":"2周年記念ポイント交換所", "sort_order":65005, "description":"未使用", "category":3, "gacha_id":20, "event_id":0, "off_time_trade":true, "started_at":"2022/03/11 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+    "id":104, "name":"2周年記念ポイント交換所", "sort_order":65005, "description":"未使用", "category":3, "gacha_id":20, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/03/11 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
   },
   {
-    "id":105, "name":"復刻ステージ.pt④交換所", "sort_order":89, "description":"未使用", "category":2, "gacha_id":2285, "event_id":0, "off_time_trade":true, "started_at":"2022/03/23 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+    "id":105, "name":"復刻ステージ.pt④交換所", "sort_order":89, "description":"未使用", "category":2, "gacha_id":2285, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/03/23 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
   },
   {
-    "id":106, "name":"フェス2周年②ガチャポイント交換所", "sort_order":90, "description":"未使用", "category":2, "gacha_id":2284, "event_id":0, "off_time_trade":true, "started_at":"2022/03/23 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
+    "id":106, "name":"フェス2周年②ガチャポイント交換所", "sort_order":90, "description":"未使用", "category":2, "gacha_id":2284, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/03/23 13:00:00 +09:00", "ended_at":"2022/03/31 11:59:59 +09:00"
   },
   {
-    "id":107, "name":"あの日のガチャポイント交換所", "sort_order":91, "description":"未使用", "category":2, "gacha_id":2286, "event_id":0, "off_time_trade":true, "started_at":"2022/04/01 00:00:00 +09:00", "ended_at":"2022/04/11 11:59:59 +09:00"
+    "id":107, "name":"あの日のガチャポイント交換所", "sort_order":91, "description":"未使用", "category":2, "gacha_id":2286, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/04/01 00:00:00 +09:00", "ended_at":"2022/04/11 11:59:59 +09:00"
   },
   {
-    "id":108, "name":"あの時のガチャポイント交換所", "sort_order":92, "description":"未使用", "category":2, "gacha_id":2288, "event_id":0, "off_time_trade":true, "started_at":"2022/04/06 11:30:00 +09:00", "ended_at":"2022/04/11 11:59:59 +09:00"
+    "id":108, "name":"あの時のガチャポイント交換所", "sort_order":92, "description":"未使用", "category":2, "gacha_id":2288, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/04/06 11:30:00 +09:00", "ended_at":"2022/04/11 11:59:59 +09:00"
+  },
+  {
+    "id":109, "name":"イースターメイプルちゃん交換所", "sort_order":65006, "description":"未使用", "category":3, "gacha_id":0, "event_id":1056, "off_time_trade":true, "multi_cost_flag":true, "started_at":"2022/04/11 13:00:00 +09:00", "ended_at":"2022/04/21 11:59:59 +09:00"
+  },
+  {
+    "id":110, "name":"イースターガチャポイント交換所", "sort_order":93, "description":"未使用", "category":2, "gacha_id":2289, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/04/11 13:00:00 +09:00", "ended_at":"2022/04/21 11:59:59 +09:00"
+  },
+  {
+    "id":111, "name":"復刻ステージ.pt⑤交換所", "sort_order":92, "description":"未使用", "category":2, "gacha_id":2290, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/04/11 13:00:00 +09:00", "ended_at":"2022/04/21 11:59:59 +09:00"
   }
 ]

@@ -273,6 +273,9 @@
     "id":40090, "category":4, "name":"あの時のガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40091, "category":4, "name":"イースターガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -666,6 +669,12 @@
     "id":120090, "category":12, "name":"あの時のガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120091, "category":12, "name":"イースターガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120092, "category":12, "name":"復刻ステージ.pt⑤", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -753,6 +762,9 @@
     "id":140023, "category":14, "name":"2周年記念ポイント", "quantity_max":999999, "ex_params":"{}", "description":"各種2周年記念アイテムと交換できるポイントです"
   },
   {
+    "id":140024, "category":14, "name":"2022年サンリオキャラクター大賞投票券", "quantity_max":999999, "ex_params":"{}", "description":"アプリから2022年サンリオキャラクター大賞へ投票するのに必要なアイテムです。"
+  },
+  {
     "id":141000, "category":14, "name":"バトル招待券A", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"
   },
   {
@@ -763,6 +775,15 @@
   },
   {
     "id":141003, "category":14, "name":"バトル招待券D", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\n「みんなでバトル」へ参加するために必要なアイテムです。"
+  },
+  {
+    "id":142001, "category":14, "name":"ブロンズメイプルちゃん", "quantity_max":999999, "ex_params":"{}", "description":"イベント専用交換所にて豪華報酬と交換ができるアイテムです"
+  },
+  {
+    "id":142002, "category":14, "name":"シルバーメイプルちゃん", "quantity_max":999999, "ex_params":"{}", "description":"イベント専用交換所にて豪華報酬と交換ができるアイテムです"
+  },
+  {
+    "id":142003, "category":14, "name":"ゴールドメイプルちゃん", "quantity_max":999999, "ex_params":"{}", "description":"イベント専用交換所にて豪華報酬と交換ができるアイテムです"
   },
   {
     "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":20, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"
