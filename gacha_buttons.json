@@ -3618,6 +3618,9 @@
     "id":22900104, "gacha_id":2290, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":4, "cycle_end":4, "cost_type":"Item", "cost_id":60002, "cost_quantity":600, "output_count":4, "bonus_no":7042, "point_item_id":120092, "point_item_quantity":1, "button_description":"4回ガチャ", "tips_description":"【4回目】SSR確定"
   },
   {
+    "id":22910101, "gacha_id":2291, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":0, "cost_type":"Item", "cost_id":60002, "cost_quantity":5000, "output_count":39, "bonus_no":0, "point_item_id":120093, "point_item_quantity":330, "button_description":"39連ガチャ", "tips_description":"ピックアップSSR1枚以上確定"
+  },
+  {
     "id":300040101, "gacha_id":30004, "button_no":1, "sort_order":100, "cycle_type":1, "cycle_start":1, "cycle_end":300, "cost_type":"Item", "cost_id":110001, "cost_quantity":900, "output_count":5, "bonus_no":0, "point_item_id":null, "point_item_quantity":0, "button_description":"5連ガチャ", "tips_description":"合計300回まで"
   },
   {
