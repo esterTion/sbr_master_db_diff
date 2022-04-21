@@ -2169,6 +2169,9 @@
     "id":4000617, "category":4, "reset_cycle":0, "title":"【集めてイースター】ミッションを全てクリアしよう", "detail":"【集めてイースター】ミッションを全てクリアしよう", "add_condition_mission_id":0, "sort_order":327, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000591,4000592,4000593,4000594,4000595,4000596,4000597,4000598,4000599,4000600,4000601,4000602,4000603,4000604,4000605,4000606,4000607,4000608,4000609,4000610,4000611,4000612,4000613,4000614,4000615,4000616]", "goal":26, "reward_no":14113, "button_type":0, "destination_kind":0, "started_at":"2022/04/11 13:00:00 +09:00", "ended_at":"2022/04/21 11:59:59 +09:00"
   },
   {
+    "id":4000618, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"61", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/04/21 13:00:00 +09:00", "ended_at":"2022/04/25 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {

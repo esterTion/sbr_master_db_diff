@@ -36,6 +36,9 @@
     "id":20023, "category":2, "name":"キラキラ魂L", "quantity_max":99999, "ex_params":"{}", "description":"キラキラタイプを覚醒させるすごくレアな素材です"
   },
   {
+    "id":20101, "category":2, "name":"れっぱにょしっぽ枕", "quantity_max":99999, "ex_params":"{}", "description":"れっぱにょのママみ全開しっぽ枕。これでアナタもダメミューモンの仲間入り！"
+  },
+  {
     "id":30001, "category":3, "name":"スキルの極意", "quantity_max":9999, "ex_params":"{\"level\":1}", "description":"ブロマイドが持つスキルをレベルアップさせる秘伝書です"
   },
   {
@@ -274,6 +277,9 @@
   },
   {
     "id":40091, "category":4, "name":"イースターガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40094, "category":4, "name":"ロックな怪盗ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
@@ -676,6 +682,9 @@
   },
   {
     "id":120093, "category":12, "name":"はぴだん4ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120094, "category":12, "name":"ロックな怪盗ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
