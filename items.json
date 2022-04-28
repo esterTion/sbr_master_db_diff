@@ -282,6 +282,9 @@
     "id":40094, "category":4, "name":"ロックな怪盗ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40096, "category":4, "name":"NAZOガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -349,6 +352,9 @@
   },
   {
     "id":41023, "category":4, "name":"2022年3月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":41024, "category":4, "name":"2022年5月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":50001, "category":5, "name":"サウンドル", "quantity_max":999999999, "ex_params":"{}", "description":"この世界のお金です"
@@ -690,6 +696,12 @@
     "id":120095, "category":12, "name":"2周年確定ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120096, "category":12, "name":"NAZOガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120097, "category":12, "name":"闇落ちセレクトガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -780,6 +792,9 @@
     "id":140024, "category":14, "name":"2022年サンリオキャラクター大賞投票券", "quantity_max":999999, "ex_params":"{}", "description":"アプリから2022年サンリオキャラクター大賞へ投票するのに必要なアイテムです。"
   },
   {
+    "id":140025, "category":14, "name":"GAW特別ポイント", "quantity_max":999999, "ex_params":"{}", "description":"GAW特別ポイント交換所で使用できるアイテムです"
+  },
+  {
     "id":141000, "category":14, "name":"バトル招待券A", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\r\n「みんなでバトル」へ参加するために必要なアイテムです。"
   },
   {
@@ -790,6 +805,9 @@
   },
   {
     "id":141003, "category":14, "name":"バトル招待券D", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\n「みんなでバトル」へ参加するために必要なアイテムです。"
+  },
+  {
+    "id":141004, "category":14, "name":"バトル招待券E", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\n「みんなでバトル」へ参加するために必要なアイテムです。"
   },
   {
     "id":142001, "category":14, "name":"ブロンズメイプルちゃん", "quantity_max":999999, "ex_params":"{}", "description":"イベント専用交換所にて豪華報酬と交換ができるアイテムです"

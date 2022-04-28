@@ -39,6 +39,9 @@
     "id":1012, "layer_type":"Background", "name":"カラフルホームタウン", "description":"カラフルでにぎやかな街並み。みんながハッピーヤッピッピになれる楽しいタウン♪", "default_asset_ids":"null"
   },
   {
+    "id":1013, "layer_type":"Background", "name":"ゴールデンホームタウン", "description":"俺には判る！この3969億サウンドル投資で完成したこの街並に感動する、ロッカーの姿が！明確に、克明にな！", "default_asset_ids":"null"
+  },
+  {
     "id":1100, "layer_type":"Background", "name":"スゴロクタウン", "description":"スゴロクイベントで使用する背景です。", "default_asset_ids":"null"
   },
   {
@@ -97,6 +100,9 @@
   },
   {
     "id":2016, "layer_type":"Road", "name":"カラフルロード", "description":"カラフルなタイルがモザイクアートを刻むロード。足が自然に踊り出しそう♪", "default_asset_ids":"null"
+  },
+  {
+    "id":2017, "layer_type":"Road", "name":"ゴールデンタイルロード", "description":"この黄金タイルを見るが良い！お前の徒歩が黄金の体験に変わる瞬間を味わうがいい！", "default_asset_ids":"null"
   },
   {
     "id":2100, "layer_type":"Road", "name":"スゴロクロード", "description":"スゴロクイベントで使用する道路です。", "default_asset_ids":"null"
@@ -178,6 +184,9 @@
   },
   {
     "id":7016, "layer_type":"Fence", "name":"カラフルフェンス", "description":"カラフルな音符が踊る楽しいフェンス♪まるで音が聞こえてくるみたい！", "default_asset_ids":"null"
+  },
+  {
+    "id":7017, "layer_type":"Fence", "name":"ゴールデンフェンス", "description":"じいのアドバイスにより開発した、最高にしかなれない黄金のフェンスだ！老若男女問わずミューモンの生活を彩る！", "default_asset_ids":"null"
   },
   {
     "id":8000, "layer_type":"FrontFence", "name":"柵の前", "description":"", "default_asset_ids":"null"
