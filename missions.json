@@ -2178,6 +2178,9 @@
     "id":4000620, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"62", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/04/29 12:00:00 +09:00", "ended_at":"2022/05/03 11:59:59 +09:00"
   },
   {
+    "id":4000621, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"62", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/05/03 12:00:00 +09:00", "ended_at":"2022/05/10 11:59:59 +09:00"
+  },
+  {
     "id":4000622, "category":4, "reset_cycle":0, "title":"【GAW】ワールドエネミーを1回攻撃しよう", "detail":"みんなでバトルから、ワールドエネミーを1回攻撃しよう", "add_condition_mission_id":0, "sort_order":401, "clear_condition_type":"dark_world_count", "clear_condition_args":"0", "goal":1, "reward_no":14114, "button_type":0, "destination_kind":27, "started_at":"2022/04/29 12:00:00 +09:00", "ended_at":"2022/05/10 11:59:59 +09:00"
   },
   {
