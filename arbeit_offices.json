@@ -1,0 +1,1013 @@
+[
+  {
+    "id":1001, "name":"UNZスタジオ Lv.1", "image_id":1, "rarity":1, "exec_minutes":180, "basic_reward_no":400001, "random_reward_no":410001, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1500, "very_success":2250
+  },
+  {
+    "id":1002, "name":"楽器店 Lv.1", "image_id":2, "rarity":1, "exec_minutes":420, "basic_reward_no":400002, "random_reward_no":410002, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":20250, "very_success":30375
+  },
+  {
+    "id":1003, "name":"BRRカフェ Lv.1", "image_id":3, "rarity":1, "exec_minutes":180, "basic_reward_no":400003, "random_reward_no":410003, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":20250, "very_success":30375
+  },
+  {
+    "id":1004, "name":"ぴゅ～るランドスタッフ Lv.1", "image_id":4, "rarity":1, "exec_minutes":420, "basic_reward_no":400004, "random_reward_no":410004, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":20250, "very_success":30375
+  },
+  {
+    "id":1005, "name":"ライブ会場スタッフ Lv.1", "image_id":5, "rarity":1, "exec_minutes":180, "basic_reward_no":400005, "random_reward_no":410005, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":37500, "very_success":56250
+  },
+  {
+    "id":1006, "name":"カラオケ店員 Lv.1", "image_id":6, "rarity":1, "exec_minutes":420, "basic_reward_no":400006, "random_reward_no":410006, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1500, "very_success":2250
+  },
+  {
+    "id":1007, "name":"スケート場 Lv.1", "image_id":7, "rarity":1, "exec_minutes":180, "basic_reward_no":400007, "random_reward_no":410007, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":20250, "very_success":30375
+  },
+  {
+    "id":1008, "name":"海の家 Lv.1", "image_id":8, "rarity":1, "exec_minutes":420, "basic_reward_no":400008, "random_reward_no":410008, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":20250, "very_success":30375
+  },
+  {
+    "id":1101, "name":"ロッカーのスタジオ Lv.1", "image_id":101, "rarity":2, "exec_minutes":900, "basic_reward_no":400009, "random_reward_no":410009, "event_point_reward":11250, "bonus_type":2, "bonus_id":2, "myumon_status":1, "success":1500, "very_success":2250
+  },
+  {
+    "id":1102, "name":"ヤスの弁当屋 Lv.1", "image_id":102, "rarity":2, "exec_minutes":420, "basic_reward_no":400010, "random_reward_no":410010, "event_point_reward":5250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":20250, "very_success":30375
+  },
+  {
+    "id":1103, "name":"デルミンのコイル巻きのお手伝い Lv.1", "image_id":103, "rarity":2, "exec_minutes":900, "basic_reward_no":400011, "random_reward_no":410011, "event_point_reward":11250, "bonus_type":2, "bonus_id":1, "myumon_status":3, "success":20250, "very_success":30375
+  },
+  {
+    "id":1104, "name":"クロウと牛乳配達 Lv.1", "image_id":104, "rarity":2, "exec_minutes":420, "basic_reward_no":400012, "random_reward_no":410012, "event_point_reward":5250, "bonus_type":2, "bonus_id":7, "myumon_status":4, "success":20250, "very_success":30375
+  },
+  {
+    "id":1105, "name":"BVL屋敷のお手伝い Lv.1", "image_id":105, "rarity":2, "exec_minutes":660, "basic_reward_no":400013, "random_reward_no":410013, "event_point_reward":8250, "bonus_type":2, "bonus_id":4, "myumon_status":0, "success":37500, "very_success":56250
+  },
+  {
+    "id":1106, "name":"レイジンのアシスタント Lv.1", "image_id":106, "rarity":2, "exec_minutes":660, "basic_reward_no":400014, "random_reward_no":410014, "event_point_reward":8250, "bonus_type":2, "bonus_id":5, "myumon_status":1, "success":1500, "very_success":2250
+  },
+  {
+    "id":1107, "name":"どこ北の1日講師 Lv.1", "image_id":107, "rarity":2, "exec_minutes":660, "basic_reward_no":400015, "random_reward_no":410015, "event_point_reward":8250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":20250, "very_success":30375
+  },
+  {
+    "id":1108, "name":"徒然の宿の清掃 Lv.1", "image_id":108, "rarity":2, "exec_minutes":660, "basic_reward_no":400016, "random_reward_no":410016, "event_point_reward":8250, "bonus_type":2, "bonus_id":3, "myumon_status":3, "success":20250, "very_success":30375
+  },
+  {
+    "id":1109, "name":"徒然なる温泉宿 Lv.1", "image_id":109, "rarity":2, "exec_minutes":900, "basic_reward_no":400017, "random_reward_no":410017, "event_point_reward":11250, "bonus_type":2, "bonus_id":3, "myumon_status":4, "success":20250, "very_success":30375
+  },
+  {
+    "id":1110, "name":"珍竹林ら～めん Lv.1", "image_id":110, "rarity":2, "exec_minutes":660, "basic_reward_no":400018, "random_reward_no":410018, "event_point_reward":8250, "bonus_type":2, "bonus_id":7, "myumon_status":0, "success":37500, "very_success":56250
+  },
+  {
+    "id":1111, "name":"アルカレのアシスタント Lv.1", "image_id":111, "rarity":2, "exec_minutes":180, "basic_reward_no":400019, "random_reward_no":410019, "event_point_reward":2250, "bonus_type":2, "bonus_id":9, "myumon_status":1, "success":1500, "very_success":2250
+  },
+  {
+    "id":1112, "name":"MIDI女の1日講師 Lv.1", "image_id":112, "rarity":2, "exec_minutes":420, "basic_reward_no":400020, "random_reward_no":410020, "event_point_reward":5250, "bonus_type":2, "bonus_id":10, "myumon_status":2, "success":20250, "very_success":30375
+  },
+  {
+    "id":1113, "name":"ClubVERMONT Lv.1", "image_id":113, "rarity":2, "exec_minutes":420, "basic_reward_no":400021, "random_reward_no":410021, "event_point_reward":5250, "bonus_type":2, "bonus_id":90, "myumon_status":3, "success":20250, "very_success":30375
+  },
+  {
+    "id":1201, "name":"ロッカーのスタジオ Lv.1", "image_id":101, "rarity":3, "exec_minutes":900, "basic_reward_no":400022, "random_reward_no":410022, "event_point_reward":15000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":1500, "very_success":2250
+  },
+  {
+    "id":1202, "name":"ヤスの弁当屋 Lv.1", "image_id":102, "rarity":3, "exec_minutes":420, "basic_reward_no":400023, "random_reward_no":410023, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":20250, "very_success":30375
+  },
+  {
+    "id":1203, "name":"デルミンのコイル巻きのお手伝い Lv.1", "image_id":103, "rarity":3, "exec_minutes":900, "basic_reward_no":400024, "random_reward_no":410024, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":3, "success":20250, "very_success":30375
+  },
+  {
+    "id":1204, "name":"クロウと牛乳配達 Lv.1", "image_id":104, "rarity":3, "exec_minutes":420, "basic_reward_no":400025, "random_reward_no":410025, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":4, "success":20250, "very_success":30375
+  },
+  {
+    "id":1205, "name":"BVL屋敷のお手伝い Lv.1", "image_id":105, "rarity":3, "exec_minutes":660, "basic_reward_no":400026, "random_reward_no":410026, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":0, "success":37500, "very_success":56250
+  },
+  {
+    "id":1206, "name":"レイジンのアシスタント Lv.1", "image_id":106, "rarity":3, "exec_minutes":660, "basic_reward_no":400027, "random_reward_no":410027, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":1, "success":1500, "very_success":2250
+  },
+  {
+    "id":1207, "name":"どこ北の1日講師 Lv.1", "image_id":107, "rarity":3, "exec_minutes":660, "basic_reward_no":400028, "random_reward_no":410028, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":2, "success":20250, "very_success":30375
+  },
+  {
+    "id":1208, "name":"徒然の宿の清掃 Lv.1", "image_id":108, "rarity":3, "exec_minutes":660, "basic_reward_no":400029, "random_reward_no":410029, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":3, "success":20250, "very_success":30375
+  },
+  {
+    "id":1209, "name":"徒然なる温泉宿 Lv.1", "image_id":109, "rarity":3, "exec_minutes":900, "basic_reward_no":400030, "random_reward_no":410030, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":4, "success":20250, "very_success":30375
+  },
+  {
+    "id":1210, "name":"珍竹林ら～めん Lv.1", "image_id":110, "rarity":3, "exec_minutes":660, "basic_reward_no":400031, "random_reward_no":410031, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":0, "success":37500, "very_success":56250
+  },
+  {
+    "id":1211, "name":"アルカレのアシスタント Lv.1", "image_id":111, "rarity":3, "exec_minutes":180, "basic_reward_no":400032, "random_reward_no":410032, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":1, "success":1500, "very_success":2250
+  },
+  {
+    "id":1212, "name":"MIDI女の1日講師 Lv.1", "image_id":112, "rarity":3, "exec_minutes":420, "basic_reward_no":400033, "random_reward_no":410033, "event_point_reward":7000, "bonus_type":1, "bonus_id":3, "myumon_status":2, "success":20250, "very_success":30375
+  },
+  {
+    "id":1213, "name":"ClubVERMONT Lv.1", "image_id":113, "rarity":3, "exec_minutes":420, "basic_reward_no":400034, "random_reward_no":410034, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":3, "success":20250, "very_success":30375
+  },
+  {
+    "id":2001, "name":"UNZスタジオ Lv.2", "image_id":1, "rarity":1, "exec_minutes":180, "basic_reward_no":400035, "random_reward_no":410035, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2002, "name":"楽器店 Lv.2", "image_id":2, "rarity":1, "exec_minutes":420, "basic_reward_no":400036, "random_reward_no":410036, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2003, "name":"BRRカフェ Lv.2", "image_id":3, "rarity":1, "exec_minutes":180, "basic_reward_no":400037, "random_reward_no":410037, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":21600, "very_success":32400
+  },
+  {
+    "id":2004, "name":"ぴゅ～るランドスタッフ Lv.2", "image_id":4, "rarity":1, "exec_minutes":420, "basic_reward_no":400038, "random_reward_no":410038, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":21600, "very_success":32400
+  },
+  {
+    "id":2005, "name":"ライブ会場スタッフ Lv.2", "image_id":5, "rarity":1, "exec_minutes":180, "basic_reward_no":400039, "random_reward_no":410039, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":40000, "very_success":60000
+  },
+  {
+    "id":2006, "name":"カラオケ店員 Lv.2", "image_id":6, "rarity":1, "exec_minutes":420, "basic_reward_no":400040, "random_reward_no":410040, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2007, "name":"スケート場 Lv.2", "image_id":7, "rarity":1, "exec_minutes":180, "basic_reward_no":400041, "random_reward_no":410041, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2008, "name":"海の家 Lv.2", "image_id":8, "rarity":1, "exec_minutes":420, "basic_reward_no":400042, "random_reward_no":410042, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":21600, "very_success":32400
+  },
+  {
+    "id":2009, "name":"ケーキ屋 Lv.2", "image_id":9, "rarity":1, "exec_minutes":180, "basic_reward_no":400043, "random_reward_no":410043, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":21600, "very_success":32400
+  },
+  {
+    "id":2010, "name":"喫茶店 Lv.2", "image_id":10, "rarity":1, "exec_minutes":420, "basic_reward_no":400044, "random_reward_no":410044, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":40000, "very_success":60000
+  },
+  {
+    "id":2011, "name":"中華料理屋 Lv.2", "image_id":11, "rarity":1, "exec_minutes":660, "basic_reward_no":400045, "random_reward_no":410045, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2012, "name":"ビラ配り Lv.2", "image_id":12, "rarity":1, "exec_minutes":180, "basic_reward_no":400046, "random_reward_no":410046, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2013, "name":"コンビニ店員 Lv.2", "image_id":13, "rarity":1, "exec_minutes":420, "basic_reward_no":400047, "random_reward_no":410047, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":21600, "very_success":32400
+  },
+  {
+    "id":2014, "name":"プラモ屋 Lv.2", "image_id":14, "rarity":1, "exec_minutes":660, "basic_reward_no":400048, "random_reward_no":410048, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":21600, "very_success":32400
+  },
+  {
+    "id":2015, "name":"服屋 Lv.2", "image_id":15, "rarity":1, "exec_minutes":180, "basic_reward_no":400049, "random_reward_no":410049, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":40000, "very_success":60000
+  },
+  {
+    "id":2016, "name":"スパリゾートMIDICIANS Lv.2", "image_id":16, "rarity":1, "exec_minutes":420, "basic_reward_no":400050, "random_reward_no":410050, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2017, "name":"映画館 Lv.2", "image_id":17, "rarity":1, "exec_minutes":660, "basic_reward_no":400051, "random_reward_no":410051, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2101, "name":"ロッカーのスタジオ Lv.2", "image_id":101, "rarity":2, "exec_minutes":900, "basic_reward_no":400052, "random_reward_no":410052, "event_point_reward":11250, "bonus_type":2, "bonus_id":2, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2102, "name":"ヤスの弁当屋 Lv.2", "image_id":102, "rarity":2, "exec_minutes":420, "basic_reward_no":400053, "random_reward_no":410053, "event_point_reward":5250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2103, "name":"デルミンのコイル巻きのお手伝い Lv.2", "image_id":103, "rarity":2, "exec_minutes":900, "basic_reward_no":400054, "random_reward_no":410054, "event_point_reward":11250, "bonus_type":2, "bonus_id":1, "myumon_status":3, "success":21600, "very_success":32400
+  },
+  {
+    "id":2104, "name":"クロウと牛乳配達 Lv.2", "image_id":104, "rarity":2, "exec_minutes":420, "basic_reward_no":400055, "random_reward_no":410055, "event_point_reward":5250, "bonus_type":2, "bonus_id":7, "myumon_status":4, "success":21600, "very_success":32400
+  },
+  {
+    "id":2105, "name":"BVL屋敷のお手伝い Lv.2", "image_id":105, "rarity":2, "exec_minutes":660, "basic_reward_no":400056, "random_reward_no":410056, "event_point_reward":8250, "bonus_type":2, "bonus_id":4, "myumon_status":0, "success":40000, "very_success":60000
+  },
+  {
+    "id":2106, "name":"レイジンのアシスタント Lv.2", "image_id":106, "rarity":2, "exec_minutes":660, "basic_reward_no":400057, "random_reward_no":410057, "event_point_reward":8250, "bonus_type":2, "bonus_id":5, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2107, "name":"どこ北の1日講師 Lv.2", "image_id":107, "rarity":2, "exec_minutes":660, "basic_reward_no":400058, "random_reward_no":410058, "event_point_reward":8250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2108, "name":"徒然の宿の清掃 Lv.2", "image_id":108, "rarity":2, "exec_minutes":660, "basic_reward_no":400059, "random_reward_no":410059, "event_point_reward":8250, "bonus_type":2, "bonus_id":3, "myumon_status":3, "success":21600, "very_success":32400
+  },
+  {
+    "id":2109, "name":"徒然なる温泉宿 Lv.2", "image_id":109, "rarity":2, "exec_minutes":900, "basic_reward_no":400060, "random_reward_no":410060, "event_point_reward":11250, "bonus_type":2, "bonus_id":3, "myumon_status":4, "success":21600, "very_success":32400
+  },
+  {
+    "id":2110, "name":"珍竹林ら～めん Lv.2", "image_id":110, "rarity":2, "exec_minutes":660, "basic_reward_no":400061, "random_reward_no":410061, "event_point_reward":8250, "bonus_type":2, "bonus_id":7, "myumon_status":0, "success":40000, "very_success":60000
+  },
+  {
+    "id":2111, "name":"アルカレのアシスタント Lv.2", "image_id":111, "rarity":2, "exec_minutes":180, "basic_reward_no":400062, "random_reward_no":410062, "event_point_reward":2250, "bonus_type":2, "bonus_id":9, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2112, "name":"MIDI女の1日講師 Lv.2", "image_id":112, "rarity":2, "exec_minutes":420, "basic_reward_no":400063, "random_reward_no":410063, "event_point_reward":5250, "bonus_type":2, "bonus_id":10, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2113, "name":"ClubVERMONT Lv.2", "image_id":113, "rarity":2, "exec_minutes":420, "basic_reward_no":400064, "random_reward_no":410064, "event_point_reward":5250, "bonus_type":2, "bonus_id":90, "myumon_status":3, "success":21600, "very_success":32400
+  },
+  {
+    "id":2114, "name":"BAR夜風 Lv.2", "image_id":114, "rarity":2, "exec_minutes":420, "basic_reward_no":400065, "random_reward_no":410065, "event_point_reward":5250, "bonus_type":2, "bonus_id":11, "myumon_status":4, "success":21600, "very_success":32400
+  },
+  {
+    "id":2115, "name":"サンリオアニメストア Lv.2", "image_id":115, "rarity":2, "exec_minutes":660, "basic_reward_no":400066, "random_reward_no":410066, "event_point_reward":8250, "bonus_type":2, "bonus_id":8, "myumon_status":0, "success":40000, "very_success":60000
+  },
+  {
+    "id":2201, "name":"ロッカーのスタジオ Lv.2", "image_id":101, "rarity":3, "exec_minutes":900, "basic_reward_no":400067, "random_reward_no":410067, "event_point_reward":15000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2202, "name":"ヤスの弁当屋 Lv.2", "image_id":102, "rarity":3, "exec_minutes":420, "basic_reward_no":400068, "random_reward_no":410068, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2203, "name":"デルミンのコイル巻きのお手伝い Lv.2", "image_id":103, "rarity":3, "exec_minutes":900, "basic_reward_no":400069, "random_reward_no":410069, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":3, "success":21600, "very_success":32400
+  },
+  {
+    "id":2204, "name":"クロウと牛乳配達 Lv.2", "image_id":104, "rarity":3, "exec_minutes":420, "basic_reward_no":400070, "random_reward_no":410070, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":4, "success":21600, "very_success":32400
+  },
+  {
+    "id":2205, "name":"BVL屋敷のお手伝い Lv.2", "image_id":105, "rarity":3, "exec_minutes":660, "basic_reward_no":400071, "random_reward_no":410071, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":0, "success":40000, "very_success":60000
+  },
+  {
+    "id":2206, "name":"レイジンのアシスタント Lv.2", "image_id":106, "rarity":3, "exec_minutes":660, "basic_reward_no":400072, "random_reward_no":410072, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2207, "name":"どこ北の1日講師 Lv.2", "image_id":107, "rarity":3, "exec_minutes":660, "basic_reward_no":400073, "random_reward_no":410073, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2208, "name":"徒然の宿の清掃 Lv.2", "image_id":108, "rarity":3, "exec_minutes":660, "basic_reward_no":400074, "random_reward_no":410074, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":3, "success":21600, "very_success":32400
+  },
+  {
+    "id":2209, "name":"徒然なる温泉宿 Lv.2", "image_id":109, "rarity":3, "exec_minutes":900, "basic_reward_no":400075, "random_reward_no":410075, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":4, "success":21600, "very_success":32400
+  },
+  {
+    "id":2210, "name":"珍竹林ら～めん Lv.2", "image_id":110, "rarity":3, "exec_minutes":660, "basic_reward_no":400076, "random_reward_no":410076, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":0, "success":40000, "very_success":60000
+  },
+  {
+    "id":2211, "name":"アルカレのアシスタント Lv.2", "image_id":111, "rarity":3, "exec_minutes":180, "basic_reward_no":400077, "random_reward_no":410077, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":1, "success":1600, "very_success":2400
+  },
+  {
+    "id":2212, "name":"MIDI女の1日講師 Lv.2", "image_id":112, "rarity":3, "exec_minutes":420, "basic_reward_no":400078, "random_reward_no":410078, "event_point_reward":7000, "bonus_type":1, "bonus_id":3, "myumon_status":2, "success":21600, "very_success":32400
+  },
+  {
+    "id":2213, "name":"ClubVERMONT Lv.2", "image_id":113, "rarity":3, "exec_minutes":420, "basic_reward_no":400079, "random_reward_no":410079, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":3, "success":21600, "very_success":32400
+  },
+  {
+    "id":2214, "name":"BAR夜風 Lv.2", "image_id":114, "rarity":3, "exec_minutes":420, "basic_reward_no":400080, "random_reward_no":410080, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":4, "success":21600, "very_success":32400
+  },
+  {
+    "id":2215, "name":"サンリオアニメストア Lv.2", "image_id":115, "rarity":3, "exec_minutes":660, "basic_reward_no":400081, "random_reward_no":410081, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":0, "success":40000, "very_success":60000
+  },
+  {
+    "id":3001, "name":"UNZスタジオ Lv.3", "image_id":1, "rarity":1, "exec_minutes":180, "basic_reward_no":400082, "random_reward_no":410082, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3002, "name":"楽器店 Lv.3", "image_id":2, "rarity":1, "exec_minutes":420, "basic_reward_no":400083, "random_reward_no":410083, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3003, "name":"BRRカフェ Lv.3", "image_id":3, "rarity":1, "exec_minutes":180, "basic_reward_no":400084, "random_reward_no":410084, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3004, "name":"ぴゅ～るランドスタッフ Lv.3", "image_id":4, "rarity":1, "exec_minutes":420, "basic_reward_no":400085, "random_reward_no":410085, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3005, "name":"ライブ会場スタッフ Lv.3", "image_id":5, "rarity":1, "exec_minutes":180, "basic_reward_no":400086, "random_reward_no":410086, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3006, "name":"カラオケ店員 Lv.3", "image_id":6, "rarity":1, "exec_minutes":420, "basic_reward_no":400087, "random_reward_no":410087, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3007, "name":"スケート場 Lv.3", "image_id":7, "rarity":1, "exec_minutes":180, "basic_reward_no":400088, "random_reward_no":410088, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3008, "name":"海の家 Lv.3", "image_id":8, "rarity":1, "exec_minutes":420, "basic_reward_no":400089, "random_reward_no":410089, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3009, "name":"ケーキ屋 Lv.3", "image_id":9, "rarity":1, "exec_minutes":180, "basic_reward_no":400090, "random_reward_no":410090, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3010, "name":"喫茶店 Lv.3", "image_id":10, "rarity":1, "exec_minutes":420, "basic_reward_no":400091, "random_reward_no":410091, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3011, "name":"中華料理屋 Lv.3", "image_id":11, "rarity":1, "exec_minutes":660, "basic_reward_no":400092, "random_reward_no":410092, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3012, "name":"ビラ配り Lv.3", "image_id":12, "rarity":1, "exec_minutes":180, "basic_reward_no":400093, "random_reward_no":410093, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3013, "name":"コンビニ店員 Lv.3", "image_id":13, "rarity":1, "exec_minutes":420, "basic_reward_no":400094, "random_reward_no":410094, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3014, "name":"プラモ屋 Lv.3", "image_id":14, "rarity":1, "exec_minutes":660, "basic_reward_no":400095, "random_reward_no":410095, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3015, "name":"服屋 Lv.3", "image_id":15, "rarity":1, "exec_minutes":180, "basic_reward_no":400096, "random_reward_no":410096, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3016, "name":"スパリゾートMIDICIANS Lv.3", "image_id":16, "rarity":1, "exec_minutes":420, "basic_reward_no":400097, "random_reward_no":410097, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3017, "name":"映画館 Lv.3", "image_id":17, "rarity":1, "exec_minutes":660, "basic_reward_no":400098, "random_reward_no":410098, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3018, "name":"ミューバーイーチュ Lv.3", "image_id":18, "rarity":1, "exec_minutes":420, "basic_reward_no":400099, "random_reward_no":410099, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3019, "name":"結婚式場 Lv.3", "image_id":19, "rarity":1, "exec_minutes":420, "basic_reward_no":400100, "random_reward_no":410100, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3020, "name":"野球場スタッフ Lv.3", "image_id":20, "rarity":1, "exec_minutes":420, "basic_reward_no":400101, "random_reward_no":410101, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3021, "name":"テレビ局スタッフ Lv.3", "image_id":21, "rarity":1, "exec_minutes":660, "basic_reward_no":400102, "random_reward_no":410102, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3022, "name":"サッカー場スタッフ Lv.3", "image_id":22, "rarity":1, "exec_minutes":900, "basic_reward_no":400103, "random_reward_no":410103, "event_point_reward":7500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3023, "name":"駄菓子屋 Lv.3", "image_id":23, "rarity":1, "exec_minutes":660, "basic_reward_no":400104, "random_reward_no":410104, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3024, "name":"ネカフェ Lv.3", "image_id":24, "rarity":1, "exec_minutes":420, "basic_reward_no":400105, "random_reward_no":410105, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3101, "name":"ロッカーのスタジオ Lv.3", "image_id":101, "rarity":2, "exec_minutes":900, "basic_reward_no":400106, "random_reward_no":410106, "event_point_reward":11250, "bonus_type":2, "bonus_id":2, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3102, "name":"ヤスの弁当屋 Lv.3", "image_id":102, "rarity":2, "exec_minutes":420, "basic_reward_no":400107, "random_reward_no":410107, "event_point_reward":5250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3103, "name":"デルミンのコイル巻きのお手伝い Lv.3", "image_id":103, "rarity":2, "exec_minutes":900, "basic_reward_no":400108, "random_reward_no":410108, "event_point_reward":11250, "bonus_type":2, "bonus_id":1, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3104, "name":"クロウと牛乳配達 Lv.3", "image_id":104, "rarity":2, "exec_minutes":420, "basic_reward_no":400109, "random_reward_no":410109, "event_point_reward":5250, "bonus_type":2, "bonus_id":7, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3105, "name":"BVL屋敷のお手伝い Lv.3", "image_id":105, "rarity":2, "exec_minutes":660, "basic_reward_no":400110, "random_reward_no":410110, "event_point_reward":8250, "bonus_type":2, "bonus_id":4, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3106, "name":"レイジンのアシスタント Lv.3", "image_id":106, "rarity":2, "exec_minutes":660, "basic_reward_no":400111, "random_reward_no":410111, "event_point_reward":8250, "bonus_type":2, "bonus_id":5, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3107, "name":"どこ北の1日講師 Lv.3", "image_id":107, "rarity":2, "exec_minutes":660, "basic_reward_no":400112, "random_reward_no":410112, "event_point_reward":8250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3108, "name":"徒然の宿の清掃 Lv.3", "image_id":108, "rarity":2, "exec_minutes":660, "basic_reward_no":400113, "random_reward_no":410113, "event_point_reward":8250, "bonus_type":2, "bonus_id":3, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3109, "name":"徒然なる温泉宿 Lv.3", "image_id":109, "rarity":2, "exec_minutes":900, "basic_reward_no":400114, "random_reward_no":410114, "event_point_reward":11250, "bonus_type":2, "bonus_id":3, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3110, "name":"珍竹林ら～めん Lv.3", "image_id":110, "rarity":2, "exec_minutes":660, "basic_reward_no":400115, "random_reward_no":410115, "event_point_reward":8250, "bonus_type":2, "bonus_id":7, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3111, "name":"アルカレのアシスタント Lv.3", "image_id":111, "rarity":2, "exec_minutes":180, "basic_reward_no":400116, "random_reward_no":410116, "event_point_reward":2250, "bonus_type":2, "bonus_id":9, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3112, "name":"MIDI女の1日講師 Lv.3", "image_id":112, "rarity":2, "exec_minutes":420, "basic_reward_no":400117, "random_reward_no":410117, "event_point_reward":5250, "bonus_type":2, "bonus_id":10, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3113, "name":"ClubVERMONT Lv.3", "image_id":113, "rarity":2, "exec_minutes":420, "basic_reward_no":400118, "random_reward_no":410118, "event_point_reward":5250, "bonus_type":2, "bonus_id":90, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3114, "name":"BAR夜風 Lv.3", "image_id":114, "rarity":2, "exec_minutes":420, "basic_reward_no":400119, "random_reward_no":410119, "event_point_reward":5250, "bonus_type":2, "bonus_id":11, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3115, "name":"サンリオアニメストア Lv.3", "image_id":115, "rarity":2, "exec_minutes":660, "basic_reward_no":400120, "random_reward_no":410120, "event_point_reward":8250, "bonus_type":2, "bonus_id":8, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3116, "name":"月里村高校の1日講師 Lv.3", "image_id":116, "rarity":2, "exec_minutes":420, "basic_reward_no":400121, "random_reward_no":410121, "event_point_reward":5250, "bonus_type":2, "bonus_id":13, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3117, "name":"美味しすぎる水販売店 Lv.3", "image_id":117, "rarity":2, "exec_minutes":180, "basic_reward_no":400122, "random_reward_no":410122, "event_point_reward":2250, "bonus_type":2, "bonus_id":90, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3201, "name":"ロッカーのスタジオ Lv.3", "image_id":101, "rarity":3, "exec_minutes":900, "basic_reward_no":400123, "random_reward_no":410123, "event_point_reward":15000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3202, "name":"ヤスの弁当屋 Lv.3", "image_id":102, "rarity":3, "exec_minutes":420, "basic_reward_no":400124, "random_reward_no":410124, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3203, "name":"デルミンのコイル巻きのお手伝い Lv.3", "image_id":103, "rarity":3, "exec_minutes":900, "basic_reward_no":400125, "random_reward_no":410125, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3204, "name":"クロウと牛乳配達 Lv.3", "image_id":104, "rarity":3, "exec_minutes":420, "basic_reward_no":400126, "random_reward_no":410126, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3205, "name":"BVL屋敷のお手伝い Lv.3", "image_id":105, "rarity":3, "exec_minutes":660, "basic_reward_no":400127, "random_reward_no":410127, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3206, "name":"レイジンのアシスタント Lv.3", "image_id":106, "rarity":3, "exec_minutes":660, "basic_reward_no":400128, "random_reward_no":410128, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3207, "name":"どこ北の1日講師 Lv.3", "image_id":107, "rarity":3, "exec_minutes":660, "basic_reward_no":400129, "random_reward_no":410129, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3208, "name":"徒然の宿の清掃 Lv.3", "image_id":108, "rarity":3, "exec_minutes":660, "basic_reward_no":400130, "random_reward_no":410130, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3209, "name":"徒然なる温泉宿 Lv.3", "image_id":109, "rarity":3, "exec_minutes":900, "basic_reward_no":400131, "random_reward_no":410131, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3210, "name":"珍竹林ら～めん Lv.3", "image_id":110, "rarity":3, "exec_minutes":660, "basic_reward_no":400132, "random_reward_no":410132, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3211, "name":"アルカレのアシスタント Lv.3", "image_id":111, "rarity":3, "exec_minutes":180, "basic_reward_no":400133, "random_reward_no":410133, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3212, "name":"MIDI女の1日講師 Lv.3", "image_id":112, "rarity":3, "exec_minutes":420, "basic_reward_no":400134, "random_reward_no":410134, "event_point_reward":7000, "bonus_type":1, "bonus_id":3, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":3213, "name":"ClubVERMONT Lv.3", "image_id":113, "rarity":3, "exec_minutes":420, "basic_reward_no":400135, "random_reward_no":410135, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":3, "success":22950, "very_success":34425
+  },
+  {
+    "id":3214, "name":"BAR夜風 Lv.3", "image_id":114, "rarity":3, "exec_minutes":420, "basic_reward_no":400136, "random_reward_no":410136, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":4, "success":22950, "very_success":34425
+  },
+  {
+    "id":3215, "name":"サンリオアニメストア Lv.3", "image_id":115, "rarity":3, "exec_minutes":660, "basic_reward_no":400137, "random_reward_no":410137, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":0, "success":42500, "very_success":63750
+  },
+  {
+    "id":3216, "name":"月里村高校の1日講師 Lv.3", "image_id":116, "rarity":3, "exec_minutes":420, "basic_reward_no":400138, "random_reward_no":410138, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":1700, "very_success":2550
+  },
+  {
+    "id":3217, "name":"美味しすぎる水販売店 Lv.3", "image_id":117, "rarity":3, "exec_minutes":180, "basic_reward_no":400139, "random_reward_no":410139, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":22950, "very_success":34425
+  },
+  {
+    "id":4001, "name":"UNZスタジオ Lv.4", "image_id":1, "rarity":1, "exec_minutes":180, "basic_reward_no":400140, "random_reward_no":410140, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4002, "name":"楽器店 Lv.4", "image_id":2, "rarity":1, "exec_minutes":420, "basic_reward_no":400141, "random_reward_no":410141, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4003, "name":"BRRカフェ Lv.4", "image_id":3, "rarity":1, "exec_minutes":180, "basic_reward_no":400142, "random_reward_no":410142, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4004, "name":"ぴゅ～るランドスタッフ Lv.4", "image_id":4, "rarity":1, "exec_minutes":420, "basic_reward_no":400143, "random_reward_no":410143, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4005, "name":"ライブ会場スタッフ Lv.4", "image_id":5, "rarity":1, "exec_minutes":180, "basic_reward_no":400144, "random_reward_no":410144, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4006, "name":"カラオケ店員 Lv.4", "image_id":6, "rarity":1, "exec_minutes":420, "basic_reward_no":400145, "random_reward_no":410145, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4007, "name":"スケート場 Lv.4", "image_id":7, "rarity":1, "exec_minutes":180, "basic_reward_no":400146, "random_reward_no":410146, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4008, "name":"海の家 Lv.4", "image_id":8, "rarity":1, "exec_minutes":420, "basic_reward_no":400147, "random_reward_no":410147, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4009, "name":"ケーキ屋 Lv.4", "image_id":9, "rarity":1, "exec_minutes":180, "basic_reward_no":400148, "random_reward_no":410148, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4010, "name":"喫茶店 Lv.4", "image_id":10, "rarity":1, "exec_minutes":420, "basic_reward_no":400149, "random_reward_no":410149, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4011, "name":"中華料理屋 Lv.4", "image_id":11, "rarity":1, "exec_minutes":660, "basic_reward_no":400150, "random_reward_no":410150, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4012, "name":"ビラ配り Lv.4", "image_id":12, "rarity":1, "exec_minutes":180, "basic_reward_no":400151, "random_reward_no":410151, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4013, "name":"コンビニ店員 Lv.4", "image_id":13, "rarity":1, "exec_minutes":420, "basic_reward_no":400152, "random_reward_no":410152, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4014, "name":"プラモ屋 Lv.4", "image_id":14, "rarity":1, "exec_minutes":660, "basic_reward_no":400153, "random_reward_no":410153, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4015, "name":"服屋 Lv.4", "image_id":15, "rarity":1, "exec_minutes":180, "basic_reward_no":400154, "random_reward_no":410154, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4016, "name":"スパリゾートMIDICIANS Lv.4", "image_id":16, "rarity":1, "exec_minutes":420, "basic_reward_no":400155, "random_reward_no":410155, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4017, "name":"映画館 Lv.4", "image_id":17, "rarity":1, "exec_minutes":660, "basic_reward_no":400156, "random_reward_no":410156, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4018, "name":"ミューバーイーチュ Lv.4", "image_id":18, "rarity":1, "exec_minutes":420, "basic_reward_no":400157, "random_reward_no":410157, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4019, "name":"結婚式場 Lv.4", "image_id":19, "rarity":1, "exec_minutes":420, "basic_reward_no":400158, "random_reward_no":410158, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4020, "name":"野球場スタッフ Lv.4", "image_id":20, "rarity":1, "exec_minutes":420, "basic_reward_no":400159, "random_reward_no":410159, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4021, "name":"テレビ局スタッフ Lv.4", "image_id":21, "rarity":1, "exec_minutes":660, "basic_reward_no":400160, "random_reward_no":410160, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4022, "name":"サッカー場スタッフ Lv.4", "image_id":22, "rarity":1, "exec_minutes":900, "basic_reward_no":400161, "random_reward_no":410161, "event_point_reward":7500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4023, "name":"駄菓子屋 Lv.4", "image_id":23, "rarity":1, "exec_minutes":660, "basic_reward_no":400162, "random_reward_no":410162, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4024, "name":"ネカフェ Lv.4", "image_id":24, "rarity":1, "exec_minutes":420, "basic_reward_no":400163, "random_reward_no":410163, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4101, "name":"ロッカーのスタジオ Lv.4", "image_id":101, "rarity":2, "exec_minutes":900, "basic_reward_no":400164, "random_reward_no":410164, "event_point_reward":11250, "bonus_type":2, "bonus_id":2, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4102, "name":"ヤスの弁当屋 Lv.4", "image_id":102, "rarity":2, "exec_minutes":420, "basic_reward_no":400165, "random_reward_no":410165, "event_point_reward":5250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4103, "name":"デルミンのコイル巻きのお手伝い Lv.4", "image_id":103, "rarity":2, "exec_minutes":900, "basic_reward_no":400166, "random_reward_no":410166, "event_point_reward":11250, "bonus_type":2, "bonus_id":1, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4104, "name":"クロウと牛乳配達 Lv.4", "image_id":104, "rarity":2, "exec_minutes":420, "basic_reward_no":400167, "random_reward_no":410167, "event_point_reward":5250, "bonus_type":2, "bonus_id":7, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4105, "name":"BVL屋敷のお手伝い Lv.4", "image_id":105, "rarity":2, "exec_minutes":660, "basic_reward_no":400168, "random_reward_no":410168, "event_point_reward":8250, "bonus_type":2, "bonus_id":4, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4106, "name":"レイジンのアシスタント Lv.4", "image_id":106, "rarity":2, "exec_minutes":660, "basic_reward_no":400169, "random_reward_no":410169, "event_point_reward":8250, "bonus_type":2, "bonus_id":5, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4107, "name":"どこ北の1日講師 Lv.4", "image_id":107, "rarity":2, "exec_minutes":660, "basic_reward_no":400170, "random_reward_no":410170, "event_point_reward":8250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4108, "name":"徒然の宿の清掃 Lv.4", "image_id":108, "rarity":2, "exec_minutes":660, "basic_reward_no":400171, "random_reward_no":410171, "event_point_reward":8250, "bonus_type":2, "bonus_id":3, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4109, "name":"徒然なる温泉宿 Lv.4", "image_id":109, "rarity":2, "exec_minutes":900, "basic_reward_no":400172, "random_reward_no":410172, "event_point_reward":11250, "bonus_type":2, "bonus_id":3, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4110, "name":"珍竹林ら～めん Lv.4", "image_id":110, "rarity":2, "exec_minutes":660, "basic_reward_no":400173, "random_reward_no":410173, "event_point_reward":8250, "bonus_type":2, "bonus_id":7, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4111, "name":"アルカレのアシスタント Lv.4", "image_id":111, "rarity":2, "exec_minutes":180, "basic_reward_no":400174, "random_reward_no":410174, "event_point_reward":2250, "bonus_type":2, "bonus_id":9, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4112, "name":"MIDI女の1日講師 Lv.4", "image_id":112, "rarity":2, "exec_minutes":420, "basic_reward_no":400175, "random_reward_no":410175, "event_point_reward":5250, "bonus_type":2, "bonus_id":10, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4113, "name":"ClubVERMONT Lv.4", "image_id":113, "rarity":2, "exec_minutes":420, "basic_reward_no":400176, "random_reward_no":410176, "event_point_reward":5250, "bonus_type":2, "bonus_id":90, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4114, "name":"BAR夜風 Lv.4", "image_id":114, "rarity":2, "exec_minutes":420, "basic_reward_no":400177, "random_reward_no":410177, "event_point_reward":5250, "bonus_type":2, "bonus_id":11, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4115, "name":"サンリオアニメストア Lv.4", "image_id":115, "rarity":2, "exec_minutes":660, "basic_reward_no":400178, "random_reward_no":410178, "event_point_reward":8250, "bonus_type":2, "bonus_id":8, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4116, "name":"月里村高校の1日講師 Lv.4", "image_id":116, "rarity":2, "exec_minutes":420, "basic_reward_no":400179, "random_reward_no":410179, "event_point_reward":5250, "bonus_type":2, "bonus_id":13, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4117, "name":"美味しすぎる水販売店 Lv.4", "image_id":117, "rarity":2, "exec_minutes":180, "basic_reward_no":400180, "random_reward_no":410180, "event_point_reward":2250, "bonus_type":2, "bonus_id":90, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4118, "name":"月里モール Lv.4", "image_id":118, "rarity":2, "exec_minutes":660, "basic_reward_no":400181, "random_reward_no":410181, "event_point_reward":8250, "bonus_type":2, "bonus_id":13, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4119, "name":"ばんぎゃっちすとあ Lv.4", "image_id":119, "rarity":2, "exec_minutes":420, "basic_reward_no":400182, "random_reward_no":410182, "event_point_reward":5250, "bonus_type":2, "bonus_id":90, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4201, "name":"ロッカーのスタジオ Lv.4", "image_id":101, "rarity":3, "exec_minutes":900, "basic_reward_no":400183, "random_reward_no":410183, "event_point_reward":15000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4202, "name":"ヤスの弁当屋 Lv.4", "image_id":102, "rarity":3, "exec_minutes":420, "basic_reward_no":400184, "random_reward_no":410184, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4203, "name":"デルミンのコイル巻きのお手伝い Lv.4", "image_id":103, "rarity":3, "exec_minutes":900, "basic_reward_no":400185, "random_reward_no":410185, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4204, "name":"クロウと牛乳配達 Lv.4", "image_id":104, "rarity":3, "exec_minutes":420, "basic_reward_no":400186, "random_reward_no":410186, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4205, "name":"BVL屋敷のお手伝い Lv.4", "image_id":105, "rarity":3, "exec_minutes":660, "basic_reward_no":400187, "random_reward_no":410187, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4206, "name":"レイジンのアシスタント Lv.4", "image_id":106, "rarity":3, "exec_minutes":660, "basic_reward_no":400188, "random_reward_no":410188, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4207, "name":"どこ北の1日講師 Lv.4", "image_id":107, "rarity":3, "exec_minutes":660, "basic_reward_no":400189, "random_reward_no":410189, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4208, "name":"徒然の宿の清掃 Lv.4", "image_id":108, "rarity":3, "exec_minutes":660, "basic_reward_no":400190, "random_reward_no":410190, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4209, "name":"徒然なる温泉宿 Lv.4", "image_id":109, "rarity":3, "exec_minutes":900, "basic_reward_no":400191, "random_reward_no":410191, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4210, "name":"珍竹林ら～めん Lv.4", "image_id":110, "rarity":3, "exec_minutes":660, "basic_reward_no":400192, "random_reward_no":410192, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4211, "name":"アルカレのアシスタント Lv.4", "image_id":111, "rarity":3, "exec_minutes":180, "basic_reward_no":400193, "random_reward_no":410193, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4212, "name":"MIDI女の1日講師 Lv.4", "image_id":112, "rarity":3, "exec_minutes":420, "basic_reward_no":400194, "random_reward_no":410194, "event_point_reward":7000, "bonus_type":1, "bonus_id":3, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4213, "name":"ClubVERMONT Lv.4", "image_id":113, "rarity":3, "exec_minutes":420, "basic_reward_no":400195, "random_reward_no":410195, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4214, "name":"BAR夜風 Lv.4", "image_id":114, "rarity":3, "exec_minutes":420, "basic_reward_no":400196, "random_reward_no":410196, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":4215, "name":"サンリオアニメストア Lv.4", "image_id":115, "rarity":3, "exec_minutes":660, "basic_reward_no":400197, "random_reward_no":410197, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":0, "success":45000, "very_success":67500
+  },
+  {
+    "id":4216, "name":"月里村高校の1日講師 Lv.4", "image_id":116, "rarity":3, "exec_minutes":420, "basic_reward_no":400198, "random_reward_no":410198, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":1800, "very_success":2700
+  },
+  {
+    "id":4217, "name":"美味しすぎる水販売店 Lv.4", "image_id":117, "rarity":3, "exec_minutes":180, "basic_reward_no":400199, "random_reward_no":410199, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":24300, "very_success":36450
+  },
+  {
+    "id":4218, "name":"月里モール Lv.4", "image_id":118, "rarity":3, "exec_minutes":660, "basic_reward_no":400200, "random_reward_no":410200, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":3, "success":24300, "very_success":36450
+  },
+  {
+    "id":4219, "name":"ばんぎゃっちすとあ Lv.4", "image_id":119, "rarity":3, "exec_minutes":420, "basic_reward_no":400201, "random_reward_no":410201, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":4, "success":24300, "very_success":36450
+  },
+  {
+    "id":5001, "name":"UNZスタジオ Lv.5", "image_id":1, "rarity":1, "exec_minutes":180, "basic_reward_no":400202, "random_reward_no":410202, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5002, "name":"楽器店 Lv.5", "image_id":2, "rarity":1, "exec_minutes":420, "basic_reward_no":400203, "random_reward_no":410203, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5003, "name":"BRRカフェ Lv.5", "image_id":3, "rarity":1, "exec_minutes":180, "basic_reward_no":400204, "random_reward_no":410204, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5004, "name":"ぴゅ～るランドスタッフ Lv.5", "image_id":4, "rarity":1, "exec_minutes":420, "basic_reward_no":400205, "random_reward_no":410205, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5005, "name":"ライブ会場スタッフ Lv.5", "image_id":5, "rarity":1, "exec_minutes":180, "basic_reward_no":400206, "random_reward_no":410206, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5006, "name":"カラオケ店員 Lv.5", "image_id":6, "rarity":1, "exec_minutes":420, "basic_reward_no":400207, "random_reward_no":410207, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5007, "name":"スケート場 Lv.5", "image_id":7, "rarity":1, "exec_minutes":180, "basic_reward_no":400208, "random_reward_no":410208, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5008, "name":"海の家 Lv.5", "image_id":8, "rarity":1, "exec_minutes":420, "basic_reward_no":400209, "random_reward_no":410209, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5009, "name":"ケーキ屋 Lv.5", "image_id":9, "rarity":1, "exec_minutes":180, "basic_reward_no":400210, "random_reward_no":410210, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5010, "name":"喫茶店 Lv.5", "image_id":10, "rarity":1, "exec_minutes":420, "basic_reward_no":400211, "random_reward_no":410211, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5011, "name":"中華料理屋 Lv.5", "image_id":11, "rarity":1, "exec_minutes":660, "basic_reward_no":400212, "random_reward_no":410212, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5012, "name":"ビラ配り Lv.5", "image_id":12, "rarity":1, "exec_minutes":180, "basic_reward_no":400213, "random_reward_no":410213, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5013, "name":"コンビニ店員 Lv.5", "image_id":13, "rarity":1, "exec_minutes":420, "basic_reward_no":400214, "random_reward_no":410214, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5014, "name":"プラモ屋 Lv.5", "image_id":14, "rarity":1, "exec_minutes":660, "basic_reward_no":400215, "random_reward_no":410215, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5015, "name":"服屋 Lv.5", "image_id":15, "rarity":1, "exec_minutes":180, "basic_reward_no":400216, "random_reward_no":410216, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5016, "name":"スパリゾートMIDICIANS Lv.5", "image_id":16, "rarity":1, "exec_minutes":420, "basic_reward_no":400217, "random_reward_no":410217, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5017, "name":"映画館 Lv.5", "image_id":17, "rarity":1, "exec_minutes":660, "basic_reward_no":400218, "random_reward_no":410218, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5018, "name":"ミューバーイーチュ Lv.5", "image_id":18, "rarity":1, "exec_minutes":420, "basic_reward_no":400219, "random_reward_no":410219, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5019, "name":"結婚式場 Lv.5", "image_id":19, "rarity":1, "exec_minutes":420, "basic_reward_no":400220, "random_reward_no":410220, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5020, "name":"野球場スタッフ Lv.5", "image_id":20, "rarity":1, "exec_minutes":420, "basic_reward_no":400221, "random_reward_no":410221, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5021, "name":"テレビ局スタッフ Lv.5", "image_id":21, "rarity":1, "exec_minutes":660, "basic_reward_no":400222, "random_reward_no":410222, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5022, "name":"サッカー場スタッフ Lv.5", "image_id":22, "rarity":1, "exec_minutes":900, "basic_reward_no":400223, "random_reward_no":410223, "event_point_reward":7500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5023, "name":"駄菓子屋 Lv.5", "image_id":23, "rarity":1, "exec_minutes":660, "basic_reward_no":400224, "random_reward_no":410224, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5024, "name":"ネカフェ Lv.5", "image_id":24, "rarity":1, "exec_minutes":420, "basic_reward_no":400225, "random_reward_no":410225, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5101, "name":"ロッカーのスタジオ Lv.5", "image_id":101, "rarity":2, "exec_minutes":900, "basic_reward_no":400226, "random_reward_no":410226, "event_point_reward":11250, "bonus_type":2, "bonus_id":2, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5102, "name":"ヤスの弁当屋 Lv.5", "image_id":102, "rarity":2, "exec_minutes":420, "basic_reward_no":400227, "random_reward_no":410227, "event_point_reward":5250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5103, "name":"デルミンのコイル巻きのお手伝い Lv.5", "image_id":103, "rarity":2, "exec_minutes":900, "basic_reward_no":400228, "random_reward_no":410228, "event_point_reward":11250, "bonus_type":2, "bonus_id":1, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5104, "name":"クロウと牛乳配達 Lv.5", "image_id":104, "rarity":2, "exec_minutes":420, "basic_reward_no":400229, "random_reward_no":410229, "event_point_reward":5250, "bonus_type":2, "bonus_id":7, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5105, "name":"BVL屋敷のお手伝い Lv.5", "image_id":105, "rarity":2, "exec_minutes":660, "basic_reward_no":400230, "random_reward_no":410230, "event_point_reward":8250, "bonus_type":2, "bonus_id":4, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5106, "name":"レイジンのアシスタント Lv.5", "image_id":106, "rarity":2, "exec_minutes":660, "basic_reward_no":400231, "random_reward_no":410231, "event_point_reward":8250, "bonus_type":2, "bonus_id":5, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5107, "name":"どこ北の1日講師 Lv.5", "image_id":107, "rarity":2, "exec_minutes":660, "basic_reward_no":400232, "random_reward_no":410232, "event_point_reward":8250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5108, "name":"徒然の宿の清掃 Lv.5", "image_id":108, "rarity":2, "exec_minutes":660, "basic_reward_no":400233, "random_reward_no":410233, "event_point_reward":8250, "bonus_type":2, "bonus_id":3, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5109, "name":"徒然なる温泉宿 Lv.5", "image_id":109, "rarity":2, "exec_minutes":900, "basic_reward_no":400234, "random_reward_no":410234, "event_point_reward":11250, "bonus_type":2, "bonus_id":3, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5110, "name":"珍竹林ら～めん Lv.5", "image_id":110, "rarity":2, "exec_minutes":660, "basic_reward_no":400235, "random_reward_no":410235, "event_point_reward":8250, "bonus_type":2, "bonus_id":7, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5111, "name":"アルカレのアシスタント Lv.5", "image_id":111, "rarity":2, "exec_minutes":180, "basic_reward_no":400236, "random_reward_no":410236, "event_point_reward":2250, "bonus_type":2, "bonus_id":9, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5112, "name":"MIDI女の1日講師 Lv.5", "image_id":112, "rarity":2, "exec_minutes":420, "basic_reward_no":400237, "random_reward_no":410237, "event_point_reward":5250, "bonus_type":2, "bonus_id":10, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5113, "name":"ClubVERMONT Lv.5", "image_id":113, "rarity":2, "exec_minutes":420, "basic_reward_no":400238, "random_reward_no":410238, "event_point_reward":5250, "bonus_type":2, "bonus_id":90, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5114, "name":"BAR夜風 Lv.5", "image_id":114, "rarity":2, "exec_minutes":420, "basic_reward_no":400239, "random_reward_no":410239, "event_point_reward":5250, "bonus_type":2, "bonus_id":11, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5115, "name":"サンリオアニメストア Lv.5", "image_id":115, "rarity":2, "exec_minutes":660, "basic_reward_no":400240, "random_reward_no":410240, "event_point_reward":8250, "bonus_type":2, "bonus_id":8, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5116, "name":"月里村高校の1日講師 Lv.5", "image_id":116, "rarity":2, "exec_minutes":420, "basic_reward_no":400241, "random_reward_no":410241, "event_point_reward":5250, "bonus_type":2, "bonus_id":13, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5117, "name":"美味しすぎる水販売店 Lv.5", "image_id":117, "rarity":2, "exec_minutes":180, "basic_reward_no":400242, "random_reward_no":410242, "event_point_reward":2250, "bonus_type":2, "bonus_id":90, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5118, "name":"月里モール Lv.5", "image_id":118, "rarity":2, "exec_minutes":660, "basic_reward_no":400243, "random_reward_no":410243, "event_point_reward":8250, "bonus_type":2, "bonus_id":13, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5119, "name":"ばんぎゃっちすとあ Lv.5", "image_id":119, "rarity":2, "exec_minutes":420, "basic_reward_no":400244, "random_reward_no":410244, "event_point_reward":5250, "bonus_type":2, "bonus_id":90, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5120, "name":"妖怪ストリートのお化け屋敷 Lv.5", "image_id":120, "rarity":2, "exec_minutes":660, "basic_reward_no":400245, "random_reward_no":410245, "event_point_reward":8250, "bonus_type":2, "bonus_id":12, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5121, "name":"金Tショップ Lv.5", "image_id":121, "rarity":2, "exec_minutes":180, "basic_reward_no":400246, "random_reward_no":410246, "event_point_reward":2250, "bonus_type":2, "bonus_id":90, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5201, "name":"ロッカーのスタジオ Lv.5", "image_id":101, "rarity":3, "exec_minutes":900, "basic_reward_no":400247, "random_reward_no":410247, "event_point_reward":15000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5202, "name":"ヤスの弁当屋 Lv.5", "image_id":102, "rarity":3, "exec_minutes":420, "basic_reward_no":400248, "random_reward_no":410248, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5203, "name":"デルミンのコイル巻きのお手伝い Lv.5", "image_id":103, "rarity":3, "exec_minutes":900, "basic_reward_no":400249, "random_reward_no":410249, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5204, "name":"クロウと牛乳配達 Lv.5", "image_id":104, "rarity":3, "exec_minutes":420, "basic_reward_no":400250, "random_reward_no":410250, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5205, "name":"BVL屋敷のお手伝い Lv.5", "image_id":105, "rarity":3, "exec_minutes":660, "basic_reward_no":400251, "random_reward_no":410251, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5206, "name":"レイジンのアシスタント Lv.5", "image_id":106, "rarity":3, "exec_minutes":660, "basic_reward_no":400252, "random_reward_no":410252, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5207, "name":"どこ北の1日講師 Lv.5", "image_id":107, "rarity":3, "exec_minutes":660, "basic_reward_no":400253, "random_reward_no":410253, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5208, "name":"徒然の宿の清掃 Lv.5", "image_id":108, "rarity":3, "exec_minutes":660, "basic_reward_no":400254, "random_reward_no":410254, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5209, "name":"徒然なる温泉宿 Lv.5", "image_id":109, "rarity":3, "exec_minutes":900, "basic_reward_no":400255, "random_reward_no":410255, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5210, "name":"珍竹林ら～めん Lv.5", "image_id":110, "rarity":3, "exec_minutes":660, "basic_reward_no":400256, "random_reward_no":410256, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5211, "name":"アルカレのアシスタント Lv.5", "image_id":111, "rarity":3, "exec_minutes":180, "basic_reward_no":400257, "random_reward_no":410257, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5212, "name":"MIDI女の1日講師 Lv.5", "image_id":112, "rarity":3, "exec_minutes":420, "basic_reward_no":400258, "random_reward_no":410258, "event_point_reward":7000, "bonus_type":1, "bonus_id":3, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5213, "name":"ClubVERMONT Lv.5", "image_id":113, "rarity":3, "exec_minutes":420, "basic_reward_no":400259, "random_reward_no":410259, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5214, "name":"BAR夜風 Lv.5", "image_id":114, "rarity":3, "exec_minutes":420, "basic_reward_no":400260, "random_reward_no":410260, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5215, "name":"サンリオアニメストア Lv.5", "image_id":115, "rarity":3, "exec_minutes":660, "basic_reward_no":400261, "random_reward_no":410261, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5216, "name":"月里村高校の1日講師 Lv.5", "image_id":116, "rarity":3, "exec_minutes":420, "basic_reward_no":400262, "random_reward_no":410262, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":5217, "name":"美味しすぎる水販売店 Lv.5", "image_id":117, "rarity":3, "exec_minutes":180, "basic_reward_no":400263, "random_reward_no":410263, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":25650, "very_success":38475
+  },
+  {
+    "id":5218, "name":"月里モール Lv.5", "image_id":118, "rarity":3, "exec_minutes":660, "basic_reward_no":400264, "random_reward_no":410264, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":3, "success":25650, "very_success":38475
+  },
+  {
+    "id":5219, "name":"ばんぎゃっちすとあ Lv.5", "image_id":119, "rarity":3, "exec_minutes":420, "basic_reward_no":400265, "random_reward_no":410265, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":4, "success":25650, "very_success":38475
+  },
+  {
+    "id":5220, "name":"妖怪ストリートのお化け屋敷 Lv.5", "image_id":120, "rarity":3, "exec_minutes":660, "basic_reward_no":400266, "random_reward_no":410266, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":0, "success":47500, "very_success":71250
+  },
+  {
+    "id":5221, "name":"金Tショップ Lv.5", "image_id":121, "rarity":3, "exec_minutes":180, "basic_reward_no":400267, "random_reward_no":410267, "event_point_reward":3000, "bonus_type":1, "bonus_id":3, "myumon_status":1, "success":1900, "very_success":2850
+  },
+  {
+    "id":6001, "name":"UNZスタジオ Lv.Rock", "image_id":1, "rarity":1, "exec_minutes":180, "basic_reward_no":400268, "random_reward_no":410268, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6002, "name":"楽器店 Lv.Rock", "image_id":2, "rarity":1, "exec_minutes":420, "basic_reward_no":400269, "random_reward_no":410269, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6003, "name":"BRRカフェ Lv.Rock", "image_id":3, "rarity":1, "exec_minutes":180, "basic_reward_no":400270, "random_reward_no":410270, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6004, "name":"ぴゅ～るランドスタッフ Lv.Rock", "image_id":4, "rarity":1, "exec_minutes":420, "basic_reward_no":400271, "random_reward_no":410271, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6005, "name":"ライブ会場スタッフ Lv.Rock", "image_id":5, "rarity":1, "exec_minutes":180, "basic_reward_no":400272, "random_reward_no":410272, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6006, "name":"カラオケ店員 Lv.Rock", "image_id":6, "rarity":1, "exec_minutes":420, "basic_reward_no":400273, "random_reward_no":410273, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6007, "name":"スケート場 Lv.Rock", "image_id":7, "rarity":1, "exec_minutes":180, "basic_reward_no":400274, "random_reward_no":410274, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6008, "name":"海の家 Lv.Rock", "image_id":8, "rarity":1, "exec_minutes":420, "basic_reward_no":400275, "random_reward_no":410275, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6009, "name":"ケーキ屋 Lv.Rock", "image_id":9, "rarity":1, "exec_minutes":180, "basic_reward_no":400276, "random_reward_no":410276, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6010, "name":"喫茶店 Lv.Rock", "image_id":10, "rarity":1, "exec_minutes":420, "basic_reward_no":400277, "random_reward_no":410277, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6011, "name":"中華料理屋 Lv.Rock", "image_id":11, "rarity":1, "exec_minutes":660, "basic_reward_no":400278, "random_reward_no":410278, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6012, "name":"ビラ配り Lv.Rock", "image_id":12, "rarity":1, "exec_minutes":180, "basic_reward_no":400279, "random_reward_no":410279, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6013, "name":"コンビニ店員 Lv.Rock", "image_id":13, "rarity":1, "exec_minutes":420, "basic_reward_no":400280, "random_reward_no":410280, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6014, "name":"プラモ屋 Lv.Rock", "image_id":14, "rarity":1, "exec_minutes":660, "basic_reward_no":400281, "random_reward_no":410281, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6015, "name":"服屋 Lv.Rock", "image_id":15, "rarity":1, "exec_minutes":180, "basic_reward_no":400282, "random_reward_no":410282, "event_point_reward":1500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6016, "name":"スパリゾートMIDICIANS Lv.Rock", "image_id":16, "rarity":1, "exec_minutes":420, "basic_reward_no":400283, "random_reward_no":410283, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6017, "name":"映画館 Lv.Rock", "image_id":17, "rarity":1, "exec_minutes":660, "basic_reward_no":400284, "random_reward_no":410284, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6018, "name":"ミューバーイーチュ Lv.Rock", "image_id":18, "rarity":1, "exec_minutes":420, "basic_reward_no":400285, "random_reward_no":410285, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6019, "name":"結婚式場 Lv.Rock", "image_id":19, "rarity":1, "exec_minutes":420, "basic_reward_no":400286, "random_reward_no":410286, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6020, "name":"野球場スタッフ Lv.Rock", "image_id":20, "rarity":1, "exec_minutes":420, "basic_reward_no":400287, "random_reward_no":410287, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6021, "name":"テレビ局スタッフ Lv.Rock", "image_id":21, "rarity":1, "exec_minutes":660, "basic_reward_no":400288, "random_reward_no":410288, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6022, "name":"サッカー場スタッフ Lv.Rock", "image_id":22, "rarity":1, "exec_minutes":900, "basic_reward_no":400289, "random_reward_no":410289, "event_point_reward":7500, "bonus_type":0, "bonus_id":0, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6023, "name":"駄菓子屋 Lv.Rock", "image_id":23, "rarity":1, "exec_minutes":660, "basic_reward_no":400290, "random_reward_no":410290, "event_point_reward":5500, "bonus_type":0, "bonus_id":0, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6024, "name":"ネカフェ Lv.Rock", "image_id":24, "rarity":1, "exec_minutes":420, "basic_reward_no":400291, "random_reward_no":410291, "event_point_reward":3500, "bonus_type":0, "bonus_id":0, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6101, "name":"ロッカーのスタジオ Lv.Rock", "image_id":101, "rarity":2, "exec_minutes":900, "basic_reward_no":400292, "random_reward_no":410292, "event_point_reward":11250, "bonus_type":2, "bonus_id":2, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6102, "name":"ヤスの弁当屋 Lv.Rock", "image_id":102, "rarity":2, "exec_minutes":420, "basic_reward_no":400293, "random_reward_no":410293, "event_point_reward":5250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6103, "name":"デルミンのコイル巻きのお手伝い Lv.Rock", "image_id":103, "rarity":2, "exec_minutes":900, "basic_reward_no":400294, "random_reward_no":410294, "event_point_reward":11250, "bonus_type":2, "bonus_id":1, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6104, "name":"クロウと牛乳配達 Lv.Rock", "image_id":104, "rarity":2, "exec_minutes":420, "basic_reward_no":400295, "random_reward_no":410295, "event_point_reward":5250, "bonus_type":2, "bonus_id":7, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6105, "name":"BVL屋敷のお手伝い Lv.Rock", "image_id":105, "rarity":2, "exec_minutes":660, "basic_reward_no":400296, "random_reward_no":410296, "event_point_reward":8250, "bonus_type":2, "bonus_id":4, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6106, "name":"レイジンのアシスタント Lv.Rock", "image_id":106, "rarity":2, "exec_minutes":660, "basic_reward_no":400297, "random_reward_no":410297, "event_point_reward":8250, "bonus_type":2, "bonus_id":5, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6107, "name":"どこ北の1日講師 Lv.Rock", "image_id":107, "rarity":2, "exec_minutes":660, "basic_reward_no":400298, "random_reward_no":410298, "event_point_reward":8250, "bonus_type":2, "bonus_id":6, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6108, "name":"徒然の宿の清掃 Lv.Rock", "image_id":108, "rarity":2, "exec_minutes":660, "basic_reward_no":400299, "random_reward_no":410299, "event_point_reward":8250, "bonus_type":2, "bonus_id":3, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6109, "name":"徒然なる温泉宿 Lv.Rock", "image_id":109, "rarity":2, "exec_minutes":900, "basic_reward_no":400300, "random_reward_no":410300, "event_point_reward":11250, "bonus_type":2, "bonus_id":3, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6110, "name":"珍竹林ら～めん Lv.Rock", "image_id":110, "rarity":2, "exec_minutes":660, "basic_reward_no":400301, "random_reward_no":410301, "event_point_reward":8250, "bonus_type":2, "bonus_id":7, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6111, "name":"アルカレのアシスタント Lv.Rock", "image_id":111, "rarity":2, "exec_minutes":180, "basic_reward_no":400302, "random_reward_no":410302, "event_point_reward":2250, "bonus_type":2, "bonus_id":9, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6112, "name":"MIDI女の1日講師 Lv.Rock", "image_id":112, "rarity":2, "exec_minutes":420, "basic_reward_no":400303, "random_reward_no":410303, "event_point_reward":5250, "bonus_type":2, "bonus_id":10, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6113, "name":"ClubVERMONT Lv.Rock", "image_id":113, "rarity":2, "exec_minutes":420, "basic_reward_no":400304, "random_reward_no":410304, "event_point_reward":5250, "bonus_type":2, "bonus_id":90, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6114, "name":"BAR夜風 Lv.Rock", "image_id":114, "rarity":2, "exec_minutes":420, "basic_reward_no":400305, "random_reward_no":410305, "event_point_reward":5250, "bonus_type":2, "bonus_id":11, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6115, "name":"サンリオアニメストア Lv.Rock", "image_id":115, "rarity":2, "exec_minutes":660, "basic_reward_no":400306, "random_reward_no":410306, "event_point_reward":8250, "bonus_type":2, "bonus_id":8, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6116, "name":"月里村高校の1日講師 Lv.Rock", "image_id":116, "rarity":2, "exec_minutes":420, "basic_reward_no":400307, "random_reward_no":410307, "event_point_reward":5250, "bonus_type":2, "bonus_id":13, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6117, "name":"美味しすぎる水販売店 Lv.Rock", "image_id":117, "rarity":2, "exec_minutes":180, "basic_reward_no":400308, "random_reward_no":410308, "event_point_reward":2250, "bonus_type":2, "bonus_id":90, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6118, "name":"月里モール Lv.Rock", "image_id":118, "rarity":2, "exec_minutes":660, "basic_reward_no":400309, "random_reward_no":410309, "event_point_reward":8250, "bonus_type":2, "bonus_id":13, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6119, "name":"ばんぎゃっちすとあ Lv.Rock", "image_id":119, "rarity":2, "exec_minutes":420, "basic_reward_no":400310, "random_reward_no":410310, "event_point_reward":5250, "bonus_type":2, "bonus_id":90, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6120, "name":"妖怪ストリートのお化け屋敷 Lv.Rock", "image_id":120, "rarity":2, "exec_minutes":660, "basic_reward_no":400311, "random_reward_no":410311, "event_point_reward":8250, "bonus_type":2, "bonus_id":12, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6121, "name":"金Tショップ Lv.Rock", "image_id":121, "rarity":2, "exec_minutes":180, "basic_reward_no":400312, "random_reward_no":410312, "event_point_reward":2250, "bonus_type":2, "bonus_id":90, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6122, "name":"ギリリのアシスタント Lv.Rock", "image_id":122, "rarity":2, "exec_minutes":420, "basic_reward_no":400313, "random_reward_no":410313, "event_point_reward":5250, "bonus_type":2, "bonus_id":15, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6123, "name":"ロムのアシスタント Lv.Rock", "image_id":123, "rarity":2, "exec_minutes":660, "basic_reward_no":400314, "random_reward_no":410314, "event_point_reward":8250, "bonus_type":2, "bonus_id":7, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6201, "name":"ロッカーのスタジオ Lv.Rock", "image_id":101, "rarity":3, "exec_minutes":900, "basic_reward_no":400315, "random_reward_no":410315, "event_point_reward":15000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6202, "name":"ヤスの弁当屋 Lv.Rock", "image_id":102, "rarity":3, "exec_minutes":420, "basic_reward_no":400316, "random_reward_no":410316, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6203, "name":"デルミンのコイル巻きのお手伝い Lv.Rock", "image_id":103, "rarity":3, "exec_minutes":900, "basic_reward_no":400317, "random_reward_no":410317, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6204, "name":"クロウと牛乳配達 Lv.Rock", "image_id":104, "rarity":3, "exec_minutes":420, "basic_reward_no":400318, "random_reward_no":410318, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6205, "name":"BVL屋敷のお手伝い Lv.Rock", "image_id":105, "rarity":3, "exec_minutes":660, "basic_reward_no":400319, "random_reward_no":410319, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6206, "name":"レイジンのアシスタント Lv.Rock", "image_id":106, "rarity":3, "exec_minutes":660, "basic_reward_no":400320, "random_reward_no":410320, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6207, "name":"どこ北の1日講師 Lv.Rock", "image_id":107, "rarity":3, "exec_minutes":660, "basic_reward_no":400321, "random_reward_no":410321, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6208, "name":"徒然の宿の清掃 Lv.Rock", "image_id":108, "rarity":3, "exec_minutes":660, "basic_reward_no":400322, "random_reward_no":410322, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6209, "name":"徒然なる温泉宿 Lv.Rock", "image_id":109, "rarity":3, "exec_minutes":900, "basic_reward_no":400323, "random_reward_no":410323, "event_point_reward":15000, "bonus_type":1, "bonus_id":3, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6210, "name":"珍竹林ら～めん Lv.Rock", "image_id":110, "rarity":3, "exec_minutes":660, "basic_reward_no":400324, "random_reward_no":410324, "event_point_reward":11000, "bonus_type":1, "bonus_id":1, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6211, "name":"アルカレのアシスタント Lv.Rock", "image_id":111, "rarity":3, "exec_minutes":180, "basic_reward_no":400325, "random_reward_no":410325, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6212, "name":"MIDI女の1日講師 Lv.Rock", "image_id":112, "rarity":3, "exec_minutes":420, "basic_reward_no":400326, "random_reward_no":410326, "event_point_reward":7000, "bonus_type":1, "bonus_id":3, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6213, "name":"ClubVERMONT Lv.Rock", "image_id":113, "rarity":3, "exec_minutes":420, "basic_reward_no":400327, "random_reward_no":410327, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6214, "name":"BAR夜風 Lv.Rock", "image_id":114, "rarity":3, "exec_minutes":420, "basic_reward_no":400328, "random_reward_no":410328, "event_point_reward":7000, "bonus_type":1, "bonus_id":2, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6215, "name":"サンリオアニメストア Lv.Rock", "image_id":115, "rarity":3, "exec_minutes":660, "basic_reward_no":400329, "random_reward_no":410329, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6216, "name":"月里村高校の1日講師 Lv.Rock", "image_id":116, "rarity":3, "exec_minutes":420, "basic_reward_no":400330, "random_reward_no":410330, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6217, "name":"美味しすぎる水販売店 Lv.Rock", "image_id":117, "rarity":3, "exec_minutes":180, "basic_reward_no":400331, "random_reward_no":410331, "event_point_reward":3000, "bonus_type":1, "bonus_id":2, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6218, "name":"月里モール Lv.Rock", "image_id":118, "rarity":3, "exec_minutes":660, "basic_reward_no":400332, "random_reward_no":410332, "event_point_reward":11000, "bonus_type":1, "bonus_id":3, "myumon_status":3, "success":27000, "very_success":40500
+  },
+  {
+    "id":6219, "name":"ばんぎゃっちすとあ Lv.Rock", "image_id":119, "rarity":3, "exec_minutes":420, "basic_reward_no":400333, "random_reward_no":410333, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":4, "success":27000, "very_success":40500
+  },
+  {
+    "id":6220, "name":"妖怪ストリートのお化け屋敷 Lv.Rock", "image_id":120, "rarity":3, "exec_minutes":660, "basic_reward_no":400334, "random_reward_no":410334, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":0, "success":50000, "very_success":75000
+  },
+  {
+    "id":6221, "name":"金Tショップ Lv.Rock", "image_id":121, "rarity":3, "exec_minutes":180, "basic_reward_no":400335, "random_reward_no":410335, "event_point_reward":3000, "bonus_type":1, "bonus_id":3, "myumon_status":1, "success":2000, "very_success":3000
+  },
+  {
+    "id":6222, "name":"ギリリのアシスタント Lv.Rock", "image_id":122, "rarity":3, "exec_minutes":420, "basic_reward_no":400336, "random_reward_no":410336, "event_point_reward":7000, "bonus_type":1, "bonus_id":1, "myumon_status":2, "success":27000, "very_success":40500
+  },
+  {
+    "id":6223, "name":"ロムのアシスタント Lv.Rock", "image_id":123, "rarity":3, "exec_minutes":660, "basic_reward_no":400337, "random_reward_no":410337, "event_point_reward":11000, "bonus_type":1, "bonus_id":2, "myumon_status":3, "success":27000, "very_success":40500
+  }
+]

@@ -358,5 +358,11 @@
   },
   {
     "id":120, "name":"浴衣セレクトガチャポイント交換所", "sort_order":100, "description":"未使用", "category":2, "gacha_id":2301, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/05/07 12:00:00 +09:00", "ended_at":"2022/05/10 11:59:59 +09:00"
+  },
+  {
+    "id":121, "name":"メイプルちゃんメダル交換所", "sort_order":65008, "description":"未使用", "category":3, "gacha_id":0, "event_id":1059, "off_time_trade":true, "multi_cost_flag":true, "started_at":"2022/05/10 13:00:00 +09:00", "ended_at":"2022/05/20 11:59:59 +09:00"
+  },
+  {
+    "id":122, "name":"サンリオガチャポイント交換所", "sort_order":101, "description":"未使用", "category":2, "gacha_id":2302, "event_id":0, "off_time_trade":true, "multi_cost_flag":false, "started_at":"2022/05/10 13:00:00 +09:00", "ended_at":"2022/05/20 11:59:59 +09:00"
   }
 ]

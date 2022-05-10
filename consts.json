@@ -1912,5 +1912,71 @@
   },
   {
     "id":410103, "category":"MusicChallengeEffectType", "name":"RewardPlus", "value":"3"
+  },
+  {
+    "id":420000, "category":"Arbeit", "name":"UnlockUserLevel", "value":"10"
+  },
+  {
+    "id":420001, "category":"Arbeit", "name":"DailyLimit", "value":"10"
+  },
+  {
+    "id":420002, "category":"Arbeit", "name":"SlotMax", "value":"3"
+  },
+  {
+    "id":420003, "category":"Arbeit", "name":"MyumonMax", "value":"5"
+  },
+  {
+    "id":420004, "category":"Arbeit", "name":"VerySuccessMax", "value":"3"
+  },
+  {
+    "id":420005, "category":"Arbeit", "name":"BonusRate", "value":"1.5"
+  },
+  {
+    "id":420006, "category":"Arbeit", "name":"TerminateMinutes", "value":"30"
+  },
+  {
+    "id":420007, "category":"Arbeit", "name":"TerminateStamina", "value":"5"
+  },
+  {
+    "id":420100, "category":"ArbeitStatus", "name":"Idle", "value":"0"
+  },
+  {
+    "id":420101, "category":"ArbeitStatus", "name":"Exec", "value":"1"
+  },
+  {
+    "id":420102, "category":"ArbeitStatus", "name":"Finish", "value":"2"
+  },
+  {
+    "id":420200, "category":"ArbeitBonusType", "name":"None", "value":"0"
+  },
+  {
+    "id":420201, "category":"ArbeitBonusType", "name":"MusicCategory", "value":"1"
+  },
+  {
+    "id":420202, "category":"ArbeitBonusType", "name":"Artist", "value":"2"
+  },
+  {
+    "id":420301, "category":"ArbeitResult", "name":"Clear", "value":"1"
+  },
+  {
+    "id":420302, "category":"ArbeitResult", "name":"Success", "value":"2"
+  },
+  {
+    "id":420303, "category":"ArbeitResult", "name":"VerySuccess", "value":"3"
+  },
+  {
+    "id":420304, "category":"ArbeitResult", "name":"SuperSuccess", "value":"4"
+  },
+  {
+    "id":420401, "category":"ArbeitRewardRate", "name":"Clear", "value":"1"
+  },
+  {
+    "id":420402, "category":"ArbeitRewardRate", "name":"Success", "value":"2"
+  },
+  {
+    "id":420403, "category":"ArbeitRewardRate", "name":"VerySuccess", "value":"3"
+  },
+  {
+    "id":420404, "category":"ArbeitRewardRate", "name":"SuperSuccess", "value":"5"
   }
 ]
