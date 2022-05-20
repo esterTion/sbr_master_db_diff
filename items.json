@@ -39,6 +39,9 @@
     "id":20101, "category":2, "name":"れっぱにょしっぽ枕", "quantity_max":99999, "ex_params":"{}", "description":"れっぱにょのママみ全開しっぽ枕。これでアナタもダメミューモンの仲間入り！"
   },
   {
+    "id":20102, "category":2, "name":"ライトニングバナナ", "quantity_max":99999, "ex_params":"{}", "description":"嵐が収穫したバナナ。一緒に収穫できれば立派な音忍かも！"
+  },
+  {
     "id":30001, "category":3, "name":"スキルの極意", "quantity_max":9999, "ex_params":"{\"level\":1}", "description":"ブロマイドが持つスキルをレベルアップさせる秘伝書です"
   },
   {
@@ -289,6 +292,9 @@
   },
   {
     "id":40101, "category":4, "name":"サンリオガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
+    "id":40103, "category":4, "name":"サンリオ2ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
@@ -721,6 +727,9 @@
   },
   {
     "id":120102, "category":12, "name":"フェスガチャポイント③", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120103, "category":12, "name":"サンリオ2ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"

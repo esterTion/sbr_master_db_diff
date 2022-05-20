@@ -774,6 +774,12 @@
     "id":414091, "myumon_basic_id":41, "name":"[終極のWiegenlied]", "music_category":2, "rarity":5, "costume_id":4100, "life":522, "rhythm":2414, "melody":2377, "harmony":6364, "main_1_skill_id":151001, "main_2_skill_id":0, "support_skill_id":110036, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630000, "enable_deck":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
   },
   {
+    "id":414100, "myumon_basic_id":41, "name":"[いいものがいっぱいなのだ♪]", "music_category":1, "rarity":4, "costume_id":4109, "life":408, "rhythm":1899, "melody":5114, "harmony":1984, "main_1_skill_id":150001, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":414101, "shinka_recipe_no":14, "myumon_potential_id":400002, "enable_deck":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
+  },
+  {
+    "id":414101, "myumon_basic_id":41, "name":"[世界最強のふたりなのだ！]", "music_category":1, "rarity":5, "costume_id":4109, "life":535, "rhythm":2583, "melody":6814, "harmony":2646, "main_1_skill_id":150002, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":7, "genkai_level_limit":9, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":400002, "enable_deck":true, "description":"「BUD VIRGIN LOGIC」に所属する「アイレーン」のブロマイドです"
+  },
+  {
     "id":421000, "myumon_basic_id":42, "name":"[BUD VIRGIN LOGIC]", "music_category":3, "rarity":1, "costume_id":4200, "life":99, "rhythm":653, "melody":785, "harmony":669, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":421001, "shinka_recipe_no":31, "myumon_potential_id":0, "enable_deck":true, "description":"「BUD VIRGIN LOGIC」に所属する「ペイペイン」のブロマイドです"
   },
   {
@@ -2511,6 +2517,21 @@
     "id":1411001, "myumon_basic_id":141, "name":"[忍迅雷音＋]", "music_category":2, "rarity":2, "costume_id":14100, "life":137, "rhythm":878, "melody":883, "harmony":1144, "main_1_skill_id":12022, "main_2_skill_id":0, "support_skill_id":110032, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":0, "enable_deck":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
   },
   {
+    "id":1411010, "myumon_basic_id":141, "name":"[忍法・バナナ大好きの術でござる♪]", "music_category":1, "rarity":1, "costume_id":14100, "life":99, "rhythm":632, "melody":845, "harmony":633, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1411011, "shinka_recipe_no":105, "myumon_potential_id":0, "enable_deck":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1411011, "myumon_basic_id":141, "name":"[忍法・バナナ大好きの術でござる♪]", "music_category":1, "rarity":2, "costume_id":14100, "life":145, "rhythm":856, "melody":1428, "harmony":868, "main_1_skill_id":12002, "main_2_skill_id":0, "support_skill_id":110022, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":1411012, "shinka_recipe_no":106, "myumon_potential_id":0, "enable_deck":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1411012, "myumon_basic_id":141, "name":"[忍法・バナナ大好きの術でござる♪]", "music_category":1, "rarity":3, "costume_id":14100, "life":289, "rhythm":1479, "melody":3209, "harmony":1435, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":1411013, "shinka_recipe_no":107, "myumon_potential_id":0, "enable_deck":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1411013, "myumon_basic_id":141, "name":"[忍法・バナナ大好きの術でござる♪]", "music_category":1, "rarity":4, "costume_id":14100, "life":389, "rhythm":1813, "melody":4928, "harmony":1869, "main_1_skill_id":11031, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1411014, "shinka_recipe_no":108, "myumon_potential_id":300002, "enable_deck":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
+    "id":1411014, "myumon_basic_id":141, "name":"[忍法・バナナ大好きの術でござる♪]", "music_category":1, "rarity":5, "costume_id":14103, "life":500, "rhythm":2465, "melody":6295, "harmony":2483, "main_1_skill_id":10032, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":300002, "enable_deck":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
     "id":1412000, "myumon_basic_id":141, "name":"[風の未来忍者]", "music_category":2, "rarity":2, "costume_id":14100, "life":135, "rhythm":876, "melody":873, "harmony":1173, "main_1_skill_id":12002, "main_2_skill_id":0, "support_skill_id":110032, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":2, "genkai_level_limit":4, "shinka_myumon_id":1412001, "shinka_recipe_no":22, "myumon_potential_id":0, "enable_deck":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
   },
   {
@@ -2575,6 +2596,9 @@
   },
   {
     "id":1432001, "myumon_basic_id":143, "name":"[影の未来くのいち＋]", "music_category":1, "rarity":3, "costume_id":14300, "life":190, "rhythm":1330, "melody":1326, "harmony":1317, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110043, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":0, "enable_deck":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
+  },
+  {
+    "id":1433000, "myumon_basic_id":143, "name":"[合体忍法・風林火山！の巻]", "music_category":1, "rarity":3, "costume_id":14300, "life":347, "rhythm":1722, "melody":3726, "harmony":1772, "main_1_skill_id":12022, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620001, "enable_deck":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
   },
   {
     "id":1434000, "myumon_basic_id":143, "name":"[ふぅ…慣れていくのね、この時代に]", "music_category":3, "rarity":4, "costume_id":14301, "life":400, "rhythm":4183, "melody":2135, "harmony":2195, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1434001, "shinka_recipe_no":34, "myumon_potential_id":300002, "enable_deck":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
@@ -2839,6 +2863,12 @@
   },
   {
     "id":1844011, "myumon_basic_id":184, "name":"[黒のクリスマスや、アゲてったろか]", "music_category":3, "rarity":5, "costume_id":18402, "life":536, "rhythm":2619, "melody":2518, "harmony":6785, "main_1_skill_id":10004, "main_2_skill_id":101002, "support_skill_id":110035, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":232000, "enable_deck":true, "description":"「Kuronoatmosphere」に所属する「659」のブロマイドです"
+  },
+  {
+    "id":1844020, "myumon_basic_id":184, "name":"[鏡の向こうの世界やて！？]", "music_category":1, "rarity":4, "costume_id":18403, "life":403, "rhythm":1977, "melody":5046, "harmony":2003, "main_1_skill_id":11041, "main_2_skill_id":82001, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":1844021, "shinka_recipe_no":14, "myumon_potential_id":300002, "enable_deck":true, "description":"「Kuronoatmosphere」に所属する「659」のブロマイドです"
+  },
+  {
+    "id":1844021, "myumon_basic_id":184, "name":"[ワイらがおもきし盛り上げたるで♪]", "music_category":1, "rarity":5, "costume_id":18403, "life":512, "rhythm":2644, "melody":6787, "harmony":2658, "main_1_skill_id":10042, "main_2_skill_id":82002, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":7, "genkai_level_limit":9, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":300002, "enable_deck":true, "description":"「Kuronoatmosphere」に所属する「659」のブロマイドです"
   },
   {
     "id":1851000, "myumon_basic_id":185, "name":"[Kuronoatmosphere]", "music_category":3, "rarity":1, "costume_id":18500, "life":97, "rhythm":625, "melody":628, "harmony":865, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1851001, "shinka_recipe_no":31, "myumon_potential_id":0, "enable_deck":true, "description":"「Kuronoatmosphere」に所属する「13」のブロマイドです"
