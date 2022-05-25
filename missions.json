@@ -2442,6 +2442,9 @@
     "id":4000698, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"64", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/05/20 13:00:00 +09:00", "ended_at":"2022/05/25 11:59:59 +09:00"
   },
   {
+    "id":4000699, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"64", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/05/25 12:00:00 +09:00", "ended_at":"2022/05/31 11:59:59 +09:00"
+  },
+  {
     "id":4000700, "category":4, "reset_cycle":0, "title":"【クロミ記念】フリーライブでGreedy Greedyをプレイしよう", "detail":"フリーライブで楽曲『Greedy Greedy』を1回プレイしよう", "add_condition_mission_id":0, "sort_order":101, "clear_condition_type":"free_live_clear_count_special", "clear_condition_args":"{\"music_id\":[9084],\"clear_status\":0}", "goal":1, "reward_no":14118, "button_type":0, "destination_kind":14, "started_at":"2022/05/20 13:00:00 +09:00", "ended_at":"2022/05/31 11:59:59 +09:00"
   },
   {

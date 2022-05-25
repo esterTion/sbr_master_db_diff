@@ -415,5 +415,23 @@
   },
   {
     "id":300001, "name":"GリカバースコアUP+", "myumon_skill_effect_id":900, "effect_arg_no":90041, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":310000, "name":"JULY SICK PARK", "myumon_skill_effect_id":900, "effect_arg_no":90050, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":310001, "name":"JULY SICK PARK+", "myumon_skill_effect_id":900, "effect_arg_no":90051, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
+  },
+  {
+    "id":320000, "name":"よろしくおねがいしまーーす！！", "myumon_skill_effect_id":10400, "effect_arg_no":1040020, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":320001, "name":"よろしくおねがいしまーーす！！+", "myumon_skill_effect_id":10400, "effect_arg_no":1040021, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
+  },
+  {
+    "id":330000, "name":"唐揚げ弁当、喰うか？", "myumon_skill_effect_id":20001, "effect_arg_no":2000180, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":4
+  },
+  {
+    "id":330001, "name":"唐揚げ弁当、喰うか？+", "myumon_skill_effect_id":20001, "effect_arg_no":2000181, "is_fever":false, "bonus_condition_type":0, "bonus_condition_args":"0", "bonus_args":"0", "bonus_description":"", "level_limit_genkai":5, "level_limit_item":14
   }
 ]

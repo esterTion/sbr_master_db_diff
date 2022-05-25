@@ -297,6 +297,9 @@
     "id":40103, "category":4, "name":"サンリオ2ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40104, "category":4, "name":"DSFフェスガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -730,6 +733,12 @@
   },
   {
     "id":120103, "category":12, "name":"サンリオ2ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120104, "category":12, "name":"DSFフェスガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120105, "category":12, "name":"復刻ステージ.pt6", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"

@@ -150,6 +150,9 @@
     "id":118200, "name":"クロモスコンボUP+", "digest":"クロモス楽曲でコンボ補正15%UP", "description":"『Kuronoatmosphere』の楽曲プレイ時、常時コンボ補正が15%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":18,\"combo\":150,\"score\":0}"
   },
   {
+    "id":140030, "name":"俺達のど根性、見せてやるぜ！", "digest":"どこゆび楽曲でスコア25%UP", "description":"『DOKONJOFINGER』の楽曲プレイ時、常時スコアが25%UPするぜ", "potential_effect_type":1, "potential_effect_args":"{\"id\":6,\"combo\":0,\"score\":250}"
+  },
+  {
     "id":190000, "name":"スペシャルダブルUP+", "digest":"スペシャル楽曲でスコア4%コンボ補正5%UP", "description":"スペシャル楽曲プレイ時、常時スコアが4%コンボ補正が5%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":90,\"combo\":50,\"score\":40}"
   },
   {
