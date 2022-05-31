@@ -4627,5 +4627,545 @@
   },
   {
     "id":33000120, "effect_arg_no":2000181, "level":20, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,810,0]", "digest":"自身のメロディ値を81%付与", "description":"俺が持つメロディ値の81%を装備したメンバーに付与するぜ"
+  },
+  {
+    "id":34000001, "effect_arg_no":90060, "level":1, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,190,0]", "digest":"GOOD以上でコンボ補正19%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を19%UPするにゃん♡"
+  },
+  {
+    "id":34000002, "effect_arg_no":90060, "level":2, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,200,0]", "digest":"GOOD以上でコンボ補正20%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を20%UPするにゃん♡"
+  },
+  {
+    "id":34000003, "effect_arg_no":90060, "level":3, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,210,0]", "digest":"GOOD以上でコンボ補正21%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を21%UPするにゃん♡"
+  },
+  {
+    "id":34000004, "effect_arg_no":90060, "level":4, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,220,0]", "digest":"GOOD以上でコンボ補正22%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を22%UPするにゃん♡"
+  },
+  {
+    "id":34000005, "effect_arg_no":90060, "level":5, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,230,0]", "digest":"GOOD以上でコンボ補正23%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を23%UPするにゃん♡"
+  },
+  {
+    "id":34000006, "effect_arg_no":90060, "level":6, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,240,0]", "digest":"GOOD以上でコンボ補正24%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を24%UPするにゃん♡"
+  },
+  {
+    "id":34000007, "effect_arg_no":90060, "level":7, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,250,0]", "digest":"GOOD以上でコンボ補正25%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を25%UPするにゃん♡"
+  },
+  {
+    "id":34000008, "effect_arg_no":90060, "level":8, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,260,0]", "digest":"GOOD以上でコンボ補正26%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を26%UPするにゃん♡"
+  },
+  {
+    "id":34000009, "effect_arg_no":90060, "level":9, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,270,0]", "digest":"GOOD以上でコンボ補正27%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を27%UPするにゃん♡"
+  },
+  {
+    "id":34000010, "effect_arg_no":90060, "level":10, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[1,0,280,0]", "digest":"GOOD以上でコンボ補正28%UP", "description":"約12秒毎、中確率で約5秒間GOOD以上でコンボ補正を28%UPするにゃん♡"
+  },
+  {
+    "id":34000101, "effect_arg_no":90061, "level":1, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,190,0]", "digest":"BAD以上でコンボ補正19%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を19%UPするにゃん♡"
+  },
+  {
+    "id":34000102, "effect_arg_no":90061, "level":2, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,210,0]", "digest":"BAD以上でコンボ補正21%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を21%UPするにゃん♡"
+  },
+  {
+    "id":34000103, "effect_arg_no":90061, "level":3, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,230,0]", "digest":"BAD以上でコンボ補正23%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を23%UPするにゃん♡"
+  },
+  {
+    "id":34000104, "effect_arg_no":90061, "level":4, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,250,0]", "digest":"BAD以上でコンボ補正25%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を25%UPするにゃん♡"
+  },
+  {
+    "id":34000105, "effect_arg_no":90061, "level":5, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,270,0]", "digest":"BAD以上でコンボ補正27%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を27%UPするにゃん♡"
+  },
+  {
+    "id":34000106, "effect_arg_no":90061, "level":6, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,290,0]", "digest":"BAD以上でコンボ補正29%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を29%UPするにゃん♡"
+  },
+  {
+    "id":34000107, "effect_arg_no":90061, "level":7, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,310,0]", "digest":"BAD以上でコンボ補正31%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を31%UPするにゃん♡"
+  },
+  {
+    "id":34000108, "effect_arg_no":90061, "level":8, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,330,0]", "digest":"BAD以上でコンボ補正33%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を33%UPするにゃん♡"
+  },
+  {
+    "id":34000109, "effect_arg_no":90061, "level":9, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,350,0]", "digest":"BAD以上でコンボ補正35%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を35%UPするにゃん♡"
+  },
+  {
+    "id":34000110, "effect_arg_no":90061, "level":10, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,370,0]", "digest":"BAD以上でコンボ補正37%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を37%UPするにゃん♡"
+  },
+  {
+    "id":34000111, "effect_arg_no":90061, "level":11, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,390,0]", "digest":"BAD以上でコンボ補正39%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を39%UPするにゃん♡"
+  },
+  {
+    "id":34000112, "effect_arg_no":90061, "level":12, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,410,0]", "digest":"BAD以上でコンボ補正41%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を41%UPするにゃん♡"
+  },
+  {
+    "id":34000113, "effect_arg_no":90061, "level":13, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,430,0]", "digest":"BAD以上でコンボ補正43%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を43%UPするにゃん♡"
+  },
+  {
+    "id":34000114, "effect_arg_no":90061, "level":14, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,450,0]", "digest":"BAD以上でコンボ補正45%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を45%UPするにゃん♡"
+  },
+  {
+    "id":34000115, "effect_arg_no":90061, "level":15, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,470,0]", "digest":"BAD以上でコンボ補正47%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を47%UPするにゃん♡"
+  },
+  {
+    "id":34000116, "effect_arg_no":90061, "level":16, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,0,490,0]", "digest":"BAD以上でコンボ補正49%UP", "description":"約12秒毎、中確率で約5秒間BAD以上でコンボ補正を49%UPするにゃん♡"
+  },
+  {
+    "id":34000117, "effect_arg_no":90061, "level":17, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,60,530,5]", "digest":"BAD以上でスコア6%UPコンボ補正53%UPライフ5回復", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを6%UPコンボ補正を53%UPライフを5回復するにゃん♡"
+  },
+  {
+    "id":34000118, "effect_arg_no":90061, "level":18, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,120,570,10]", "digest":"BAD以上でスコア12%UPコンボ補正57%UPライフ10回復", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを12%UPコンボ補正を57%UPライフを10回復するにゃん♡"
+  },
+  {
+    "id":34000119, "effect_arg_no":90061, "level":19, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,180,610,15]", "digest":"BAD以上でスコア18%UPコンボ補正61%UPライフ15回復", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを18%UPコンボ補正を61%UPライフを15回復するにゃん♡"
+  },
+  {
+    "id":34000120, "effect_arg_no":90061, "level":20, "interval":12000, "probability":43, "duration":5000, "damage":0, "effect_args":"[0,240,660,20]", "digest":"BAD以上でスコア24%UPコンボ補正66%UPライフ20回復", "description":"約12秒毎、中確率で約5秒間BAD以上でスコアを24%UPコンボ補正を66%UPライフを20回復するにゃん♡"
+  },
+  {
+    "id":35000001, "effect_arg_no":1020203, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"3", "digest":"GOOD以上を3回だけPERFECTにする", "description":"発動後、GOOD以上を3回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000002, "effect_arg_no":1020203, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"4", "digest":"GOOD以上を4回だけPERFECTにする", "description":"発動後、GOOD以上を4回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000003, "effect_arg_no":1020203, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"4", "digest":"GOOD以上を4回だけPERFECTにする", "description":"発動後、GOOD以上を4回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000004, "effect_arg_no":1020203, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"4", "digest":"GOOD以上を4回だけPERFECTにする", "description":"発動後、GOOD以上を4回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000005, "effect_arg_no":1020203, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"5", "digest":"GOOD以上を5回だけPERFECTにする", "description":"発動後、GOOD以上を5回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000006, "effect_arg_no":1020203, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"5", "digest":"GOOD以上を5回だけPERFECTにする", "description":"発動後、GOOD以上を5回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000007, "effect_arg_no":1020203, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"5", "digest":"GOOD以上を5回だけPERFECTにする", "description":"発動後、GOOD以上を5回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000008, "effect_arg_no":1020203, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"5", "digest":"GOOD以上を5回だけPERFECTにする", "description":"発動後、GOOD以上を5回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000009, "effect_arg_no":1020203, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"5", "digest":"GOOD以上を5回だけPERFECTにする", "description":"発動後、GOOD以上を5回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000010, "effect_arg_no":1020203, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"6", "digest":"GOOD以上を6回だけPERFECTにする", "description":"発動後、GOOD以上を6回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000101, "effect_arg_no":1020103, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"5", "digest":"BAD以上を5回だけPERFECTにする", "description":"発動後、BAD以上を5回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000102, "effect_arg_no":1020103, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"5", "digest":"BAD以上を5回だけPERFECTにする", "description":"発動後、BAD以上を5回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000103, "effect_arg_no":1020103, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"6", "digest":"BAD以上を6回だけPERFECTにする", "description":"発動後、BAD以上を6回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000104, "effect_arg_no":1020103, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"6", "digest":"BAD以上を6回だけPERFECTにする", "description":"発動後、BAD以上を6回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000105, "effect_arg_no":1020103, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"6", "digest":"BAD以上を6回だけPERFECTにする", "description":"発動後、BAD以上を6回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000106, "effect_arg_no":1020103, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"6", "digest":"BAD以上を6回だけPERFECTにする", "description":"発動後、BAD以上を6回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000107, "effect_arg_no":1020103, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"6", "digest":"BAD以上を6回だけPERFECTにする", "description":"発動後、BAD以上を6回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000108, "effect_arg_no":1020103, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"7", "digest":"BAD以上を7回だけPERFECTにする", "description":"発動後、BAD以上を7回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000109, "effect_arg_no":1020103, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"7", "digest":"BAD以上を7回だけPERFECTにする", "description":"発動後、BAD以上を7回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000110, "effect_arg_no":1020103, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"7", "digest":"BAD以上を7回だけPERFECTにする", "description":"発動後、BAD以上を7回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000111, "effect_arg_no":1020103, "level":11, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"7", "digest":"BAD以上を7回だけPERFECTにする", "description":"発動後、BAD以上を7回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000112, "effect_arg_no":1020103, "level":12, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"7", "digest":"BAD以上を7回だけPERFECTにする", "description":"発動後、BAD以上を7回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000113, "effect_arg_no":1020103, "level":13, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"8", "digest":"BAD以上を8回だけPERFECTにする", "description":"発動後、BAD以上を8回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000114, "effect_arg_no":1020103, "level":14, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"8", "digest":"BAD以上を8回だけPERFECTにする", "description":"発動後、BAD以上を8回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000115, "effect_arg_no":1020103, "level":15, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"8", "digest":"BAD以上を8回だけPERFECTにする", "description":"発動後、BAD以上を8回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000116, "effect_arg_no":1020103, "level":16, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"8", "digest":"BAD以上を8回だけPERFECTにする", "description":"発動後、BAD以上を8回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000117, "effect_arg_no":1020103, "level":17, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"9", "digest":"BAD以上を9回だけPERFECTにする", "description":"発動後、BAD以上を9回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000118, "effect_arg_no":1020103, "level":18, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"10", "digest":"BAD以上を10回だけPERFECTにする", "description":"発動後、BAD以上を10回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000119, "effect_arg_no":1020103, "level":19, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"11", "digest":"BAD以上を11回だけPERFECTにする", "description":"発動後、BAD以上を11回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":35000120, "effect_arg_no":1020103, "level":20, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"12", "digest":"BAD以上を12回だけPERFECTにする", "description":"発動後、BAD以上を12回だけPERFECTにするにゃん♡"
+  },
+  {
+    "id":36000001, "effect_arg_no":2000190, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,350]", "digest":"自身のハーモニー値を35%付与", "description":"あたしが持つハーモニー値の35%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000002, "effect_arg_no":2000190, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,370]", "digest":"自身のハーモニー値を37%付与", "description":"あたしが持つハーモニー値の37%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000003, "effect_arg_no":2000190, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,390]", "digest":"自身のハーモニー値を39%付与", "description":"あたしが持つハーモニー値の39%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000004, "effect_arg_no":2000190, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,410]", "digest":"自身のハーモニー値を41%付与", "description":"あたしが持つハーモニー値の41%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000005, "effect_arg_no":2000190, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,430]", "digest":"自身のハーモニー値を43%付与", "description":"あたしが持つハーモニー値の43%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000006, "effect_arg_no":2000190, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,450]", "digest":"自身のハーモニー値を45%付与", "description":"あたしが持つハーモニー値の45%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000007, "effect_arg_no":2000190, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,470]", "digest":"自身のハーモニー値を47%付与", "description":"あたしが持つハーモニー値の47%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000008, "effect_arg_no":2000190, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,490]", "digest":"自身のハーモニー値を49%付与", "description":"あたしが持つハーモニー値の49%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000009, "effect_arg_no":2000190, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,510]", "digest":"自身のハーモニー値を51%付与", "description":"あたしが持つハーモニー値の51%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000010, "effect_arg_no":2000190, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,530]", "digest":"自身のハーモニー値を53%付与", "description":"あたしが持つハーモニー値の53%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000101, "effect_arg_no":2000191, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,240]", "digest":"自身のハーモニー値を24%付与", "description":"あたしが持つハーモニー値の24%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000102, "effect_arg_no":2000191, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,260]", "digest":"自身のハーモニー値を26%付与", "description":"あたしが持つハーモニー値の26%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000103, "effect_arg_no":2000191, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,280]", "digest":"自身のハーモニー値を28%付与", "description":"あたしが持つハーモニー値の28%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000104, "effect_arg_no":2000191, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,300]", "digest":"自身のハーモニー値を30%付与", "description":"あたしが持つハーモニー値の30%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000105, "effect_arg_no":2000191, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,320]", "digest":"自身のハーモニー値を32%付与", "description":"あたしが持つハーモニー値の32%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000106, "effect_arg_no":2000191, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,340]", "digest":"自身のハーモニー値を34%付与", "description":"あたしが持つハーモニー値の34%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000107, "effect_arg_no":2000191, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,360]", "digest":"自身のハーモニー値を36%付与", "description":"あたしが持つハーモニー値の36%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000108, "effect_arg_no":2000191, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,380]", "digest":"自身のハーモニー値を38%付与", "description":"あたしが持つハーモニー値の38%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000109, "effect_arg_no":2000191, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,400]", "digest":"自身のハーモニー値を40%付与", "description":"あたしが持つハーモニー値の40%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000110, "effect_arg_no":2000191, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,420]", "digest":"自身のハーモニー値を42%付与", "description":"あたしが持つハーモニー値の42%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000111, "effect_arg_no":2000191, "level":11, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,440]", "digest":"自身のハーモニー値を44%付与", "description":"あたしが持つハーモニー値の44%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000112, "effect_arg_no":2000191, "level":12, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,460]", "digest":"自身のハーモニー値を46%付与", "description":"あたしが持つハーモニー値の46%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000113, "effect_arg_no":2000191, "level":13, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,480]", "digest":"自身のハーモニー値を48%付与", "description":"あたしが持つハーモニー値の48%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000114, "effect_arg_no":2000191, "level":14, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,500]", "digest":"自身のハーモニー値を50%付与", "description":"あたしが持つハーモニー値の50%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000115, "effect_arg_no":2000191, "level":15, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,520]", "digest":"自身のハーモニー値を52%付与", "description":"あたしが持つハーモニー値の52%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000116, "effect_arg_no":2000191, "level":16, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,540]", "digest":"自身のハーモニー値を54%付与", "description":"あたしが持つハーモニー値の54%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000117, "effect_arg_no":2000191, "level":17, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,90,90,540]", "digest":"自身のハーモニー値を54%リズム＆メロディ値を9%付与", "description":"あたしが持つハーモニー値の54%、リズム＆メロディ値の9%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000118, "effect_arg_no":2000191, "level":18, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,180,180,540]", "digest":"自身のハーモニー値を54%リズム＆メロディ値を18%付与", "description":"あたしが持つハーモニー値の54%、リズム＆メロディ値の18%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000119, "effect_arg_no":2000191, "level":19, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,270,270,540]", "digest":"自身のハーモニー値を54%リズム＆メロディ値を27%付与", "description":"あたしが持つハーモニー値の54%、リズム＆メロディ値の27%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":36000120, "effect_arg_no":2000191, "level":20, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,360,360,540]", "digest":"自身のハーモニー値を54%リズム＆メロディ値を36%付与", "description":"あたしが持つハーモニー値の54%、リズム＆メロディ値の36%を装備したメンバーに付与するにゃん♪"
+  },
+  {
+    "id":37000001, "effect_arg_no":21131, "level":1, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[350,0]", "digest":"ライフ400消費後、GOOD以上でスコア35%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが35%UPするぜッ！"
+  },
+  {
+    "id":37000002, "effect_arg_no":21131, "level":2, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[370,0]", "digest":"ライフ400消費後、GOOD以上でスコア37%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが37%UPするぜッ！"
+  },
+  {
+    "id":37000003, "effect_arg_no":21131, "level":3, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[390,0]", "digest":"ライフ400消費後、GOOD以上でスコア39%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが39%UPするぜッ！"
+  },
+  {
+    "id":37000004, "effect_arg_no":21131, "level":4, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[410,0]", "digest":"ライフ400消費後、GOOD以上でスコア41%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが41%UPするぜッ！"
+  },
+  {
+    "id":37000005, "effect_arg_no":21131, "level":5, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[430,0]", "digest":"ライフ400消費後、GOOD以上でスコア43%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが43%UPするぜッ！"
+  },
+  {
+    "id":37000006, "effect_arg_no":21131, "level":6, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[450,0]", "digest":"ライフ400消費後、GOOD以上でスコア45%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが45%UPするぜッ！"
+  },
+  {
+    "id":37000007, "effect_arg_no":21131, "level":7, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[470,0]", "digest":"ライフ400消費後、GOOD以上でスコア47%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが47%UPするぜッ！"
+  },
+  {
+    "id":37000008, "effect_arg_no":21131, "level":8, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[490,0]", "digest":"ライフ400消費後、GOOD以上でスコア49%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが49%UPするぜッ！"
+  },
+  {
+    "id":37000009, "effect_arg_no":21131, "level":9, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[510,0]", "digest":"ライフ400消費後、GOOD以上でスコア51%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが51%UPするぜッ！"
+  },
+  {
+    "id":37000010, "effect_arg_no":21131, "level":10, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[530,0]", "digest":"ライフ400消費後、GOOD以上でスコア53%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、GOOD以上ならスコアが53%UPするぜッ！"
+  },
+  {
+    "id":37000101, "effect_arg_no":21230, "level":1, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[350,0]", "digest":"ライフ400消費後、BAD以上でスコア35%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが35%UPするぜッ！"
+  },
+  {
+    "id":37000102, "effect_arg_no":21230, "level":2, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[370,0]", "digest":"ライフ400消費後、BAD以上でスコア37%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが37%UPするぜッ！"
+  },
+  {
+    "id":37000103, "effect_arg_no":21230, "level":3, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[390,0]", "digest":"ライフ400消費後、BAD以上でスコア39%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが39%UPするぜッ！"
+  },
+  {
+    "id":37000104, "effect_arg_no":21230, "level":4, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[410,0]", "digest":"ライフ400消費後、BAD以上でスコア41%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが41%UPするぜッ！"
+  },
+  {
+    "id":37000105, "effect_arg_no":21230, "level":5, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[430,0]", "digest":"ライフ400消費後、BAD以上でスコア43%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが43%UPするぜッ！"
+  },
+  {
+    "id":37000106, "effect_arg_no":21230, "level":6, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[450,0]", "digest":"ライフ400消費後、BAD以上でスコア45%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが45%UPするぜッ！"
+  },
+  {
+    "id":37000107, "effect_arg_no":21230, "level":7, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[470,0]", "digest":"ライフ400消費後、BAD以上でスコア47%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが47%UPするぜッ！"
+  },
+  {
+    "id":37000108, "effect_arg_no":21230, "level":8, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[490,0]", "digest":"ライフ400消費後、BAD以上でスコア49%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが49%UPするぜッ！"
+  },
+  {
+    "id":37000109, "effect_arg_no":21230, "level":9, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[510,0]", "digest":"ライフ400消費後、BAD以上でスコア51%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが51%UPするぜッ！"
+  },
+  {
+    "id":37000110, "effect_arg_no":21230, "level":10, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[530,0]", "digest":"ライフ400消費後、BAD以上でスコア53%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが53%UPするぜッ！"
+  },
+  {
+    "id":37000111, "effect_arg_no":21230, "level":11, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[550,0]", "digest":"ライフ400消費後、BAD以上でスコア55%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが55%UPするぜッ！"
+  },
+  {
+    "id":37000112, "effect_arg_no":21230, "level":12, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[570,0]", "digest":"ライフ400消費後、BAD以上でスコア57%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが57%UPするぜッ！"
+  },
+  {
+    "id":37000113, "effect_arg_no":21230, "level":13, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[590,0]", "digest":"ライフ400消費後、BAD以上でスコア59%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが59%UPするぜッ！"
+  },
+  {
+    "id":37000114, "effect_arg_no":21230, "level":14, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[610,0]", "digest":"ライフ400消費後、BAD以上でスコア61%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが61%UPするぜッ！"
+  },
+  {
+    "id":37000115, "effect_arg_no":21230, "level":15, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[630,0]", "digest":"ライフ400消費後、BAD以上でスコア63%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが63%UPするぜッ！"
+  },
+  {
+    "id":37000116, "effect_arg_no":21230, "level":16, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[650,0]", "digest":"ライフ400消費後、BAD以上でスコア65%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが65%UPするぜッ！"
+  },
+  {
+    "id":37000117, "effect_arg_no":21230, "level":17, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[770,0]", "digest":"ライフ400消費後、BAD以上でスコア77%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが77%UPするぜッ！"
+  },
+  {
+    "id":37000118, "effect_arg_no":21230, "level":18, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[900,0]", "digest":"ライフ400消費後、BAD以上でスコア90%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが90%UPするぜッ！"
+  },
+  {
+    "id":37000119, "effect_arg_no":21230, "level":19, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[1020,0]", "digest":"ライフ400消費後、BAD以上でスコア102%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが102%UPするぜッ！"
+  },
+  {
+    "id":37000120, "effect_arg_no":21230, "level":20, "interval":11500, "probability":43, "duration":6000, "damage":400, "effect_args":"[1150,0]", "digest":"ライフ400消費後、BAD以上でスコア115%UP", "description":"約12秒毎に中確率で約6秒間、発動時にライフを400消費するけど、BAD以上ならスコアが115%UPするぜッ！"
+  },
+  {
+    "id":38000001, "effect_arg_no":1090030, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,100]", "digest":"ライフ0時に1回だけライフを100回復", "description":"ライフが0になった時、1回だけライフを100回復するぜッ！"
+  },
+  {
+    "id":38000002, "effect_arg_no":1090030, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,110]", "digest":"ライフ0時に1回だけライフを110回復", "description":"ライフが0になった時、1回だけライフを110回復するぜッ！"
+  },
+  {
+    "id":38000003, "effect_arg_no":1090030, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,120]", "digest":"ライフ0時に1回だけライフを120回復", "description":"ライフが0になった時、1回だけライフを120回復するぜッ！"
+  },
+  {
+    "id":38000004, "effect_arg_no":1090030, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,150]", "digest":"ライフ0時に1回だけライフを150回復", "description":"ライフが0になった時、1回だけライフを150回復するぜッ！"
+  },
+  {
+    "id":38000005, "effect_arg_no":1090030, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,180]", "digest":"ライフ0時に1回だけライフを180回復", "description":"ライフが0になった時、1回だけライフを180回復するぜッ！"
+  },
+  {
+    "id":38000006, "effect_arg_no":1090030, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,210]", "digest":"ライフ0時に1回だけライフを210回復", "description":"ライフが0になった時、1回だけライフを210回復するぜッ！"
+  },
+  {
+    "id":38000007, "effect_arg_no":1090030, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,240]", "digest":"ライフ0時に1回だけライフを240回復", "description":"ライフが0になった時、1回だけライフを240回復するぜッ！"
+  },
+  {
+    "id":38000008, "effect_arg_no":1090030, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,270]", "digest":"ライフ0時に1回だけライフを270回復", "description":"ライフが0になった時、1回だけライフを270回復するぜッ！"
+  },
+  {
+    "id":38000009, "effect_arg_no":1090030, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,300]", "digest":"ライフ0時に1回だけライフを300回復", "description":"ライフが0になった時、1回だけライフを300回復するぜッ！"
+  },
+  {
+    "id":38000010, "effect_arg_no":1090030, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,330]", "digest":"ライフ0時に1回だけライフを330回復", "description":"ライフが0になった時、1回だけライフを330回復するぜッ！"
+  },
+  {
+    "id":38000101, "effect_arg_no":1090031, "level":1, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,100]", "digest":"ライフ0時に1回だけライフを100回復", "description":"ライフが0になった時、1回だけライフを100回復するぜッ！"
+  },
+  {
+    "id":38000102, "effect_arg_no":1090031, "level":2, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,110]", "digest":"ライフ0時に1回だけライフを110回復", "description":"ライフが0になった時、1回だけライフを110回復するぜッ！"
+  },
+  {
+    "id":38000103, "effect_arg_no":1090031, "level":3, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,120]", "digest":"ライフ0時に1回だけライフを120回復", "description":"ライフが0になった時、1回だけライフを120回復するぜッ！"
+  },
+  {
+    "id":38000104, "effect_arg_no":1090031, "level":4, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,150]", "digest":"ライフ0時に1回だけライフを150回復", "description":"ライフが0になった時、1回だけライフを150回復するぜッ！"
+  },
+  {
+    "id":38000105, "effect_arg_no":1090031, "level":5, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,180]", "digest":"ライフ0時に1回だけライフを180回復", "description":"ライフが0になった時、1回だけライフを180回復するぜッ！"
+  },
+  {
+    "id":38000106, "effect_arg_no":1090031, "level":6, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,210]", "digest":"ライフ0時に1回だけライフを210回復", "description":"ライフが0になった時、1回だけライフを210回復するぜッ！"
+  },
+  {
+    "id":38000107, "effect_arg_no":1090031, "level":7, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,240]", "digest":"ライフ0時に1回だけライフを240回復", "description":"ライフが0になった時、1回だけライフを240回復するぜッ！"
+  },
+  {
+    "id":38000108, "effect_arg_no":1090031, "level":8, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,270]", "digest":"ライフ0時に1回だけライフを270回復", "description":"ライフが0になった時、1回だけライフを270回復するぜッ！"
+  },
+  {
+    "id":38000109, "effect_arg_no":1090031, "level":9, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,300]", "digest":"ライフ0時に1回だけライフを300回復", "description":"ライフが0になった時、1回だけライフを300回復するぜッ！"
+  },
+  {
+    "id":38000110, "effect_arg_no":1090031, "level":10, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,330]", "digest":"ライフ0時に1回だけライフを330回復", "description":"ライフが0になった時、1回だけライフを330回復するぜッ！"
+  },
+  {
+    "id":38000111, "effect_arg_no":1090031, "level":11, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,360]", "digest":"ライフ0時に1回だけライフを360回復", "description":"ライフが0になった時、1回だけライフを360回復するぜッ！"
+  },
+  {
+    "id":38000112, "effect_arg_no":1090031, "level":12, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,390]", "digest":"ライフ0時に1回だけライフを390回復", "description":"ライフが0になった時、1回だけライフを390回復するぜッ！"
+  },
+  {
+    "id":38000113, "effect_arg_no":1090031, "level":13, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,420]", "digest":"ライフ0時に1回だけライフを420回復", "description":"ライフが0になった時、1回だけライフを420回復するぜッ！"
+  },
+  {
+    "id":38000114, "effect_arg_no":1090031, "level":14, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,450]", "digest":"ライフ0時に1回だけライフを450回復", "description":"ライフが0になった時、1回だけライフを450回復するぜッ！"
+  },
+  {
+    "id":38000115, "effect_arg_no":1090031, "level":15, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,480]", "digest":"ライフ0時に1回だけライフを480回復", "description":"ライフが0になった時、1回だけライフを480回復するぜッ！"
+  },
+  {
+    "id":38000116, "effect_arg_no":1090031, "level":16, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[1,510]", "digest":"ライフ0時に1回だけライフを510回復", "description":"ライフが0になった時、1回だけライフを510回復するぜッ！"
+  },
+  {
+    "id":38000117, "effect_arg_no":1090031, "level":17, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,510]", "digest":"ライフ0時に2回だけライフを510回復", "description":"ライフが0になった時、2回だけライフを510回復するぜッ！"
+  },
+  {
+    "id":38000118, "effect_arg_no":1090031, "level":18, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,515]", "digest":"ライフ0時に2回だけライフを515回復", "description":"ライフが0になった時、2回だけライフを515回復するぜッ！"
+  },
+  {
+    "id":38000119, "effect_arg_no":1090031, "level":19, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[2,520]", "digest":"ライフ0時に2回だけライフを520回復", "description":"ライフが0になった時、2回だけライフを520回復するぜッ！"
+  },
+  {
+    "id":38000120, "effect_arg_no":1090031, "level":20, "interval":3600000, "probability":100, "duration":3600000, "damage":0, "effect_args":"[3,520]", "digest":"ライフ0時に3回だけライフを520回復", "description":"ライフが0になった時、3回だけライフを520回復するぜッ！"
+  },
+  {
+    "id":39000001, "effect_arg_no":2000200, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,350]", "digest":"自身のハーモニー値を35%付与", "description":"オレが持つハーモニー値の35%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000002, "effect_arg_no":2000200, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,370]", "digest":"自身のハーモニー値を37%付与", "description":"オレが持つハーモニー値の37%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000003, "effect_arg_no":2000200, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,390]", "digest":"自身のハーモニー値を39%付与", "description":"オレが持つハーモニー値の39%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000004, "effect_arg_no":2000200, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,410]", "digest":"自身のハーモニー値を41%付与", "description":"オレが持つハーモニー値の41%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000005, "effect_arg_no":2000200, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,430]", "digest":"自身のハーモニー値を43%付与", "description":"オレが持つハーモニー値の43%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000006, "effect_arg_no":2000200, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,450]", "digest":"自身のハーモニー値を45%付与", "description":"オレが持つハーモニー値の45%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000007, "effect_arg_no":2000200, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,470]", "digest":"自身のハーモニー値を47%付与", "description":"オレが持つハーモニー値の47%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000008, "effect_arg_no":2000200, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,490]", "digest":"自身のハーモニー値を49%付与", "description":"オレが持つハーモニー値の49%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000009, "effect_arg_no":2000200, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,510]", "digest":"自身のハーモニー値を51%付与", "description":"オレが持つハーモニー値の51%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000010, "effect_arg_no":2000200, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,530]", "digest":"自身のハーモニー値を53%付与", "description":"オレが持つハーモニー値の53%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000101, "effect_arg_no":2000201, "level":1, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,240]", "digest":"自身のハーモニー値を24%付与", "description":"オレが持つハーモニー値の24%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000102, "effect_arg_no":2000201, "level":2, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,260]", "digest":"自身のハーモニー値を26%付与", "description":"オレが持つハーモニー値の26%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000103, "effect_arg_no":2000201, "level":3, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,280]", "digest":"自身のハーモニー値を28%付与", "description":"オレが持つハーモニー値の28%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000104, "effect_arg_no":2000201, "level":4, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,300]", "digest":"自身のハーモニー値を30%付与", "description":"オレが持つハーモニー値の30%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000105, "effect_arg_no":2000201, "level":5, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,320]", "digest":"自身のハーモニー値を32%付与", "description":"オレが持つハーモニー値の32%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000106, "effect_arg_no":2000201, "level":6, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,340]", "digest":"自身のハーモニー値を34%付与", "description":"オレが持つハーモニー値の34%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000107, "effect_arg_no":2000201, "level":7, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,360]", "digest":"自身のハーモニー値を36%付与", "description":"オレが持つハーモニー値の36%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000108, "effect_arg_no":2000201, "level":8, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,380]", "digest":"自身のハーモニー値を38%付与", "description":"オレが持つハーモニー値の38%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000109, "effect_arg_no":2000201, "level":9, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,400]", "digest":"自身のハーモニー値を40%付与", "description":"オレが持つハーモニー値の40%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000110, "effect_arg_no":2000201, "level":10, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,420]", "digest":"自身のハーモニー値を42%付与", "description":"オレが持つハーモニー値の42%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000111, "effect_arg_no":2000201, "level":11, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,440]", "digest":"自身のハーモニー値を44%付与", "description":"オレが持つハーモニー値の44%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000112, "effect_arg_no":2000201, "level":12, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,460]", "digest":"自身のハーモニー値を46%付与", "description":"オレが持つハーモニー値の46%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000113, "effect_arg_no":2000201, "level":13, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,480]", "digest":"自身のハーモニー値を48%付与", "description":"オレが持つハーモニー値の48%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000114, "effect_arg_no":2000201, "level":14, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,500]", "digest":"自身のハーモニー値を50%付与", "description":"オレが持つハーモニー値の50%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000115, "effect_arg_no":2000201, "level":15, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,520]", "digest":"自身のハーモニー値を52%付与", "description":"オレが持つハーモニー値の52%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000116, "effect_arg_no":2000201, "level":16, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,540]", "digest":"自身のハーモニー値を54%付与", "description":"オレが持つハーモニー値の54%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000117, "effect_arg_no":2000201, "level":17, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,600]", "digest":"自身のハーモニー値を60%付与", "description":"オレが持つハーモニー値の60%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000118, "effect_arg_no":2000201, "level":18, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,670]", "digest":"自身のハーモニー値を67%付与", "description":"オレが持つハーモニー値の67%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000119, "effect_arg_no":2000201, "level":19, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,730]", "digest":"自身のハーモニー値を73%付与", "description":"オレが持つハーモニー値の73%を装備したメンバーに付与するぜッ！"
+  },
+  {
+    "id":39000120, "effect_arg_no":2000201, "level":20, "interval":0, "probability":0, "duration":0, "damage":0, "effect_args":"[0,0,0,810]", "digest":"自身のハーモニー値を81%付与", "description":"オレが持つハーモニー値の81%を装備したメンバーに付与するぜッ！"
   }
 ]

@@ -201,6 +201,9 @@
     "id":300002, "name":"スキルタイムUP+", "digest":"スキルの効果時間を約10秒延長する", "description":"自身のアクティブスキル効果時間を約10秒延長する", "potential_effect_type":3, "potential_effect_args":"10000"
   },
   {
+    "id":340050, "name":"究極絶頂クリムゾン黙示録だぜッ！", "digest":"スキルの効果時間を約11秒延長する", "description":"オレのアクティブスキル効果時間を約11秒延長するぜッ！", "potential_effect_type":3, "potential_effect_args":"11000"
+  },
+  {
     "id":400001, "name":"スキルリキャストDOWN", "digest":"スキルの再発動時間を20%短縮", "description":"自身のアクティブスキルが再度発動できるまでの時間を20%短縮する", "potential_effect_type":4, "potential_effect_args":"20"
   },
   {
@@ -241,6 +244,9 @@
   },
   {
     "id":640000, "name":"今年も始めよう、ボク達のライブを！", "digest":"パラメータ『リズム』『メロディ』を50%UPするよ", "description":"ボクのパラメータ『リズム』『メロディ』を50%UPするよ。", "potential_effect_type":6, "potential_effect_args":"[0,50,50,0]"
+  },
+  {
+    "id":640040, "name":"No.1目指しちゃうにゃん♪", "digest":"パラメータ『リズム』『メロディ』を50%UP", "description":"あたしのパラメータ『リズム』『メロディ』を50%UPするにゃん♪", "potential_effect_type":6, "potential_effect_args":"[0,50,50,0]"
   },
   {
     "id":1014000, "name":"同属性同時編成パラメータUP", "digest":"ドキドキ属性のブロマイドを4枚以上編成した場合、全パラメータ値20%UP", "description":"ドキドキ属性のブロマイドを4枚以上編成した場合、このブロマイドの全パラメータ20%UP", "potential_effect_type":10, "potential_effect_args":"{\"num\":4,\"status\":[20,20,20,20],\"category\":1}"

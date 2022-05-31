@@ -24,31 +24,37 @@
     "id":10006, "name":"ゴールデンライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"黄金アーティファクトが満ちたライブハウスだ！最高にしかなれない黄金メロディアスを聞かせてやろう！", "townscape_id":5001
   },
   {
+    "id":10007, "name":"レインボーライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"SB69の10周年ありがとう！！を記念した建物。ここでライブをしたバンドは長く多くのミューモンを魅了する。", "townscape_id":5001
+  },
+  {
     "id":11000, "name":"スゴロクライブハウス", "category":1, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"スゴロクイベントで使用する建物です。", "townscape_id":5001
   },
   {
-    "id":20000, "name":"ボロいグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":100000, "description":"グッズアイテムを売っているお店です。\n見た目と売上は…関係ないはず…。", "townscape_id":5002
+    "id":20000, "name":"ボロいグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":200000, "description":"グッズアイテムを売っているお店です。\n見た目と売上は…関係ないはず…。", "townscape_id":5002
   },
   {
-    "id":20001, "name":"普通のグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":100000, "description":"グッズアイテムを売っているお店です。\nバンドグッズをたくさん売って、\nサウンドルを稼ぎましょう！", "townscape_id":5002
+    "id":20001, "name":"普通のグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":200000, "description":"グッズアイテムを売っているお店です。\nバンドグッズをたくさん売って、\nサウンドルを稼ぎましょう！", "townscape_id":5002
   },
   {
-    "id":20002, "name":"ステキグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":100000, "description":"グッズアイテムを売っているお店です。\nとってもオシャレでステキな見た目！\n有名バンドグッズの品ぞろえも豊富。", "townscape_id":5002
+    "id":20002, "name":"ステキグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":200000, "description":"グッズアイテムを売っているお店です。\nとってもオシャレでステキな見た目！\n有名バンドグッズの品ぞろえも豊富。", "townscape_id":5002
   },
   {
-    "id":20003, "name":"ハーフ記念グッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":200000, "description":"ハーフアニバーサリー記念に建築されたグッズショップ。記念を祝し、限定セール開催中！", "townscape_id":5002
+    "id":20003, "name":"ハーフ記念グッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":400000, "description":"ハーフアニバーサリー記念に建築されたグッズショップ。記念を祝し、限定セール開催中！", "townscape_id":5002
   },
   {
-    "id":20004, "name":"1周年記念グッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":200000, "description":"1周年記念に建築されたグッズショップ。サウンドプラネット全体の貴重な商品まで取り扱っているとか。", "townscape_id":5002
+    "id":20004, "name":"1周年記念グッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":400000, "description":"1周年記念に建築されたグッズショップ。サウンドプラネット全体の貴重な商品まで取り扱っているとか。", "townscape_id":5002
   },
   {
-    "id":20005, "name":"徒然なる温泉宿", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":200000, "description":"徒然なる操り霧幻庵がプロデュースしている温泉宿。大浴場でゆったりたっぷり疲れを癒やすでありんす♪", "townscape_id":5002
+    "id":20005, "name":"徒然なる温泉宿", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":400000, "description":"徒然なる操り霧幻庵がプロデュースしている温泉宿。大浴場でゆったりたっぷり疲れを癒やすでありんす♪", "townscape_id":5002
   },
   {
-    "id":20006, "name":"サンリオアニメストア", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":200000, "description":"魅惑のグッズがそろうサンリオアニメストアにようこそ♪大好きなあの子のスペシャルアイテムを手に入れよう！", "townscape_id":5002
+    "id":20006, "name":"サンリオアニメストア", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":400000, "description":"魅惑のグッズがそろうサンリオアニメストアにようこそ♪大好きなあの子のスペシャルアイテムを手に入れよう！", "townscape_id":5002
   },
   {
-    "id":20007, "name":"ゴールデングッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":200000, "description":"100億サウンドルを投資し建造した、最高にしかなれないグッズショップだ！", "townscape_id":5002
+    "id":20007, "name":"ゴールデングッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":400000, "description":"100億サウンドルを投資し建造した、最高にしかなれないグッズショップだ！", "townscape_id":5002
+  },
+  {
+    "id":20008, "name":"レインボーグッズショップ", "category":2, "sub_category":0, "interval_second":150, "sale_soundle":0, "sale_exp":0, "max_soundle":400000, "description":"SB69の10周年ありがとう！！を記念した建物。古いものから新しい物まで品ぞろえが抜群！", "townscape_id":5002
   },
   {
     "id":30000, "name":"ボロい映画館", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"キャラクター情報を見られる建物です。\n入るのに、ちょっぴり勇気がいります…。", "townscape_id":5003
@@ -61,6 +67,9 @@
   },
   {
     "id":30003, "name":"ゴールデンシアター", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"全世界のミューモンに黄金の体験を約束するシアターだ！じい、今すぐポップコーン黄金味を用意しろ！", "townscape_id":5003
+  },
+  {
+    "id":30004, "name":"レインボーシアター", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"SB69の10周年ありがとう！！を記念した建物。ここで映画を見たら長く続く秘密がわかっちゃうかも♪", "townscape_id":5003
   },
   {
     "id":31000, "name":"スゴロク映画館", "category":3, "sub_category":0, "interval_second":0, "sale_soundle":0, "sale_exp":0, "max_soundle":0, "description":"スゴロクイベントで使用する建物です。", "townscape_id":5003

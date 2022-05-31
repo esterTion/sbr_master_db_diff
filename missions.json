@@ -2463,6 +2463,162 @@
     "id":4000705, "category":4, "reset_cycle":0, "title":"【クロミ記念】ミッションを全てクリアしよう", "detail":"【クロミ記念】ミッションを全てクリアしよう", "add_condition_mission_id":0, "sort_order":106, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000700,4000701,4000702,4000703,4000704]", "goal":5, "reward_no":14119, "button_type":0, "destination_kind":0, "started_at":"2022/05/20 13:00:00 +09:00", "ended_at":"2022/05/31 11:59:59 +09:00"
   },
   {
+    "id":4000706, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"65", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/06 11:59:59 +09:00"
+  },
+  {
+    "id":4000708, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを1回完了しよう", "detail":"バイト一覧から、バイトを1回完了しよう", "add_condition_mission_id":0, "sort_order":101, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":1, "reward_no":14124, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000709, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを5回完了しよう", "detail":"バイト一覧から、バイトを5回完了しよう", "add_condition_mission_id":0, "sort_order":102, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":5, "reward_no":14124, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000710, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを10回完了しよう", "detail":"バイト一覧から、バイトを10回完了しよう", "add_condition_mission_id":0, "sort_order":103, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":10, "reward_no":14125, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000711, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを20回完了しよう", "detail":"バイト一覧から、バイトを20回完了しよう", "add_condition_mission_id":0, "sort_order":104, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":20, "reward_no":14125, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000712, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを30回完了しよう", "detail":"バイト一覧から、バイトを30回完了しよう", "add_condition_mission_id":0, "sort_order":105, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":30, "reward_no":14125, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000713, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを40回完了しよう", "detail":"バイト一覧から、バイトを40回完了しよう", "add_condition_mission_id":0, "sort_order":106, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":40, "reward_no":14126, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000714, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを50回完了しよう", "detail":"バイト一覧から、バイトを50回完了しよう", "add_condition_mission_id":0, "sort_order":107, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":50, "reward_no":14126, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000715, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを60回完了しよう", "detail":"バイト一覧から、バイトを60回完了しよう", "add_condition_mission_id":0, "sort_order":108, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":60, "reward_no":14126, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000716, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを70回完了しよう", "detail":"バイト一覧から、バイトを70回完了しよう", "add_condition_mission_id":0, "sort_order":109, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":70, "reward_no":14127, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000717, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを80回完了しよう", "detail":"バイト一覧から、バイトを80回完了しよう", "add_condition_mission_id":0, "sort_order":110, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":80, "reward_no":14127, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000718, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを90回完了しよう", "detail":"バイト一覧から、バイトを90回完了しよう", "add_condition_mission_id":0, "sort_order":111, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":90, "reward_no":14127, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000719, "category":4, "reset_cycle":0, "title":"【SB69!!10th】バイトを100回完了しよう", "detail":"バイト一覧から、バイトを100回完了しよう", "add_condition_mission_id":0, "sort_order":112, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":100, "reward_no":14128, "button_type":0, "destination_kind":0, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000720, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のノーマルモードに1回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のノーマルモードに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":113, "clear_condition_type":"quiz_count", "clear_condition_args":"81", "goal":1, "reward_no":14124, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000721, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のノーマルモードに3回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のノーマルモードに3回挑戦しよう", "add_condition_mission_id":0, "sort_order":114, "clear_condition_type":"quiz_count", "clear_condition_args":"81", "goal":3, "reward_no":14124, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000722, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のノーマルモードに5回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のノーマルモードに5回挑戦しよう", "add_condition_mission_id":0, "sort_order":115, "clear_condition_type":"quiz_count", "clear_condition_args":"81", "goal":5, "reward_no":14125, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000723, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のノーマルモードに10回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のノーマルモードに10回挑戦しよう", "add_condition_mission_id":0, "sort_order":116, "clear_condition_type":"quiz_count", "clear_condition_args":"81", "goal":10, "reward_no":14125, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000724, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のノーマルモードに20回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のノーマルモードに20回挑戦しよう", "add_condition_mission_id":0, "sort_order":117, "clear_condition_type":"quiz_count", "clear_condition_args":"81", "goal":20, "reward_no":14126, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000725, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のノーマルモードに30回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のノーマルモードに30回挑戦しよう", "add_condition_mission_id":0, "sort_order":118, "clear_condition_type":"quiz_count", "clear_condition_args":"81", "goal":30, "reward_no":14127, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000726, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードに1回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":119, "clear_condition_type":"quiz_count", "clear_condition_args":"[82,1]", "goal":1, "reward_no":14124, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000727, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続3問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続3問正解しよう", "add_condition_mission_id":0, "sort_order":120, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,3]", "goal":1, "reward_no":14124, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000728, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続5問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続5問正解しよう", "add_condition_mission_id":0, "sort_order":121, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,5]", "goal":1, "reward_no":14125, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000729, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続10問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続10問正解しよう", "add_condition_mission_id":0, "sort_order":122, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,10]", "goal":1, "reward_no":14125, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000730, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続15問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続15問正解しよう", "add_condition_mission_id":0, "sort_order":123, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,15]", "goal":1, "reward_no":14125, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000731, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続20問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続20問正解しよう", "add_condition_mission_id":0, "sort_order":124, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,20]", "goal":1, "reward_no":14126, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000732, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続25問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続25問正解しよう", "add_condition_mission_id":0, "sort_order":125, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,25]", "goal":1, "reward_no":14126, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000733, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続30問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続30問正解しよう", "add_condition_mission_id":0, "sort_order":126, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,30]", "goal":1, "reward_no":14126, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000734, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続35問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続35問正解しよう", "add_condition_mission_id":0, "sort_order":127, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,35]", "goal":1, "reward_no":14126, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000735, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続39問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続39問正解しよう", "add_condition_mission_id":0, "sort_order":128, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,39]", "goal":1, "reward_no":14127, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000736, "category":4, "reset_cycle":0, "title":"【SB69!!10th】イントロック当てまSHOW!!のチャレンジモードで連続69問正解しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードで連続69問正解しよう", "add_condition_mission_id":0, "sort_order":129, "clear_condition_type":"quiz_correct_count", "clear_condition_args":"[82,69]", "goal":1, "reward_no":14129, "button_type":0, "destination_kind":13, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000737, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":130, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14125, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000738, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを3回プレイしよう", "detail":"フリーライブで好きな楽曲を3回プレイしよう", "add_condition_mission_id":0, "sort_order":131, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":3, "reward_no":14125, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000739, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを5回プレイしよう", "detail":"フリーライブで好きな楽曲を5回プレイしよう", "add_condition_mission_id":0, "sort_order":132, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14125, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000740, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを10回プレイしよう", "detail":"フリーライブで好きな楽曲を10回プレイしよう", "add_condition_mission_id":0, "sort_order":133, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14126, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000741, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを20回プレイしよう", "detail":"フリーライブで好きな楽曲を20回プレイしよう", "add_condition_mission_id":0, "sort_order":134, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":20, "reward_no":14126, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000742, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを30回プレイしよう", "detail":"フリーライブで好きな楽曲を30回プレイしよう", "add_condition_mission_id":0, "sort_order":135, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":30, "reward_no":14126, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000743, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを40回プレイしよう", "detail":"フリーライブで好きな楽曲を40回プレイしよう", "add_condition_mission_id":0, "sort_order":136, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":40, "reward_no":14126, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000744, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを50回プレイしよう", "detail":"フリーライブで好きな楽曲を50回プレイしよう", "add_condition_mission_id":0, "sort_order":137, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":50, "reward_no":14127, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000745, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを75回プレイしよう", "detail":"フリーライブで好きな楽曲を75回プレイしよう", "add_condition_mission_id":0, "sort_order":138, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":75, "reward_no":14127, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000746, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを100回プレイしよう", "detail":"フリーライブで好きな楽曲を100回プレイしよう", "add_condition_mission_id":0, "sort_order":139, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":100, "reward_no":14127, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000747, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを150回プレイしよう", "detail":"フリーライブで好きな楽曲を150回プレイしよう", "add_condition_mission_id":0, "sort_order":140, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":150, "reward_no":14127, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000748, "category":4, "reset_cycle":0, "title":"【SB69!!10th】フリーライブを200回プレイしよう", "detail":"フリーライブで好きな楽曲を200回プレイしよう", "add_condition_mission_id":0, "sort_order":141, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":200, "reward_no":14128, "button_type":0, "destination_kind":14, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000749, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに1回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":142, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14124, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000750, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに3回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに3回挑戦しよう", "add_condition_mission_id":0, "sort_order":143, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":3, "reward_no":14124, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000751, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに5回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに5回挑戦しよう", "add_condition_mission_id":0, "sort_order":144, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14124, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000752, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに10回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに10回挑戦しよう", "add_condition_mission_id":0, "sort_order":145, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14125, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000753, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに15回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに15回挑戦しよう", "add_condition_mission_id":0, "sort_order":146, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":15, "reward_no":14125, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000754, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに20回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに20回挑戦しよう", "add_condition_mission_id":0, "sort_order":147, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":20, "reward_no":14126, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000755, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに25回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに25回挑戦しよう", "add_condition_mission_id":0, "sort_order":148, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":25, "reward_no":14126, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000756, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに30回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに30回挑戦しよう", "add_condition_mission_id":0, "sort_order":149, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":30, "reward_no":14127, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000757, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに40回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに40回挑戦しよう", "add_condition_mission_id":0, "sort_order":150, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":40, "reward_no":14127, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000758, "category":4, "reset_cycle":0, "title":"【SB69!!10th】対バンに50回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに50回挑戦しよう", "add_condition_mission_id":0, "sort_order":151, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":50, "reward_no":14128, "button_type":0, "destination_kind":1, "started_at":"2022/05/31 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {

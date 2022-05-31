@@ -1,26 +1,26 @@
 [
   {
-    "id":1, "stamina_rate":0, "lot_count_min":2, "lot_count_max":2, "event_rate":1, "is_passport_extend":false, "view_reward_rate":1
+    "id":1, "stamina_rate":0, "lot_count_min":3, "lot_count_max":3, "event_rate":1, "is_passport_extend":false, "view_reward_rate":1
   },
   {
-    "id":2, "stamina_rate":1, "lot_count_min":4, "lot_count_max":5, "event_rate":2.25, "is_passport_extend":false, "view_reward_rate":1
+    "id":2, "stamina_rate":1, "lot_count_min":6, "lot_count_max":8, "event_rate":2.25, "is_passport_extend":false, "view_reward_rate":1
   },
   {
-    "id":3, "stamina_rate":2, "lot_count_min":7, "lot_count_max":11, "event_rate":4.5, "is_passport_extend":false, "view_reward_rate":2
+    "id":3, "stamina_rate":2, "lot_count_min":10, "lot_count_max":17, "event_rate":4.5, "is_passport_extend":false, "view_reward_rate":2
   },
   {
-    "id":4, "stamina_rate":4, "lot_count_min":11, "lot_count_max":19, "event_rate":7.5, "is_passport_extend":false, "view_reward_rate":3
+    "id":4, "stamina_rate":4, "lot_count_min":16, "lot_count_max":29, "event_rate":7.5, "is_passport_extend":false, "view_reward_rate":3
   },
   {
-    "id":5, "stamina_rate":5, "lot_count_min":18, "lot_count_max":20, "event_rate":9.4, "is_passport_extend":true, "view_reward_rate":4
+    "id":5, "stamina_rate":5, "lot_count_min":27, "lot_count_max":30, "event_rate":9.4, "is_passport_extend":true, "view_reward_rate":4
   },
   {
-    "id":6, "stamina_rate":6, "lot_count_min":20, "lot_count_max":25, "event_rate":11.25, "is_passport_extend":true, "view_reward_rate":5
+    "id":6, "stamina_rate":6, "lot_count_min":30, "lot_count_max":38, "event_rate":11.25, "is_passport_extend":true, "view_reward_rate":5
   },
   {
-    "id":7, "stamina_rate":7, "lot_count_min":25, "lot_count_max":28, "event_rate":13.1, "is_passport_extend":true, "view_reward_rate":6
+    "id":7, "stamina_rate":7, "lot_count_min":37, "lot_count_max":42, "event_rate":13.1, "is_passport_extend":true, "view_reward_rate":6
   },
   {
-    "id":8, "stamina_rate":8, "lot_count_min":28, "lot_count_max":32, "event_rate":15, "is_passport_extend":true, "view_reward_rate":7
+    "id":8, "stamina_rate":8, "lot_count_min":42, "lot_count_max":48, "event_rate":15, "is_passport_extend":true, "view_reward_rate":7
   }
 ]

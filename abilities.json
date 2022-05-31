@@ -835,5 +835,14 @@
   },
   {
     "id":94403, "myumon_basic_id":944, "slot_no":3, "name":"レゾナンスソウルⅢ", "level_limit":10, "ability_condition_ids":"[594402]", "started_at":"2022/03/11 13:00:00 +09:00"
+  },
+  {
+    "id":94501, "myumon_basic_id":945, "slot_no":1, "name":"レゾナンスソウルⅠ", "level_limit":10, "ability_condition_ids":"[]", "started_at":"2022/05/31 14:00:00 +09:00"
+  },
+  {
+    "id":94502, "myumon_basic_id":945, "slot_no":2, "name":"レゾナンスソウルⅡ", "level_limit":10, "ability_condition_ids":"[594501,294501]", "started_at":"2022/05/31 14:00:00 +09:00"
+  },
+  {
+    "id":94503, "myumon_basic_id":945, "slot_no":3, "name":"レゾナンスソウルⅢ", "level_limit":10, "ability_condition_ids":"[594502]", "started_at":"2022/05/31 14:00:00 +09:00"
   }
 ]
