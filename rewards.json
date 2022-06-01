@@ -67185,6 +67185,12 @@
     "id":110350106, "reward_no":1103501, "content_type":"Item", "content_id":50001, "min_quantity":160000, "max_quantity":160000
   },
   {
+    "id":110401101, "reward_no":1104011, "content_type":"Item", "content_id":60003, "min_quantity":30, "max_quantity":30
+  },
+  {
+    "id":110401102, "reward_no":1104011, "content_type":"Item", "content_id":50001, "min_quantity":40000, "max_quantity":40000
+  },
+  {
     "id":221010101, "reward_no":2210101, "content_type":"Item", "content_id":50001, "min_quantity":3000, "max_quantity":3000
   },
   {
@@ -67519,5 +67525,8 @@
   },
   {
     "id":223015001, "reward_no":2230150, "content_type":"Item", "content_id":50001, "min_quantity":40000, "max_quantity":40000
+  },
+  {
+    "id":224010101, "reward_no":2240101, "content_type":"Item", "content_id":50001, "min_quantity":10000, "max_quantity":10000
   }
 ]
