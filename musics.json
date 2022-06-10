@@ -153,6 +153,9 @@
     "id":227, "name":"Nyao Universe", "name_hiragana":"にゃおゆにばーす", "artist_id":2, "special_artist_id":0, "jacket_image_id":227, "sort_order":227, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2022/03/04 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":180, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
   },
   {
+    "id":228, "name":"ラブリー☆チューニング", "name_hiragana":"らぶりーちゅーにんぐ", "artist_id":2, "special_artist_id":0, "jacket_image_id":228, "sort_order":228, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2022/06/10 14:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":184, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":50, "description":""
+  },
+  {
     "id":301, "name":"黎明ニ咲ケ", "name_hiragana":"れいめいにさけ", "artist_id":3, "special_artist_id":0, "jacket_image_id":301, "sort_order":301, "category":3, "fever_started_at":30000, "music_requirement_id":0, "started_at":"2020/02/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":172, "lyrics":"作詞した人", "composed":"作曲した人", "arranged":"編曲した人", "max_level":50, "description":""
   },
   {
@@ -874,5 +877,11 @@
   },
   {
     "id":9086, "name":"Attack!!!", "name_hiragana":"あたっく", "artist_id":90, "special_artist_id":500, "jacket_image_id":9007, "sort_order":10304, "category":2, "fever_started_at":0, "music_requirement_id":1, "started_at":"2022/06/06 11:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":140, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"ラペッジオート（楽曲提供：YKMM）"
+  },
+  {
+    "id":9087, "name":"ハッピーガール", "name_hiragana":"はっぴーがーる", "artist_id":90, "special_artist_id":2900, "jacket_image_id":9087, "sort_order":11508, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2022/06/12 19:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":135, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"こぎみゅん"
+  },
+  {
+    "id":9088, "name":"スタードーム", "name_hiragana":"すたーどーむ", "artist_id":90, "special_artist_id":2900, "jacket_image_id":9088, "sort_order":11509, "category":1, "fever_started_at":0, "music_requirement_id":0, "started_at":"2022/06/12 19:30:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00", "bpm":132, "lyrics":"0", "composed":"0", "arranged":"0", "max_level":0, "description":"シナモロール"
   }
 ]

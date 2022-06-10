@@ -153,6 +153,9 @@
     "id":140030, "name":"俺達のど根性、見せてやるぜ！", "digest":"どこゆび楽曲でスコア25%UP", "description":"『DOKONJOFINGER』の楽曲プレイ時、常時スコアが25%UPするぜ", "potential_effect_type":1, "potential_effect_args":"{\"id\":6,\"combo\":0,\"score\":250}"
   },
   {
+    "id":140080, "name":"邪魔するやつは、潰す。", "digest":"クロモス楽曲でスコア25%UP", "description":"『Kuronoatmosphere』の楽曲プレイ時、常時スコアが25%UPするぜ……！", "potential_effect_type":1, "potential_effect_args":"{\"id\":18,\"combo\":0,\"score\":250}"
+  },
+  {
     "id":190000, "name":"スペシャルダブルUP+", "digest":"スペシャル楽曲でスコア4%コンボ補正5%UP", "description":"スペシャル楽曲プレイ時、常時スコアが4%コンボ補正が5%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":90,\"combo\":50,\"score\":40}"
   },
   {
@@ -193,6 +196,9 @@
   },
   {
     "id":240020, "name":"どきどきのうずしおです", "digest":"『ドキドキ』タイプ楽曲でスコアが18%UPします", "description":"『ドキドキ』タイプの楽曲プレイ時、スコアが18%UPします", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":180,\"category\":1}"
+  },
+  {
+    "id":240060, "name":"あたし、やっぱり音楽が好き！", "digest":"『ドキドキ』タイプ楽曲でスコアが18%UPする", "description":"『ドキドキ』タイプの楽曲プレイ時、スコアが18%UPするよ。", "potential_effect_type":2, "potential_effect_args":"{\"combo\":0,\"score\":180,\"category\":1}"
   },
   {
     "id":300001, "name":"スキルタイムUP", "digest":"スキルの効果時間を約5秒延長する", "description":"自身のアクティブスキル効果時間を約5秒延長する", "potential_effect_type":3, "potential_effect_args":"5000"
@@ -247,6 +253,9 @@
   },
   {
     "id":640040, "name":"No.1目指しちゃうにゃん♪", "digest":"パラメータ『リズム』『メロディ』を50%UP", "description":"あたしのパラメータ『リズム』『メロディ』を50%UPするにゃん♪", "potential_effect_type":6, "potential_effect_args":"[0,50,50,0]"
+  },
+  {
+    "id":640070, "name":"ブンブンギターソロだぜッ！", "digest":"パラメータ『ハーモニー』を55%UP", "description":"オレのパラメータ『ハーモニー』を55%UPするぜッ！", "potential_effect_type":6, "potential_effect_args":"[0,0,0,55]"
   },
   {
     "id":1014000, "name":"同属性同時編成パラメータUP", "digest":"ドキドキ属性のブロマイドを4枚以上編成した場合、全パラメータ値20%UP", "description":"ドキドキ属性のブロマイドを4枚以上編成した場合、このブロマイドの全パラメータ20%UP", "potential_effect_type":10, "potential_effect_args":"{\"num\":4,\"status\":[20,20,20,20],\"category\":1}"
