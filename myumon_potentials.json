@@ -156,6 +156,9 @@
     "id":140080, "name":"邪魔するやつは、潰す。", "digest":"クロモス楽曲でスコア25%UP", "description":"『Kuronoatmosphere』の楽曲プレイ時、常時スコアが25%UPするぜ……！", "potential_effect_type":1, "potential_effect_args":"{\"id\":18,\"combo\":0,\"score\":250}"
   },
   {
+    "id":140100, "name":"真実を明かしていくだけだ……です。", "digest":"ヨカゼ楽曲でスコア25%UP", "description":"『Yokazenohorizon』の楽曲プレイ時、常時スコアが25%UPする……です。", "potential_effect_type":1, "potential_effect_args":"{\"id\":11,\"combo\":0,\"score\":250}"
+  },
+  {
     "id":190000, "name":"スペシャルダブルUP+", "digest":"スペシャル楽曲でスコア4%コンボ補正5%UP", "description":"スペシャル楽曲プレイ時、常時スコアが4%コンボ補正が5%UPする", "potential_effect_type":1, "potential_effect_args":"{\"id\":90,\"combo\":50,\"score\":40}"
   },
   {
@@ -210,6 +213,9 @@
     "id":340050, "name":"究極絶頂クリムゾン黙示録だぜッ！", "digest":"スキルの効果時間を約11秒延長する", "description":"オレのアクティブスキル効果時間を約11秒延長するぜッ！", "potential_effect_type":3, "potential_effect_args":"11000"
   },
   {
+    "id":340090, "name":"目指すは愛され妖怪たい！！", "digest":"スキルの効果時間を約11秒延長する", "description":"私のアクティブスキル効果時間を約11秒延長するばい！", "potential_effect_type":3, "potential_effect_args":"11000"
+  },
+  {
     "id":400001, "name":"スキルリキャストDOWN", "digest":"スキルの再発動時間を20%短縮", "description":"自身のアクティブスキルが再度発動できるまでの時間を20%短縮する", "potential_effect_type":4, "potential_effect_args":"20"
   },
   {
@@ -256,6 +262,9 @@
   },
   {
     "id":640070, "name":"ブンブンギターソロだぜッ！", "digest":"パラメータ『ハーモニー』を55%UP", "description":"オレのパラメータ『ハーモニー』を55%UPするぜッ！", "potential_effect_type":6, "potential_effect_args":"[0,0,0,55]"
+  },
+  {
+    "id":640110, "name":"ロージアちゃんがNo.1なんだからっ♡", "digest":"パラメータ『リズム』を55%UP", "description":"ロージアちゃんのパラメータ『リズム』を55%UPしちゃうんだからっ♡", "potential_effect_type":6, "potential_effect_args":"[0,55,0,0]"
   },
   {
     "id":1014000, "name":"同属性同時編成パラメータUP", "digest":"ドキドキ属性のブロマイドを4枚以上編成した場合、全パラメータ値20%UP", "description":"ドキドキ属性のブロマイドを4枚以上編成した場合、このブロマイドの全パラメータ20%UP", "potential_effect_type":10, "potential_effect_args":"{\"num\":4,\"status\":[20,20,20,20],\"category\":1}"

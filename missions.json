@@ -2652,6 +2652,153 @@
     "id":4000768, "category":4, "reset_cycle":0, "title":"【サンリオ楽曲】ミッションを全てクリアしよう", "detail":"【サンリオ楽曲】ミッションを全てクリアしよう", "add_condition_mission_id":0, "sort_order":208, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000761,4000762,4000763,4000764,4000765,4000766,4000767]", "goal":7, "reward_no":14130, "button_type":0, "destination_kind":0, "started_at":"2022/06/12 19:30:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
   },
   {
+    "id":4000769, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"67", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/24 11:59:59 +09:00"
+  },
+  {
+    "id":4000771, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】バイトを1回完了しよう", "detail":"バイト一覧から、バイトを1回完了しよう", "add_condition_mission_id":0, "sort_order":301, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":1, "reward_no":14125, "button_type":0, "destination_kind":30, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000772, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】バイトを5回完了しよう", "detail":"バイト一覧から、バイトを5回完了しよう", "add_condition_mission_id":0, "sort_order":302, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":5, "reward_no":14125, "button_type":0, "destination_kind":30, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000773, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】バイトを10回完了しよう", "detail":"バイト一覧から、バイトを10回完了しよう", "add_condition_mission_id":0, "sort_order":303, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":10, "reward_no":14127, "button_type":0, "destination_kind":30, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000774, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】バイトを20回完了しよう", "detail":"バイト一覧から、バイトを20回完了しよう", "add_condition_mission_id":0, "sort_order":304, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":20, "reward_no":14127, "button_type":0, "destination_kind":30, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000775, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】バイトを30回完了しよう", "detail":"バイト一覧から、バイトを30回完了しよう", "add_condition_mission_id":0, "sort_order":305, "clear_condition_type":"arbeit_reward_count", "clear_condition_args":"0", "goal":30, "reward_no":14128, "button_type":0, "destination_kind":30, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000776, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】イントロック当てまSHOW!!のノーマルモードに1回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のノーマルモードに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":306, "clear_condition_type":"quiz_count", "clear_condition_args":"81", "goal":1, "reward_no":14127, "button_type":0, "destination_kind":13, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000777, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】イントロック当てまSHOW!!のチャレンジモードに1回挑戦しよう", "detail":"クイズから、イントロック当てまSHOW!!のチャレンジモードに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":307, "clear_condition_type":"quiz_count", "clear_condition_args":"[82,1]", "goal":1, "reward_no":14127, "button_type":0, "destination_kind":13, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000778, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":308, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14125, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000779, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】フリーライブを3回プレイしよう", "detail":"フリーライブで好きな楽曲を3回プレイしよう", "add_condition_mission_id":0, "sort_order":309, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":3, "reward_no":14125, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000780, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】フリーライブを5回プレイしよう", "detail":"フリーライブで好きな楽曲を5回プレイしよう", "add_condition_mission_id":0, "sort_order":310, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14125, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000781, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】フリーライブを10回プレイしよう", "detail":"フリーライブで好きな楽曲を10回プレイしよう", "add_condition_mission_id":0, "sort_order":311, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14127, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000782, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】フリーライブを20回プレイしよう", "detail":"フリーライブで好きな楽曲を20回プレイしよう", "add_condition_mission_id":0, "sort_order":312, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":20, "reward_no":14127, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000783, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】フリーライブを30回プレイしよう", "detail":"フリーライブで好きな楽曲を30回プレイしよう", "add_condition_mission_id":0, "sort_order":313, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":30, "reward_no":14127, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000784, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】フリーライブを40回プレイしよう", "detail":"フリーライブで好きな楽曲を40回プレイしよう", "add_condition_mission_id":0, "sort_order":314, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":40, "reward_no":14128, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000785, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】フリーライブを50回プレイしよう", "detail":"フリーライブで好きな楽曲を50回プレイしよう", "add_condition_mission_id":0, "sort_order":315, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":50, "reward_no":14128, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000786, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】フリーライブを75回プレイしよう", "detail":"フリーライブで好きな楽曲を75回プレイしよう", "add_condition_mission_id":0, "sort_order":316, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":75, "reward_no":14131, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000787, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】対バンに1回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":317, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14125, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000788, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】対バンに3回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに3回挑戦しよう", "add_condition_mission_id":0, "sort_order":318, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":3, "reward_no":14125, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000789, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】対バンに5回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに5回挑戦しよう", "add_condition_mission_id":0, "sort_order":319, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14127, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000790, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】対バンに10回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに10回挑戦しよう", "add_condition_mission_id":0, "sort_order":320, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14128, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000791, "category":4, "reset_cycle":0, "title":"【SB69!!10th②】対バンに15回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに15回挑戦しよう", "add_condition_mission_id":0, "sort_order":321, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":15, "reward_no":14131, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000792, "category":4, "reset_cycle":0, "title":"【集めて交換♪】ログインしよう", "detail":"期間中にログインしよう", "add_condition_mission_id":0, "sort_order":401, "clear_condition_type":"login_day_count_period", "clear_condition_args":"0", "goal":1, "reward_no":14132, "button_type":0, "destination_kind":0, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000793, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":402, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14132, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000794, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを2回プレイしよう", "detail":"フリーライブで好きな楽曲を2回プレイしよう", "add_condition_mission_id":0, "sort_order":403, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":2, "reward_no":14132, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000795, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを3回プレイしよう", "detail":"フリーライブで好きな楽曲を3回プレイしよう", "add_condition_mission_id":0, "sort_order":404, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":3, "reward_no":14132, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000796, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを4回プレイしよう", "detail":"フリーライブで好きな楽曲を4回プレイしよう", "add_condition_mission_id":0, "sort_order":405, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":4, "reward_no":14132, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000797, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを5回プレイしよう", "detail":"フリーライブで好きな楽曲を5回プレイしよう", "add_condition_mission_id":0, "sort_order":406, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14132, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000798, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを6回プレイしよう", "detail":"フリーライブで好きな楽曲を6回プレイしよう", "add_condition_mission_id":0, "sort_order":407, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":6, "reward_no":14132, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000799, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを7回プレイしよう", "detail":"フリーライブで好きな楽曲を7回プレイしよう", "add_condition_mission_id":0, "sort_order":408, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":7, "reward_no":14132, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000800, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを8回プレイしよう", "detail":"フリーライブで好きな楽曲を8回プレイしよう", "add_condition_mission_id":0, "sort_order":409, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":8, "reward_no":14132, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000801, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを9回プレイしよう", "detail":"フリーライブで好きな楽曲を9回プレイしよう", "add_condition_mission_id":0, "sort_order":410, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":9, "reward_no":14132, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000802, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを10回プレイしよう", "detail":"フリーライブで好きな楽曲を10回プレイしよう", "add_condition_mission_id":0, "sort_order":411, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14133, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000803, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを15回プレイしよう", "detail":"フリーライブで好きな楽曲を15回プレイしよう", "add_condition_mission_id":0, "sort_order":412, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":15, "reward_no":14133, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000804, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを30回プレイしよう", "detail":"フリーライブで好きな楽曲を30回プレイしよう", "add_condition_mission_id":0, "sort_order":413, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":30, "reward_no":14133, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000805, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを50回プレイしよう", "detail":"フリーライブで好きな楽曲を50回プレイしよう", "add_condition_mission_id":0, "sort_order":414, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":50, "reward_no":14133, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000806, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを75回プレイしよう", "detail":"フリーライブで好きな楽曲を75回プレイしよう", "add_condition_mission_id":0, "sort_order":415, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":75, "reward_no":14133, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000807, "category":4, "reset_cycle":0, "title":"【集めて交換♪】フリーライブを100回プレイしよう", "detail":"フリーライブで好きな楽曲を100回プレイしよう", "add_condition_mission_id":0, "sort_order":416, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":100, "reward_no":14134, "button_type":0, "destination_kind":14, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000808, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに1回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに1回挑戦しよう", "add_condition_mission_id":0, "sort_order":417, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":14132, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000809, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに2回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに2回挑戦しよう", "add_condition_mission_id":0, "sort_order":418, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":2, "reward_no":14132, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000810, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに3回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに3回挑戦しよう", "add_condition_mission_id":0, "sort_order":419, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":3, "reward_no":14132, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000811, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに4回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに4回挑戦しよう", "add_condition_mission_id":0, "sort_order":420, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":4, "reward_no":14132, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000812, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに5回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに5回挑戦しよう", "add_condition_mission_id":0, "sort_order":421, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":5, "reward_no":14133, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000813, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに6回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに6回挑戦しよう", "add_condition_mission_id":0, "sort_order":422, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":6, "reward_no":14133, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000814, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに7回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに7回挑戦しよう", "add_condition_mission_id":0, "sort_order":423, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":7, "reward_no":14133, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000815, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに8回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに8回挑戦しよう", "add_condition_mission_id":0, "sort_order":424, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":8, "reward_no":14133, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000816, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに9回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに9回挑戦しよう", "add_condition_mission_id":0, "sort_order":425, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":9, "reward_no":14133, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000817, "category":4, "reset_cycle":0, "title":"【集めて交換♪】対バンに10回挑戦しよう", "detail":"ライブ ＞ 対バンから、他プレイヤーに10回挑戦しよう", "add_condition_mission_id":0, "sort_order":426, "clear_condition_type":"battle_live_play_count_special", "clear_condition_args":"0", "goal":10, "reward_no":14134, "button_type":0, "destination_kind":1, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
+    "id":4000818, "category":4, "reset_cycle":0, "title":"【集めて交換♪】ミッションを全てクリアしよう", "detail":"【集めて交換♪】ミッションを全てクリアしよう", "add_condition_mission_id":0, "sort_order":427, "clear_condition_type":"special_mission_all_clear", "clear_condition_args":"[4000792,4000793,4000794,4000795,4000796,4000797,4000798,4000799,4000800,4000801,4000802,4000803,4000804,4000805,4000806,4000807,4000808,4000809,4000810,4000811,4000812,4000813,4000814,4000815,4000816,4000817]", "goal":26, "reward_no":14135, "button_type":0, "destination_kind":0, "started_at":"2022/06/20 14:00:00 +09:00", "ended_at":"2022/06/30 11:59:59 +09:00"
+  },
+  {
     "id":5000001, "category":5, "reset_cycle":1, "title":"フリーライブを1回プレイしよう", "detail":"フリーライブで好きな楽曲を1回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"free_live_play_count_special", "clear_condition_args":"0", "goal":1, "reward_no":100, "button_type":0, "destination_kind":14, "started_at":"2021/01/01 00:00:00 +09:00", "ended_at":"2099/01/01 00:00:00 +09:00"
   },
   {

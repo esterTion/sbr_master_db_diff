@@ -306,6 +306,9 @@
     "id":40107, "category":4, "name":"10周年フェス②ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40108, "category":4, "name":"10周年フェス③ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -756,6 +759,9 @@
     "id":120107, "category":12, "name":"10周年フェス②ガチャ.pt", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120108, "category":12, "name":"10周年フェス③ガチャ.pt", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
   },
   {
@@ -886,6 +892,15 @@
   },
   {
     "id":142006, "category":14, "name":"ゴールドメイプルメダル", "quantity_max":999999, "ex_params":"{}", "description":"イベント専用交換所にて豪華報酬と交換ができるアイテムです"
+  },
+  {
+    "id":142007, "category":14, "name":"ブロンズメイプルメダル", "quantity_max":999999, "ex_params":"{}", "description":"イベント専用交換所にて豪華報酬と交換ができるアイテムです"
+  },
+  {
+    "id":142008, "category":14, "name":"シルバーメイプルメダル", "quantity_max":999999, "ex_params":"{}", "description":"イベント専用交換所にて豪華報酬と交換ができるアイテムです"
+  },
+  {
+    "id":142009, "category":14, "name":"ゴールドメイプルメダル", "quantity_max":999999, "ex_params":"{}", "description":"イベント専用交換所にて豪華報酬と交換ができるアイテムです"
   },
   {
     "id":150001, "category":15, "name":"ブロマイドホルダー", "quantity_max":20, "ex_params":"{\"extend\":25}", "description":"ブロマイドの所持上限数を25増やすアイテムです。いーっぱい集めてね！ですぞ♪"
