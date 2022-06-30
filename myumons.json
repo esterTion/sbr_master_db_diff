@@ -459,6 +459,9 @@
     "id":233011, "myumon_basic_id":23, "name":"[夏の夜。ボクの視線はキミのもの。]", "music_category":1, "rarity":4, "costume_id":2301, "life":290, "rhythm":1569, "melody":1516, "harmony":3044, "main_1_skill_id":30002, "main_2_skill_id":0, "support_skill_id":110034, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630001, "enable_deck":true, "description":"「プラズマジカ」に所属する「レトリー」のブロマイドです"
   },
   {
+    "id":233020, "myumon_basic_id":23, "name":"[MIDICIANSドキドキ録り]", "music_category":2, "rarity":3, "costume_id":2300, "life":341, "rhythm":1775, "melody":3741, "harmony":1745, "main_1_skill_id":12002, "main_2_skill_id":0, "support_skill_id":110023, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":3, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620001, "enable_deck":true, "description":"「プラズマジカ」に所属する「レトリー」のブロマイドです"
+  },
+  {
     "id":234000, "myumon_basic_id":23, "name":"[はーとふるわんにゃんのいちご先生]", "music_category":1, "rarity":4, "costume_id":2302, "life":341, "rhythm":2709, "melody":2127, "harmony":2135, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":234001, "shinka_recipe_no":14, "myumon_potential_id":610001, "enable_deck":true, "description":"「プラズマジカ」に所属する「レトリー」のブロマイドです"
   },
   {
@@ -535,6 +538,12 @@
   },
   {
     "id":244040, "myumon_basic_id":24, "name":"[MIDICIANSばけいしょん☆]", "music_category":1, "rarity":4, "costume_id":2400, "life":377, "rhythm":4923, "melody":1917, "harmony":1852, "main_1_skill_id":11023, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":610000, "enable_deck":true, "description":"「プラズマジカ」に所属する「モア」のブロマイドです"
+  },
+  {
+    "id":244050, "myumon_basic_id":24, "name":"[ずっと、ずっと一緒ぴゅる…☆]", "music_category":2, "rarity":4, "costume_id":2405, "life":419, "rhythm":1901, "melody":5078, "harmony":1940, "main_1_skill_id":151001, "main_2_skill_id":0, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":244051, "shinka_recipe_no":24, "myumon_potential_id":223000, "enable_deck":true, "description":"「プラズマジカ」に所属する「モア」のブロマイドです"
+  },
+  {
+    "id":244051, "myumon_basic_id":24, "name":"[ぴゅるるん☆しゅわぴゅるライブ♪]", "music_category":2, "rarity":5, "costume_id":2405, "life":517, "rhythm":2661, "melody":6731, "harmony":2662, "main_1_skill_id":151002, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":7, "genkai_level_limit":9, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":223000, "enable_deck":true, "description":"「プラズマジカ」に所属する「モア」のブロマイドです"
   },
   {
     "id":311000, "myumon_basic_id":31, "name":"[徒然なる操り霧幻庵]", "music_category":3, "rarity":1, "costume_id":3100, "life":105, "rhythm":878, "melody":588, "harmony":598, "main_1_skill_id":13021, "main_2_skill_id":0, "support_skill_id":110001, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":311001, "shinka_recipe_no":31, "myumon_potential_id":0, "enable_deck":true, "description":"「徒然なる操り霧幻庵」に所属する「ダル太夫」のブロマイドです"
@@ -1239,6 +1248,12 @@
     "id":634041, "myumon_basic_id":63, "name":"[燃えるぜ！炎のニューイヤーライブ]", "music_category":1, "rarity":5, "costume_id":6306, "life":522, "rhythm":2555, "melody":6785, "harmony":2530, "main_1_skill_id":10032, "main_2_skill_id":100002, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":300002, "enable_deck":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
   },
   {
+    "id":634050, "myumon_basic_id":63, "name":"[体調？抜群に絶好調だぜ]", "music_category":2, "rarity":4, "costume_id":6307, "life":406, "rhythm":1947, "melody":5128, "harmony":1936, "main_1_skill_id":11041, "main_2_skill_id":100001, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":634051, "shinka_recipe_no":24, "myumon_potential_id":300002, "enable_deck":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
+  },
+  {
+    "id":634051, "myumon_basic_id":63, "name":"[卒業してもオレの夏は終わらねえ！]", "music_category":2, "rarity":5, "costume_id":6307, "life":530, "rhythm":2638, "melody":6765, "harmony":2563, "main_1_skill_id":10042, "main_2_skill_id":100002, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":7, "genkai_level_limit":9, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":300002, "enable_deck":true, "description":"「DOKONJOFINGER」に所属する「ジョウ」のブロマイドです"
+  },
+  {
     "id":641000, "myumon_basic_id":64, "name":"[DOKONJOFINGER]", "music_category":2, "rarity":1, "costume_id":6400, "life":104, "rhythm":797, "melody":675, "harmony":599, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110011, "special_skill_id":0, "grow_curve_group_no":11, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":641001, "shinka_recipe_no":21, "myumon_potential_id":0, "enable_deck":true, "description":"「DOKONJOFINGER」に所属する「双循」のブロマイドです"
   },
   {
@@ -1381,6 +1396,9 @@
   },
   {
     "id":714131, "myumon_basic_id":71, "name":"[SB69!!10th☆Fes!!]", "music_category":2, "rarity":5, "costume_id":7110, "life":394, "rhythm":2065, "melody":2007, "harmony":7012, "main_1_skill_id":370001, "main_2_skill_id":380001, "support_skill_id":390001, "special_skill_id":0, "grow_curve_group_no":43, "genkai_no":6, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":340050, "enable_deck":true, "description":"「シンガンクリムゾンズ」に所属する「クロウ」のブロマイドです"
+  },
+  {
+    "id":714141, "myumon_basic_id":71, "name":"[真夏の無人島黙示録]", "music_category":2, "rarity":5, "costume_id":7100, "life":509, "rhythm":2417, "melody":6371, "harmony":2390, "main_1_skill_id":10004, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「シンガンクリムゾンズ」に所属する「クロウ」のブロマイドです"
   },
   {
     "id":721000, "myumon_basic_id":72, "name":"[SHINGANCRIMSONZ]", "music_category":3, "rarity":1, "costume_id":7200, "life":103, "rhythm":624, "melody":639, "harmony":817, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":721001, "shinka_recipe_no":31, "myumon_potential_id":0, "enable_deck":true, "description":"「シンガンクリムゾンズ」に所属する「アイオーン」のブロマイドです"
@@ -1840,6 +1858,9 @@
   },
   {
     "id":924060, "myumon_basic_id":92, "name":"[黄金のメロディアス！]", "music_category":3, "rarity":4, "costume_id":9200, "life":412, "rhythm":2015, "melody":1991, "harmony":5287, "main_1_skill_id":2003, "main_2_skill_id":0, "support_skill_id":110036, "special_skill_id":0, "grow_curve_group_no":23, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":630000, "enable_deck":true, "description":"「ARCAREAFACT」に所属する「オリオン」のブロマイドです"
+  },
+  {
+    "id":924071, "myumon_basic_id":92, "name":"[黄金スイミング！男の眼鏡Time]", "music_category":2, "rarity":5, "costume_id":9200, "life":501, "rhythm":2430, "melody":6400, "harmony":2400, "main_1_skill_id":10032, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「ARCAREAFACT」に所属する「オリオン」のブロマイドです"
   },
   {
     "id":931000, "myumon_basic_id":93, "name":"[ARCAREAFACT]", "music_category":2, "rarity":1, "costume_id":9300, "life":98, "rhythm":704, "melody":701, "harmony":706, "main_1_skill_id":13011, "main_2_skill_id":0, "support_skill_id":110031, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":931001, "shinka_recipe_no":21, "myumon_potential_id":0, "enable_deck":true, "description":"「ARCAREAFACT」に所属する「セレン」のブロマイドです"
@@ -2616,6 +2637,9 @@
     "id":1414010, "myumon_basic_id":141, "name":"[はろうぃん忍者でござるよ！]", "music_category":2, "rarity":4, "costume_id":14100, "life":372, "rhythm":1915, "melody":4952, "harmony":1918, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
   },
   {
+    "id":1414031, "myumon_basic_id":141, "name":"[月里村水不夜城鍛錬の巻]", "music_category":2, "rarity":5, "costume_id":14100, "life":514, "rhythm":2367, "melody":6371, "harmony":2402, "main_1_skill_id":10024, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「忍迅雷音」に所属する「嵐」のブロマイドです"
+  },
+  {
     "id":1421000, "myumon_basic_id":142, "name":"[忍迅雷音]", "music_category":3, "rarity":1, "costume_id":14200, "life":101, "rhythm":630, "melody":844, "harmony":620, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":12, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1421001, "shinka_recipe_no":31, "myumon_potential_id":0, "enable_deck":true, "description":"「忍迅雷音」に所属する「朧」のブロマイドです"
   },
   {
@@ -2641,6 +2665,9 @@
   },
   {
     "id":1424010, "myumon_basic_id":142, "name":"[爆炎忍法・砲武乱！]", "music_category":3, "rarity":4, "costume_id":14200, "life":391, "rhythm":1921, "melody":4862, "harmony":1823, "main_1_skill_id":21001, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「忍迅雷音」に所属する「朧」のブロマイドです"
+  },
+  {
+    "id":1424021, "myumon_basic_id":142, "name":"[月里村水不夜城鍛錬の巻]", "music_category":2, "rarity":5, "costume_id":14200, "life":494, "rhythm":2500, "melody":6311, "harmony":2470, "main_1_skill_id":160002, "main_2_skill_id":0, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「忍迅雷音」に所属する「朧」のブロマイドです"
   },
   {
     "id":1431000, "myumon_basic_id":143, "name":"[忍迅雷音]", "music_category":1, "rarity":1, "costume_id":14300, "life":100, "rhythm":697, "melody":697, "harmony":707, "main_1_skill_id":4001, "main_2_skill_id":0, "support_skill_id":110041, "special_skill_id":0, "grow_curve_group_no":1, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":1431001, "shinka_recipe_no":11, "myumon_potential_id":0, "enable_deck":true, "description":"「忍迅雷音」に所属する「燐」のブロマイドです"
