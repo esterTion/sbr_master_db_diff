@@ -2805,6 +2805,9 @@
     "id":4000819, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"68", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/06/30 14:00:00 +09:00", "ended_at":"2022/07/05 11:59:59 +09:00"
   },
   {
+    "id":4000820, "category":4, "reset_cycle":1, "title":"フリーライブで %s を%d回プレイしよう", "detail":"フリーライブで楽曲 %s を累計%d回プレイしよう", "add_condition_mission_id":0, "sort_order":1, "clear_condition_type":"music_play_count_day", "clear_condition_args":"68", "goal":3, "reward_no":12001, "button_type":0, "destination_kind":14, "started_at":"2022/07/05 12:00:00 +09:00", "ended_at":"2022/07/11 11:59:59 +09:00"
+  },
+  {
     "id":4000821, "category":4, "reset_cycle":0, "title":"【サマーSP】かき氷を食べよう！", "detail":"-", "add_condition_mission_id":0, "sort_order":11, "clear_condition_type":"unconditional", "clear_condition_args":"0", "goal":1, "reward_no":14137, "button_type":1, "destination_kind":0, "started_at":"2022/06/30 14:00:00 +09:00", "ended_at":"2022/07/01 11:59:59 +09:00"
   },
   {
