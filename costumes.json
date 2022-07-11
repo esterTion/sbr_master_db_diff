@@ -240,6 +240,9 @@
     "id":3108, "myumon_basic_id":31, "name":"[はてさて、難事件でありんすなあ] ダル太夫", "description":"ダル太夫の特別な衣装です。", "asset_id":3106, "mini_asset_id":3108, "icon_asset_id":314050, "parent_id":3100, "started_at":"2022/04/29 12:00:00 +09:00"
   },
   {
+    "id":3109, "myumon_basic_id":31, "name":"[徒然の夏、ミディシアンズの夏] ダル太夫", "description":"ダル太夫の特別な衣装です。", "asset_id":3108, "mini_asset_id":3109, "icon_asset_id":314070, "parent_id":3100, "started_at":"2022/07/11 14:00:00 +09:00"
+  },
+  {
     "id":3200, "myumon_basic_id":32, "name":"[徒然なる操り霧幻庵] 阿", "description":"阿の衣装です。", "asset_id":3200, "mini_asset_id":3200, "icon_asset_id":321000, "parent_id":0, "started_at":"2020/01/01 00:00:00 +09:00"
   },
   {
@@ -1057,6 +1060,9 @@
   },
   {
     "id":91201, "myumon_basic_id":912, "name":"[ガウガストライクス] キンタウルス", "description":"キンタウルスの衣装です。", "asset_id":91200, "mini_asset_id":91200, "icon_asset_id":9121000, "parent_id":0, "started_at":"2021/07/13 12:00:00 +09:00"
+  },
+  {
+    "id":91202, "myumon_basic_id":912, "name":"[この夏がずっと続けば…そう思った] キンタウルス", "description":"キンタウルスの特別な衣装です。", "asset_id":91203, "mini_asset_id":91203, "icon_asset_id":9124020, "parent_id":91201, "started_at":"2022/07/11 14:00:00 +09:00"
   },
   {
     "id":91300, "myumon_basic_id":913, "name":"[美味しすぎる水、絶賛販売中だよ♪] コリエンテ", "description":"コリエンテの特別な衣装です。", "asset_id":91301, "mini_asset_id":91301, "icon_asset_id":9134000, "parent_id":91301, "started_at":"2021/05/11 12:00:00 +09:00"

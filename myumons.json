@@ -624,6 +624,15 @@
     "id":314061, "myumon_basic_id":31, "name":"[月夜の極東花嵐伝説]", "music_category":2, "rarity":5, "costume_id":3100, "life":517, "rhythm":6364, "melody":2436, "harmony":2380, "main_1_skill_id":151001, "main_2_skill_id":0, "support_skill_id":110016, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":610000, "enable_deck":true, "description":"「徒然なる操り霧幻庵」に所属する「ダル太夫」のブロマイドです"
   },
   {
+    "id":314070, "myumon_basic_id":31, "name":"[徒然の夏、ミディシアンズの夏]", "music_category":1, "rarity":4, "costume_id":3109, "life":417, "rhythm":5109, "melody":1919, "harmony":1902, "main_1_skill_id":290000, "main_2_skill_id":92001, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":314071, "shinka_recipe_no":14, "myumon_potential_id":300002, "enable_deck":true, "description":"「徒然なる操り霧幻庵」に所属する「ダル太夫」のブロマイドです"
+  },
+  {
+    "id":314071, "myumon_basic_id":31, "name":"[徒然なる果実の宴でありんす♪]", "music_category":1, "rarity":5, "costume_id":3109, "life":525, "rhythm":6768, "melody":2646, "harmony":2589, "main_1_skill_id":290001, "main_2_skill_id":92002, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":7, "genkai_level_limit":9, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":300002, "enable_deck":true, "description":"「徒然なる操り霧幻庵」に所属する「ダル太夫」のブロマイドです"
+  },
+  {
+    "id":314081, "myumon_basic_id":31, "name":"[徒然なるび～ちばかんす♪]", "music_category":1, "rarity":5, "costume_id":3100, "life":490, "rhythm":6391, "melody":2460, "harmony":2458, "main_1_skill_id":10032, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":300002, "enable_deck":true, "description":"「徒然なる操り霧幻庵」に所属する「ダル太夫」のブロマイドです"
+  },
+  {
     "id":321000, "myumon_basic_id":32, "name":"[徒然なる操り霧幻庵]", "music_category":2, "rarity":1, "costume_id":3200, "life":94, "rhythm":668, "melody":891, "harmony":584, "main_1_skill_id":13001, "main_2_skill_id":0, "support_skill_id":110021, "special_skill_id":0, "grow_curve_group_no":13, "genkai_no":1, "genkai_level_limit":3, "shinka_myumon_id":321001, "shinka_recipe_no":21, "myumon_potential_id":0, "enable_deck":true, "description":"「徒然なる操り霧幻庵」に所属する「阿」のブロマイドです"
   },
   {
@@ -3018,6 +3027,12 @@
     "id":9124010, "myumon_basic_id":912, "name":"[この景色を唄に変えて…]", "music_category":3, "rarity":4, "costume_id":91201, "life":411, "rhythm":1988, "melody":5256, "harmony":2029, "main_1_skill_id":11003, "main_2_skill_id":0, "support_skill_id":110026, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「ガウガストライクス」に所属する「キンタウルス」のブロマイドです"
   },
   {
+    "id":9124020, "myumon_basic_id":912, "name":"[この夏がずっと続けば…そう思った]", "music_category":1, "rarity":4, "costume_id":91202, "life":416, "rhythm":5069, "melody":1915, "harmony":1955, "main_1_skill_id":150001, "main_2_skill_id":0, "support_skill_id":110014, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":9124021, "shinka_recipe_no":14, "myumon_potential_id":190200, "enable_deck":true, "description":"「ガウガストライクス」に所属する「キンタウルス」のブロマイドです"
+  },
+  {
+    "id":9124021, "myumon_basic_id":912, "name":"[ガウガらしさを詰め込んでみたんだ]", "music_category":1, "rarity":5, "costume_id":91202, "life":542, "rhythm":6776, "melody":2638, "harmony":2566, "main_1_skill_id":150002, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":7, "genkai_level_limit":9, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":190200, "enable_deck":true, "description":"「ガウガストライクス」に所属する「キンタウルス」のブロマイドです"
+  },
+  {
     "id":9134000, "myumon_basic_id":913, "name":"[美味しすぎる水、絶賛販売中だよ♪]", "music_category":3, "rarity":4, "costume_id":91300, "life":422, "rhythm":1927, "melody":5046, "harmony":1921, "main_1_skill_id":160001, "main_2_skill_id":82001, "support_skill_id":110024, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":9134001, "shinka_recipe_no":34, "myumon_potential_id":190000, "enable_deck":true, "description":"「雫シークレットマインド」に所属する「コリエンテ」のブロマイドです"
   },
   {
@@ -3223,6 +3238,9 @@
   },
   {
     "id":9394001, "myumon_basic_id":939, "name":"[ありがとう、やってやろうじゃん！]", "music_category":1, "rarity":5, "costume_id":93901, "life":548, "rhythm":2549, "melody":6768, "harmony":2605, "main_1_skill_id":21002, "main_2_skill_id":82002, "support_skill_id":110025, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":190000, "enable_deck":true, "description":"「すたっどばんぎゃっしゅ」に所属する「チッティ」のブロマイドです"
+  },
+  {
+    "id":9394011, "myumon_basic_id":939, "name":"[すたっど！びーちばれー！]", "music_category":1, "rarity":5, "costume_id":93900, "life":495, "rhythm":6309, "melody":2495, "harmony":2471, "main_1_skill_id":150001, "main_2_skill_id":0, "support_skill_id":110015, "special_skill_id":0, "grow_curve_group_no":21, "genkai_no":5, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":190100, "enable_deck":true, "description":"「すたっどばんぎゃっしゅ」に所属する「チッティ」のブロマイドです"
   },
   {
     "id":9414000, "myumon_basic_id":941, "name":"[デモンズベノム・ラース]", "music_category":1, "rarity":4, "costume_id":94100, "life":414, "rhythm":2048, "melody":5225, "harmony":1978, "main_1_skill_id":11013, "main_2_skill_id":0, "support_skill_id":110046, "special_skill_id":0, "grow_curve_group_no":22, "genkai_no":4, "genkai_level_limit":5, "shinka_myumon_id":0, "shinka_recipe_no":0, "myumon_potential_id":620000, "enable_deck":true, "description":"「デモンズベノム」に所属する「デモンマングー」のブロマイドです"
