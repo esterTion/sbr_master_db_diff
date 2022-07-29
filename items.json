@@ -327,6 +327,9 @@
     "id":40114, "category":4, "name":"欠番", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40115, "category":4, "name":"リゾートガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":41001, "category":4, "name":"2020年9月SSR確定ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -796,6 +799,9 @@
   },
   {
     "id":120114, "category":12, "name":"2022水着ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
+    "id":120115, "category":12, "name":"リゾートガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
     "id":130001, "category":13, "name":"イヤホイあめちゃん25", "quantity_max":9999, "ex_params":"{\"stamina\":25}", "description":"イヤホイを25回復するアイテムです"
