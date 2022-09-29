@@ -345,6 +345,9 @@
     "id":40120, "category":4, "name":"復刻フェス④ガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
+    "id":40121, "category":4, "name":"ファイナルガチャチケット", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
+  },
+  {
     "id":40122, "category":4, "name":"欠番", "quantity_max":9999, "ex_params":"{}", "description":"対応するガチャをひくのに必要なチケットです"
   },
   {
@@ -840,6 +843,9 @@
     "id":120120, "category":12, "name":"復刻フェス④ガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
+    "id":120121, "category":12, "name":"ファイナルガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
+  },
+  {
     "id":120122, "category":12, "name":"フェスセレクトガチャポイント", "quantity_max":999999, "ex_params":"{}", "description":""
   },
   {
@@ -961,6 +967,9 @@
   },
   {
     "id":141005, "category":14, "name":"バトル招待券F", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\n「みんなでバトル」へ参加するために必要なアイテムです。"
+  },
+  {
+    "id":141006, "category":14, "name":"バトル招待券G", "quantity_max":999999, "ex_params":"{}", "description":"誰かから届いた謎の招待券。\n「みんなでバトル」へ参加するために必要なアイテムです。"
   },
   {
     "id":142001, "category":14, "name":"ブロンズメイプルちゃん", "quantity_max":999999, "ex_params":"{}", "description":"イベント専用交換所にて豪華報酬と交換ができるアイテムです"
